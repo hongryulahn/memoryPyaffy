@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+pyaffy/__init__.py
+pyaffy/background.py
+pyaffy/cdfparser.pyx
+pyaffy/celparser.pyx
+pyaffy/medpolish.pyx
+pyaffy/process.py
+pyaffy.egg-info/PKG-INFO
+pyaffy.egg-info/SOURCES.txt
+pyaffy.egg-info/dependency_links.txt
+pyaffy.egg-info/entry_points.txt
+pyaffy.egg-info/requires.txt
+pyaffy.egg-info/top_level.txt
