@@ -17,21 +17,24 @@ logger = logging.getLogger(__name__)
 def load_celfile(x):
 	sample, cel_file, pm_idx, bg_correct, quantile_normalize = x
 	isError=False
-	try:
-		y = pyaffy.celparser.parse_cel(cel_file)
-		if sum(np.isnan(y)) != 0:
+	for i in range(3):
+		try:
+			y = pyaffy.celparser.parse_cel(cel_file)
+			if sum(np.isnan(y)) != 0:
+				isError=True
+			else:
+				mu = np.mean(y)
+				if np.isinf(mu) or np.isnan(mu):
+					isError=True
+				std = np.std(y)
+				if np.isinf(std) or np.isnan(std):
+					isError=True
+			if pm_idx is not None:
+				y=y[pm_idx]
+		except:
 			isError=True
-		else:
-			mu = np.mean(y)
-			if np.isinf(mu) or np.isnan(mu):
-				isError=True
-			std = np.std(y)
-			if np.isinf(std) or np.isnan(std):
-				isError=True
-		if pm_idx is not None:
-			y=y[pm_idx]
-	except:
-		isError=True
+		if isError == False:
+			break
 	if isError:
 		return [sample, cel_file, isError, None, None, None]
 

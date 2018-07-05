@@ -64,6 +64,7 @@ from configparser import ConfigParser, ParsingError
 
 logger = logging.getLogger(__name__)
 logger.debug('__name__: %s', __name__)
+#logger.setLevel(logging.DEBUG)
 
 cdef inline float decode_float(void* buf):
     return (<float*>buf)[0]
@@ -171,7 +172,7 @@ def parse_celfile_v3(path, compressed = True, newline_chars = 2):
     assert isinstance(compressed, bool)
     assert isinstance(newline_chars, int)
 
-    cdef int buf_size = 1000
+    cdef int buf_size = 10000
     cdef size_t nl = <size_t>newline_chars
     cdef char* buf = <char*>malloc(buf_size)
     cdef FILE* fp
@@ -195,25 +196,28 @@ def parse_celfile_v3(path, compressed = True, newline_chars = 2):
         # parsing starts here
 
         # check header information
-        fgets(buf, buf_size, fp)
-        buf[strlen(buf) - nl] = '\0' # remove newline
+        fgets(buf, buf_size-1, fp)
+        if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
+        if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
         assert strcmp(buf, "[CEL]") == 0
-        fgets(buf, buf_size, fp)
-        buf[strlen(buf) - nl] = '\0' # remove newline
+        fgets(buf, buf_size-1, fp)
+        if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
+        if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
         assert strcmp(buf, "Version=3") == 0
 
         # get the number of cells
         # find NumberCells=...
         while sscanf(buf, "NumberCells=%d", &num_cells) <= 0:
-            fgets(buf, buf_size, fp)
-            buf[strlen(buf) - nl] = '\0'
+            fgets(buf, buf_size-1, fp)
+            if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
+            if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
 
         fgets(buf, buf_size, fp) # skip CellHeader line
 
         # read intensities
         y = np.empty(num_cells, dtype = np.float32)
         for i in range(num_cells):
-            fgets(buf, buf_size, fp)
+            fgets(buf, buf_size-1, fp)
             # the following works even if rows starts with whitespace(s)
             sscanf(buf, "%*d %*d %f", &y[i])
 
@@ -566,8 +570,9 @@ def parse_celfile_cc(path, compressed=True, ignore_outliers=True, ignore_masked=
         logger.debug('DataSet / name: %s', name)
         logger.debug('DataSet / # parameters: %d', num_params)
         num_chars = next_pos - read[0]
-        data = fh.read(num_chars)
-        read[0] += num_chars
+        if num_chars > 0:
+            data = fh.read(num_chars)
+            read[0] += num_chars
         y = None
         # this assumes that the column name etc. is 100% fixed
         if name == 'Intensity':

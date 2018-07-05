@@ -868,7 +868,7 @@ typedef struct {
 } __Pyx_BufFmt_Context;
 
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":743
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":743
  * # in Cython to enable them only on the right systems.
  * 
  * ctypedef npy_int8       int8_t             # <<<<<<<<<<<<<<
@@ -877,7 +877,7 @@ typedef struct {
  */
 typedef npy_int8 __pyx_t_5numpy_int8_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":744
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":744
  * 
  * ctypedef npy_int8       int8_t
  * ctypedef npy_int16      int16_t             # <<<<<<<<<<<<<<
@@ -886,7 +886,7 @@ typedef npy_int8 __pyx_t_5numpy_int8_t;
  */
 typedef npy_int16 __pyx_t_5numpy_int16_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":745
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":745
  * ctypedef npy_int8       int8_t
  * ctypedef npy_int16      int16_t
  * ctypedef npy_int32      int32_t             # <<<<<<<<<<<<<<
@@ -895,7 +895,7 @@ typedef npy_int16 __pyx_t_5numpy_int16_t;
  */
 typedef npy_int32 __pyx_t_5numpy_int32_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":746
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":746
  * ctypedef npy_int16      int16_t
  * ctypedef npy_int32      int32_t
  * ctypedef npy_int64      int64_t             # <<<<<<<<<<<<<<
@@ -904,7 +904,7 @@ typedef npy_int32 __pyx_t_5numpy_int32_t;
  */
 typedef npy_int64 __pyx_t_5numpy_int64_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":750
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":750
  * #ctypedef npy_int128     int128_t
  * 
  * ctypedef npy_uint8      uint8_t             # <<<<<<<<<<<<<<
@@ -913,7 +913,7 @@ typedef npy_int64 __pyx_t_5numpy_int64_t;
  */
 typedef npy_uint8 __pyx_t_5numpy_uint8_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":751
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":751
  * 
  * ctypedef npy_uint8      uint8_t
  * ctypedef npy_uint16     uint16_t             # <<<<<<<<<<<<<<
@@ -922,7 +922,7 @@ typedef npy_uint8 __pyx_t_5numpy_uint8_t;
  */
 typedef npy_uint16 __pyx_t_5numpy_uint16_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":752
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":752
  * ctypedef npy_uint8      uint8_t
  * ctypedef npy_uint16     uint16_t
  * ctypedef npy_uint32     uint32_t             # <<<<<<<<<<<<<<
@@ -931,7 +931,7 @@ typedef npy_uint16 __pyx_t_5numpy_uint16_t;
  */
 typedef npy_uint32 __pyx_t_5numpy_uint32_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":753
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":753
  * ctypedef npy_uint16     uint16_t
  * ctypedef npy_uint32     uint32_t
  * ctypedef npy_uint64     uint64_t             # <<<<<<<<<<<<<<
@@ -940,7 +940,7 @@ typedef npy_uint32 __pyx_t_5numpy_uint32_t;
  */
 typedef npy_uint64 __pyx_t_5numpy_uint64_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":757
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":757
  * #ctypedef npy_uint128    uint128_t
  * 
  * ctypedef npy_float32    float32_t             # <<<<<<<<<<<<<<
@@ -949,7 +949,7 @@ typedef npy_uint64 __pyx_t_5numpy_uint64_t;
  */
 typedef npy_float32 __pyx_t_5numpy_float32_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":758
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":758
  * 
  * ctypedef npy_float32    float32_t
  * ctypedef npy_float64    float64_t             # <<<<<<<<<<<<<<
@@ -958,7 +958,7 @@ typedef npy_float32 __pyx_t_5numpy_float32_t;
  */
 typedef npy_float64 __pyx_t_5numpy_float64_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":767
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":767
  * # The int types are mapped a bit surprising --
  * # numpy.int corresponds to 'l' and numpy.long to 'q'
  * ctypedef npy_long       int_t             # <<<<<<<<<<<<<<
@@ -967,7 +967,7 @@ typedef npy_float64 __pyx_t_5numpy_float64_t;
  */
 typedef npy_long __pyx_t_5numpy_int_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":768
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":768
  * # numpy.int corresponds to 'l' and numpy.long to 'q'
  * ctypedef npy_long       int_t
  * ctypedef npy_longlong   long_t             # <<<<<<<<<<<<<<
@@ -976,7 +976,7 @@ typedef npy_long __pyx_t_5numpy_int_t;
  */
 typedef npy_longlong __pyx_t_5numpy_long_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":769
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":769
  * ctypedef npy_long       int_t
  * ctypedef npy_longlong   long_t
  * ctypedef npy_longlong   longlong_t             # <<<<<<<<<<<<<<
@@ -985,7 +985,7 @@ typedef npy_longlong __pyx_t_5numpy_long_t;
  */
 typedef npy_longlong __pyx_t_5numpy_longlong_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":771
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":771
  * ctypedef npy_longlong   longlong_t
  * 
  * ctypedef npy_ulong      uint_t             # <<<<<<<<<<<<<<
@@ -994,7 +994,7 @@ typedef npy_longlong __pyx_t_5numpy_longlong_t;
  */
 typedef npy_ulong __pyx_t_5numpy_uint_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":772
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":772
  * 
  * ctypedef npy_ulong      uint_t
  * ctypedef npy_ulonglong  ulong_t             # <<<<<<<<<<<<<<
@@ -1003,7 +1003,7 @@ typedef npy_ulong __pyx_t_5numpy_uint_t;
  */
 typedef npy_ulonglong __pyx_t_5numpy_ulong_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":773
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":773
  * ctypedef npy_ulong      uint_t
  * ctypedef npy_ulonglong  ulong_t
  * ctypedef npy_ulonglong  ulonglong_t             # <<<<<<<<<<<<<<
@@ -1012,7 +1012,7 @@ typedef npy_ulonglong __pyx_t_5numpy_ulong_t;
  */
 typedef npy_ulonglong __pyx_t_5numpy_ulonglong_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":775
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":775
  * ctypedef npy_ulonglong  ulonglong_t
  * 
  * ctypedef npy_intp       intp_t             # <<<<<<<<<<<<<<
@@ -1021,7 +1021,7 @@ typedef npy_ulonglong __pyx_t_5numpy_ulonglong_t;
  */
 typedef npy_intp __pyx_t_5numpy_intp_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":776
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":776
  * 
  * ctypedef npy_intp       intp_t
  * ctypedef npy_uintp      uintp_t             # <<<<<<<<<<<<<<
@@ -1030,7 +1030,7 @@ typedef npy_intp __pyx_t_5numpy_intp_t;
  */
 typedef npy_uintp __pyx_t_5numpy_uintp_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":778
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":778
  * ctypedef npy_uintp      uintp_t
  * 
  * ctypedef npy_double     float_t             # <<<<<<<<<<<<<<
@@ -1039,7 +1039,7 @@ typedef npy_uintp __pyx_t_5numpy_uintp_t;
  */
 typedef npy_double __pyx_t_5numpy_float_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":779
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":779
  * 
  * ctypedef npy_double     float_t
  * ctypedef npy_double     double_t             # <<<<<<<<<<<<<<
@@ -1048,7 +1048,7 @@ typedef npy_double __pyx_t_5numpy_float_t;
  */
 typedef npy_double __pyx_t_5numpy_double_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":780
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":780
  * ctypedef npy_double     float_t
  * ctypedef npy_double     double_t
  * ctypedef npy_longdouble longdouble_t             # <<<<<<<<<<<<<<
@@ -1088,7 +1088,7 @@ struct __pyx_MemviewEnum_obj;
 struct __pyx_memoryview_obj;
 struct __pyx_memoryviewslice_obj;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":782
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":782
  * ctypedef npy_longdouble longdouble_t
  * 
  * ctypedef npy_cfloat      cfloat_t             # <<<<<<<<<<<<<<
@@ -1097,7 +1097,7 @@ struct __pyx_memoryviewslice_obj;
  */
 typedef npy_cfloat __pyx_t_5numpy_cfloat_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":783
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":783
  * 
  * ctypedef npy_cfloat      cfloat_t
  * ctypedef npy_cdouble     cdouble_t             # <<<<<<<<<<<<<<
@@ -1106,7 +1106,7 @@ typedef npy_cfloat __pyx_t_5numpy_cfloat_t;
  */
 typedef npy_cdouble __pyx_t_5numpy_cdouble_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":784
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":784
  * ctypedef npy_cfloat      cfloat_t
  * ctypedef npy_cdouble     cdouble_t
  * ctypedef npy_clongdouble clongdouble_t             # <<<<<<<<<<<<<<
@@ -1115,7 +1115,7 @@ typedef npy_cdouble __pyx_t_5numpy_cdouble_t;
  */
 typedef npy_clongdouble __pyx_t_5numpy_clongdouble_t;
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":786
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":786
  * ctypedef npy_clongdouble clongdouble_t
  * 
  * ctypedef npy_cdouble     complex_t             # <<<<<<<<<<<<<<
@@ -1124,7 +1124,7 @@ typedef npy_clongdouble __pyx_t_5numpy_clongdouble_t;
  */
 typedef npy_cdouble __pyx_t_5numpy_complex_t;
 
-/* "pyaffy/celparser.pyx":377
+/* "pyaffy/celparser.pyx":381
  *     return y
  * 
  * def parse_celfile_cc(path, compressed=True, ignore_outliers=True, ignore_masked=True):             # <<<<<<<<<<<<<<
@@ -1773,6 +1773,9 @@ static PyObject *__Pyx_GetItemInt_Generic(PyObject *o, PyObject* j);
 static CYTHON_INLINE PyObject *__Pyx_GetItemInt_Fast(PyObject *o, Py_ssize_t i,
                                                      int is_list, int wraparound, int boundscheck);
 
+/* None.proto */
+static CYTHON_INLINE void __Pyx_RaiseUnboundLocalError(const char *varname);
+
 /* RaiseException.proto */
 static void __Pyx_Raise(PyObject *type, PyObject *value, PyObject *tb, PyObject *cause);
 
@@ -1849,9 +1852,6 @@ static CYTHON_INLINE int __Pyx_PyList_Extend(PyObject* L, PyObject* v) {
     return PyList_SetSlice(L, PY_SSIZE_T_MAX, PY_SSIZE_T_MAX, v);
 #endif
 }
-
-/* None.proto */
-static CYTHON_INLINE void __Pyx_RaiseUnboundLocalError(const char *varname);
 
 /* ImportFrom.proto */
 static PyObject* __Pyx_ImportFrom(PyObject* module, PyObject* name);
@@ -3190,8 +3190,8 @@ static PyObject *__pyx_codeobj__124;
 static PyObject *__pyx_codeobj__126;
 static PyObject *__pyx_codeobj__133;
 
-/* "pyaffy/celparser.pyx":68
- * logger.debug('__name__: %s', __name__)
+/* "pyaffy/celparser.pyx":69
+ * #logger.setLevel(logging.DEBUG)
  * 
  * cdef inline float decode_float(void* buf):             # <<<<<<<<<<<<<<
  *     return (<float*>buf)[0]
@@ -3203,7 +3203,7 @@ static CYTHON_INLINE float __pyx_f_6pyaffy_9celparser_decode_float(void *__pyx_v
   __Pyx_RefNannyDeclarations
   __Pyx_RefNannySetupContext("decode_float", 0);
 
-  /* "pyaffy/celparser.pyx":69
+  /* "pyaffy/celparser.pyx":70
  * 
  * cdef inline float decode_float(void* buf):
  *     return (<float*>buf)[0]             # <<<<<<<<<<<<<<
@@ -3213,8 +3213,8 @@ static CYTHON_INLINE float __pyx_f_6pyaffy_9celparser_decode_float(void *__pyx_v
   __pyx_r = (((float *)__pyx_v_buf)[0]);
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":68
- * logger.debug('__name__: %s', __name__)
+  /* "pyaffy/celparser.pyx":69
+ * #logger.setLevel(logging.DEBUG)
  * 
  * cdef inline float decode_float(void* buf):             # <<<<<<<<<<<<<<
  *     return (<float*>buf)[0]
@@ -3227,7 +3227,7 @@ static CYTHON_INLINE float __pyx_f_6pyaffy_9celparser_decode_float(void *__pyx_v
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":71
+/* "pyaffy/celparser.pyx":72
  *     return (<float*>buf)[0]
  * 
  * cdef inline int16_t decode_int16(void* buf):             # <<<<<<<<<<<<<<
@@ -3240,7 +3240,7 @@ static CYTHON_INLINE int16_t __pyx_f_6pyaffy_9celparser_decode_int16(void *__pyx
   __Pyx_RefNannyDeclarations
   __Pyx_RefNannySetupContext("decode_int16", 0);
 
-  /* "pyaffy/celparser.pyx":72
+  /* "pyaffy/celparser.pyx":73
  * 
  * cdef inline int16_t decode_int16(void* buf):
  *     return (<int16_t*>buf)[0]             # <<<<<<<<<<<<<<
@@ -3250,7 +3250,7 @@ static CYTHON_INLINE int16_t __pyx_f_6pyaffy_9celparser_decode_int16(void *__pyx
   __pyx_r = (((int16_t *)__pyx_v_buf)[0]);
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":71
+  /* "pyaffy/celparser.pyx":72
  *     return (<float*>buf)[0]
  * 
  * cdef inline int16_t decode_int16(void* buf):             # <<<<<<<<<<<<<<
@@ -3264,7 +3264,7 @@ static CYTHON_INLINE int16_t __pyx_f_6pyaffy_9celparser_decode_int16(void *__pyx
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":74
+/* "pyaffy/celparser.pyx":75
  *     return (<int16_t*>buf)[0]
  * 
  * cdef inline int32_t decode_int32(void* buf):             # <<<<<<<<<<<<<<
@@ -3277,7 +3277,7 @@ static CYTHON_INLINE int32_t __pyx_f_6pyaffy_9celparser_decode_int32(void *__pyx
   __Pyx_RefNannyDeclarations
   __Pyx_RefNannySetupContext("decode_int32", 0);
 
-  /* "pyaffy/celparser.pyx":75
+  /* "pyaffy/celparser.pyx":76
  * 
  * cdef inline int32_t decode_int32(void* buf):
  *     return (<int32_t*>buf)[0]             # <<<<<<<<<<<<<<
@@ -3287,7 +3287,7 @@ static CYTHON_INLINE int32_t __pyx_f_6pyaffy_9celparser_decode_int32(void *__pyx
   __pyx_r = (((int32_t *)__pyx_v_buf)[0]);
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":74
+  /* "pyaffy/celparser.pyx":75
  *     return (<int16_t*>buf)[0]
  * 
  * cdef inline int32_t decode_int32(void* buf):             # <<<<<<<<<<<<<<
@@ -3301,7 +3301,7 @@ static CYTHON_INLINE int32_t __pyx_f_6pyaffy_9celparser_decode_int32(void *__pyx
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":77
+/* "pyaffy/celparser.pyx":78
  *     return (<int32_t*>buf)[0]
  * 
  * cdef inline uint32_t decode_uint32(void* buf):             # <<<<<<<<<<<<<<
@@ -3314,7 +3314,7 @@ static CYTHON_INLINE uint32_t __pyx_f_6pyaffy_9celparser_decode_uint32(void *__p
   __Pyx_RefNannyDeclarations
   __Pyx_RefNannySetupContext("decode_uint32", 0);
 
-  /* "pyaffy/celparser.pyx":78
+  /* "pyaffy/celparser.pyx":79
  * 
  * cdef inline uint32_t decode_uint32(void* buf):
  *     return (<uint32_t*>buf)[0]             # <<<<<<<<<<<<<<
@@ -3324,7 +3324,7 @@ static CYTHON_INLINE uint32_t __pyx_f_6pyaffy_9celparser_decode_uint32(void *__p
   __pyx_r = (((uint32_t *)__pyx_v_buf)[0]);
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":77
+  /* "pyaffy/celparser.pyx":78
  *     return (<int32_t*>buf)[0]
  * 
  * cdef inline uint32_t decode_uint32(void* buf):             # <<<<<<<<<<<<<<
@@ -3338,7 +3338,7 @@ static CYTHON_INLINE uint32_t __pyx_f_6pyaffy_9celparser_decode_uint32(void *__p
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":80
+/* "pyaffy/celparser.pyx":81
  *     return (<uint32_t*>buf)[0]
  * 
  * cdef float read_float(void* buf, FILE* fp):             # <<<<<<<<<<<<<<
@@ -3352,7 +3352,7 @@ static float __pyx_f_6pyaffy_9celparser_read_float(void *__pyx_v_buf, FILE *__py
   __Pyx_RefNannyDeclarations
   __Pyx_RefNannySetupContext("read_float", 0);
 
-  /* "pyaffy/celparser.pyx":81
+  /* "pyaffy/celparser.pyx":82
  * 
  * cdef float read_float(void* buf, FILE* fp):
  *     fread(buf, 4, 1, fp)             # <<<<<<<<<<<<<<
@@ -3361,7 +3361,7 @@ static float __pyx_f_6pyaffy_9celparser_read_float(void *__pyx_v_buf, FILE *__py
  */
   fread(__pyx_v_buf, 4, 1, __pyx_v_fp);
 
-  /* "pyaffy/celparser.pyx":82
+  /* "pyaffy/celparser.pyx":83
  * cdef float read_float(void* buf, FILE* fp):
  *     fread(buf, 4, 1, fp)
  *     cdef float val = decode_float(buf)             # <<<<<<<<<<<<<<
@@ -3370,7 +3370,7 @@ static float __pyx_f_6pyaffy_9celparser_read_float(void *__pyx_v_buf, FILE *__py
  */
   __pyx_v_val = __pyx_f_6pyaffy_9celparser_decode_float(__pyx_v_buf);
 
-  /* "pyaffy/celparser.pyx":83
+  /* "pyaffy/celparser.pyx":84
  *     fread(buf, 4, 1, fp)
  *     cdef float val = decode_float(buf)
  *     return val             # <<<<<<<<<<<<<<
@@ -3380,7 +3380,7 @@ static float __pyx_f_6pyaffy_9celparser_read_float(void *__pyx_v_buf, FILE *__py
   __pyx_r = __pyx_v_val;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":80
+  /* "pyaffy/celparser.pyx":81
  *     return (<uint32_t*>buf)[0]
  * 
  * cdef float read_float(void* buf, FILE* fp):             # <<<<<<<<<<<<<<
@@ -3394,7 +3394,7 @@ static float __pyx_f_6pyaffy_9celparser_read_float(void *__pyx_v_buf, FILE *__py
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":85
+/* "pyaffy/celparser.pyx":86
  *     return val
  * 
  * cdef int read_integer(void* buf, FILE* fp):             # <<<<<<<<<<<<<<
@@ -3408,7 +3408,7 @@ static int __pyx_f_6pyaffy_9celparser_read_integer(void *__pyx_v_buf, FILE *__py
   __Pyx_RefNannyDeclarations
   __Pyx_RefNannySetupContext("read_integer", 0);
 
-  /* "pyaffy/celparser.pyx":86
+  /* "pyaffy/celparser.pyx":87
  * 
  * cdef int read_integer(void* buf, FILE* fp):
  *     fread(buf, 4, 1, fp)             # <<<<<<<<<<<<<<
@@ -3417,7 +3417,7 @@ static int __pyx_f_6pyaffy_9celparser_read_integer(void *__pyx_v_buf, FILE *__py
  */
   fread(__pyx_v_buf, 4, 1, __pyx_v_fp);
 
-  /* "pyaffy/celparser.pyx":87
+  /* "pyaffy/celparser.pyx":88
  * cdef int read_integer(void* buf, FILE* fp):
  *     fread(buf, 4, 1, fp)
  *     cdef int val = <int>decode_int32(buf)             # <<<<<<<<<<<<<<
@@ -3426,7 +3426,7 @@ static int __pyx_f_6pyaffy_9celparser_read_integer(void *__pyx_v_buf, FILE *__py
  */
   __pyx_v_val = ((int)__pyx_f_6pyaffy_9celparser_decode_int32(__pyx_v_buf));
 
-  /* "pyaffy/celparser.pyx":88
+  /* "pyaffy/celparser.pyx":89
  *     fread(buf, 4, 1, fp)
  *     cdef int val = <int>decode_int32(buf)
  *     return val             # <<<<<<<<<<<<<<
@@ -3436,7 +3436,7 @@ static int __pyx_f_6pyaffy_9celparser_read_integer(void *__pyx_v_buf, FILE *__py
   __pyx_r = __pyx_v_val;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":85
+  /* "pyaffy/celparser.pyx":86
  *     return val
  * 
  * cdef int read_integer(void* buf, FILE* fp):             # <<<<<<<<<<<<<<
@@ -3450,7 +3450,7 @@ static int __pyx_f_6pyaffy_9celparser_read_integer(void *__pyx_v_buf, FILE *__py
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":90
+/* "pyaffy/celparser.pyx":91
  *     return val
  * 
  * cdef unsigned int read_DWORD(void* buf, FILE* fp):             # <<<<<<<<<<<<<<
@@ -3464,7 +3464,7 @@ static unsigned int __pyx_f_6pyaffy_9celparser_read_DWORD(void *__pyx_v_buf, FIL
   __Pyx_RefNannyDeclarations
   __Pyx_RefNannySetupContext("read_DWORD", 0);
 
-  /* "pyaffy/celparser.pyx":91
+  /* "pyaffy/celparser.pyx":92
  * 
  * cdef unsigned int read_DWORD(void* buf, FILE* fp):
  *     fread(buf, 4, 1, fp)             # <<<<<<<<<<<<<<
@@ -3473,7 +3473,7 @@ static unsigned int __pyx_f_6pyaffy_9celparser_read_DWORD(void *__pyx_v_buf, FIL
  */
   fread(__pyx_v_buf, 4, 1, __pyx_v_fp);
 
-  /* "pyaffy/celparser.pyx":92
+  /* "pyaffy/celparser.pyx":93
  * cdef unsigned int read_DWORD(void* buf, FILE* fp):
  *     fread(buf, 4, 1, fp)
  *     cdef unsigned int val = <unsigned int>decode_uint32(buf)             # <<<<<<<<<<<<<<
@@ -3482,7 +3482,7 @@ static unsigned int __pyx_f_6pyaffy_9celparser_read_DWORD(void *__pyx_v_buf, FIL
  */
   __pyx_v_val = ((unsigned int)__pyx_f_6pyaffy_9celparser_decode_uint32(__pyx_v_buf));
 
-  /* "pyaffy/celparser.pyx":93
+  /* "pyaffy/celparser.pyx":94
  *     fread(buf, 4, 1, fp)
  *     cdef unsigned int val = <unsigned int>decode_uint32(buf)
  *     return val             # <<<<<<<<<<<<<<
@@ -3492,7 +3492,7 @@ static unsigned int __pyx_f_6pyaffy_9celparser_read_DWORD(void *__pyx_v_buf, FIL
   __pyx_r = __pyx_v_val;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":90
+  /* "pyaffy/celparser.pyx":91
  *     return val
  * 
  * cdef unsigned int read_DWORD(void* buf, FILE* fp):             # <<<<<<<<<<<<<<
@@ -3506,7 +3506,7 @@ static unsigned int __pyx_f_6pyaffy_9celparser_read_DWORD(void *__pyx_v_buf, FIL
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":95
+/* "pyaffy/celparser.pyx":96
  *     return val
  * 
  * cdef int read_short(void* buf, FILE* fp):             # <<<<<<<<<<<<<<
@@ -3520,7 +3520,7 @@ static int __pyx_f_6pyaffy_9celparser_read_short(void *__pyx_v_buf, FILE *__pyx_
   __Pyx_RefNannyDeclarations
   __Pyx_RefNannySetupContext("read_short", 0);
 
-  /* "pyaffy/celparser.pyx":96
+  /* "pyaffy/celparser.pyx":97
  * 
  * cdef int read_short(void* buf, FILE* fp):
  *     fread(buf, 2, 1, fp)             # <<<<<<<<<<<<<<
@@ -3529,7 +3529,7 @@ static int __pyx_f_6pyaffy_9celparser_read_short(void *__pyx_v_buf, FILE *__pyx_
  */
   fread(__pyx_v_buf, 2, 1, __pyx_v_fp);
 
-  /* "pyaffy/celparser.pyx":97
+  /* "pyaffy/celparser.pyx":98
  * cdef int read_short(void* buf, FILE* fp):
  *     fread(buf, 2, 1, fp)
  *     cdef int val = <int>decode_int16(buf)             # <<<<<<<<<<<<<<
@@ -3538,7 +3538,7 @@ static int __pyx_f_6pyaffy_9celparser_read_short(void *__pyx_v_buf, FILE *__pyx_
  */
   __pyx_v_val = ((int)__pyx_f_6pyaffy_9celparser_decode_int16(__pyx_v_buf));
 
-  /* "pyaffy/celparser.pyx":98
+  /* "pyaffy/celparser.pyx":99
  *     fread(buf, 2, 1, fp)
  *     cdef int val = <int>decode_int16(buf)
  *     return val             # <<<<<<<<<<<<<<
@@ -3548,7 +3548,7 @@ static int __pyx_f_6pyaffy_9celparser_read_short(void *__pyx_v_buf, FILE *__pyx_
   __pyx_r = __pyx_v_val;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":95
+  /* "pyaffy/celparser.pyx":96
  *     return val
  * 
  * cdef int read_short(void* buf, FILE* fp):             # <<<<<<<<<<<<<<
@@ -3562,7 +3562,7 @@ static int __pyx_f_6pyaffy_9celparser_read_short(void *__pyx_v_buf, FILE *__pyx_
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":100
+/* "pyaffy/celparser.pyx":101
  *     return val
  * 
  * cdef float[::1] read_cell_intensities(void* buf, FILE* fp, int num_rows, int num_cols):             # <<<<<<<<<<<<<<
@@ -3590,7 +3590,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_cell_intensities(void 
   Py_ssize_t __pyx_t_11;
   __Pyx_RefNannySetupContext("read_cell_intensities", 0);
 
-  /* "pyaffy/celparser.pyx":102
+  /* "pyaffy/celparser.pyx":103
  * cdef float[::1] read_cell_intensities(void* buf, FILE* fp, int num_rows, int num_cols):
  *     cdef int i, j
  *     cdef int pos = 0             # <<<<<<<<<<<<<<
@@ -3599,47 +3599,47 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_cell_intensities(void 
  */
   __pyx_v_pos = 0;
 
-  /* "pyaffy/celparser.pyx":104
+  /* "pyaffy/celparser.pyx":105
  *     cdef int pos = 0
  * 
  *     cdef float[::1] y = np.empty(num_rows * num_cols, dtype = np.float32)             # <<<<<<<<<<<<<<
  * 
  *     for i in range(num_rows):
  */
-  __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 104, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 105, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_empty); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 104, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_empty); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 105, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  __pyx_t_1 = __Pyx_PyInt_From_int((__pyx_v_num_rows * __pyx_v_num_cols)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 104, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyInt_From_int((__pyx_v_num_rows * __pyx_v_num_cols)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 105, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_3 = PyTuple_New(1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 104, __pyx_L1_error)
+  __pyx_t_3 = PyTuple_New(1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 105, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_GIVEREF(__pyx_t_1);
   PyTuple_SET_ITEM(__pyx_t_3, 0, __pyx_t_1);
   __pyx_t_1 = 0;
-  __pyx_t_1 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 104, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 105, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_4 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 104, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 105, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
-  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_float32); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 104, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_float32); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 105, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-  if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_dtype, __pyx_t_5) < 0) __PYX_ERR(0, 104, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_dtype, __pyx_t_5) < 0) __PYX_ERR(0, 105, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_3, __pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 104, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_3, __pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 105, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_t_6 = __Pyx_PyObject_to_MemoryviewSlice_dc_float(__pyx_t_5);
-  if (unlikely(!__pyx_t_6.memview)) __PYX_ERR(0, 104, __pyx_L1_error)
+  if (unlikely(!__pyx_t_6.memview)) __PYX_ERR(0, 105, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __pyx_v_y = __pyx_t_6;
   __pyx_t_6.memview = NULL;
   __pyx_t_6.data = NULL;
 
-  /* "pyaffy/celparser.pyx":106
+  /* "pyaffy/celparser.pyx":107
  *     cdef float[::1] y = np.empty(num_rows * num_cols, dtype = np.float32)
  * 
  *     for i in range(num_rows):             # <<<<<<<<<<<<<<
@@ -3650,7 +3650,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_cell_intensities(void 
   for (__pyx_t_8 = 0; __pyx_t_8 < __pyx_t_7; __pyx_t_8+=1) {
     __pyx_v_i = __pyx_t_8;
 
-    /* "pyaffy/celparser.pyx":107
+    /* "pyaffy/celparser.pyx":108
  * 
  *     for i in range(num_rows):
  *         for j in range(num_cols):             # <<<<<<<<<<<<<<
@@ -3661,7 +3661,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_cell_intensities(void 
     for (__pyx_t_10 = 0; __pyx_t_10 < __pyx_t_9; __pyx_t_10+=1) {
       __pyx_v_j = __pyx_t_10;
 
-      /* "pyaffy/celparser.pyx":108
+      /* "pyaffy/celparser.pyx":109
  *     for i in range(num_rows):
  *         for j in range(num_cols):
  *             y[pos] = read_float(buf, fp) # the intensity             # <<<<<<<<<<<<<<
@@ -3671,7 +3671,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_cell_intensities(void 
       __pyx_t_11 = __pyx_v_pos;
       *((float *) ( /* dim=0 */ ((char *) (((float *) __pyx_v_y.data) + __pyx_t_11)) )) = __pyx_f_6pyaffy_9celparser_read_float(__pyx_v_buf, __pyx_v_fp);
 
-      /* "pyaffy/celparser.pyx":109
+      /* "pyaffy/celparser.pyx":110
  *         for j in range(num_cols):
  *             y[pos] = read_float(buf, fp) # the intensity
  *             read_float(buf, fp) # intensity_std             # <<<<<<<<<<<<<<
@@ -3680,7 +3680,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_cell_intensities(void 
  */
       __pyx_f_6pyaffy_9celparser_read_float(__pyx_v_buf, __pyx_v_fp);
 
-      /* "pyaffy/celparser.pyx":110
+      /* "pyaffy/celparser.pyx":111
  *             y[pos] = read_float(buf, fp) # the intensity
  *             read_float(buf, fp) # intensity_std
  *             read_short(buf, fp) # pixel_count             # <<<<<<<<<<<<<<
@@ -3689,7 +3689,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_cell_intensities(void 
  */
       __pyx_f_6pyaffy_9celparser_read_short(__pyx_v_buf, __pyx_v_fp);
 
-      /* "pyaffy/celparser.pyx":111
+      /* "pyaffy/celparser.pyx":112
  *             read_float(buf, fp) # intensity_std
  *             read_short(buf, fp) # pixel_count
  *             pos += 1             # <<<<<<<<<<<<<<
@@ -3700,7 +3700,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_cell_intensities(void 
     }
   }
 
-  /* "pyaffy/celparser.pyx":113
+  /* "pyaffy/celparser.pyx":114
  *             pos += 1
  * 
  *     return y             # <<<<<<<<<<<<<<
@@ -3711,7 +3711,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_cell_intensities(void 
   __pyx_r = __pyx_v_y;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":100
+  /* "pyaffy/celparser.pyx":101
  *     return val
  * 
  * cdef float[::1] read_cell_intensities(void* buf, FILE* fp, int num_rows, int num_cols):             # <<<<<<<<<<<<<<
@@ -3742,7 +3742,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_cell_intensities(void 
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":115
+/* "pyaffy/celparser.pyx":116
  *     return y
  * 
  * cdef char* read_string(void* buf, FILE* fp):             # <<<<<<<<<<<<<<
@@ -3757,7 +3757,7 @@ static char *__pyx_f_6pyaffy_9celparser_read_string(void *__pyx_v_buf, FILE *__p
   __Pyx_RefNannyDeclarations
   __Pyx_RefNannySetupContext("read_string", 0);
 
-  /* "pyaffy/celparser.pyx":116
+  /* "pyaffy/celparser.pyx":117
  * 
  * cdef char* read_string(void* buf, FILE* fp):
  *     cdef int num_bytes = read_integer(buf, fp)             # <<<<<<<<<<<<<<
@@ -3766,7 +3766,7 @@ static char *__pyx_f_6pyaffy_9celparser_read_string(void *__pyx_v_buf, FILE *__p
  */
   __pyx_v_num_bytes = __pyx_f_6pyaffy_9celparser_read_integer(__pyx_v_buf, __pyx_v_fp);
 
-  /* "pyaffy/celparser.pyx":117
+  /* "pyaffy/celparser.pyx":118
  * cdef char* read_string(void* buf, FILE* fp):
  *     cdef int num_bytes = read_integer(buf, fp)
  *     cdef char* string = <char*>malloc(<size_t>(num_bytes + 1))             # <<<<<<<<<<<<<<
@@ -3775,7 +3775,7 @@ static char *__pyx_f_6pyaffy_9celparser_read_string(void *__pyx_v_buf, FILE *__p
  */
   __pyx_v_string = ((char *)malloc(((size_t)(__pyx_v_num_bytes + 1))));
 
-  /* "pyaffy/celparser.pyx":118
+  /* "pyaffy/celparser.pyx":119
  *     cdef int num_bytes = read_integer(buf, fp)
  *     cdef char* string = <char*>malloc(<size_t>(num_bytes + 1))
  *     fread(string, <size_t>num_bytes, 1, fp)             # <<<<<<<<<<<<<<
@@ -3784,7 +3784,7 @@ static char *__pyx_f_6pyaffy_9celparser_read_string(void *__pyx_v_buf, FILE *__p
  */
   fread(__pyx_v_string, ((size_t)__pyx_v_num_bytes), 1, __pyx_v_fp);
 
-  /* "pyaffy/celparser.pyx":119
+  /* "pyaffy/celparser.pyx":120
  *     cdef char* string = <char*>malloc(<size_t>(num_bytes + 1))
  *     fread(string, <size_t>num_bytes, 1, fp)
  *     string[num_bytes] = '\0'             # <<<<<<<<<<<<<<
@@ -3793,7 +3793,7 @@ static char *__pyx_f_6pyaffy_9celparser_read_string(void *__pyx_v_buf, FILE *__p
  */
   (__pyx_v_string[__pyx_v_num_bytes]) = '\x00';
 
-  /* "pyaffy/celparser.pyx":120
+  /* "pyaffy/celparser.pyx":121
  *     fread(string, <size_t>num_bytes, 1, fp)
  *     string[num_bytes] = '\0'
  *     return string             # <<<<<<<<<<<<<<
@@ -3803,7 +3803,7 @@ static char *__pyx_f_6pyaffy_9celparser_read_string(void *__pyx_v_buf, FILE *__p
   __pyx_r = __pyx_v_string;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":115
+  /* "pyaffy/celparser.pyx":116
  *     return y
  * 
  * cdef char* read_string(void* buf, FILE* fp):             # <<<<<<<<<<<<<<
@@ -3817,7 +3817,7 @@ static char *__pyx_f_6pyaffy_9celparser_read_string(void *__pyx_v_buf, FILE *__p
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":129
+/* "pyaffy/celparser.pyx":130
  *     try:
  *         C = ConfigParser(interpolation = None, delimiters = ('=',), empty_lines_in_values = False)
  *         C.optionxform = lambda x: x             # <<<<<<<<<<<<<<
@@ -3855,7 +3855,7 @@ static PyObject *__pyx_lambda_funcdef_lambda(CYTHON_UNUSED PyObject *__pyx_self,
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":133
+/* "pyaffy/celparser.pyx":134
  *     except ParsingError:
  *         C = ConfigParser(interpolation = None, delimiters = (':',), empty_lines_in_values = False)
  *         C.optionxform = lambda x: x             # <<<<<<<<<<<<<<
@@ -3893,7 +3893,7 @@ static PyObject *__pyx_lambda_funcdef_lambda1(CYTHON_UNUSED PyObject *__pyx_self
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":122
+/* "pyaffy/celparser.pyx":123
  *     return string
  * 
  * cdef read_tag_val(void* buf, FILE* fp):             # <<<<<<<<<<<<<<
@@ -3921,7 +3921,7 @@ static PyObject *__pyx_f_6pyaffy_9celparser_read_tag_val(void *__pyx_v_buf, FILE
   PyObject *__pyx_t_13 = NULL;
   __Pyx_RefNannySetupContext("read_tag_val", 0);
 
-  /* "pyaffy/celparser.pyx":125
+  /* "pyaffy/celparser.pyx":126
  *     """Returns an OrderedDict containing tag-value entries."""
  * 
  *     s = read_string(buf, fp).decode('iso-8859-1')             # <<<<<<<<<<<<<<
@@ -3929,13 +3929,13 @@ static PyObject *__pyx_f_6pyaffy_9celparser_read_tag_val(void *__pyx_v_buf, FILE
  *     try:
  */
   __pyx_t_1 = __pyx_f_6pyaffy_9celparser_read_string(__pyx_v_buf, __pyx_v_fp);
-  __pyx_t_2 = __Pyx_decode_c_string(__pyx_t_1, 0, strlen(__pyx_t_1), NULL, NULL, PyUnicode_DecodeLatin1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 125, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_decode_c_string(__pyx_t_1, 0, strlen(__pyx_t_1), NULL, NULL, PyUnicode_DecodeLatin1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 126, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_INCREF(__pyx_t_2);
   __pyx_v_s = __pyx_t_2;
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
-  /* "pyaffy/celparser.pyx":127
+  /* "pyaffy/celparser.pyx":128
  *     s = read_string(buf, fp).decode('iso-8859-1')
  *     # s = codecs.decode(read_string(buf, fp), encoding='iso-8859-1')
  *     try:             # <<<<<<<<<<<<<<
@@ -3951,51 +3951,51 @@ static PyObject *__pyx_f_6pyaffy_9celparser_read_tag_val(void *__pyx_v_buf, FILE
     __Pyx_XGOTREF(__pyx_t_5);
     /*try:*/ {
 
-      /* "pyaffy/celparser.pyx":128
+      /* "pyaffy/celparser.pyx":129
  *     # s = codecs.decode(read_string(buf, fp), encoding='iso-8859-1')
  *     try:
  *         C = ConfigParser(interpolation = None, delimiters = ('=',), empty_lines_in_values = False)             # <<<<<<<<<<<<<<
  *         C.optionxform = lambda x: x
  *         C.read_string(str('[Section]\n') + s)
  */
-      __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_ConfigParser); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 128, __pyx_L3_error)
+      __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_ConfigParser); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 129, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_2);
-      __pyx_t_6 = __Pyx_PyDict_NewPresized(3); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 128, __pyx_L3_error)
+      __pyx_t_6 = __Pyx_PyDict_NewPresized(3); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 129, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_6);
-      if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_interpolation, Py_None) < 0) __PYX_ERR(0, 128, __pyx_L3_error)
-      if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_delimiters, __pyx_tuple__2) < 0) __PYX_ERR(0, 128, __pyx_L3_error)
-      if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_empty_lines_in_values, Py_False) < 0) __PYX_ERR(0, 128, __pyx_L3_error)
-      __pyx_t_7 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_empty_tuple, __pyx_t_6); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 128, __pyx_L3_error)
+      if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_interpolation, Py_None) < 0) __PYX_ERR(0, 129, __pyx_L3_error)
+      if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_delimiters, __pyx_tuple__2) < 0) __PYX_ERR(0, 129, __pyx_L3_error)
+      if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_empty_lines_in_values, Py_False) < 0) __PYX_ERR(0, 129, __pyx_L3_error)
+      __pyx_t_7 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_empty_tuple, __pyx_t_6); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 129, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_7);
       __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
       __pyx_v_C = __pyx_t_7;
       __pyx_t_7 = 0;
 
-      /* "pyaffy/celparser.pyx":129
+      /* "pyaffy/celparser.pyx":130
  *     try:
  *         C = ConfigParser(interpolation = None, delimiters = ('=',), empty_lines_in_values = False)
  *         C.optionxform = lambda x: x             # <<<<<<<<<<<<<<
  *         C.read_string(str('[Section]\n') + s)
  *     except ParsingError:
  */
-      __pyx_t_7 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_12read_tag_val_lambda, 0, __pyx_n_s_read_tag_val_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 129, __pyx_L3_error)
+      __pyx_t_7 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_12read_tag_val_lambda, 0, __pyx_n_s_read_tag_val_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 130, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_7);
-      if (__Pyx_PyObject_SetAttrStr(__pyx_v_C, __pyx_n_s_optionxform, __pyx_t_7) < 0) __PYX_ERR(0, 129, __pyx_L3_error)
+      if (__Pyx_PyObject_SetAttrStr(__pyx_v_C, __pyx_n_s_optionxform, __pyx_t_7) < 0) __PYX_ERR(0, 130, __pyx_L3_error)
       __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
 
-      /* "pyaffy/celparser.pyx":130
+      /* "pyaffy/celparser.pyx":131
  *         C = ConfigParser(interpolation = None, delimiters = ('=',), empty_lines_in_values = False)
  *         C.optionxform = lambda x: x
  *         C.read_string(str('[Section]\n') + s)             # <<<<<<<<<<<<<<
  *     except ParsingError:
  *         C = ConfigParser(interpolation = None, delimiters = (':',), empty_lines_in_values = False)
  */
-      __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_v_C, __pyx_n_s_read_string); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 130, __pyx_L3_error)
+      __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_v_C, __pyx_n_s_read_string); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 131, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_6);
-      __pyx_t_2 = __Pyx_PyObject_Call(((PyObject *)(&PyString_Type)), __pyx_tuple__3, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 130, __pyx_L3_error)
+      __pyx_t_2 = __Pyx_PyObject_Call(((PyObject *)(&PyString_Type)), __pyx_tuple__3, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 131, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_2);
-      __pyx_t_8 = PyNumber_Add(__pyx_t_2, __pyx_v_s); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 130, __pyx_L3_error)
+      __pyx_t_8 = PyNumber_Add(__pyx_t_2, __pyx_v_s); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 131, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_8);
       __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
       __pyx_t_2 = NULL;
@@ -4009,14 +4009,14 @@ static PyObject *__pyx_f_6pyaffy_9celparser_read_tag_val(void *__pyx_v_buf, FILE
         }
       }
       if (!__pyx_t_2) {
-        __pyx_t_7 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_t_8); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 130, __pyx_L3_error)
+        __pyx_t_7 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_t_8); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 131, __pyx_L3_error)
         __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
         __Pyx_GOTREF(__pyx_t_7);
       } else {
         #if CYTHON_FAST_PYCALL
         if (PyFunction_Check(__pyx_t_6)) {
           PyObject *__pyx_temp[2] = {__pyx_t_2, __pyx_t_8};
-          __pyx_t_7 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 130, __pyx_L3_error)
+          __pyx_t_7 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 131, __pyx_L3_error)
           __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
           __Pyx_GOTREF(__pyx_t_7);
           __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
@@ -4025,20 +4025,20 @@ static PyObject *__pyx_f_6pyaffy_9celparser_read_tag_val(void *__pyx_v_buf, FILE
         #if CYTHON_FAST_PYCCALL
         if (__Pyx_PyFastCFunction_Check(__pyx_t_6)) {
           PyObject *__pyx_temp[2] = {__pyx_t_2, __pyx_t_8};
-          __pyx_t_7 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 130, __pyx_L3_error)
+          __pyx_t_7 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 131, __pyx_L3_error)
           __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
           __Pyx_GOTREF(__pyx_t_7);
           __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
         } else
         #endif
         {
-          __pyx_t_9 = PyTuple_New(1+1); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 130, __pyx_L3_error)
+          __pyx_t_9 = PyTuple_New(1+1); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 131, __pyx_L3_error)
           __Pyx_GOTREF(__pyx_t_9);
           __Pyx_GIVEREF(__pyx_t_2); PyTuple_SET_ITEM(__pyx_t_9, 0, __pyx_t_2); __pyx_t_2 = NULL;
           __Pyx_GIVEREF(__pyx_t_8);
           PyTuple_SET_ITEM(__pyx_t_9, 0+1, __pyx_t_8);
           __pyx_t_8 = 0;
-          __pyx_t_7 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_9, NULL); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 130, __pyx_L3_error)
+          __pyx_t_7 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_9, NULL); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 131, __pyx_L3_error)
           __Pyx_GOTREF(__pyx_t_7);
           __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
         }
@@ -4046,7 +4046,7 @@ static PyObject *__pyx_f_6pyaffy_9celparser_read_tag_val(void *__pyx_v_buf, FILE
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
 
-      /* "pyaffy/celparser.pyx":127
+      /* "pyaffy/celparser.pyx":128
  *     s = read_string(buf, fp).decode('iso-8859-1')
  *     # s = codecs.decode(read_string(buf, fp), encoding='iso-8859-1')
  *     try:             # <<<<<<<<<<<<<<
@@ -4065,77 +4065,77 @@ static PyObject *__pyx_f_6pyaffy_9celparser_read_tag_val(void *__pyx_v_buf, FILE
     __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
     __Pyx_XDECREF(__pyx_t_7); __pyx_t_7 = 0;
 
-    /* "pyaffy/celparser.pyx":131
+    /* "pyaffy/celparser.pyx":132
  *         C.optionxform = lambda x: x
  *         C.read_string(str('[Section]\n') + s)
  *     except ParsingError:             # <<<<<<<<<<<<<<
  *         C = ConfigParser(interpolation = None, delimiters = (':',), empty_lines_in_values = False)
  *         C.optionxform = lambda x: x
  */
-    __pyx_t_7 = __Pyx_GetModuleGlobalName(__pyx_n_s_ParsingError); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 131, __pyx_L5_except_error)
+    __pyx_t_7 = __Pyx_GetModuleGlobalName(__pyx_n_s_ParsingError); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 132, __pyx_L5_except_error)
     __Pyx_GOTREF(__pyx_t_7);
     __pyx_t_10 = __Pyx_PyErr_ExceptionMatches(__pyx_t_7);
     __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
     if (__pyx_t_10) {
       __Pyx_AddTraceback("pyaffy.celparser.read_tag_val", __pyx_clineno, __pyx_lineno, __pyx_filename);
-      if (__Pyx_GetException(&__pyx_t_7, &__pyx_t_6, &__pyx_t_9) < 0) __PYX_ERR(0, 131, __pyx_L5_except_error)
+      if (__Pyx_GetException(&__pyx_t_7, &__pyx_t_6, &__pyx_t_9) < 0) __PYX_ERR(0, 132, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_7);
       __Pyx_GOTREF(__pyx_t_6);
       __Pyx_GOTREF(__pyx_t_9);
 
-      /* "pyaffy/celparser.pyx":132
+      /* "pyaffy/celparser.pyx":133
  *         C.read_string(str('[Section]\n') + s)
  *     except ParsingError:
  *         C = ConfigParser(interpolation = None, delimiters = (':',), empty_lines_in_values = False)             # <<<<<<<<<<<<<<
  *         C.optionxform = lambda x: x
  *         C.read_string(str('[Section]\n') + '\n'.join(s.split(';')))
  */
-      __pyx_t_8 = __Pyx_GetModuleGlobalName(__pyx_n_s_ConfigParser); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 132, __pyx_L5_except_error)
+      __pyx_t_8 = __Pyx_GetModuleGlobalName(__pyx_n_s_ConfigParser); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 133, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_8);
-      __pyx_t_2 = __Pyx_PyDict_NewPresized(3); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 132, __pyx_L5_except_error)
+      __pyx_t_2 = __Pyx_PyDict_NewPresized(3); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 133, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_2);
-      if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_interpolation, Py_None) < 0) __PYX_ERR(0, 132, __pyx_L5_except_error)
-      if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_delimiters, __pyx_tuple__5) < 0) __PYX_ERR(0, 132, __pyx_L5_except_error)
-      if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_empty_lines_in_values, Py_False) < 0) __PYX_ERR(0, 132, __pyx_L5_except_error)
-      __pyx_t_11 = __Pyx_PyObject_Call(__pyx_t_8, __pyx_empty_tuple, __pyx_t_2); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 132, __pyx_L5_except_error)
+      if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_interpolation, Py_None) < 0) __PYX_ERR(0, 133, __pyx_L5_except_error)
+      if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_delimiters, __pyx_tuple__5) < 0) __PYX_ERR(0, 133, __pyx_L5_except_error)
+      if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_empty_lines_in_values, Py_False) < 0) __PYX_ERR(0, 133, __pyx_L5_except_error)
+      __pyx_t_11 = __Pyx_PyObject_Call(__pyx_t_8, __pyx_empty_tuple, __pyx_t_2); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 133, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_11);
       __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
       __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
       __Pyx_XDECREF_SET(__pyx_v_C, __pyx_t_11);
       __pyx_t_11 = 0;
 
-      /* "pyaffy/celparser.pyx":133
+      /* "pyaffy/celparser.pyx":134
  *     except ParsingError:
  *         C = ConfigParser(interpolation = None, delimiters = (':',), empty_lines_in_values = False)
  *         C.optionxform = lambda x: x             # <<<<<<<<<<<<<<
  *         C.read_string(str('[Section]\n') + '\n'.join(s.split(';')))
  * 
  */
-      __pyx_t_11 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_12read_tag_val_1lambda1, 0, __pyx_n_s_read_tag_val_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 133, __pyx_L5_except_error)
+      __pyx_t_11 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_12read_tag_val_1lambda1, 0, __pyx_n_s_read_tag_val_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 134, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_11);
-      if (__Pyx_PyObject_SetAttrStr(__pyx_v_C, __pyx_n_s_optionxform, __pyx_t_11) < 0) __PYX_ERR(0, 133, __pyx_L5_except_error)
+      if (__Pyx_PyObject_SetAttrStr(__pyx_v_C, __pyx_n_s_optionxform, __pyx_t_11) < 0) __PYX_ERR(0, 134, __pyx_L5_except_error)
       __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
 
-      /* "pyaffy/celparser.pyx":134
+      /* "pyaffy/celparser.pyx":135
  *         C = ConfigParser(interpolation = None, delimiters = (':',), empty_lines_in_values = False)
  *         C.optionxform = lambda x: x
  *         C.read_string(str('[Section]\n') + '\n'.join(s.split(';')))             # <<<<<<<<<<<<<<
  * 
  *     return C['Section']
  */
-      __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_C, __pyx_n_s_read_string); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 134, __pyx_L5_except_error)
+      __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_C, __pyx_n_s_read_string); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 135, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_2);
-      __pyx_t_8 = __Pyx_PyObject_Call(((PyObject *)(&PyString_Type)), __pyx_tuple__6, NULL); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 134, __pyx_L5_except_error)
+      __pyx_t_8 = __Pyx_PyObject_Call(((PyObject *)(&PyString_Type)), __pyx_tuple__6, NULL); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 135, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_8);
-      __pyx_t_12 = __Pyx_PyObject_GetAttrStr(__pyx_v_s, __pyx_n_s_split); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 134, __pyx_L5_except_error)
+      __pyx_t_12 = __Pyx_PyObject_GetAttrStr(__pyx_v_s, __pyx_n_s_split); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 135, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_12);
-      __pyx_t_13 = __Pyx_PyObject_Call(__pyx_t_12, __pyx_tuple__9, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 134, __pyx_L5_except_error)
+      __pyx_t_13 = __Pyx_PyObject_Call(__pyx_t_12, __pyx_tuple__9, NULL); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 135, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_13);
       __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
-      __pyx_t_12 = __Pyx_PyString_Join(__pyx_kp_s__7, __pyx_t_13); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 134, __pyx_L5_except_error)
+      __pyx_t_12 = __Pyx_PyString_Join(__pyx_kp_s__7, __pyx_t_13); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 135, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_12);
       __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-      __pyx_t_13 = PyNumber_Add(__pyx_t_8, __pyx_t_12); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 134, __pyx_L5_except_error)
+      __pyx_t_13 = PyNumber_Add(__pyx_t_8, __pyx_t_12); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 135, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_13);
       __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
       __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
@@ -4150,14 +4150,14 @@ static PyObject *__pyx_f_6pyaffy_9celparser_read_tag_val(void *__pyx_v_buf, FILE
         }
       }
       if (!__pyx_t_12) {
-        __pyx_t_11 = __Pyx_PyObject_CallOneArg(__pyx_t_2, __pyx_t_13); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 134, __pyx_L5_except_error)
+        __pyx_t_11 = __Pyx_PyObject_CallOneArg(__pyx_t_2, __pyx_t_13); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 135, __pyx_L5_except_error)
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
         __Pyx_GOTREF(__pyx_t_11);
       } else {
         #if CYTHON_FAST_PYCALL
         if (PyFunction_Check(__pyx_t_2)) {
           PyObject *__pyx_temp[2] = {__pyx_t_12, __pyx_t_13};
-          __pyx_t_11 = __Pyx_PyFunction_FastCall(__pyx_t_2, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 134, __pyx_L5_except_error)
+          __pyx_t_11 = __Pyx_PyFunction_FastCall(__pyx_t_2, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 135, __pyx_L5_except_error)
           __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
           __Pyx_GOTREF(__pyx_t_11);
           __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
@@ -4166,20 +4166,20 @@ static PyObject *__pyx_f_6pyaffy_9celparser_read_tag_val(void *__pyx_v_buf, FILE
         #if CYTHON_FAST_PYCCALL
         if (__Pyx_PyFastCFunction_Check(__pyx_t_2)) {
           PyObject *__pyx_temp[2] = {__pyx_t_12, __pyx_t_13};
-          __pyx_t_11 = __Pyx_PyCFunction_FastCall(__pyx_t_2, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 134, __pyx_L5_except_error)
+          __pyx_t_11 = __Pyx_PyCFunction_FastCall(__pyx_t_2, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 135, __pyx_L5_except_error)
           __Pyx_XDECREF(__pyx_t_12); __pyx_t_12 = 0;
           __Pyx_GOTREF(__pyx_t_11);
           __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
         } else
         #endif
         {
-          __pyx_t_8 = PyTuple_New(1+1); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 134, __pyx_L5_except_error)
+          __pyx_t_8 = PyTuple_New(1+1); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 135, __pyx_L5_except_error)
           __Pyx_GOTREF(__pyx_t_8);
           __Pyx_GIVEREF(__pyx_t_12); PyTuple_SET_ITEM(__pyx_t_8, 0, __pyx_t_12); __pyx_t_12 = NULL;
           __Pyx_GIVEREF(__pyx_t_13);
           PyTuple_SET_ITEM(__pyx_t_8, 0+1, __pyx_t_13);
           __pyx_t_13 = 0;
-          __pyx_t_11 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_8, NULL); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 134, __pyx_L5_except_error)
+          __pyx_t_11 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_8, NULL); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 135, __pyx_L5_except_error)
           __Pyx_GOTREF(__pyx_t_11);
           __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
         }
@@ -4194,7 +4194,7 @@ static PyObject *__pyx_f_6pyaffy_9celparser_read_tag_val(void *__pyx_v_buf, FILE
     goto __pyx_L5_except_error;
     __pyx_L5_except_error:;
 
-    /* "pyaffy/celparser.pyx":127
+    /* "pyaffy/celparser.pyx":128
  *     s = read_string(buf, fp).decode('iso-8859-1')
  *     # s = codecs.decode(read_string(buf, fp), encoding='iso-8859-1')
  *     try:             # <<<<<<<<<<<<<<
@@ -4214,7 +4214,7 @@ static PyObject *__pyx_f_6pyaffy_9celparser_read_tag_val(void *__pyx_v_buf, FILE
     __pyx_L8_try_end:;
   }
 
-  /* "pyaffy/celparser.pyx":136
+  /* "pyaffy/celparser.pyx":137
  *         C.read_string(str('[Section]\n') + '\n'.join(s.split(';')))
  * 
  *     return C['Section']             # <<<<<<<<<<<<<<
@@ -4222,13 +4222,13 @@ static PyObject *__pyx_f_6pyaffy_9celparser_read_tag_val(void *__pyx_v_buf, FILE
  * cdef short[:,::1] read_coords(void* buf, FILE* fp, int num_coords):
  */
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_9 = PyObject_GetItem(__pyx_v_C, __pyx_n_s_Section_2); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 136, __pyx_L1_error)
+  __pyx_t_9 = PyObject_GetItem(__pyx_v_C, __pyx_n_s_Section_2); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 137, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_9);
   __pyx_r = __pyx_t_9;
   __pyx_t_9 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":122
+  /* "pyaffy/celparser.pyx":123
  *     return string
  * 
  * cdef read_tag_val(void* buf, FILE* fp):             # <<<<<<<<<<<<<<
@@ -4256,7 +4256,7 @@ static PyObject *__pyx_f_6pyaffy_9celparser_read_tag_val(void *__pyx_v_buf, FILE
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":138
+/* "pyaffy/celparser.pyx":139
  *     return C['Section']
  * 
  * cdef short[:,::1] read_coords(void* buf, FILE* fp, int num_coords):             # <<<<<<<<<<<<<<
@@ -4283,21 +4283,21 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_coords(void *__pyx_v_b
   Py_ssize_t __pyx_t_12;
   __Pyx_RefNannySetupContext("read_coords", 0);
 
-  /* "pyaffy/celparser.pyx":139
+  /* "pyaffy/celparser.pyx":140
  * 
  * cdef short[:,::1] read_coords(void* buf, FILE* fp, int num_coords):
  *     cdef short[:,::1] C = np.empty((num_coords, 2), dtype = np.int16)             # <<<<<<<<<<<<<<
  *     cdef int i
  *     for i in range(num_coords):
  */
-  __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 139, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 140, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_empty); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 139, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_empty); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 140, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  __pyx_t_1 = __Pyx_PyInt_From_int(__pyx_v_num_coords); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 139, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyInt_From_int(__pyx_v_num_coords); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 140, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_3 = PyTuple_New(2); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 139, __pyx_L1_error)
+  __pyx_t_3 = PyTuple_New(2); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 140, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_GIVEREF(__pyx_t_1);
   PyTuple_SET_ITEM(__pyx_t_3, 0, __pyx_t_1);
@@ -4305,33 +4305,33 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_coords(void *__pyx_v_b
   __Pyx_GIVEREF(__pyx_int_2);
   PyTuple_SET_ITEM(__pyx_t_3, 1, __pyx_int_2);
   __pyx_t_1 = 0;
-  __pyx_t_1 = PyTuple_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 139, __pyx_L1_error)
+  __pyx_t_1 = PyTuple_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 140, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_3);
   PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_t_3);
   __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 139, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 140, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __pyx_t_4 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 139, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 140, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
-  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_int16); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 139, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_int16); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 140, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-  if (PyDict_SetItem(__pyx_t_3, __pyx_n_s_dtype, __pyx_t_5) < 0) __PYX_ERR(0, 139, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_3, __pyx_n_s_dtype, __pyx_t_5) < 0) __PYX_ERR(0, 140, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_1, __pyx_t_3); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 139, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_1, __pyx_t_3); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 140, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __pyx_t_6 = __Pyx_PyObject_to_MemoryviewSlice_d_dc_short(__pyx_t_5);
-  if (unlikely(!__pyx_t_6.memview)) __PYX_ERR(0, 139, __pyx_L1_error)
+  if (unlikely(!__pyx_t_6.memview)) __PYX_ERR(0, 140, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __pyx_v_C = __pyx_t_6;
   __pyx_t_6.memview = NULL;
   __pyx_t_6.data = NULL;
 
-  /* "pyaffy/celparser.pyx":141
+  /* "pyaffy/celparser.pyx":142
  *     cdef short[:,::1] C = np.empty((num_coords, 2), dtype = np.int16)
  *     cdef int i
  *     for i in range(num_coords):             # <<<<<<<<<<<<<<
@@ -4342,7 +4342,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_coords(void *__pyx_v_b
   for (__pyx_t_8 = 0; __pyx_t_8 < __pyx_t_7; __pyx_t_8+=1) {
     __pyx_v_i = __pyx_t_8;
 
-    /* "pyaffy/celparser.pyx":142
+    /* "pyaffy/celparser.pyx":143
  *     cdef int i
  *     for i in range(num_coords):
  *         C[i,0] = read_short(buf, fp)             # <<<<<<<<<<<<<<
@@ -4353,7 +4353,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_coords(void *__pyx_v_b
     __pyx_t_10 = 0;
     *((short *) ( /* dim=1 */ ((char *) (((short *) ( /* dim=0 */ (__pyx_v_C.data + __pyx_t_9 * __pyx_v_C.strides[0]) )) + __pyx_t_10)) )) = __pyx_f_6pyaffy_9celparser_read_short(__pyx_v_buf, __pyx_v_fp);
 
-    /* "pyaffy/celparser.pyx":143
+    /* "pyaffy/celparser.pyx":144
  *     for i in range(num_coords):
  *         C[i,0] = read_short(buf, fp)
  *         C[i,1] = read_short(buf, fp)             # <<<<<<<<<<<<<<
@@ -4365,7 +4365,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_coords(void *__pyx_v_b
     *((short *) ( /* dim=1 */ ((char *) (((short *) ( /* dim=0 */ (__pyx_v_C.data + __pyx_t_11 * __pyx_v_C.strides[0]) )) + __pyx_t_12)) )) = __pyx_f_6pyaffy_9celparser_read_short(__pyx_v_buf, __pyx_v_fp);
   }
 
-  /* "pyaffy/celparser.pyx":144
+  /* "pyaffy/celparser.pyx":145
  *         C[i,0] = read_short(buf, fp)
  *         C[i,1] = read_short(buf, fp)
  *     return C             # <<<<<<<<<<<<<<
@@ -4376,7 +4376,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_coords(void *__pyx_v_b
   __pyx_r = __pyx_v_C;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":138
+  /* "pyaffy/celparser.pyx":139
  *     return C['Section']
  * 
  * cdef short[:,::1] read_coords(void* buf, FILE* fp, int num_coords):             # <<<<<<<<<<<<<<
@@ -4407,7 +4407,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_coords(void *__pyx_v_b
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":146
+/* "pyaffy/celparser.pyx":147
  *     return C
  * 
  * cdef void apply_mask(float[::1] y, int num_rows, int num_cols, short [:,::1] coords, int num_coords):             # <<<<<<<<<<<<<<
@@ -4429,7 +4429,7 @@ static void __pyx_f_6pyaffy_9celparser_apply_mask(__Pyx_memviewslice __pyx_v_y, 
   Py_ssize_t __pyx_t_8;
   __Pyx_RefNannySetupContext("apply_mask", 0);
 
-  /* "pyaffy/celparser.pyx":148
+  /* "pyaffy/celparser.pyx":149
  * cdef void apply_mask(float[::1] y, int num_rows, int num_cols, short [:,::1] coords, int num_coords):
  *     cdef int i, idx
  *     for i in range(num_coords):             # <<<<<<<<<<<<<<
@@ -4440,7 +4440,7 @@ static void __pyx_f_6pyaffy_9celparser_apply_mask(__Pyx_memviewslice __pyx_v_y, 
   for (__pyx_t_2 = 0; __pyx_t_2 < __pyx_t_1; __pyx_t_2+=1) {
     __pyx_v_i = __pyx_t_2;
 
-    /* "pyaffy/celparser.pyx":149
+    /* "pyaffy/celparser.pyx":150
  *     cdef int i, idx
  *     for i in range(num_coords):
  *         idx = num_rows * coords[i,1] + coords[i,0]             # <<<<<<<<<<<<<<
@@ -4453,19 +4453,19 @@ static void __pyx_f_6pyaffy_9celparser_apply_mask(__Pyx_memviewslice __pyx_v_y, 
     __pyx_t_6 = 0;
     __pyx_v_idx = ((__pyx_v_num_rows * (*((short *) ( /* dim=1 */ ((char *) (((short *) ( /* dim=0 */ (__pyx_v_coords.data + __pyx_t_3 * __pyx_v_coords.strides[0]) )) + __pyx_t_4)) )))) + (*((short *) ( /* dim=1 */ ((char *) (((short *) ( /* dim=0 */ (__pyx_v_coords.data + __pyx_t_5 * __pyx_v_coords.strides[0]) )) + __pyx_t_6)) ))));
 
-    /* "pyaffy/celparser.pyx":151
+    /* "pyaffy/celparser.pyx":152
  *         idx = num_rows * coords[i,1] + coords[i,0]
  *         #y[idx] = NAN
  *         y[idx] = float('nan')             # <<<<<<<<<<<<<<
  * 
  * def create_gzip_pipe(path):
  */
-    __pyx_t_7 = __Pyx_PyObject_AsDouble(__pyx_n_s_nan); if (unlikely(__pyx_t_7 == ((double)((double)-1)) && PyErr_Occurred())) __PYX_ERR(0, 151, __pyx_L1_error)
+    __pyx_t_7 = __Pyx_PyObject_AsDouble(__pyx_n_s_nan); if (unlikely(__pyx_t_7 == ((double)((double)-1)) && PyErr_Occurred())) __PYX_ERR(0, 152, __pyx_L1_error)
     __pyx_t_8 = __pyx_v_idx;
     *((float *) ( /* dim=0 */ ((char *) (((float *) __pyx_v_y.data) + __pyx_t_8)) )) = __pyx_t_7;
   }
 
-  /* "pyaffy/celparser.pyx":146
+  /* "pyaffy/celparser.pyx":147
  *     return C
  * 
  * cdef void apply_mask(float[::1] y, int num_rows, int num_cols, short [:,::1] coords, int num_coords):             # <<<<<<<<<<<<<<
@@ -4481,7 +4481,7 @@ static void __pyx_f_6pyaffy_9celparser_apply_mask(__Pyx_memviewslice __pyx_v_y, 
   __Pyx_RefNannyFinishContext();
 }
 
-/* "pyaffy/celparser.pyx":153
+/* "pyaffy/celparser.pyx":154
  *         y[idx] = float('nan')
  * 
  * def create_gzip_pipe(path):             # <<<<<<<<<<<<<<
@@ -4516,68 +4516,68 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_create_gzip_pipe(CYTHON_UNUSED PyOb
   PyObject *__pyx_t_5 = NULL;
   __Pyx_RefNannySetupContext("create_gzip_pipe", 0);
 
-  /* "pyaffy/celparser.pyx":155
+  /* "pyaffy/celparser.pyx":156
  * def create_gzip_pipe(path):
  * 
  *     tfh = tempfile.NamedTemporaryFile(mode = 'wb', prefix = 'celparser_',             # <<<<<<<<<<<<<<
  *             delete = False)
  *     temp = tfh.name
  */
-  __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_tempfile); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 155, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_tempfile); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 156, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_NamedTemporaryFile); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 155, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_NamedTemporaryFile); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 156, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  __pyx_t_1 = __Pyx_PyDict_NewPresized(3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 155, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyDict_NewPresized(3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 156, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_mode, __pyx_n_s_wb) < 0) __PYX_ERR(0, 155, __pyx_L1_error)
-  if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_prefix, __pyx_n_s_celparser) < 0) __PYX_ERR(0, 155, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_mode, __pyx_n_s_wb) < 0) __PYX_ERR(0, 156, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_prefix, __pyx_n_s_celparser) < 0) __PYX_ERR(0, 156, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":156
+  /* "pyaffy/celparser.pyx":157
  * 
  *     tfh = tempfile.NamedTemporaryFile(mode = 'wb', prefix = 'celparser_',
  *             delete = False)             # <<<<<<<<<<<<<<
  *     temp = tfh.name
  *     logger.debug('Temp file: %s', temp)
  */
-  if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_delete, Py_False) < 0) __PYX_ERR(0, 155, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_delete, Py_False) < 0) __PYX_ERR(0, 156, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":155
+  /* "pyaffy/celparser.pyx":156
  * def create_gzip_pipe(path):
  * 
  *     tfh = tempfile.NamedTemporaryFile(mode = 'wb', prefix = 'celparser_',             # <<<<<<<<<<<<<<
  *             delete = False)
  *     temp = tfh.name
  */
-  __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_empty_tuple, __pyx_t_1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 155, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_empty_tuple, __pyx_t_1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 156, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_v_tfh = __pyx_t_3;
   __pyx_t_3 = 0;
 
-  /* "pyaffy/celparser.pyx":157
+  /* "pyaffy/celparser.pyx":158
  *     tfh = tempfile.NamedTemporaryFile(mode = 'wb', prefix = 'celparser_',
  *             delete = False)
  *     temp = tfh.name             # <<<<<<<<<<<<<<
  *     logger.debug('Temp file: %s', temp)
  *     tfh.close()
  */
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_tfh, __pyx_n_s_name); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 157, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_tfh, __pyx_n_s_name); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 158, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __pyx_v_temp = __pyx_t_3;
   __pyx_t_3 = 0;
 
-  /* "pyaffy/celparser.pyx":158
+  /* "pyaffy/celparser.pyx":159
  *             delete = False)
  *     temp = tfh.name
  *     logger.debug('Temp file: %s', temp)             # <<<<<<<<<<<<<<
  *     tfh.close()
  *     os.remove(temp) # delete the temp file
  */
-  __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 158, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 159, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_debug); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 158, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_debug); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 159, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_t_1 = NULL;
@@ -4595,7 +4595,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_create_gzip_pipe(CYTHON_UNUSED PyOb
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_2)) {
     PyObject *__pyx_temp[3] = {__pyx_t_1, __pyx_kp_s_Temp_file_s, __pyx_v_temp};
-    __pyx_t_3 = __Pyx_PyFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 158, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 159, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_GOTREF(__pyx_t_3);
   } else
@@ -4603,13 +4603,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_create_gzip_pipe(CYTHON_UNUSED PyOb
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_2)) {
     PyObject *__pyx_temp[3] = {__pyx_t_1, __pyx_kp_s_Temp_file_s, __pyx_v_temp};
-    __pyx_t_3 = __Pyx_PyCFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 158, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyCFunction_FastCall(__pyx_t_2, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 159, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_GOTREF(__pyx_t_3);
   } else
   #endif
   {
-    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 158, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 159, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     if (__pyx_t_1) {
       __Pyx_GIVEREF(__pyx_t_1); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_1); __pyx_t_1 = NULL;
@@ -4620,21 +4620,21 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_create_gzip_pipe(CYTHON_UNUSED PyOb
     __Pyx_INCREF(__pyx_v_temp);
     __Pyx_GIVEREF(__pyx_v_temp);
     PyTuple_SET_ITEM(__pyx_t_5, 1+__pyx_t_4, __pyx_v_temp);
-    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_5, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 158, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_5, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 159, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-  /* "pyaffy/celparser.pyx":159
+  /* "pyaffy/celparser.pyx":160
  *     temp = tfh.name
  *     logger.debug('Temp file: %s', temp)
  *     tfh.close()             # <<<<<<<<<<<<<<
  *     os.remove(temp) # delete the temp file
  *     os.mkfifo(temp)
  */
-  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_tfh, __pyx_n_s_close); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 159, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_tfh, __pyx_n_s_close); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 160, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __pyx_t_5 = NULL;
   if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_2))) {
@@ -4647,25 +4647,25 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_create_gzip_pipe(CYTHON_UNUSED PyOb
     }
   }
   if (__pyx_t_5) {
-    __pyx_t_3 = __Pyx_PyObject_CallOneArg(__pyx_t_2, __pyx_t_5); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 159, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_CallOneArg(__pyx_t_2, __pyx_t_5); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 160, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   } else {
-    __pyx_t_3 = __Pyx_PyObject_CallNoArg(__pyx_t_2); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 159, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_CallNoArg(__pyx_t_2); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 160, __pyx_L1_error)
   }
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-  /* "pyaffy/celparser.pyx":160
+  /* "pyaffy/celparser.pyx":161
  *     logger.debug('Temp file: %s', temp)
  *     tfh.close()
  *     os.remove(temp) # delete the temp file             # <<<<<<<<<<<<<<
  *     os.mkfifo(temp)
  *     subproc = subprocess.Popen('gunzip -c "%s" > "%s"' %(path, temp), shell = True)
  */
-  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_os); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 160, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_os); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 161, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_remove); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 160, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_remove); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 161, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __pyx_t_2 = NULL;
@@ -4679,13 +4679,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_create_gzip_pipe(CYTHON_UNUSED PyOb
     }
   }
   if (!__pyx_t_2) {
-    __pyx_t_3 = __Pyx_PyObject_CallOneArg(__pyx_t_5, __pyx_v_temp); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 160, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_CallOneArg(__pyx_t_5, __pyx_v_temp); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 161, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
   } else {
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_5)) {
       PyObject *__pyx_temp[2] = {__pyx_t_2, __pyx_v_temp};
-      __pyx_t_3 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 160, __pyx_L1_error)
+      __pyx_t_3 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 161, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
       __Pyx_GOTREF(__pyx_t_3);
     } else
@@ -4693,19 +4693,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_create_gzip_pipe(CYTHON_UNUSED PyOb
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_5)) {
       PyObject *__pyx_temp[2] = {__pyx_t_2, __pyx_v_temp};
-      __pyx_t_3 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 160, __pyx_L1_error)
+      __pyx_t_3 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 161, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
       __Pyx_GOTREF(__pyx_t_3);
     } else
     #endif
     {
-      __pyx_t_1 = PyTuple_New(1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 160, __pyx_L1_error)
+      __pyx_t_1 = PyTuple_New(1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 161, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
       __Pyx_GIVEREF(__pyx_t_2); PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_t_2); __pyx_t_2 = NULL;
       __Pyx_INCREF(__pyx_v_temp);
       __Pyx_GIVEREF(__pyx_v_temp);
       PyTuple_SET_ITEM(__pyx_t_1, 0+1, __pyx_v_temp);
-      __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_1, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 160, __pyx_L1_error)
+      __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_1, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 161, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_3);
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     }
@@ -4713,16 +4713,16 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_create_gzip_pipe(CYTHON_UNUSED PyOb
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-  /* "pyaffy/celparser.pyx":161
+  /* "pyaffy/celparser.pyx":162
  *     tfh.close()
  *     os.remove(temp) # delete the temp file
  *     os.mkfifo(temp)             # <<<<<<<<<<<<<<
  *     subproc = subprocess.Popen('gunzip -c "%s" > "%s"' %(path, temp), shell = True)
  *     return temp
  */
-  __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_os); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 161, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_os); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 162, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
-  __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_mkfifo); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 161, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_mkfifo); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 162, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __pyx_t_5 = NULL;
@@ -4736,13 +4736,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_create_gzip_pipe(CYTHON_UNUSED PyOb
     }
   }
   if (!__pyx_t_5) {
-    __pyx_t_3 = __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_v_temp); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 161, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_v_temp); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 162, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
   } else {
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_1)) {
       PyObject *__pyx_temp[2] = {__pyx_t_5, __pyx_v_temp};
-      __pyx_t_3 = __Pyx_PyFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 161, __pyx_L1_error)
+      __pyx_t_3 = __Pyx_PyFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 162, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
       __Pyx_GOTREF(__pyx_t_3);
     } else
@@ -4750,19 +4750,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_create_gzip_pipe(CYTHON_UNUSED PyOb
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_1)) {
       PyObject *__pyx_temp[2] = {__pyx_t_5, __pyx_v_temp};
-      __pyx_t_3 = __Pyx_PyCFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 161, __pyx_L1_error)
+      __pyx_t_3 = __Pyx_PyCFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 162, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
       __Pyx_GOTREF(__pyx_t_3);
     } else
     #endif
     {
-      __pyx_t_2 = PyTuple_New(1+1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 161, __pyx_L1_error)
+      __pyx_t_2 = PyTuple_New(1+1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 162, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_2);
       __Pyx_GIVEREF(__pyx_t_5); PyTuple_SET_ITEM(__pyx_t_2, 0, __pyx_t_5); __pyx_t_5 = NULL;
       __Pyx_INCREF(__pyx_v_temp);
       __Pyx_GIVEREF(__pyx_v_temp);
       PyTuple_SET_ITEM(__pyx_t_2, 0+1, __pyx_v_temp);
-      __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_2, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 161, __pyx_L1_error)
+      __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_2, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 162, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_3);
       __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
     }
@@ -4770,19 +4770,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_create_gzip_pipe(CYTHON_UNUSED PyOb
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-  /* "pyaffy/celparser.pyx":162
+  /* "pyaffy/celparser.pyx":163
  *     os.remove(temp) # delete the temp file
  *     os.mkfifo(temp)
  *     subproc = subprocess.Popen('gunzip -c "%s" > "%s"' %(path, temp), shell = True)             # <<<<<<<<<<<<<<
  *     return temp
  * 
  */
-  __pyx_t_3 = __Pyx_GetModuleGlobalName(__pyx_n_s_subprocess); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 162, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_GetModuleGlobalName(__pyx_n_s_subprocess); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 163, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_Popen); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 162, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_Popen); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 163, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  __pyx_t_3 = PyTuple_New(2); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 162, __pyx_L1_error)
+  __pyx_t_3 = PyTuple_New(2); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 163, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_INCREF(__pyx_v_path);
   __Pyx_GIVEREF(__pyx_v_path);
@@ -4790,18 +4790,18 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_create_gzip_pipe(CYTHON_UNUSED PyOb
   __Pyx_INCREF(__pyx_v_temp);
   __Pyx_GIVEREF(__pyx_v_temp);
   PyTuple_SET_ITEM(__pyx_t_3, 1, __pyx_v_temp);
-  __pyx_t_2 = __Pyx_PyString_Format(__pyx_kp_s_gunzip_c_s_s, __pyx_t_3); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 162, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyString_Format(__pyx_kp_s_gunzip_c_s_s, __pyx_t_3); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 163, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  __pyx_t_3 = PyTuple_New(1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 162, __pyx_L1_error)
+  __pyx_t_3 = PyTuple_New(1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 163, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_GIVEREF(__pyx_t_2);
   PyTuple_SET_ITEM(__pyx_t_3, 0, __pyx_t_2);
   __pyx_t_2 = 0;
-  __pyx_t_2 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 162, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 163, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_shell, Py_True) < 0) __PYX_ERR(0, 162, __pyx_L1_error)
-  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_3, __pyx_t_2); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 162, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_2, __pyx_n_s_shell, Py_True) < 0) __PYX_ERR(0, 163, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_3, __pyx_t_2); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 163, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -4809,7 +4809,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_create_gzip_pipe(CYTHON_UNUSED PyOb
   __pyx_v_subproc = __pyx_t_5;
   __pyx_t_5 = 0;
 
-  /* "pyaffy/celparser.pyx":163
+  /* "pyaffy/celparser.pyx":164
  *     os.mkfifo(temp)
  *     subproc = subprocess.Popen('gunzip -c "%s" > "%s"' %(path, temp), shell = True)
  *     return temp             # <<<<<<<<<<<<<<
@@ -4821,7 +4821,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_create_gzip_pipe(CYTHON_UNUSED PyOb
   __pyx_r = __pyx_v_temp;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":153
+  /* "pyaffy/celparser.pyx":154
  *         y[idx] = float('nan')
  * 
  * def create_gzip_pipe(path):             # <<<<<<<<<<<<<<
@@ -4846,7 +4846,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_create_gzip_pipe(CYTHON_UNUSED PyOb
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":165
+/* "pyaffy/celparser.pyx":166
  *     return temp
  * 
  * def parse_celfile_v3(path, compressed = True, newline_chars = 2):             # <<<<<<<<<<<<<<
@@ -4902,7 +4902,7 @@ static PyObject *__pyx_pw_6pyaffy_9celparser_3parse_celfile_v3(PyObject *__pyx_s
         }
       }
       if (unlikely(kw_args > 0)) {
-        if (unlikely(__Pyx_ParseOptionalKeywords(__pyx_kwds, __pyx_pyargnames, 0, values, pos_args, "parse_celfile_v3") < 0)) __PYX_ERR(0, 165, __pyx_L3_error)
+        if (unlikely(__Pyx_ParseOptionalKeywords(__pyx_kwds, __pyx_pyargnames, 0, values, pos_args, "parse_celfile_v3") < 0)) __PYX_ERR(0, 166, __pyx_L3_error)
       }
     } else {
       switch (PyTuple_GET_SIZE(__pyx_args)) {
@@ -4921,7 +4921,7 @@ static PyObject *__pyx_pw_6pyaffy_9celparser_3parse_celfile_v3(PyObject *__pyx_s
   }
   goto __pyx_L4_argument_unpacking_done;
   __pyx_L5_argtuple_error:;
-  __Pyx_RaiseArgtupleInvalid("parse_celfile_v3", 0, 1, 3, PyTuple_GET_SIZE(__pyx_args)); __PYX_ERR(0, 165, __pyx_L3_error)
+  __Pyx_RaiseArgtupleInvalid("parse_celfile_v3", 0, 1, 3, PyTuple_GET_SIZE(__pyx_args)); __PYX_ERR(0, 166, __pyx_L3_error)
   __pyx_L3_error:;
   __Pyx_AddTraceback("pyaffy.celparser.parse_celfile_v3", __pyx_clineno, __pyx_lineno, __pyx_filename);
   __Pyx_RefNannyFinishContext();
@@ -4936,7 +4936,7 @@ static PyObject *__pyx_pw_6pyaffy_9celparser_3parse_celfile_v3(PyObject *__pyx_s
 
 static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyObject *__pyx_self, PyObject *__pyx_v_path, PyObject *__pyx_v_compressed, PyObject *__pyx_v_newline_chars) {
   int __pyx_v_buf_size;
-  size_t __pyx_v_nl;
+  CYTHON_UNUSED size_t __pyx_v_nl;
   char *__pyx_v_buf;
   FILE *__pyx_v_fp;
   int __pyx_v_num_cells;
@@ -4970,7 +4970,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
   PyObject *__pyx_t_21 = NULL;
   __Pyx_RefNannySetupContext("parse_celfile_v3", 0);
 
-  /* "pyaffy/celparser.pyx":170
+  /* "pyaffy/celparser.pyx":171
  *     Currently, no support for parsing information on outliers and masked data.
  *     """
  *     assert isinstance(path, (text, str))             # <<<<<<<<<<<<<<
@@ -4979,7 +4979,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
  */
   #ifndef CYTHON_WITHOUT_ASSERTIONS
   if (unlikely(!Py_OptimizeFlag)) {
-    __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_text); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 170, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_text); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 171, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __pyx_t_3 = PyObject_IsInstance(__pyx_v_path, __pyx_t_1); 
     __pyx_t_4 = (__pyx_t_3 != 0);
@@ -4995,12 +4995,12 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     if (unlikely(!(__pyx_t_2 != 0))) {
       PyErr_SetNone(PyExc_AssertionError);
-      __PYX_ERR(0, 170, __pyx_L1_error)
+      __PYX_ERR(0, 171, __pyx_L1_error)
     }
   }
   #endif
 
-  /* "pyaffy/celparser.pyx":171
+  /* "pyaffy/celparser.pyx":172
  *     """
  *     assert isinstance(path, (text, str))
  *     assert isinstance(compressed, bool)             # <<<<<<<<<<<<<<
@@ -5011,25 +5011,8 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
   if (unlikely(!Py_OptimizeFlag)) {
     __pyx_t_1 = ((PyObject*)&PyBool_Type);
     __Pyx_INCREF(__pyx_t_1);
-    __pyx_t_2 = PyObject_IsInstance(__pyx_v_compressed, __pyx_t_1); if (unlikely(__pyx_t_2 == ((int)-1))) __PYX_ERR(0, 171, __pyx_L1_error)
+    __pyx_t_2 = PyObject_IsInstance(__pyx_v_compressed, __pyx_t_1); if (unlikely(__pyx_t_2 == ((int)-1))) __PYX_ERR(0, 172, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    if (unlikely(!(__pyx_t_2 != 0))) {
-      PyErr_SetNone(PyExc_AssertionError);
-      __PYX_ERR(0, 171, __pyx_L1_error)
-    }
-  }
-  #endif
-
-  /* "pyaffy/celparser.pyx":172
- *     assert isinstance(path, (text, str))
- *     assert isinstance(compressed, bool)
- *     assert isinstance(newline_chars, int)             # <<<<<<<<<<<<<<
- * 
- *     cdef int buf_size = 1000
- */
-  #ifndef CYTHON_WITHOUT_ASSERTIONS
-  if (unlikely(!Py_OptimizeFlag)) {
-    __pyx_t_2 = PyInt_Check(__pyx_v_newline_chars); 
     if (unlikely(!(__pyx_t_2 != 0))) {
       PyErr_SetNone(PyExc_AssertionError);
       __PYX_ERR(0, 172, __pyx_L1_error)
@@ -5037,27 +5020,44 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
   }
   #endif
 
-  /* "pyaffy/celparser.pyx":174
+  /* "pyaffy/celparser.pyx":173
+ *     assert isinstance(path, (text, str))
+ *     assert isinstance(compressed, bool)
+ *     assert isinstance(newline_chars, int)             # <<<<<<<<<<<<<<
+ * 
+ *     cdef int buf_size = 10000
+ */
+  #ifndef CYTHON_WITHOUT_ASSERTIONS
+  if (unlikely(!Py_OptimizeFlag)) {
+    __pyx_t_2 = PyInt_Check(__pyx_v_newline_chars); 
+    if (unlikely(!(__pyx_t_2 != 0))) {
+      PyErr_SetNone(PyExc_AssertionError);
+      __PYX_ERR(0, 173, __pyx_L1_error)
+    }
+  }
+  #endif
+
+  /* "pyaffy/celparser.pyx":175
  *     assert isinstance(newline_chars, int)
  * 
- *     cdef int buf_size = 1000             # <<<<<<<<<<<<<<
+ *     cdef int buf_size = 10000             # <<<<<<<<<<<<<<
  *     cdef size_t nl = <size_t>newline_chars
  *     cdef char* buf = <char*>malloc(buf_size)
  */
-  __pyx_v_buf_size = 0x3E8;
+  __pyx_v_buf_size = 0x2710;
 
-  /* "pyaffy/celparser.pyx":175
+  /* "pyaffy/celparser.pyx":176
  * 
- *     cdef int buf_size = 1000
+ *     cdef int buf_size = 10000
  *     cdef size_t nl = <size_t>newline_chars             # <<<<<<<<<<<<<<
  *     cdef char* buf = <char*>malloc(buf_size)
  *     cdef FILE* fp
  */
-  __pyx_t_5 = __Pyx_PyInt_As_size_t(__pyx_v_newline_chars); if (unlikely((__pyx_t_5 == (size_t)-1) && PyErr_Occurred())) __PYX_ERR(0, 175, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyInt_As_size_t(__pyx_v_newline_chars); if (unlikely((__pyx_t_5 == (size_t)-1) && PyErr_Occurred())) __PYX_ERR(0, 176, __pyx_L1_error)
   __pyx_v_nl = ((size_t)__pyx_t_5);
 
-  /* "pyaffy/celparser.pyx":176
- *     cdef int buf_size = 1000
+  /* "pyaffy/celparser.pyx":177
+ *     cdef int buf_size = 10000
  *     cdef size_t nl = <size_t>newline_chars
  *     cdef char* buf = <char*>malloc(buf_size)             # <<<<<<<<<<<<<<
  *     cdef FILE* fp
@@ -5065,7 +5065,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
  */
   __pyx_v_buf = ((char *)malloc(__pyx_v_buf_size));
 
-  /* "pyaffy/celparser.pyx":183
+  /* "pyaffy/celparser.pyx":184
  *     cdef float[::1] y
  * 
  *     final_path = path             # <<<<<<<<<<<<<<
@@ -5075,26 +5075,26 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
   __Pyx_INCREF(__pyx_v_path);
   __pyx_v_final_path = __pyx_v_path;
 
-  /* "pyaffy/celparser.pyx":184
+  /* "pyaffy/celparser.pyx":185
  * 
  *     final_path = path
  *     if compressed:             # <<<<<<<<<<<<<<
  *         # file is compressed (we assume gzip)
  *         # create a named pipe
  */
-  __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_compressed); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 184, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_compressed); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 185, __pyx_L1_error)
   if (__pyx_t_2) {
 
-    /* "pyaffy/celparser.pyx":187
+    /* "pyaffy/celparser.pyx":188
  *         # file is compressed (we assume gzip)
  *         # create a named pipe
  *         logger.debug('Parsing file: %s', path)             # <<<<<<<<<<<<<<
  *         final_path = create_gzip_pipe(path)
  * 
  */
-    __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 187, __pyx_L1_error)
+    __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 188, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
-    __pyx_t_7 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_debug); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 187, __pyx_L1_error)
+    __pyx_t_7 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_debug); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 188, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_7);
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     __pyx_t_6 = NULL;
@@ -5112,7 +5112,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_7)) {
       PyObject *__pyx_temp[3] = {__pyx_t_6, __pyx_kp_s_Parsing_file_s, __pyx_v_path};
-      __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_7, __pyx_temp+1-__pyx_t_8, 2+__pyx_t_8); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 187, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_7, __pyx_temp+1-__pyx_t_8, 2+__pyx_t_8); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 188, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_GOTREF(__pyx_t_1);
     } else
@@ -5120,13 +5120,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_7)) {
       PyObject *__pyx_temp[3] = {__pyx_t_6, __pyx_kp_s_Parsing_file_s, __pyx_v_path};
-      __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_7, __pyx_temp+1-__pyx_t_8, 2+__pyx_t_8); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 187, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_7, __pyx_temp+1-__pyx_t_8, 2+__pyx_t_8); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 188, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_GOTREF(__pyx_t_1);
     } else
     #endif
     {
-      __pyx_t_9 = PyTuple_New(2+__pyx_t_8); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 187, __pyx_L1_error)
+      __pyx_t_9 = PyTuple_New(2+__pyx_t_8); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 188, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_9);
       if (__pyx_t_6) {
         __Pyx_GIVEREF(__pyx_t_6); PyTuple_SET_ITEM(__pyx_t_9, 0, __pyx_t_6); __pyx_t_6 = NULL;
@@ -5137,21 +5137,21 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
       __Pyx_INCREF(__pyx_v_path);
       __Pyx_GIVEREF(__pyx_v_path);
       PyTuple_SET_ITEM(__pyx_t_9, 1+__pyx_t_8, __pyx_v_path);
-      __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_7, __pyx_t_9, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 187, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_7, __pyx_t_9, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 188, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
       __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
     }
     __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "pyaffy/celparser.pyx":188
+    /* "pyaffy/celparser.pyx":189
  *         # create a named pipe
  *         logger.debug('Parsing file: %s', path)
  *         final_path = create_gzip_pipe(path)             # <<<<<<<<<<<<<<
  * 
  *     path_bytes = final_path.encode('UTF-8')
  */
-    __pyx_t_7 = __Pyx_GetModuleGlobalName(__pyx_n_s_create_gzip_pipe); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 188, __pyx_L1_error)
+    __pyx_t_7 = __Pyx_GetModuleGlobalName(__pyx_n_s_create_gzip_pipe); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 189, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_7);
     __pyx_t_9 = NULL;
     if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_7))) {
@@ -5164,13 +5164,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
       }
     }
     if (!__pyx_t_9) {
-      __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_7, __pyx_v_path); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 188, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_7, __pyx_v_path); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 189, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
     } else {
       #if CYTHON_FAST_PYCALL
       if (PyFunction_Check(__pyx_t_7)) {
         PyObject *__pyx_temp[2] = {__pyx_t_9, __pyx_v_path};
-        __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_7, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 188, __pyx_L1_error)
+        __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_7, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 189, __pyx_L1_error)
         __Pyx_XDECREF(__pyx_t_9); __pyx_t_9 = 0;
         __Pyx_GOTREF(__pyx_t_1);
       } else
@@ -5178,19 +5178,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
       #if CYTHON_FAST_PYCCALL
       if (__Pyx_PyFastCFunction_Check(__pyx_t_7)) {
         PyObject *__pyx_temp[2] = {__pyx_t_9, __pyx_v_path};
-        __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_7, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 188, __pyx_L1_error)
+        __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_7, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 189, __pyx_L1_error)
         __Pyx_XDECREF(__pyx_t_9); __pyx_t_9 = 0;
         __Pyx_GOTREF(__pyx_t_1);
       } else
       #endif
       {
-        __pyx_t_6 = PyTuple_New(1+1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 188, __pyx_L1_error)
+        __pyx_t_6 = PyTuple_New(1+1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 189, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_6);
         __Pyx_GIVEREF(__pyx_t_9); PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_t_9); __pyx_t_9 = NULL;
         __Pyx_INCREF(__pyx_v_path);
         __Pyx_GIVEREF(__pyx_v_path);
         PyTuple_SET_ITEM(__pyx_t_6, 0+1, __pyx_v_path);
-        __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_7, __pyx_t_6, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 188, __pyx_L1_error)
+        __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_7, __pyx_t_6, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 189, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_1);
         __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
       }
@@ -5199,7 +5199,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
     __Pyx_DECREF_SET(__pyx_v_final_path, __pyx_t_1);
     __pyx_t_1 = 0;
 
-    /* "pyaffy/celparser.pyx":184
+    /* "pyaffy/celparser.pyx":185
  * 
  *     final_path = path
  *     if compressed:             # <<<<<<<<<<<<<<
@@ -5208,32 +5208,32 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
  */
   }
 
-  /* "pyaffy/celparser.pyx":190
+  /* "pyaffy/celparser.pyx":191
  *         final_path = create_gzip_pipe(path)
  * 
  *     path_bytes = final_path.encode('UTF-8')             # <<<<<<<<<<<<<<
  *     cdef char* c_path_bytes = path_bytes
  *     fp = fopen(c_path_bytes, 'r')
  */
-  __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_final_path, __pyx_n_s_encode); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 190, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_final_path, __pyx_n_s_encode); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 191, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_7 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_tuple__10, NULL); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 190, __pyx_L1_error)
+  __pyx_t_7 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_tuple__10, NULL); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 191, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_7);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_v_path_bytes = __pyx_t_7;
   __pyx_t_7 = 0;
 
-  /* "pyaffy/celparser.pyx":191
+  /* "pyaffy/celparser.pyx":192
  * 
  *     path_bytes = final_path.encode('UTF-8')
  *     cdef char* c_path_bytes = path_bytes             # <<<<<<<<<<<<<<
  *     fp = fopen(c_path_bytes, 'r')
  * 
  */
-  __pyx_t_10 = __Pyx_PyObject_AsWritableString(__pyx_v_path_bytes); if (unlikely((!__pyx_t_10) && PyErr_Occurred())) __PYX_ERR(0, 191, __pyx_L1_error)
+  __pyx_t_10 = __Pyx_PyObject_AsWritableString(__pyx_v_path_bytes); if (unlikely((!__pyx_t_10) && PyErr_Occurred())) __PYX_ERR(0, 192, __pyx_L1_error)
   __pyx_v_c_path_bytes = __pyx_t_10;
 
-  /* "pyaffy/celparser.pyx":192
+  /* "pyaffy/celparser.pyx":193
  *     path_bytes = final_path.encode('UTF-8')
  *     cdef char* c_path_bytes = path_bytes
  *     fp = fopen(c_path_bytes, 'r')             # <<<<<<<<<<<<<<
@@ -5242,7 +5242,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
  */
   __pyx_v_fp = fopen(__pyx_v_c_path_bytes, ((char const *)"r"));
 
-  /* "pyaffy/celparser.pyx":194
+  /* "pyaffy/celparser.pyx":195
  *     fp = fopen(c_path_bytes, 'r')
  * 
  *     try:             # <<<<<<<<<<<<<<
@@ -5251,61 +5251,123 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
  */
   /*try:*/ {
 
-    /* "pyaffy/celparser.pyx":198
+    /* "pyaffy/celparser.pyx":199
  * 
  *         # check header information
- *         fgets(buf, buf_size, fp)             # <<<<<<<<<<<<<<
- *         buf[strlen(buf) - nl] = '\0' # remove newline
- *         assert strcmp(buf, "[CEL]") == 0
+ *         fgets(buf, buf_size-1, fp)             # <<<<<<<<<<<<<<
+ *         if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
+ *         if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
  */
-    fgets(__pyx_v_buf, __pyx_v_buf_size, __pyx_v_fp);
-
-    /* "pyaffy/celparser.pyx":199
- *         # check header information
- *         fgets(buf, buf_size, fp)
- *         buf[strlen(buf) - nl] = '\0' # remove newline             # <<<<<<<<<<<<<<
- *         assert strcmp(buf, "[CEL]") == 0
- *         fgets(buf, buf_size, fp)
- */
-    (__pyx_v_buf[(strlen(__pyx_v_buf) - __pyx_v_nl)]) = '\x00';
+    fgets(__pyx_v_buf, (__pyx_v_buf_size - 1), __pyx_v_fp);
 
     /* "pyaffy/celparser.pyx":200
- *         fgets(buf, buf_size, fp)
- *         buf[strlen(buf) - nl] = '\0' # remove newline
+ *         # check header information
+ *         fgets(buf, buf_size-1, fp)
+ *         if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline             # <<<<<<<<<<<<<<
+ *         if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
+ *         assert strcmp(buf, "[CEL]") == 0
+ */
+    __pyx_t_3 = (((__pyx_v_buf[(strlen(__pyx_v_buf) - 1)]) == 10) != 0);
+    if (!__pyx_t_3) {
+    } else {
+      __pyx_t_2 = __pyx_t_3;
+      goto __pyx_L10_bool_binop_done;
+    }
+    __pyx_t_3 = (((__pyx_v_buf[(strlen(__pyx_v_buf) - 1)]) == 13) != 0);
+    __pyx_t_2 = __pyx_t_3;
+    __pyx_L10_bool_binop_done:;
+    if (__pyx_t_2) {
+      (__pyx_v_buf[(strlen(__pyx_v_buf) - 1)]) = 0;
+    }
+
+    /* "pyaffy/celparser.pyx":201
+ *         fgets(buf, buf_size-1, fp)
+ *         if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
+ *         if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline             # <<<<<<<<<<<<<<
+ *         assert strcmp(buf, "[CEL]") == 0
+ *         fgets(buf, buf_size-1, fp)
+ */
+    __pyx_t_3 = (((__pyx_v_buf[(strlen(__pyx_v_buf) - 1)]) == 10) != 0);
+    if (!__pyx_t_3) {
+    } else {
+      __pyx_t_2 = __pyx_t_3;
+      goto __pyx_L13_bool_binop_done;
+    }
+    __pyx_t_3 = (((__pyx_v_buf[(strlen(__pyx_v_buf) - 1)]) == 13) != 0);
+    __pyx_t_2 = __pyx_t_3;
+    __pyx_L13_bool_binop_done:;
+    if (__pyx_t_2) {
+      (__pyx_v_buf[(strlen(__pyx_v_buf) - 1)]) = 0;
+    }
+
+    /* "pyaffy/celparser.pyx":202
+ *         if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
+ *         if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
  *         assert strcmp(buf, "[CEL]") == 0             # <<<<<<<<<<<<<<
- *         fgets(buf, buf_size, fp)
- *         buf[strlen(buf) - nl] = '\0' # remove newline
+ *         fgets(buf, buf_size-1, fp)
+ *         if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
  */
     #ifndef CYTHON_WITHOUT_ASSERTIONS
     if (unlikely(!Py_OptimizeFlag)) {
       if (unlikely(!((strcmp(__pyx_v_buf, ((char const *)"[CEL]")) == 0) != 0))) {
         PyErr_SetNone(PyExc_AssertionError);
-        __PYX_ERR(0, 200, __pyx_L7_error)
+        __PYX_ERR(0, 202, __pyx_L7_error)
       }
     }
     #endif
 
-    /* "pyaffy/celparser.pyx":201
- *         buf[strlen(buf) - nl] = '\0' # remove newline
+    /* "pyaffy/celparser.pyx":203
+ *         if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
  *         assert strcmp(buf, "[CEL]") == 0
- *         fgets(buf, buf_size, fp)             # <<<<<<<<<<<<<<
- *         buf[strlen(buf) - nl] = '\0' # remove newline
+ *         fgets(buf, buf_size-1, fp)             # <<<<<<<<<<<<<<
+ *         if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
+ *         if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
+ */
+    fgets(__pyx_v_buf, (__pyx_v_buf_size - 1), __pyx_v_fp);
+
+    /* "pyaffy/celparser.pyx":204
+ *         assert strcmp(buf, "[CEL]") == 0
+ *         fgets(buf, buf_size-1, fp)
+ *         if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline             # <<<<<<<<<<<<<<
+ *         if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
  *         assert strcmp(buf, "Version=3") == 0
  */
-    fgets(__pyx_v_buf, __pyx_v_buf_size, __pyx_v_fp);
+    __pyx_t_3 = (((__pyx_v_buf[(strlen(__pyx_v_buf) - 1)]) == 10) != 0);
+    if (!__pyx_t_3) {
+    } else {
+      __pyx_t_2 = __pyx_t_3;
+      goto __pyx_L16_bool_binop_done;
+    }
+    __pyx_t_3 = (((__pyx_v_buf[(strlen(__pyx_v_buf) - 1)]) == 13) != 0);
+    __pyx_t_2 = __pyx_t_3;
+    __pyx_L16_bool_binop_done:;
+    if (__pyx_t_2) {
+      (__pyx_v_buf[(strlen(__pyx_v_buf) - 1)]) = 0;
+    }
 
-    /* "pyaffy/celparser.pyx":202
- *         assert strcmp(buf, "[CEL]") == 0
- *         fgets(buf, buf_size, fp)
- *         buf[strlen(buf) - nl] = '\0' # remove newline             # <<<<<<<<<<<<<<
+    /* "pyaffy/celparser.pyx":205
+ *         fgets(buf, buf_size-1, fp)
+ *         if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
+ *         if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline             # <<<<<<<<<<<<<<
  *         assert strcmp(buf, "Version=3") == 0
  * 
  */
-    (__pyx_v_buf[(strlen(__pyx_v_buf) - __pyx_v_nl)]) = '\x00';
+    __pyx_t_3 = (((__pyx_v_buf[(strlen(__pyx_v_buf) - 1)]) == 10) != 0);
+    if (!__pyx_t_3) {
+    } else {
+      __pyx_t_2 = __pyx_t_3;
+      goto __pyx_L19_bool_binop_done;
+    }
+    __pyx_t_3 = (((__pyx_v_buf[(strlen(__pyx_v_buf) - 1)]) == 13) != 0);
+    __pyx_t_2 = __pyx_t_3;
+    __pyx_L19_bool_binop_done:;
+    if (__pyx_t_2) {
+      (__pyx_v_buf[(strlen(__pyx_v_buf) - 1)]) = 0;
+    }
 
-    /* "pyaffy/celparser.pyx":203
- *         fgets(buf, buf_size, fp)
- *         buf[strlen(buf) - nl] = '\0' # remove newline
+    /* "pyaffy/celparser.pyx":206
+ *         if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
+ *         if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
  *         assert strcmp(buf, "Version=3") == 0             # <<<<<<<<<<<<<<
  * 
  *         # get the number of cells
@@ -5314,43 +5376,74 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
     if (unlikely(!Py_OptimizeFlag)) {
       if (unlikely(!((strcmp(__pyx_v_buf, ((char const *)"Version=3")) == 0) != 0))) {
         PyErr_SetNone(PyExc_AssertionError);
-        __PYX_ERR(0, 203, __pyx_L7_error)
+        __PYX_ERR(0, 206, __pyx_L7_error)
       }
     }
     #endif
 
-    /* "pyaffy/celparser.pyx":207
+    /* "pyaffy/celparser.pyx":210
  *         # get the number of cells
  *         # find NumberCells=...
  *         while sscanf(buf, "NumberCells=%d", &num_cells) <= 0:             # <<<<<<<<<<<<<<
- *             fgets(buf, buf_size, fp)
- *             buf[strlen(buf) - nl] = '\0'
+ *             fgets(buf, buf_size-1, fp)
+ *             if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
  */
     while (1) {
       __pyx_t_2 = ((sscanf(__pyx_v_buf, ((char const *)"NumberCells=%d"), (&__pyx_v_num_cells)) <= 0) != 0);
       if (!__pyx_t_2) break;
 
-      /* "pyaffy/celparser.pyx":208
+      /* "pyaffy/celparser.pyx":211
  *         # find NumberCells=...
  *         while sscanf(buf, "NumberCells=%d", &num_cells) <= 0:
- *             fgets(buf, buf_size, fp)             # <<<<<<<<<<<<<<
- *             buf[strlen(buf) - nl] = '\0'
+ *             fgets(buf, buf_size-1, fp)             # <<<<<<<<<<<<<<
+ *             if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
+ *             if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
+ */
+      fgets(__pyx_v_buf, (__pyx_v_buf_size - 1), __pyx_v_fp);
+
+      /* "pyaffy/celparser.pyx":212
+ *         while sscanf(buf, "NumberCells=%d", &num_cells) <= 0:
+ *             fgets(buf, buf_size-1, fp)
+ *             if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline             # <<<<<<<<<<<<<<
+ *             if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
  * 
  */
-      fgets(__pyx_v_buf, __pyx_v_buf_size, __pyx_v_fp);
+      __pyx_t_3 = (((__pyx_v_buf[(strlen(__pyx_v_buf) - 1)]) == 10) != 0);
+      if (!__pyx_t_3) {
+      } else {
+        __pyx_t_2 = __pyx_t_3;
+        goto __pyx_L24_bool_binop_done;
+      }
+      __pyx_t_3 = (((__pyx_v_buf[(strlen(__pyx_v_buf) - 1)]) == 13) != 0);
+      __pyx_t_2 = __pyx_t_3;
+      __pyx_L24_bool_binop_done:;
+      if (__pyx_t_2) {
+        (__pyx_v_buf[(strlen(__pyx_v_buf) - 1)]) = 0;
+      }
 
-      /* "pyaffy/celparser.pyx":209
- *         while sscanf(buf, "NumberCells=%d", &num_cells) <= 0:
- *             fgets(buf, buf_size, fp)
- *             buf[strlen(buf) - nl] = '\0'             # <<<<<<<<<<<<<<
+      /* "pyaffy/celparser.pyx":213
+ *             fgets(buf, buf_size-1, fp)
+ *             if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
+ *             if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline             # <<<<<<<<<<<<<<
  * 
  *         fgets(buf, buf_size, fp) # skip CellHeader line
  */
-      (__pyx_v_buf[(strlen(__pyx_v_buf) - __pyx_v_nl)]) = '\x00';
+      __pyx_t_3 = (((__pyx_v_buf[(strlen(__pyx_v_buf) - 1)]) == 10) != 0);
+      if (!__pyx_t_3) {
+      } else {
+        __pyx_t_2 = __pyx_t_3;
+        goto __pyx_L27_bool_binop_done;
+      }
+      __pyx_t_3 = (((__pyx_v_buf[(strlen(__pyx_v_buf) - 1)]) == 13) != 0);
+      __pyx_t_2 = __pyx_t_3;
+      __pyx_L27_bool_binop_done:;
+      if (__pyx_t_2) {
+        (__pyx_v_buf[(strlen(__pyx_v_buf) - 1)]) = 0;
+      }
     }
 
-    /* "pyaffy/celparser.pyx":211
- *             buf[strlen(buf) - nl] = '\0'
+    /* "pyaffy/celparser.pyx":215
+ *             if(buf[strlen(buf)-1] == 10 or buf[strlen(buf)-1] == 13): buf[strlen(buf)-1] = 0 # remove newline
  * 
  *         fgets(buf, buf_size, fp) # skip CellHeader line             # <<<<<<<<<<<<<<
  * 
@@ -5358,68 +5451,68 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
  */
     fgets(__pyx_v_buf, __pyx_v_buf_size, __pyx_v_fp);
 
-    /* "pyaffy/celparser.pyx":214
+    /* "pyaffy/celparser.pyx":218
  * 
  *         # read intensities
  *         y = np.empty(num_cells, dtype = np.float32)             # <<<<<<<<<<<<<<
  *         for i in range(num_cells):
- *             fgets(buf, buf_size, fp)
+ *             fgets(buf, buf_size-1, fp)
  */
-    __pyx_t_7 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 214, __pyx_L7_error)
+    __pyx_t_7 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 218, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_7);
-    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_7, __pyx_n_s_empty); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 214, __pyx_L7_error)
+    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_7, __pyx_n_s_empty); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 218, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
-    __pyx_t_7 = __Pyx_PyInt_From_int(__pyx_v_num_cells); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 214, __pyx_L7_error)
+    __pyx_t_7 = __Pyx_PyInt_From_int(__pyx_v_num_cells); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 218, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_7);
-    __pyx_t_6 = PyTuple_New(1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 214, __pyx_L7_error)
+    __pyx_t_6 = PyTuple_New(1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 218, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_6);
     __Pyx_GIVEREF(__pyx_t_7);
     PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_t_7);
     __pyx_t_7 = 0;
-    __pyx_t_7 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 214, __pyx_L7_error)
+    __pyx_t_7 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 218, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_7);
-    __pyx_t_9 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 214, __pyx_L7_error)
+    __pyx_t_9 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 218, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_9);
-    __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_t_9, __pyx_n_s_float32); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 214, __pyx_L7_error)
+    __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_t_9, __pyx_n_s_float32); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 218, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_11);
     __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
-    if (PyDict_SetItem(__pyx_t_7, __pyx_n_s_dtype, __pyx_t_11) < 0) __PYX_ERR(0, 214, __pyx_L7_error)
+    if (PyDict_SetItem(__pyx_t_7, __pyx_n_s_dtype, __pyx_t_11) < 0) __PYX_ERR(0, 218, __pyx_L7_error)
     __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-    __pyx_t_11 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_6, __pyx_t_7); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 214, __pyx_L7_error)
+    __pyx_t_11 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_6, __pyx_t_7); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 218, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_11);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
     __pyx_t_12 = __Pyx_PyObject_to_MemoryviewSlice_dc_float(__pyx_t_11);
-    if (unlikely(!__pyx_t_12.memview)) __PYX_ERR(0, 214, __pyx_L7_error)
+    if (unlikely(!__pyx_t_12.memview)) __PYX_ERR(0, 218, __pyx_L7_error)
     __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
     __pyx_v_y = __pyx_t_12;
     __pyx_t_12.memview = NULL;
     __pyx_t_12.data = NULL;
 
-    /* "pyaffy/celparser.pyx":215
+    /* "pyaffy/celparser.pyx":219
  *         # read intensities
  *         y = np.empty(num_cells, dtype = np.float32)
  *         for i in range(num_cells):             # <<<<<<<<<<<<<<
- *             fgets(buf, buf_size, fp)
+ *             fgets(buf, buf_size-1, fp)
  *             # the following works even if rows starts with whitespace(s)
  */
     __pyx_t_8 = __pyx_v_num_cells;
     for (__pyx_t_13 = 0; __pyx_t_13 < __pyx_t_8; __pyx_t_13+=1) {
       __pyx_v_i = __pyx_t_13;
 
-      /* "pyaffy/celparser.pyx":216
+      /* "pyaffy/celparser.pyx":220
  *         y = np.empty(num_cells, dtype = np.float32)
  *         for i in range(num_cells):
- *             fgets(buf, buf_size, fp)             # <<<<<<<<<<<<<<
+ *             fgets(buf, buf_size-1, fp)             # <<<<<<<<<<<<<<
  *             # the following works even if rows starts with whitespace(s)
  *             sscanf(buf, "%*d %*d %f", &y[i])
  */
-      fgets(__pyx_v_buf, __pyx_v_buf_size, __pyx_v_fp);
+      fgets(__pyx_v_buf, (__pyx_v_buf_size - 1), __pyx_v_fp);
 
-      /* "pyaffy/celparser.pyx":218
- *             fgets(buf, buf_size, fp)
+      /* "pyaffy/celparser.pyx":222
+ *             fgets(buf, buf_size-1, fp)
  *             # the following works even if rows starts with whitespace(s)
  *             sscanf(buf, "%*d %*d %f", &y[i])             # <<<<<<<<<<<<<<
  * 
@@ -5430,7 +5523,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
     }
   }
 
-  /* "pyaffy/celparser.pyx":221
+  /* "pyaffy/celparser.pyx":225
  * 
  *     finally:
  *         fclose(fp)             # <<<<<<<<<<<<<<
@@ -5441,26 +5534,26 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
     /*normal exit:*/{
       fclose(__pyx_v_fp);
 
-      /* "pyaffy/celparser.pyx":222
+      /* "pyaffy/celparser.pyx":226
  *     finally:
  *         fclose(fp)
  *         if compressed:             # <<<<<<<<<<<<<<
  *             os.remove(final_path)
  * 
  */
-      __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_compressed); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 222, __pyx_L1_error)
+      __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_compressed); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 226, __pyx_L1_error)
       if (__pyx_t_2) {
 
-        /* "pyaffy/celparser.pyx":223
+        /* "pyaffy/celparser.pyx":227
  *         fclose(fp)
  *         if compressed:
  *             os.remove(final_path)             # <<<<<<<<<<<<<<
  * 
  *     return np.float32(y)
  */
-        __pyx_t_7 = __Pyx_GetModuleGlobalName(__pyx_n_s_os); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 223, __pyx_L1_error)
+        __pyx_t_7 = __Pyx_GetModuleGlobalName(__pyx_n_s_os); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 227, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_7);
-        __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_7, __pyx_n_s_remove); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 223, __pyx_L1_error)
+        __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_7, __pyx_n_s_remove); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 227, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_6);
         __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
         __pyx_t_7 = NULL;
@@ -5474,13 +5567,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
           }
         }
         if (!__pyx_t_7) {
-          __pyx_t_11 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_v_final_path); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 223, __pyx_L1_error)
+          __pyx_t_11 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_v_final_path); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 227, __pyx_L1_error)
           __Pyx_GOTREF(__pyx_t_11);
         } else {
           #if CYTHON_FAST_PYCALL
           if (PyFunction_Check(__pyx_t_6)) {
             PyObject *__pyx_temp[2] = {__pyx_t_7, __pyx_v_final_path};
-            __pyx_t_11 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 223, __pyx_L1_error)
+            __pyx_t_11 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 227, __pyx_L1_error)
             __Pyx_XDECREF(__pyx_t_7); __pyx_t_7 = 0;
             __Pyx_GOTREF(__pyx_t_11);
           } else
@@ -5488,19 +5581,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
           #if CYTHON_FAST_PYCCALL
           if (__Pyx_PyFastCFunction_Check(__pyx_t_6)) {
             PyObject *__pyx_temp[2] = {__pyx_t_7, __pyx_v_final_path};
-            __pyx_t_11 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 223, __pyx_L1_error)
+            __pyx_t_11 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 227, __pyx_L1_error)
             __Pyx_XDECREF(__pyx_t_7); __pyx_t_7 = 0;
             __Pyx_GOTREF(__pyx_t_11);
           } else
           #endif
           {
-            __pyx_t_1 = PyTuple_New(1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 223, __pyx_L1_error)
+            __pyx_t_1 = PyTuple_New(1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 227, __pyx_L1_error)
             __Pyx_GOTREF(__pyx_t_1);
             __Pyx_GIVEREF(__pyx_t_7); PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_t_7); __pyx_t_7 = NULL;
             __Pyx_INCREF(__pyx_v_final_path);
             __Pyx_GIVEREF(__pyx_v_final_path);
             PyTuple_SET_ITEM(__pyx_t_1, 0+1, __pyx_v_final_path);
-            __pyx_t_11 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_1, NULL); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 223, __pyx_L1_error)
+            __pyx_t_11 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_1, NULL); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 227, __pyx_L1_error)
             __Pyx_GOTREF(__pyx_t_11);
             __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
           }
@@ -5508,7 +5601,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
         __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
         __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
 
-        /* "pyaffy/celparser.pyx":222
+        /* "pyaffy/celparser.pyx":226
  *     finally:
  *         fclose(fp)
  *         if compressed:             # <<<<<<<<<<<<<<
@@ -5540,7 +5633,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
       __pyx_t_8 = __pyx_lineno; __pyx_t_13 = __pyx_clineno; __pyx_t_15 = __pyx_filename;
       {
 
-        /* "pyaffy/celparser.pyx":221
+        /* "pyaffy/celparser.pyx":225
  * 
  *     finally:
  *         fclose(fp)             # <<<<<<<<<<<<<<
@@ -5549,26 +5642,26 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
  */
         fclose(__pyx_v_fp);
 
-        /* "pyaffy/celparser.pyx":222
+        /* "pyaffy/celparser.pyx":226
  *     finally:
  *         fclose(fp)
  *         if compressed:             # <<<<<<<<<<<<<<
  *             os.remove(final_path)
  * 
  */
-        __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_compressed); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 222, __pyx_L15_error)
+        __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_compressed); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 226, __pyx_L33_error)
         if (__pyx_t_2) {
 
-          /* "pyaffy/celparser.pyx":223
+          /* "pyaffy/celparser.pyx":227
  *         fclose(fp)
  *         if compressed:
  *             os.remove(final_path)             # <<<<<<<<<<<<<<
  * 
  *     return np.float32(y)
  */
-          __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_os); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 223, __pyx_L15_error)
+          __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_os); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 227, __pyx_L33_error)
           __Pyx_GOTREF(__pyx_t_6);
-          __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_remove); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 223, __pyx_L15_error)
+          __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_remove); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 227, __pyx_L33_error)
           __Pyx_GOTREF(__pyx_t_1);
           __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
           __pyx_t_6 = NULL;
@@ -5582,13 +5675,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
             }
           }
           if (!__pyx_t_6) {
-            __pyx_t_11 = __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_v_final_path); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 223, __pyx_L15_error)
+            __pyx_t_11 = __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_v_final_path); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 227, __pyx_L33_error)
             __Pyx_GOTREF(__pyx_t_11);
           } else {
             #if CYTHON_FAST_PYCALL
             if (PyFunction_Check(__pyx_t_1)) {
               PyObject *__pyx_temp[2] = {__pyx_t_6, __pyx_v_final_path};
-              __pyx_t_11 = __Pyx_PyFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 223, __pyx_L15_error)
+              __pyx_t_11 = __Pyx_PyFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 227, __pyx_L33_error)
               __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
               __Pyx_GOTREF(__pyx_t_11);
             } else
@@ -5596,19 +5689,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
             #if CYTHON_FAST_PYCCALL
             if (__Pyx_PyFastCFunction_Check(__pyx_t_1)) {
               PyObject *__pyx_temp[2] = {__pyx_t_6, __pyx_v_final_path};
-              __pyx_t_11 = __Pyx_PyCFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 223, __pyx_L15_error)
+              __pyx_t_11 = __Pyx_PyCFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 227, __pyx_L33_error)
               __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
               __Pyx_GOTREF(__pyx_t_11);
             } else
             #endif
             {
-              __pyx_t_7 = PyTuple_New(1+1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 223, __pyx_L15_error)
+              __pyx_t_7 = PyTuple_New(1+1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 227, __pyx_L33_error)
               __Pyx_GOTREF(__pyx_t_7);
               __Pyx_GIVEREF(__pyx_t_6); PyTuple_SET_ITEM(__pyx_t_7, 0, __pyx_t_6); __pyx_t_6 = NULL;
               __Pyx_INCREF(__pyx_v_final_path);
               __Pyx_GIVEREF(__pyx_v_final_path);
               PyTuple_SET_ITEM(__pyx_t_7, 0+1, __pyx_v_final_path);
-              __pyx_t_11 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_7, NULL); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 223, __pyx_L15_error)
+              __pyx_t_11 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_7, NULL); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 227, __pyx_L33_error)
               __Pyx_GOTREF(__pyx_t_11);
               __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
             }
@@ -5616,7 +5709,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
           __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
           __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
 
-          /* "pyaffy/celparser.pyx":222
+          /* "pyaffy/celparser.pyx":226
  *     finally:
  *         fclose(fp)
  *         if compressed:             # <<<<<<<<<<<<<<
@@ -5638,7 +5731,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
       __pyx_t_16 = 0; __pyx_t_17 = 0; __pyx_t_18 = 0; __pyx_t_19 = 0; __pyx_t_20 = 0; __pyx_t_21 = 0;
       __pyx_lineno = __pyx_t_8; __pyx_clineno = __pyx_t_13; __pyx_filename = __pyx_t_15;
       goto __pyx_L1_error;
-      __pyx_L15_error:;
+      __pyx_L33_error:;
       if (PY_MAJOR_VERSION >= 3) {
         __Pyx_XGIVEREF(__pyx_t_19);
         __Pyx_XGIVEREF(__pyx_t_20);
@@ -5654,7 +5747,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
     __pyx_L8:;
   }
 
-  /* "pyaffy/celparser.pyx":225
+  /* "pyaffy/celparser.pyx":229
  *             os.remove(final_path)
  * 
  *     return np.float32(y)             # <<<<<<<<<<<<<<
@@ -5662,12 +5755,12 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
  * 
  */
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 225, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 229, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_7 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_float32); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 225, __pyx_L1_error)
+  __pyx_t_7 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_float32); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 229, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_7);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  __pyx_t_1 = __pyx_memoryview_fromslice(__pyx_v_y, 1, (PyObject *(*)(char *)) __pyx_memview_get_float, (int (*)(char *, PyObject *)) __pyx_memview_set_float, 0);; if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 225, __pyx_L1_error)
+  __pyx_t_1 = __pyx_memoryview_fromslice(__pyx_v_y, 1, (PyObject *(*)(char *)) __pyx_memview_get_float, (int (*)(char *, PyObject *)) __pyx_memview_set_float, 0);; if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 229, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_t_6 = NULL;
   if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_7))) {
@@ -5680,14 +5773,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
     }
   }
   if (!__pyx_t_6) {
-    __pyx_t_11 = __Pyx_PyObject_CallOneArg(__pyx_t_7, __pyx_t_1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 225, __pyx_L1_error)
+    __pyx_t_11 = __Pyx_PyObject_CallOneArg(__pyx_t_7, __pyx_t_1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 229, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_GOTREF(__pyx_t_11);
   } else {
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_7)) {
       PyObject *__pyx_temp[2] = {__pyx_t_6, __pyx_t_1};
-      __pyx_t_11 = __Pyx_PyFunction_FastCall(__pyx_t_7, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 225, __pyx_L1_error)
+      __pyx_t_11 = __Pyx_PyFunction_FastCall(__pyx_t_7, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 229, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_GOTREF(__pyx_t_11);
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
@@ -5696,20 +5789,20 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_7)) {
       PyObject *__pyx_temp[2] = {__pyx_t_6, __pyx_t_1};
-      __pyx_t_11 = __Pyx_PyCFunction_FastCall(__pyx_t_7, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 225, __pyx_L1_error)
+      __pyx_t_11 = __Pyx_PyCFunction_FastCall(__pyx_t_7, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 229, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_GOTREF(__pyx_t_11);
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     } else
     #endif
     {
-      __pyx_t_9 = PyTuple_New(1+1); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 225, __pyx_L1_error)
+      __pyx_t_9 = PyTuple_New(1+1); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 229, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_9);
       __Pyx_GIVEREF(__pyx_t_6); PyTuple_SET_ITEM(__pyx_t_9, 0, __pyx_t_6); __pyx_t_6 = NULL;
       __Pyx_GIVEREF(__pyx_t_1);
       PyTuple_SET_ITEM(__pyx_t_9, 0+1, __pyx_t_1);
       __pyx_t_1 = 0;
-      __pyx_t_11 = __Pyx_PyObject_Call(__pyx_t_7, __pyx_t_9, NULL); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 225, __pyx_L1_error)
+      __pyx_t_11 = __Pyx_PyObject_Call(__pyx_t_7, __pyx_t_9, NULL); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 229, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_11);
       __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
     }
@@ -5719,7 +5812,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
   __pyx_t_11 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":165
+  /* "pyaffy/celparser.pyx":166
  *     return temp
  * 
  * def parse_celfile_v3(path, compressed = True, newline_chars = 2):             # <<<<<<<<<<<<<<
@@ -5746,7 +5839,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_2parse_celfile_v3(CYTHON_UNUSED PyO
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":228
+/* "pyaffy/celparser.pyx":232
  * 
  * 
  * def parse_celfile_v4(path, compressed=True, ignore_outliers=True, ignore_masked=True):             # <<<<<<<<<<<<<<
@@ -5812,7 +5905,7 @@ static PyObject *__pyx_pw_6pyaffy_9celparser_5parse_celfile_v4(PyObject *__pyx_s
         }
       }
       if (unlikely(kw_args > 0)) {
-        if (unlikely(__Pyx_ParseOptionalKeywords(__pyx_kwds, __pyx_pyargnames, 0, values, pos_args, "parse_celfile_v4") < 0)) __PYX_ERR(0, 228, __pyx_L3_error)
+        if (unlikely(__Pyx_ParseOptionalKeywords(__pyx_kwds, __pyx_pyargnames, 0, values, pos_args, "parse_celfile_v4") < 0)) __PYX_ERR(0, 232, __pyx_L3_error)
       }
     } else {
       switch (PyTuple_GET_SIZE(__pyx_args)) {
@@ -5834,7 +5927,7 @@ static PyObject *__pyx_pw_6pyaffy_9celparser_5parse_celfile_v4(PyObject *__pyx_s
   }
   goto __pyx_L4_argument_unpacking_done;
   __pyx_L5_argtuple_error:;
-  __Pyx_RaiseArgtupleInvalid("parse_celfile_v4", 0, 1, 4, PyTuple_GET_SIZE(__pyx_args)); __PYX_ERR(0, 228, __pyx_L3_error)
+  __Pyx_RaiseArgtupleInvalid("parse_celfile_v4", 0, 1, 4, PyTuple_GET_SIZE(__pyx_args)); __PYX_ERR(0, 232, __pyx_L3_error)
   __pyx_L3_error:;
   __Pyx_AddTraceback("pyaffy.celparser.parse_celfile_v4", __pyx_clineno, __pyx_lineno, __pyx_filename);
   __Pyx_RefNannyFinishContext();
@@ -5900,7 +5993,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
   PyObject *__pyx_t_26 = NULL;
   __Pyx_RefNannySetupContext("parse_celfile_v4", 0);
 
-  /* "pyaffy/celparser.pyx":234
+  /* "pyaffy/celparser.pyx":238
  *     Data encoding is little endian.
  *     """
  *     assert isinstance(path, (text, str))             # <<<<<<<<<<<<<<
@@ -5909,7 +6002,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  */
   #ifndef CYTHON_WITHOUT_ASSERTIONS
   if (unlikely(!Py_OptimizeFlag)) {
-    __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_text); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 234, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_text); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 238, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __pyx_t_3 = PyObject_IsInstance(__pyx_v_path, __pyx_t_1); 
     __pyx_t_4 = (__pyx_t_3 != 0);
@@ -5925,12 +6018,12 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     if (unlikely(!(__pyx_t_2 != 0))) {
       PyErr_SetNone(PyExc_AssertionError);
-      __PYX_ERR(0, 234, __pyx_L1_error)
+      __PYX_ERR(0, 238, __pyx_L1_error)
     }
   }
   #endif
 
-  /* "pyaffy/celparser.pyx":235
+  /* "pyaffy/celparser.pyx":239
  *     """
  *     assert isinstance(path, (text, str))
  *     assert isinstance(compressed, bool)             # <<<<<<<<<<<<<<
@@ -5941,16 +6034,16 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
   if (unlikely(!Py_OptimizeFlag)) {
     __pyx_t_1 = ((PyObject*)&PyBool_Type);
     __Pyx_INCREF(__pyx_t_1);
-    __pyx_t_2 = PyObject_IsInstance(__pyx_v_compressed, __pyx_t_1); if (unlikely(__pyx_t_2 == ((int)-1))) __PYX_ERR(0, 235, __pyx_L1_error)
+    __pyx_t_2 = PyObject_IsInstance(__pyx_v_compressed, __pyx_t_1); if (unlikely(__pyx_t_2 == ((int)-1))) __PYX_ERR(0, 239, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     if (unlikely(!(__pyx_t_2 != 0))) {
       PyErr_SetNone(PyExc_AssertionError);
-      __PYX_ERR(0, 235, __pyx_L1_error)
+      __PYX_ERR(0, 239, __pyx_L1_error)
     }
   }
   #endif
 
-  /* "pyaffy/celparser.pyx":236
+  /* "pyaffy/celparser.pyx":240
  *     assert isinstance(path, (text, str))
  *     assert isinstance(compressed, bool)
  *     assert isinstance(ignore_outliers, bool)             # <<<<<<<<<<<<<<
@@ -5961,16 +6054,16 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
   if (unlikely(!Py_OptimizeFlag)) {
     __pyx_t_1 = ((PyObject*)&PyBool_Type);
     __Pyx_INCREF(__pyx_t_1);
-    __pyx_t_2 = PyObject_IsInstance(__pyx_v_ignore_outliers, __pyx_t_1); if (unlikely(__pyx_t_2 == ((int)-1))) __PYX_ERR(0, 236, __pyx_L1_error)
+    __pyx_t_2 = PyObject_IsInstance(__pyx_v_ignore_outliers, __pyx_t_1); if (unlikely(__pyx_t_2 == ((int)-1))) __PYX_ERR(0, 240, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     if (unlikely(!(__pyx_t_2 != 0))) {
       PyErr_SetNone(PyExc_AssertionError);
-      __PYX_ERR(0, 236, __pyx_L1_error)
+      __PYX_ERR(0, 240, __pyx_L1_error)
     }
   }
   #endif
 
-  /* "pyaffy/celparser.pyx":237
+  /* "pyaffy/celparser.pyx":241
  *     assert isinstance(compressed, bool)
  *     assert isinstance(ignore_outliers, bool)
  *     assert isinstance(ignore_masked, bool)             # <<<<<<<<<<<<<<
@@ -5981,16 +6074,16 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
   if (unlikely(!Py_OptimizeFlag)) {
     __pyx_t_1 = ((PyObject*)&PyBool_Type);
     __Pyx_INCREF(__pyx_t_1);
-    __pyx_t_2 = PyObject_IsInstance(__pyx_v_ignore_masked, __pyx_t_1); if (unlikely(__pyx_t_2 == ((int)-1))) __PYX_ERR(0, 237, __pyx_L1_error)
+    __pyx_t_2 = PyObject_IsInstance(__pyx_v_ignore_masked, __pyx_t_1); if (unlikely(__pyx_t_2 == ((int)-1))) __PYX_ERR(0, 241, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     if (unlikely(!(__pyx_t_2 != 0))) {
       PyErr_SetNone(PyExc_AssertionError);
-      __PYX_ERR(0, 237, __pyx_L1_error)
+      __PYX_ERR(0, 241, __pyx_L1_error)
     }
   }
   #endif
 
-  /* "pyaffy/celparser.pyx":240
+  /* "pyaffy/celparser.pyx":244
  * 
  *     cdef FILE* fp
  *     cdef void* buf = malloc(10)             # <<<<<<<<<<<<<<
@@ -5999,7 +6092,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  */
   __pyx_v_buf = malloc(10);
 
-  /* "pyaffy/celparser.pyx":265
+  /* "pyaffy/celparser.pyx":269
  *     #cdef int x, y
  * 
  *     final_path = path             # <<<<<<<<<<<<<<
@@ -6009,26 +6102,26 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
   __Pyx_INCREF(__pyx_v_path);
   __pyx_v_final_path = __pyx_v_path;
 
-  /* "pyaffy/celparser.pyx":266
+  /* "pyaffy/celparser.pyx":270
  * 
  *     final_path = path
  *     if compressed:             # <<<<<<<<<<<<<<
  *         # file is compressed (we assume gzip)
  *         # create a named pipe
  */
-  __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_compressed); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 266, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_compressed); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 270, __pyx_L1_error)
   if (__pyx_t_2) {
 
-    /* "pyaffy/celparser.pyx":269
+    /* "pyaffy/celparser.pyx":273
  *         # file is compressed (we assume gzip)
  *         # create a named pipe
  *         logger.debug('Parsing file: %s', path)             # <<<<<<<<<<<<<<
  *         final_path = create_gzip_pipe(path)
  * 
  */
-    __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 269, __pyx_L1_error)
+    __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 273, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 269, __pyx_L1_error)
+    __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 273, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     __pyx_t_5 = NULL;
@@ -6046,7 +6139,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_6)) {
       PyObject *__pyx_temp[3] = {__pyx_t_5, __pyx_kp_s_Parsing_file_s, __pyx_v_path};
-      __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 269, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 273, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
       __Pyx_GOTREF(__pyx_t_1);
     } else
@@ -6054,13 +6147,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_6)) {
       PyObject *__pyx_temp[3] = {__pyx_t_5, __pyx_kp_s_Parsing_file_s, __pyx_v_path};
-      __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 269, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 273, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
       __Pyx_GOTREF(__pyx_t_1);
     } else
     #endif
     {
-      __pyx_t_8 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 269, __pyx_L1_error)
+      __pyx_t_8 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 273, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_8);
       if (__pyx_t_5) {
         __Pyx_GIVEREF(__pyx_t_5); PyTuple_SET_ITEM(__pyx_t_8, 0, __pyx_t_5); __pyx_t_5 = NULL;
@@ -6071,21 +6164,21 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __Pyx_INCREF(__pyx_v_path);
       __Pyx_GIVEREF(__pyx_v_path);
       PyTuple_SET_ITEM(__pyx_t_8, 1+__pyx_t_7, __pyx_v_path);
-      __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_8, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 269, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_8, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 273, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
       __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
     }
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "pyaffy/celparser.pyx":270
+    /* "pyaffy/celparser.pyx":274
  *         # create a named pipe
  *         logger.debug('Parsing file: %s', path)
  *         final_path = create_gzip_pipe(path)             # <<<<<<<<<<<<<<
  * 
  *     path_bytes = final_path.encode('UTF-8')
  */
-    __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_create_gzip_pipe); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 270, __pyx_L1_error)
+    __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_create_gzip_pipe); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 274, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
     __pyx_t_8 = NULL;
     if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_6))) {
@@ -6098,13 +6191,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       }
     }
     if (!__pyx_t_8) {
-      __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_v_path); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 270, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_v_path); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 274, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
     } else {
       #if CYTHON_FAST_PYCALL
       if (PyFunction_Check(__pyx_t_6)) {
         PyObject *__pyx_temp[2] = {__pyx_t_8, __pyx_v_path};
-        __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 270, __pyx_L1_error)
+        __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 274, __pyx_L1_error)
         __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
         __Pyx_GOTREF(__pyx_t_1);
       } else
@@ -6112,19 +6205,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       #if CYTHON_FAST_PYCCALL
       if (__Pyx_PyFastCFunction_Check(__pyx_t_6)) {
         PyObject *__pyx_temp[2] = {__pyx_t_8, __pyx_v_path};
-        __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 270, __pyx_L1_error)
+        __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 274, __pyx_L1_error)
         __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
         __Pyx_GOTREF(__pyx_t_1);
       } else
       #endif
       {
-        __pyx_t_5 = PyTuple_New(1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 270, __pyx_L1_error)
+        __pyx_t_5 = PyTuple_New(1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 274, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_5);
         __Pyx_GIVEREF(__pyx_t_8); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_8); __pyx_t_8 = NULL;
         __Pyx_INCREF(__pyx_v_path);
         __Pyx_GIVEREF(__pyx_v_path);
         PyTuple_SET_ITEM(__pyx_t_5, 0+1, __pyx_v_path);
-        __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 270, __pyx_L1_error)
+        __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 274, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_1);
         __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
       }
@@ -6133,7 +6226,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     __Pyx_DECREF_SET(__pyx_v_final_path, __pyx_t_1);
     __pyx_t_1 = 0;
 
-    /* "pyaffy/celparser.pyx":266
+    /* "pyaffy/celparser.pyx":270
  * 
  *     final_path = path
  *     if compressed:             # <<<<<<<<<<<<<<
@@ -6142,32 +6235,32 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  */
   }
 
-  /* "pyaffy/celparser.pyx":272
+  /* "pyaffy/celparser.pyx":276
  *         final_path = create_gzip_pipe(path)
  * 
  *     path_bytes = final_path.encode('UTF-8')             # <<<<<<<<<<<<<<
  *     cdef char* c_path_bytes = path_bytes
  *     fp = fopen(c_path_bytes, 'r')
  */
-  __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_final_path, __pyx_n_s_encode); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 272, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_final_path, __pyx_n_s_encode); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 276, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_6 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_tuple__11, NULL); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 272, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_tuple__11, NULL); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 276, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_v_path_bytes = __pyx_t_6;
   __pyx_t_6 = 0;
 
-  /* "pyaffy/celparser.pyx":273
+  /* "pyaffy/celparser.pyx":277
  * 
  *     path_bytes = final_path.encode('UTF-8')
  *     cdef char* c_path_bytes = path_bytes             # <<<<<<<<<<<<<<
  *     fp = fopen(c_path_bytes, 'r')
  * 
  */
-  __pyx_t_9 = __Pyx_PyObject_AsWritableString(__pyx_v_path_bytes); if (unlikely((!__pyx_t_9) && PyErr_Occurred())) __PYX_ERR(0, 273, __pyx_L1_error)
+  __pyx_t_9 = __Pyx_PyObject_AsWritableString(__pyx_v_path_bytes); if (unlikely((!__pyx_t_9) && PyErr_Occurred())) __PYX_ERR(0, 277, __pyx_L1_error)
   __pyx_v_c_path_bytes = __pyx_t_9;
 
-  /* "pyaffy/celparser.pyx":274
+  /* "pyaffy/celparser.pyx":278
  *     path_bytes = final_path.encode('UTF-8')
  *     cdef char* c_path_bytes = path_bytes
  *     fp = fopen(c_path_bytes, 'r')             # <<<<<<<<<<<<<<
@@ -6176,7 +6269,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  */
   __pyx_v_fp = fopen(__pyx_v_c_path_bytes, ((char const *)"r"));
 
-  /* "pyaffy/celparser.pyx":276
+  /* "pyaffy/celparser.pyx":280
  *     fp = fopen(c_path_bytes, 'r')
  * 
  *     try:             # <<<<<<<<<<<<<<
@@ -6185,7 +6278,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  */
   /*try:*/ {
 
-    /* "pyaffy/celparser.pyx":278
+    /* "pyaffy/celparser.pyx":282
  *     try:
  * 
  *         y = None             # <<<<<<<<<<<<<<
@@ -6195,7 +6288,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     __Pyx_INCREF(Py_None);
     __pyx_v_y = Py_None;
 
-    /* "pyaffy/celparser.pyx":279
+    /* "pyaffy/celparser.pyx":283
  * 
  *         y = None
  *         magic_number = read_integer(buf, fp)             # <<<<<<<<<<<<<<
@@ -6204,7 +6297,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  */
     __pyx_v_magic_number = __pyx_f_6pyaffy_9celparser_read_integer(__pyx_v_buf, __pyx_v_fp);
 
-    /* "pyaffy/celparser.pyx":280
+    /* "pyaffy/celparser.pyx":284
  *         y = None
  *         magic_number = read_integer(buf, fp)
  *         assert isinstance(magic_number, int) and magic_number == 64             # <<<<<<<<<<<<<<
@@ -6213,7 +6306,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  */
     #ifndef CYTHON_WITHOUT_ASSERTIONS
     if (unlikely(!Py_OptimizeFlag)) {
-      __pyx_t_6 = __Pyx_PyInt_From_int(__pyx_v_magic_number); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 280, __pyx_L7_error)
+      __pyx_t_6 = __Pyx_PyInt_From_int(__pyx_v_magic_number); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 284, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_6);
       __pyx_t_3 = PyInt_Check(__pyx_t_6); 
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
@@ -6228,12 +6321,12 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __pyx_L9_bool_binop_done:;
       if (unlikely(!__pyx_t_2)) {
         PyErr_SetNone(PyExc_AssertionError);
-        __PYX_ERR(0, 280, __pyx_L7_error)
+        __PYX_ERR(0, 284, __pyx_L7_error)
       }
     }
     #endif
 
-    /* "pyaffy/celparser.pyx":281
+    /* "pyaffy/celparser.pyx":285
  *         magic_number = read_integer(buf, fp)
  *         assert isinstance(magic_number, int) and magic_number == 64
  *         version_number = read_integer(buf, fp)             # <<<<<<<<<<<<<<
@@ -6242,7 +6335,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  */
     __pyx_v_version_number = __pyx_f_6pyaffy_9celparser_read_integer(__pyx_v_buf, __pyx_v_fp);
 
-    /* "pyaffy/celparser.pyx":282
+    /* "pyaffy/celparser.pyx":286
  *         assert isinstance(magic_number, int) and magic_number == 64
  *         version_number = read_integer(buf, fp)
  *         assert version_number == 4             # <<<<<<<<<<<<<<
@@ -6253,36 +6346,36 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     if (unlikely(!Py_OptimizeFlag)) {
       if (unlikely(!((__pyx_v_version_number == 4) != 0))) {
         PyErr_SetNone(PyExc_AssertionError);
-        __PYX_ERR(0, 282, __pyx_L7_error)
+        __PYX_ERR(0, 286, __pyx_L7_error)
       }
     }
     #endif
 
-    /* "pyaffy/celparser.pyx":283
+    /* "pyaffy/celparser.pyx":287
  *         version_number = read_integer(buf, fp)
  *         assert version_number == 4
  *         num_cols = read_integer(buf, fp)             # <<<<<<<<<<<<<<
  *         num_rows = read_integer(buf, fp)
  *         num_cells = read_integer(buf, fp)
  */
-    __pyx_t_6 = __Pyx_PyInt_From_int(__pyx_f_6pyaffy_9celparser_read_integer(__pyx_v_buf, __pyx_v_fp)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 283, __pyx_L7_error)
+    __pyx_t_6 = __Pyx_PyInt_From_int(__pyx_f_6pyaffy_9celparser_read_integer(__pyx_v_buf, __pyx_v_fp)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 287, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_6);
     __pyx_v_num_cols = __pyx_t_6;
     __pyx_t_6 = 0;
 
-    /* "pyaffy/celparser.pyx":284
+    /* "pyaffy/celparser.pyx":288
  *         assert version_number == 4
  *         num_cols = read_integer(buf, fp)
  *         num_rows = read_integer(buf, fp)             # <<<<<<<<<<<<<<
  *         num_cells = read_integer(buf, fp)
  *         assert num_cells == num_rows * num_cols
  */
-    __pyx_t_6 = __Pyx_PyInt_From_int(__pyx_f_6pyaffy_9celparser_read_integer(__pyx_v_buf, __pyx_v_fp)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 284, __pyx_L7_error)
+    __pyx_t_6 = __Pyx_PyInt_From_int(__pyx_f_6pyaffy_9celparser_read_integer(__pyx_v_buf, __pyx_v_fp)); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 288, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_6);
     __pyx_v_num_rows = __pyx_t_6;
     __pyx_t_6 = 0;
 
-    /* "pyaffy/celparser.pyx":285
+    /* "pyaffy/celparser.pyx":289
  *         num_cols = read_integer(buf, fp)
  *         num_rows = read_integer(buf, fp)
  *         num_cells = read_integer(buf, fp)             # <<<<<<<<<<<<<<
@@ -6291,7 +6384,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  */
     __pyx_v_num_cells = __pyx_f_6pyaffy_9celparser_read_integer(__pyx_v_buf, __pyx_v_fp);
 
-    /* "pyaffy/celparser.pyx":286
+    /* "pyaffy/celparser.pyx":290
  *         num_rows = read_integer(buf, fp)
  *         num_cells = read_integer(buf, fp)
  *         assert num_cells == num_rows * num_cols             # <<<<<<<<<<<<<<
@@ -6300,32 +6393,32 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  */
     #ifndef CYTHON_WITHOUT_ASSERTIONS
     if (unlikely(!Py_OptimizeFlag)) {
-      __pyx_t_6 = __Pyx_PyInt_From_int(__pyx_v_num_cells); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 286, __pyx_L7_error)
+      __pyx_t_6 = __Pyx_PyInt_From_int(__pyx_v_num_cells); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 290, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_6);
-      __pyx_t_1 = PyNumber_Multiply(__pyx_v_num_rows, __pyx_v_num_cols); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 286, __pyx_L7_error)
+      __pyx_t_1 = PyNumber_Multiply(__pyx_v_num_rows, __pyx_v_num_cols); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 290, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_1);
-      __pyx_t_5 = PyObject_RichCompare(__pyx_t_6, __pyx_t_1, Py_EQ); __Pyx_XGOTREF(__pyx_t_5); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 286, __pyx_L7_error)
+      __pyx_t_5 = PyObject_RichCompare(__pyx_t_6, __pyx_t_1, Py_EQ); __Pyx_XGOTREF(__pyx_t_5); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 290, __pyx_L7_error)
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-      __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_t_5); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 286, __pyx_L7_error)
+      __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_t_5); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 290, __pyx_L7_error)
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
       if (unlikely(!__pyx_t_2)) {
         PyErr_SetNone(PyExc_AssertionError);
-        __PYX_ERR(0, 286, __pyx_L7_error)
+        __PYX_ERR(0, 290, __pyx_L7_error)
       }
     }
     #endif
 
-    /* "pyaffy/celparser.pyx":288
+    /* "pyaffy/celparser.pyx":292
  *         assert num_cells == num_rows * num_cols
  * 
  *         logger.debug('Number of rows: %d', num_rows)             # <<<<<<<<<<<<<<
  *         logger.debug('Number of cols: %d', num_cols)
  *         logger.debug('Number of cells: %d', num_cells)
  */
-    __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 288, __pyx_L7_error)
+    __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 292, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_debug); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 288, __pyx_L7_error)
+    __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_debug); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 292, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_6);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __pyx_t_1 = NULL;
@@ -6343,7 +6436,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_6)) {
       PyObject *__pyx_temp[3] = {__pyx_t_1, __pyx_kp_s_Number_of_rows_d, __pyx_v_num_rows};
-      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 288, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 292, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
       __Pyx_GOTREF(__pyx_t_5);
     } else
@@ -6351,13 +6444,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_6)) {
       PyObject *__pyx_temp[3] = {__pyx_t_1, __pyx_kp_s_Number_of_rows_d, __pyx_v_num_rows};
-      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 288, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 292, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
       __Pyx_GOTREF(__pyx_t_5);
     } else
     #endif
     {
-      __pyx_t_8 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 288, __pyx_L7_error)
+      __pyx_t_8 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 292, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_8);
       if (__pyx_t_1) {
         __Pyx_GIVEREF(__pyx_t_1); PyTuple_SET_ITEM(__pyx_t_8, 0, __pyx_t_1); __pyx_t_1 = NULL;
@@ -6368,23 +6461,23 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __Pyx_INCREF(__pyx_v_num_rows);
       __Pyx_GIVEREF(__pyx_v_num_rows);
       PyTuple_SET_ITEM(__pyx_t_8, 1+__pyx_t_7, __pyx_v_num_rows);
-      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_8, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 288, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_8, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 292, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
     }
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":289
+    /* "pyaffy/celparser.pyx":293
  * 
  *         logger.debug('Number of rows: %d', num_rows)
  *         logger.debug('Number of cols: %d', num_cols)             # <<<<<<<<<<<<<<
  *         logger.debug('Number of cells: %d', num_cells)
  *         header = read_tag_val(buf, fp)
  */
-    __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 289, __pyx_L7_error)
+    __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 293, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_6);
-    __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_debug); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 289, __pyx_L7_error)
+    __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_debug); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 293, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_8);
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     __pyx_t_6 = NULL;
@@ -6402,7 +6495,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_8)) {
       PyObject *__pyx_temp[3] = {__pyx_t_6, __pyx_kp_s_Number_of_cols_d, __pyx_v_num_cols};
-      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 289, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 293, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_GOTREF(__pyx_t_5);
     } else
@@ -6410,13 +6503,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_8)) {
       PyObject *__pyx_temp[3] = {__pyx_t_6, __pyx_kp_s_Number_of_cols_d, __pyx_v_num_cols};
-      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 289, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 293, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_GOTREF(__pyx_t_5);
     } else
     #endif
     {
-      __pyx_t_1 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 289, __pyx_L7_error)
+      __pyx_t_1 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 293, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_1);
       if (__pyx_t_6) {
         __Pyx_GIVEREF(__pyx_t_6); PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_t_6); __pyx_t_6 = NULL;
@@ -6427,26 +6520,26 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __Pyx_INCREF(__pyx_v_num_cols);
       __Pyx_GIVEREF(__pyx_v_num_cols);
       PyTuple_SET_ITEM(__pyx_t_1, 1+__pyx_t_7, __pyx_v_num_cols);
-      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_8, __pyx_t_1, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 289, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_8, __pyx_t_1, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 293, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     }
     __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":290
+    /* "pyaffy/celparser.pyx":294
  *         logger.debug('Number of rows: %d', num_rows)
  *         logger.debug('Number of cols: %d', num_cols)
  *         logger.debug('Number of cells: %d', num_cells)             # <<<<<<<<<<<<<<
  *         header = read_tag_val(buf, fp)
  *         logger.debug('Header information:')
  */
-    __pyx_t_8 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 290, __pyx_L7_error)
+    __pyx_t_8 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 294, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_8);
-    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_debug); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 290, __pyx_L7_error)
+    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_debug); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 294, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-    __pyx_t_8 = __Pyx_PyInt_From_int(__pyx_v_num_cells); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 290, __pyx_L7_error)
+    __pyx_t_8 = __Pyx_PyInt_From_int(__pyx_v_num_cells); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 294, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_8);
     __pyx_t_6 = NULL;
     __pyx_t_7 = 0;
@@ -6463,7 +6556,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_1)) {
       PyObject *__pyx_temp[3] = {__pyx_t_6, __pyx_kp_s_Number_of_cells_d, __pyx_t_8};
-      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_1, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 290, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_1, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 294, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
@@ -6472,14 +6565,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_1)) {
       PyObject *__pyx_temp[3] = {__pyx_t_6, __pyx_kp_s_Number_of_cells_d, __pyx_t_8};
-      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_1, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 290, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_1, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 294, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
     } else
     #endif
     {
-      __pyx_t_10 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 290, __pyx_L7_error)
+      __pyx_t_10 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 294, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_10);
       if (__pyx_t_6) {
         __Pyx_GIVEREF(__pyx_t_6); PyTuple_SET_ITEM(__pyx_t_10, 0, __pyx_t_6); __pyx_t_6 = NULL;
@@ -6490,65 +6583,65 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __Pyx_GIVEREF(__pyx_t_8);
       PyTuple_SET_ITEM(__pyx_t_10, 1+__pyx_t_7, __pyx_t_8);
       __pyx_t_8 = 0;
-      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_10, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 290, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_10, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 294, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
     }
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":291
+    /* "pyaffy/celparser.pyx":295
  *         logger.debug('Number of cols: %d', num_cols)
  *         logger.debug('Number of cells: %d', num_cells)
  *         header = read_tag_val(buf, fp)             # <<<<<<<<<<<<<<
  *         logger.debug('Header information:')
  *         logger.debug('  ' + '; '.join(['%s = %s' %(k,v)
  */
-    __pyx_t_5 = __pyx_f_6pyaffy_9celparser_read_tag_val(__pyx_v_buf, __pyx_v_fp); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 291, __pyx_L7_error)
+    __pyx_t_5 = __pyx_f_6pyaffy_9celparser_read_tag_val(__pyx_v_buf, __pyx_v_fp); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 295, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_5);
     __pyx_v_header = __pyx_t_5;
     __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":292
+    /* "pyaffy/celparser.pyx":296
  *         logger.debug('Number of cells: %d', num_cells)
  *         header = read_tag_val(buf, fp)
  *         logger.debug('Header information:')             # <<<<<<<<<<<<<<
  *         logger.debug('  ' + '; '.join(['%s = %s' %(k,v)
  *                 for k,v in header.items()]))
  */
-    __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 292, __pyx_L7_error)
+    __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 296, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 292, __pyx_L7_error)
+    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 296, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-    __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_tuple__12, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 292, __pyx_L7_error)
+    __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_tuple__12, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 296, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":293
+    /* "pyaffy/celparser.pyx":297
  *         header = read_tag_val(buf, fp)
  *         logger.debug('Header information:')
  *         logger.debug('  ' + '; '.join(['%s = %s' %(k,v)             # <<<<<<<<<<<<<<
  *                 for k,v in header.items()]))
  *         algo_name = str(read_string(buf, fp))
  */
-    __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 293, __pyx_L7_error)
+    __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 297, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_debug); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 293, __pyx_L7_error)
+    __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_debug); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 297, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_10);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    __pyx_t_1 = PyList_New(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 293, __pyx_L7_error)
+    __pyx_t_1 = PyList_New(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 297, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_1);
 
-    /* "pyaffy/celparser.pyx":294
+    /* "pyaffy/celparser.pyx":298
  *         logger.debug('Header information:')
  *         logger.debug('  ' + '; '.join(['%s = %s' %(k,v)
  *                 for k,v in header.items()]))             # <<<<<<<<<<<<<<
  *         algo_name = str(read_string(buf, fp))
  *         logger.debug('Algorithm name: %s', algo_name)
  */
-    __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_v_header, __pyx_n_s_items); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 294, __pyx_L7_error)
+    __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_v_header, __pyx_n_s_items); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 298, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_6);
     __pyx_t_11 = NULL;
     if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_6))) {
@@ -6561,10 +6654,10 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       }
     }
     if (__pyx_t_11) {
-      __pyx_t_8 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_t_11); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 294, __pyx_L7_error)
+      __pyx_t_8 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_t_11); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 298, __pyx_L7_error)
       __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
     } else {
-      __pyx_t_8 = __Pyx_PyObject_CallNoArg(__pyx_t_6); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 294, __pyx_L7_error)
+      __pyx_t_8 = __Pyx_PyObject_CallNoArg(__pyx_t_6); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 298, __pyx_L7_error)
     }
     __Pyx_GOTREF(__pyx_t_8);
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
@@ -6572,9 +6665,9 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __pyx_t_6 = __pyx_t_8; __Pyx_INCREF(__pyx_t_6); __pyx_t_12 = 0;
       __pyx_t_13 = NULL;
     } else {
-      __pyx_t_12 = -1; __pyx_t_6 = PyObject_GetIter(__pyx_t_8); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 294, __pyx_L7_error)
+      __pyx_t_12 = -1; __pyx_t_6 = PyObject_GetIter(__pyx_t_8); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 298, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_6);
-      __pyx_t_13 = Py_TYPE(__pyx_t_6)->tp_iternext; if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 294, __pyx_L7_error)
+      __pyx_t_13 = Py_TYPE(__pyx_t_6)->tp_iternext; if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 298, __pyx_L7_error)
     }
     __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
     for (;;) {
@@ -6582,17 +6675,17 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
         if (likely(PyList_CheckExact(__pyx_t_6))) {
           if (__pyx_t_12 >= PyList_GET_SIZE(__pyx_t_6)) break;
           #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-          __pyx_t_8 = PyList_GET_ITEM(__pyx_t_6, __pyx_t_12); __Pyx_INCREF(__pyx_t_8); __pyx_t_12++; if (unlikely(0 < 0)) __PYX_ERR(0, 294, __pyx_L7_error)
+          __pyx_t_8 = PyList_GET_ITEM(__pyx_t_6, __pyx_t_12); __Pyx_INCREF(__pyx_t_8); __pyx_t_12++; if (unlikely(0 < 0)) __PYX_ERR(0, 298, __pyx_L7_error)
           #else
-          __pyx_t_8 = PySequence_ITEM(__pyx_t_6, __pyx_t_12); __pyx_t_12++; if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 294, __pyx_L7_error)
+          __pyx_t_8 = PySequence_ITEM(__pyx_t_6, __pyx_t_12); __pyx_t_12++; if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 298, __pyx_L7_error)
           __Pyx_GOTREF(__pyx_t_8);
           #endif
         } else {
           if (__pyx_t_12 >= PyTuple_GET_SIZE(__pyx_t_6)) break;
           #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-          __pyx_t_8 = PyTuple_GET_ITEM(__pyx_t_6, __pyx_t_12); __Pyx_INCREF(__pyx_t_8); __pyx_t_12++; if (unlikely(0 < 0)) __PYX_ERR(0, 294, __pyx_L7_error)
+          __pyx_t_8 = PyTuple_GET_ITEM(__pyx_t_6, __pyx_t_12); __Pyx_INCREF(__pyx_t_8); __pyx_t_12++; if (unlikely(0 < 0)) __PYX_ERR(0, 298, __pyx_L7_error)
           #else
-          __pyx_t_8 = PySequence_ITEM(__pyx_t_6, __pyx_t_12); __pyx_t_12++; if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 294, __pyx_L7_error)
+          __pyx_t_8 = PySequence_ITEM(__pyx_t_6, __pyx_t_12); __pyx_t_12++; if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 298, __pyx_L7_error)
           __Pyx_GOTREF(__pyx_t_8);
           #endif
         }
@@ -6602,7 +6695,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
           PyObject* exc_type = PyErr_Occurred();
           if (exc_type) {
             if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-            else __PYX_ERR(0, 294, __pyx_L7_error)
+            else __PYX_ERR(0, 298, __pyx_L7_error)
           }
           break;
         }
@@ -6618,7 +6711,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
         if (unlikely(size != 2)) {
           if (size > 2) __Pyx_RaiseTooManyValuesError(2);
           else if (size >= 0) __Pyx_RaiseNeedMoreValuesError(size);
-          __PYX_ERR(0, 294, __pyx_L7_error)
+          __PYX_ERR(0, 298, __pyx_L7_error)
         }
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
         if (likely(PyTuple_CheckExact(sequence))) {
@@ -6631,15 +6724,15 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
         __Pyx_INCREF(__pyx_t_11);
         __Pyx_INCREF(__pyx_t_14);
         #else
-        __pyx_t_11 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 294, __pyx_L7_error)
+        __pyx_t_11 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 298, __pyx_L7_error)
         __Pyx_GOTREF(__pyx_t_11);
-        __pyx_t_14 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 294, __pyx_L7_error)
+        __pyx_t_14 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 298, __pyx_L7_error)
         __Pyx_GOTREF(__pyx_t_14);
         #endif
         __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
       } else {
         Py_ssize_t index = -1;
-        __pyx_t_15 = PyObject_GetIter(__pyx_t_8); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 294, __pyx_L7_error)
+        __pyx_t_15 = PyObject_GetIter(__pyx_t_8); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 298, __pyx_L7_error)
         __Pyx_GOTREF(__pyx_t_15);
         __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
         __pyx_t_16 = Py_TYPE(__pyx_t_15)->tp_iternext;
@@ -6647,7 +6740,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
         __Pyx_GOTREF(__pyx_t_11);
         index = 1; __pyx_t_14 = __pyx_t_16(__pyx_t_15); if (unlikely(!__pyx_t_14)) goto __pyx_L13_unpacking_failed;
         __Pyx_GOTREF(__pyx_t_14);
-        if (__Pyx_IternextUnpackEndCheck(__pyx_t_16(__pyx_t_15), 2) < 0) __PYX_ERR(0, 294, __pyx_L7_error)
+        if (__Pyx_IternextUnpackEndCheck(__pyx_t_16(__pyx_t_15), 2) < 0) __PYX_ERR(0, 298, __pyx_L7_error)
         __pyx_t_16 = NULL;
         __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
         goto __pyx_L14_unpacking_done;
@@ -6655,7 +6748,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
         __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
         __pyx_t_16 = NULL;
         if (__Pyx_IterFinish() == 0) __Pyx_RaiseNeedMoreValuesError(index);
-        __PYX_ERR(0, 294, __pyx_L7_error)
+        __PYX_ERR(0, 298, __pyx_L7_error)
         __pyx_L14_unpacking_done:;
       }
       __Pyx_XDECREF_SET(__pyx_v_k, __pyx_t_11);
@@ -6663,14 +6756,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __Pyx_XDECREF_SET(__pyx_v_v, __pyx_t_14);
       __pyx_t_14 = 0;
 
-      /* "pyaffy/celparser.pyx":293
+      /* "pyaffy/celparser.pyx":297
  *         header = read_tag_val(buf, fp)
  *         logger.debug('Header information:')
  *         logger.debug('  ' + '; '.join(['%s = %s' %(k,v)             # <<<<<<<<<<<<<<
  *                 for k,v in header.items()]))
  *         algo_name = str(read_string(buf, fp))
  */
-      __pyx_t_8 = PyTuple_New(2); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 293, __pyx_L7_error)
+      __pyx_t_8 = PyTuple_New(2); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 297, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_8);
       __Pyx_INCREF(__pyx_v_k);
       __Pyx_GIVEREF(__pyx_v_k);
@@ -6678,13 +6771,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __Pyx_INCREF(__pyx_v_v);
       __Pyx_GIVEREF(__pyx_v_v);
       PyTuple_SET_ITEM(__pyx_t_8, 1, __pyx_v_v);
-      __pyx_t_14 = __Pyx_PyString_Format(__pyx_kp_s_s_s, __pyx_t_8); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 293, __pyx_L7_error)
+      __pyx_t_14 = __Pyx_PyString_Format(__pyx_kp_s_s_s, __pyx_t_8); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 297, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_14);
       __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
-      if (unlikely(__Pyx_ListComp_Append(__pyx_t_1, (PyObject*)__pyx_t_14))) __PYX_ERR(0, 293, __pyx_L7_error)
+      if (unlikely(__Pyx_ListComp_Append(__pyx_t_1, (PyObject*)__pyx_t_14))) __PYX_ERR(0, 297, __pyx_L7_error)
       __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
 
-      /* "pyaffy/celparser.pyx":294
+      /* "pyaffy/celparser.pyx":298
  *         logger.debug('Header information:')
  *         logger.debug('  ' + '; '.join(['%s = %s' %(k,v)
  *                 for k,v in header.items()]))             # <<<<<<<<<<<<<<
@@ -6694,17 +6787,17 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     }
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-    /* "pyaffy/celparser.pyx":293
+    /* "pyaffy/celparser.pyx":297
  *         header = read_tag_val(buf, fp)
  *         logger.debug('Header information:')
  *         logger.debug('  ' + '; '.join(['%s = %s' %(k,v)             # <<<<<<<<<<<<<<
  *                 for k,v in header.items()]))
  *         algo_name = str(read_string(buf, fp))
  */
-    __pyx_t_6 = __Pyx_PyString_Join(__pyx_kp_s__14, __pyx_t_1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 293, __pyx_L7_error)
+    __pyx_t_6 = __Pyx_PyString_Join(__pyx_kp_s__14, __pyx_t_1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 297, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_6);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    __pyx_t_1 = PyNumber_Add(__pyx_kp_s__13, __pyx_t_6); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 293, __pyx_L7_error)
+    __pyx_t_1 = PyNumber_Add(__pyx_kp_s__13, __pyx_t_6); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 297, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     __pyx_t_6 = NULL;
@@ -6718,14 +6811,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       }
     }
     if (!__pyx_t_6) {
-      __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 293, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_10, __pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 297, __pyx_L7_error)
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
       __Pyx_GOTREF(__pyx_t_5);
     } else {
       #if CYTHON_FAST_PYCALL
       if (PyFunction_Check(__pyx_t_10)) {
         PyObject *__pyx_temp[2] = {__pyx_t_6, __pyx_t_1};
-        __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_10, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 293, __pyx_L7_error)
+        __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_10, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 297, __pyx_L7_error)
         __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
         __Pyx_GOTREF(__pyx_t_5);
         __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
@@ -6734,20 +6827,20 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       #if CYTHON_FAST_PYCCALL
       if (__Pyx_PyFastCFunction_Check(__pyx_t_10)) {
         PyObject *__pyx_temp[2] = {__pyx_t_6, __pyx_t_1};
-        __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_10, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 293, __pyx_L7_error)
+        __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_10, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 297, __pyx_L7_error)
         __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
         __Pyx_GOTREF(__pyx_t_5);
         __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
       } else
       #endif
       {
-        __pyx_t_14 = PyTuple_New(1+1); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 293, __pyx_L7_error)
+        __pyx_t_14 = PyTuple_New(1+1); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 297, __pyx_L7_error)
         __Pyx_GOTREF(__pyx_t_14);
         __Pyx_GIVEREF(__pyx_t_6); PyTuple_SET_ITEM(__pyx_t_14, 0, __pyx_t_6); __pyx_t_6 = NULL;
         __Pyx_GIVEREF(__pyx_t_1);
         PyTuple_SET_ITEM(__pyx_t_14, 0+1, __pyx_t_1);
         __pyx_t_1 = 0;
-        __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_10, __pyx_t_14, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 293, __pyx_L7_error)
+        __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_10, __pyx_t_14, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 297, __pyx_L7_error)
         __Pyx_GOTREF(__pyx_t_5);
         __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
       }
@@ -6755,36 +6848,36 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":295
+    /* "pyaffy/celparser.pyx":299
  *         logger.debug('  ' + '; '.join(['%s = %s' %(k,v)
  *                 for k,v in header.items()]))
  *         algo_name = str(read_string(buf, fp))             # <<<<<<<<<<<<<<
  *         logger.debug('Algorithm name: %s', algo_name)
  *         logger.debug('Algorithm parameters:')
  */
-    __pyx_t_5 = __Pyx_PyBytes_FromString(__pyx_f_6pyaffy_9celparser_read_string(__pyx_v_buf, __pyx_v_fp)); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 295, __pyx_L7_error)
+    __pyx_t_5 = __Pyx_PyBytes_FromString(__pyx_f_6pyaffy_9celparser_read_string(__pyx_v_buf, __pyx_v_fp)); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 299, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_10 = PyTuple_New(1); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 295, __pyx_L7_error)
+    __pyx_t_10 = PyTuple_New(1); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 299, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_10);
     __Pyx_GIVEREF(__pyx_t_5);
     PyTuple_SET_ITEM(__pyx_t_10, 0, __pyx_t_5);
     __pyx_t_5 = 0;
-    __pyx_t_5 = __Pyx_PyObject_Call(((PyObject *)(&PyString_Type)), __pyx_t_10, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 295, __pyx_L7_error)
+    __pyx_t_5 = __Pyx_PyObject_Call(((PyObject *)(&PyString_Type)), __pyx_t_10, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 299, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
     __pyx_v_algo_name = __pyx_t_5;
     __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":296
+    /* "pyaffy/celparser.pyx":300
  *                 for k,v in header.items()]))
  *         algo_name = str(read_string(buf, fp))
  *         logger.debug('Algorithm name: %s', algo_name)             # <<<<<<<<<<<<<<
  *         logger.debug('Algorithm parameters:')
  *         algo_params = read_tag_val(buf, fp)
  */
-    __pyx_t_10 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 296, __pyx_L7_error)
+    __pyx_t_10 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 300, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_10);
-    __pyx_t_14 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_debug); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 296, __pyx_L7_error)
+    __pyx_t_14 = __Pyx_PyObject_GetAttrStr(__pyx_t_10, __pyx_n_s_debug); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 300, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_14);
     __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
     __pyx_t_10 = NULL;
@@ -6802,7 +6895,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_14)) {
       PyObject *__pyx_temp[3] = {__pyx_t_10, __pyx_kp_s_Algorithm_name_s, __pyx_v_algo_name};
-      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_14, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 296, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_14, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 300, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
       __Pyx_GOTREF(__pyx_t_5);
     } else
@@ -6810,13 +6903,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_14)) {
       PyObject *__pyx_temp[3] = {__pyx_t_10, __pyx_kp_s_Algorithm_name_s, __pyx_v_algo_name};
-      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_14, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 296, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_14, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 300, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
       __Pyx_GOTREF(__pyx_t_5);
     } else
     #endif
     {
-      __pyx_t_1 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 296, __pyx_L7_error)
+      __pyx_t_1 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 300, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_1);
       if (__pyx_t_10) {
         __Pyx_GIVEREF(__pyx_t_10); PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_t_10); __pyx_t_10 = NULL;
@@ -6827,65 +6920,65 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __Pyx_INCREF(__pyx_v_algo_name);
       __Pyx_GIVEREF(__pyx_v_algo_name);
       PyTuple_SET_ITEM(__pyx_t_1, 1+__pyx_t_7, __pyx_v_algo_name);
-      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_14, __pyx_t_1, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 296, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_14, __pyx_t_1, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 300, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     }
     __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":297
+    /* "pyaffy/celparser.pyx":301
  *         algo_name = str(read_string(buf, fp))
  *         logger.debug('Algorithm name: %s', algo_name)
  *         logger.debug('Algorithm parameters:')             # <<<<<<<<<<<<<<
  *         algo_params = read_tag_val(buf, fp)
  *         logger.debug('  ' + '; '.join(['%s = %s' %(k,v)
  */
-    __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 297, __pyx_L7_error)
+    __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 301, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_14 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 297, __pyx_L7_error)
+    __pyx_t_14 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 301, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_14);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-    __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_14, __pyx_tuple__15, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 297, __pyx_L7_error)
+    __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_14, __pyx_tuple__15, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 301, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":298
+    /* "pyaffy/celparser.pyx":302
  *         logger.debug('Algorithm name: %s', algo_name)
  *         logger.debug('Algorithm parameters:')
  *         algo_params = read_tag_val(buf, fp)             # <<<<<<<<<<<<<<
  *         logger.debug('  ' + '; '.join(['%s = %s' %(k,v)
  *                 for k,v in algo_params.items()]))
  */
-    __pyx_t_5 = __pyx_f_6pyaffy_9celparser_read_tag_val(__pyx_v_buf, __pyx_v_fp); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 298, __pyx_L7_error)
+    __pyx_t_5 = __pyx_f_6pyaffy_9celparser_read_tag_val(__pyx_v_buf, __pyx_v_fp); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 302, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_5);
     __pyx_v_algo_params = __pyx_t_5;
     __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":299
+    /* "pyaffy/celparser.pyx":303
  *         logger.debug('Algorithm parameters:')
  *         algo_params = read_tag_val(buf, fp)
  *         logger.debug('  ' + '; '.join(['%s = %s' %(k,v)             # <<<<<<<<<<<<<<
  *                 for k,v in algo_params.items()]))
  * 
  */
-    __pyx_t_14 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 299, __pyx_L7_error)
+    __pyx_t_14 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 303, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_14);
-    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_14, __pyx_n_s_debug); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 299, __pyx_L7_error)
+    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_14, __pyx_n_s_debug); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 303, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
-    __pyx_t_14 = PyList_New(0); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 299, __pyx_L7_error)
+    __pyx_t_14 = PyList_New(0); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 303, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_14);
 
-    /* "pyaffy/celparser.pyx":300
+    /* "pyaffy/celparser.pyx":304
  *         algo_params = read_tag_val(buf, fp)
  *         logger.debug('  ' + '; '.join(['%s = %s' %(k,v)
  *                 for k,v in algo_params.items()]))             # <<<<<<<<<<<<<<
  * 
  *         cell_margin = read_integer(buf, fp)
  */
-    __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_v_algo_params, __pyx_n_s_items); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 300, __pyx_L7_error)
+    __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_v_algo_params, __pyx_n_s_items); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 304, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_6);
     __pyx_t_8 = NULL;
     if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_6))) {
@@ -6898,10 +6991,10 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       }
     }
     if (__pyx_t_8) {
-      __pyx_t_10 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_t_8); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 300, __pyx_L7_error)
+      __pyx_t_10 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_t_8); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 304, __pyx_L7_error)
       __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
     } else {
-      __pyx_t_10 = __Pyx_PyObject_CallNoArg(__pyx_t_6); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 300, __pyx_L7_error)
+      __pyx_t_10 = __Pyx_PyObject_CallNoArg(__pyx_t_6); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 304, __pyx_L7_error)
     }
     __Pyx_GOTREF(__pyx_t_10);
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
@@ -6909,9 +7002,9 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __pyx_t_6 = __pyx_t_10; __Pyx_INCREF(__pyx_t_6); __pyx_t_12 = 0;
       __pyx_t_13 = NULL;
     } else {
-      __pyx_t_12 = -1; __pyx_t_6 = PyObject_GetIter(__pyx_t_10); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 300, __pyx_L7_error)
+      __pyx_t_12 = -1; __pyx_t_6 = PyObject_GetIter(__pyx_t_10); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 304, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_6);
-      __pyx_t_13 = Py_TYPE(__pyx_t_6)->tp_iternext; if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 300, __pyx_L7_error)
+      __pyx_t_13 = Py_TYPE(__pyx_t_6)->tp_iternext; if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 304, __pyx_L7_error)
     }
     __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
     for (;;) {
@@ -6919,17 +7012,17 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
         if (likely(PyList_CheckExact(__pyx_t_6))) {
           if (__pyx_t_12 >= PyList_GET_SIZE(__pyx_t_6)) break;
           #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-          __pyx_t_10 = PyList_GET_ITEM(__pyx_t_6, __pyx_t_12); __Pyx_INCREF(__pyx_t_10); __pyx_t_12++; if (unlikely(0 < 0)) __PYX_ERR(0, 300, __pyx_L7_error)
+          __pyx_t_10 = PyList_GET_ITEM(__pyx_t_6, __pyx_t_12); __Pyx_INCREF(__pyx_t_10); __pyx_t_12++; if (unlikely(0 < 0)) __PYX_ERR(0, 304, __pyx_L7_error)
           #else
-          __pyx_t_10 = PySequence_ITEM(__pyx_t_6, __pyx_t_12); __pyx_t_12++; if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 300, __pyx_L7_error)
+          __pyx_t_10 = PySequence_ITEM(__pyx_t_6, __pyx_t_12); __pyx_t_12++; if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 304, __pyx_L7_error)
           __Pyx_GOTREF(__pyx_t_10);
           #endif
         } else {
           if (__pyx_t_12 >= PyTuple_GET_SIZE(__pyx_t_6)) break;
           #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-          __pyx_t_10 = PyTuple_GET_ITEM(__pyx_t_6, __pyx_t_12); __Pyx_INCREF(__pyx_t_10); __pyx_t_12++; if (unlikely(0 < 0)) __PYX_ERR(0, 300, __pyx_L7_error)
+          __pyx_t_10 = PyTuple_GET_ITEM(__pyx_t_6, __pyx_t_12); __Pyx_INCREF(__pyx_t_10); __pyx_t_12++; if (unlikely(0 < 0)) __PYX_ERR(0, 304, __pyx_L7_error)
           #else
-          __pyx_t_10 = PySequence_ITEM(__pyx_t_6, __pyx_t_12); __pyx_t_12++; if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 300, __pyx_L7_error)
+          __pyx_t_10 = PySequence_ITEM(__pyx_t_6, __pyx_t_12); __pyx_t_12++; if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 304, __pyx_L7_error)
           __Pyx_GOTREF(__pyx_t_10);
           #endif
         }
@@ -6939,7 +7032,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
           PyObject* exc_type = PyErr_Occurred();
           if (exc_type) {
             if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-            else __PYX_ERR(0, 300, __pyx_L7_error)
+            else __PYX_ERR(0, 304, __pyx_L7_error)
           }
           break;
         }
@@ -6955,7 +7048,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
         if (unlikely(size != 2)) {
           if (size > 2) __Pyx_RaiseTooManyValuesError(2);
           else if (size >= 0) __Pyx_RaiseNeedMoreValuesError(size);
-          __PYX_ERR(0, 300, __pyx_L7_error)
+          __PYX_ERR(0, 304, __pyx_L7_error)
         }
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
         if (likely(PyTuple_CheckExact(sequence))) {
@@ -6968,15 +7061,15 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
         __Pyx_INCREF(__pyx_t_8);
         __Pyx_INCREF(__pyx_t_11);
         #else
-        __pyx_t_8 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 300, __pyx_L7_error)
+        __pyx_t_8 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 304, __pyx_L7_error)
         __Pyx_GOTREF(__pyx_t_8);
-        __pyx_t_11 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 300, __pyx_L7_error)
+        __pyx_t_11 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 304, __pyx_L7_error)
         __Pyx_GOTREF(__pyx_t_11);
         #endif
         __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
       } else {
         Py_ssize_t index = -1;
-        __pyx_t_15 = PyObject_GetIter(__pyx_t_10); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 300, __pyx_L7_error)
+        __pyx_t_15 = PyObject_GetIter(__pyx_t_10); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 304, __pyx_L7_error)
         __Pyx_GOTREF(__pyx_t_15);
         __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
         __pyx_t_16 = Py_TYPE(__pyx_t_15)->tp_iternext;
@@ -6984,7 +7077,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
         __Pyx_GOTREF(__pyx_t_8);
         index = 1; __pyx_t_11 = __pyx_t_16(__pyx_t_15); if (unlikely(!__pyx_t_11)) goto __pyx_L17_unpacking_failed;
         __Pyx_GOTREF(__pyx_t_11);
-        if (__Pyx_IternextUnpackEndCheck(__pyx_t_16(__pyx_t_15), 2) < 0) __PYX_ERR(0, 300, __pyx_L7_error)
+        if (__Pyx_IternextUnpackEndCheck(__pyx_t_16(__pyx_t_15), 2) < 0) __PYX_ERR(0, 304, __pyx_L7_error)
         __pyx_t_16 = NULL;
         __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
         goto __pyx_L18_unpacking_done;
@@ -6992,7 +7085,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
         __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
         __pyx_t_16 = NULL;
         if (__Pyx_IterFinish() == 0) __Pyx_RaiseNeedMoreValuesError(index);
-        __PYX_ERR(0, 300, __pyx_L7_error)
+        __PYX_ERR(0, 304, __pyx_L7_error)
         __pyx_L18_unpacking_done:;
       }
       __Pyx_XDECREF_SET(__pyx_v_k, __pyx_t_8);
@@ -7000,14 +7093,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __Pyx_XDECREF_SET(__pyx_v_v, __pyx_t_11);
       __pyx_t_11 = 0;
 
-      /* "pyaffy/celparser.pyx":299
+      /* "pyaffy/celparser.pyx":303
  *         logger.debug('Algorithm parameters:')
  *         algo_params = read_tag_val(buf, fp)
  *         logger.debug('  ' + '; '.join(['%s = %s' %(k,v)             # <<<<<<<<<<<<<<
  *                 for k,v in algo_params.items()]))
  * 
  */
-      __pyx_t_10 = PyTuple_New(2); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 299, __pyx_L7_error)
+      __pyx_t_10 = PyTuple_New(2); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 303, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_10);
       __Pyx_INCREF(__pyx_v_k);
       __Pyx_GIVEREF(__pyx_v_k);
@@ -7015,13 +7108,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __Pyx_INCREF(__pyx_v_v);
       __Pyx_GIVEREF(__pyx_v_v);
       PyTuple_SET_ITEM(__pyx_t_10, 1, __pyx_v_v);
-      __pyx_t_11 = __Pyx_PyString_Format(__pyx_kp_s_s_s, __pyx_t_10); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 299, __pyx_L7_error)
+      __pyx_t_11 = __Pyx_PyString_Format(__pyx_kp_s_s_s, __pyx_t_10); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 303, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_11);
       __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
-      if (unlikely(__Pyx_ListComp_Append(__pyx_t_14, (PyObject*)__pyx_t_11))) __PYX_ERR(0, 299, __pyx_L7_error)
+      if (unlikely(__Pyx_ListComp_Append(__pyx_t_14, (PyObject*)__pyx_t_11))) __PYX_ERR(0, 303, __pyx_L7_error)
       __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
 
-      /* "pyaffy/celparser.pyx":300
+      /* "pyaffy/celparser.pyx":304
  *         algo_params = read_tag_val(buf, fp)
  *         logger.debug('  ' + '; '.join(['%s = %s' %(k,v)
  *                 for k,v in algo_params.items()]))             # <<<<<<<<<<<<<<
@@ -7031,17 +7124,17 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     }
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-    /* "pyaffy/celparser.pyx":299
+    /* "pyaffy/celparser.pyx":303
  *         logger.debug('Algorithm parameters:')
  *         algo_params = read_tag_val(buf, fp)
  *         logger.debug('  ' + '; '.join(['%s = %s' %(k,v)             # <<<<<<<<<<<<<<
  *                 for k,v in algo_params.items()]))
  * 
  */
-    __pyx_t_6 = __Pyx_PyString_Join(__pyx_kp_s__14, __pyx_t_14); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 299, __pyx_L7_error)
+    __pyx_t_6 = __Pyx_PyString_Join(__pyx_kp_s__14, __pyx_t_14); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 303, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_6);
     __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
-    __pyx_t_14 = PyNumber_Add(__pyx_kp_s__13, __pyx_t_6); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 299, __pyx_L7_error)
+    __pyx_t_14 = PyNumber_Add(__pyx_kp_s__13, __pyx_t_6); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 303, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_14);
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     __pyx_t_6 = NULL;
@@ -7055,14 +7148,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       }
     }
     if (!__pyx_t_6) {
-      __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_t_14); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 299, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_t_14); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 303, __pyx_L7_error)
       __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
       __Pyx_GOTREF(__pyx_t_5);
     } else {
       #if CYTHON_FAST_PYCALL
       if (PyFunction_Check(__pyx_t_1)) {
         PyObject *__pyx_temp[2] = {__pyx_t_6, __pyx_t_14};
-        __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 299, __pyx_L7_error)
+        __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 303, __pyx_L7_error)
         __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
         __Pyx_GOTREF(__pyx_t_5);
         __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
@@ -7071,20 +7164,20 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       #if CYTHON_FAST_PYCCALL
       if (__Pyx_PyFastCFunction_Check(__pyx_t_1)) {
         PyObject *__pyx_temp[2] = {__pyx_t_6, __pyx_t_14};
-        __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 299, __pyx_L7_error)
+        __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 303, __pyx_L7_error)
         __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
         __Pyx_GOTREF(__pyx_t_5);
         __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
       } else
       #endif
       {
-        __pyx_t_11 = PyTuple_New(1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 299, __pyx_L7_error)
+        __pyx_t_11 = PyTuple_New(1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 303, __pyx_L7_error)
         __Pyx_GOTREF(__pyx_t_11);
         __Pyx_GIVEREF(__pyx_t_6); PyTuple_SET_ITEM(__pyx_t_11, 0, __pyx_t_6); __pyx_t_6 = NULL;
         __Pyx_GIVEREF(__pyx_t_14);
         PyTuple_SET_ITEM(__pyx_t_11, 0+1, __pyx_t_14);
         __pyx_t_14 = 0;
-        __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_11, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 299, __pyx_L7_error)
+        __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_11, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 303, __pyx_L7_error)
         __Pyx_GOTREF(__pyx_t_5);
         __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
       }
@@ -7092,7 +7185,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":302
+    /* "pyaffy/celparser.pyx":306
  *                 for k,v in algo_params.items()]))
  * 
  *         cell_margin = read_integer(buf, fp)             # <<<<<<<<<<<<<<
@@ -7101,19 +7194,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  */
     __pyx_v_cell_margin = __pyx_f_6pyaffy_9celparser_read_integer(__pyx_v_buf, __pyx_v_fp);
 
-    /* "pyaffy/celparser.pyx":303
+    /* "pyaffy/celparser.pyx":307
  * 
  *         cell_margin = read_integer(buf, fp)
  *         logger.debug('Cell margin: %d', cell_margin)             # <<<<<<<<<<<<<<
  * 
  *         num_outlier_cells = read_DWORD(buf, fp)
  */
-    __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 303, __pyx_L7_error)
+    __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 307, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_debug); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 303, __pyx_L7_error)
+    __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_debug); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 307, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_11);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    __pyx_t_1 = __Pyx_PyInt_From_int(__pyx_v_cell_margin); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 303, __pyx_L7_error)
+    __pyx_t_1 = __Pyx_PyInt_From_int(__pyx_v_cell_margin); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 307, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_1);
     __pyx_t_14 = NULL;
     __pyx_t_7 = 0;
@@ -7130,7 +7223,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_11)) {
       PyObject *__pyx_temp[3] = {__pyx_t_14, __pyx_kp_s_Cell_margin_d, __pyx_t_1};
-      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_11, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 303, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_11, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 307, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
@@ -7139,14 +7232,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_11)) {
       PyObject *__pyx_temp[3] = {__pyx_t_14, __pyx_kp_s_Cell_margin_d, __pyx_t_1};
-      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_11, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 303, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_11, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 307, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     } else
     #endif
     {
-      __pyx_t_6 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 303, __pyx_L7_error)
+      __pyx_t_6 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 307, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_6);
       if (__pyx_t_14) {
         __Pyx_GIVEREF(__pyx_t_14); PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_t_14); __pyx_t_14 = NULL;
@@ -7157,14 +7250,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __Pyx_GIVEREF(__pyx_t_1);
       PyTuple_SET_ITEM(__pyx_t_6, 1+__pyx_t_7, __pyx_t_1);
       __pyx_t_1 = 0;
-      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_11, __pyx_t_6, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 303, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_11, __pyx_t_6, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 307, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     }
     __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":305
+    /* "pyaffy/celparser.pyx":309
  *         logger.debug('Cell margin: %d', cell_margin)
  * 
  *         num_outlier_cells = read_DWORD(buf, fp)             # <<<<<<<<<<<<<<
@@ -7173,19 +7266,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  */
     __pyx_v_num_outlier_cells = __pyx_f_6pyaffy_9celparser_read_DWORD(__pyx_v_buf, __pyx_v_fp);
 
-    /* "pyaffy/celparser.pyx":306
+    /* "pyaffy/celparser.pyx":310
  * 
  *         num_outlier_cells = read_DWORD(buf, fp)
  *         logger.debug('# outlier cells: %d', num_outlier_cells)             # <<<<<<<<<<<<<<
  * 
  *         num_masked_cells = read_DWORD(buf, fp)
  */
-    __pyx_t_11 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 306, __pyx_L7_error)
+    __pyx_t_11 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 310, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_11);
-    __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_11, __pyx_n_s_debug); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 306, __pyx_L7_error)
+    __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_11, __pyx_n_s_debug); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 310, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_6);
     __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
-    __pyx_t_11 = __Pyx_PyInt_From_unsigned_int(__pyx_v_num_outlier_cells); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 306, __pyx_L7_error)
+    __pyx_t_11 = __Pyx_PyInt_From_unsigned_int(__pyx_v_num_outlier_cells); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 310, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_11);
     __pyx_t_1 = NULL;
     __pyx_t_7 = 0;
@@ -7202,7 +7295,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_6)) {
       PyObject *__pyx_temp[3] = {__pyx_t_1, __pyx_kp_s_outlier_cells_d, __pyx_t_11};
-      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 306, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 310, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
@@ -7211,14 +7304,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_6)) {
       PyObject *__pyx_temp[3] = {__pyx_t_1, __pyx_kp_s_outlier_cells_d, __pyx_t_11};
-      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 306, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 310, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
     } else
     #endif
     {
-      __pyx_t_14 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 306, __pyx_L7_error)
+      __pyx_t_14 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 310, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_14);
       if (__pyx_t_1) {
         __Pyx_GIVEREF(__pyx_t_1); PyTuple_SET_ITEM(__pyx_t_14, 0, __pyx_t_1); __pyx_t_1 = NULL;
@@ -7229,14 +7322,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __Pyx_GIVEREF(__pyx_t_11);
       PyTuple_SET_ITEM(__pyx_t_14, 1+__pyx_t_7, __pyx_t_11);
       __pyx_t_11 = 0;
-      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_14, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 306, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_14, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 310, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
     }
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":308
+    /* "pyaffy/celparser.pyx":312
  *         logger.debug('# outlier cells: %d', num_outlier_cells)
  * 
  *         num_masked_cells = read_DWORD(buf, fp)             # <<<<<<<<<<<<<<
@@ -7245,19 +7338,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  */
     __pyx_v_num_masked_cells = __pyx_f_6pyaffy_9celparser_read_DWORD(__pyx_v_buf, __pyx_v_fp);
 
-    /* "pyaffy/celparser.pyx":309
+    /* "pyaffy/celparser.pyx":313
  * 
  *         num_masked_cells = read_DWORD(buf, fp)
  *         logger.debug('# masked cells: %d', num_masked_cells)             # <<<<<<<<<<<<<<
  * 
  *         num_subgrids = read_integer(buf, fp)
  */
-    __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 309, __pyx_L7_error)
+    __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 313, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_6);
-    __pyx_t_14 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_debug); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 309, __pyx_L7_error)
+    __pyx_t_14 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_debug); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 313, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_14);
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-    __pyx_t_6 = __Pyx_PyInt_From_unsigned_int(__pyx_v_num_masked_cells); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 309, __pyx_L7_error)
+    __pyx_t_6 = __Pyx_PyInt_From_unsigned_int(__pyx_v_num_masked_cells); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 313, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_6);
     __pyx_t_11 = NULL;
     __pyx_t_7 = 0;
@@ -7274,7 +7367,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_14)) {
       PyObject *__pyx_temp[3] = {__pyx_t_11, __pyx_kp_s_masked_cells_d, __pyx_t_6};
-      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_14, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 309, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_14, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 313, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
@@ -7283,14 +7376,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_14)) {
       PyObject *__pyx_temp[3] = {__pyx_t_11, __pyx_kp_s_masked_cells_d, __pyx_t_6};
-      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_14, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 309, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_14, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 313, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     } else
     #endif
     {
-      __pyx_t_1 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 309, __pyx_L7_error)
+      __pyx_t_1 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 313, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_1);
       if (__pyx_t_11) {
         __Pyx_GIVEREF(__pyx_t_11); PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_t_11); __pyx_t_11 = NULL;
@@ -7301,14 +7394,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __Pyx_GIVEREF(__pyx_t_6);
       PyTuple_SET_ITEM(__pyx_t_1, 1+__pyx_t_7, __pyx_t_6);
       __pyx_t_6 = 0;
-      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_14, __pyx_t_1, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 309, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_14, __pyx_t_1, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 313, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     }
     __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":311
+    /* "pyaffy/celparser.pyx":315
  *         logger.debug('# masked cells: %d', num_masked_cells)
  * 
  *         num_subgrids = read_integer(buf, fp)             # <<<<<<<<<<<<<<
@@ -7317,19 +7410,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  */
     __pyx_v_num_subgrids = __pyx_f_6pyaffy_9celparser_read_integer(__pyx_v_buf, __pyx_v_fp);
 
-    /* "pyaffy/celparser.pyx":312
+    /* "pyaffy/celparser.pyx":316
  * 
  *         num_subgrids = read_integer(buf, fp)
  *         logger.debug('# subgrids: %d', num_subgrids)             # <<<<<<<<<<<<<<
  * 
  *         y = read_cell_intensities(buf, fp, num_rows, num_cols)
  */
-    __pyx_t_14 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 312, __pyx_L7_error)
+    __pyx_t_14 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 316, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_14);
-    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_14, __pyx_n_s_debug); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 312, __pyx_L7_error)
+    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_14, __pyx_n_s_debug); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 316, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
-    __pyx_t_14 = __Pyx_PyInt_From_int(__pyx_v_num_subgrids); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 312, __pyx_L7_error)
+    __pyx_t_14 = __Pyx_PyInt_From_int(__pyx_v_num_subgrids); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 316, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_14);
     __pyx_t_6 = NULL;
     __pyx_t_7 = 0;
@@ -7346,7 +7439,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_1)) {
       PyObject *__pyx_temp[3] = {__pyx_t_6, __pyx_kp_s_subgrids_d, __pyx_t_14};
-      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_1, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 312, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_1, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 316, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
@@ -7355,14 +7448,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_1)) {
       PyObject *__pyx_temp[3] = {__pyx_t_6, __pyx_kp_s_subgrids_d, __pyx_t_14};
-      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_1, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 312, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_1, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 316, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
     } else
     #endif
     {
-      __pyx_t_11 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 312, __pyx_L7_error)
+      __pyx_t_11 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 316, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_11);
       if (__pyx_t_6) {
         __Pyx_GIVEREF(__pyx_t_6); PyTuple_SET_ITEM(__pyx_t_11, 0, __pyx_t_6); __pyx_t_6 = NULL;
@@ -7373,24 +7466,24 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __Pyx_GIVEREF(__pyx_t_14);
       PyTuple_SET_ITEM(__pyx_t_11, 1+__pyx_t_7, __pyx_t_14);
       __pyx_t_14 = 0;
-      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_11, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 312, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_11, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 316, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
     }
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":314
+    /* "pyaffy/celparser.pyx":318
  *         logger.debug('# subgrids: %d', num_subgrids)
  * 
  *         y = read_cell_intensities(buf, fp, num_rows, num_cols)             # <<<<<<<<<<<<<<
  *         logger.debug('# cells: %d', y.size)
  * 
  */
-    __pyx_t_7 = __Pyx_PyInt_As_int(__pyx_v_num_rows); if (unlikely((__pyx_t_7 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 314, __pyx_L7_error)
-    __pyx_t_17 = __Pyx_PyInt_As_int(__pyx_v_num_cols); if (unlikely((__pyx_t_17 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 314, __pyx_L7_error)
-    __pyx_t_18 = __pyx_f_6pyaffy_9celparser_read_cell_intensities(__pyx_v_buf, __pyx_v_fp, __pyx_t_7, __pyx_t_17); if (unlikely(!__pyx_t_18.memview)) __PYX_ERR(0, 314, __pyx_L7_error)
-    __pyx_t_5 = __pyx_memoryview_fromslice(__pyx_t_18, 1, (PyObject *(*)(char *)) __pyx_memview_get_float, (int (*)(char *, PyObject *)) __pyx_memview_set_float, 0);; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 314, __pyx_L7_error)
+    __pyx_t_7 = __Pyx_PyInt_As_int(__pyx_v_num_rows); if (unlikely((__pyx_t_7 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 318, __pyx_L7_error)
+    __pyx_t_17 = __Pyx_PyInt_As_int(__pyx_v_num_cols); if (unlikely((__pyx_t_17 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 318, __pyx_L7_error)
+    __pyx_t_18 = __pyx_f_6pyaffy_9celparser_read_cell_intensities(__pyx_v_buf, __pyx_v_fp, __pyx_t_7, __pyx_t_17); if (unlikely(!__pyx_t_18.memview)) __PYX_ERR(0, 318, __pyx_L7_error)
+    __pyx_t_5 = __pyx_memoryview_fromslice(__pyx_t_18, 1, (PyObject *(*)(char *)) __pyx_memview_get_float, (int (*)(char *, PyObject *)) __pyx_memview_set_float, 0);; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 318, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_5);
     __PYX_XDEC_MEMVIEW(&__pyx_t_18, 1);
     __pyx_t_18.memview = NULL;
@@ -7398,19 +7491,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     __Pyx_DECREF_SET(__pyx_v_y, __pyx_t_5);
     __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":315
+    /* "pyaffy/celparser.pyx":319
  * 
  *         y = read_cell_intensities(buf, fp, num_rows, num_cols)
  *         logger.debug('# cells: %d', y.size)             # <<<<<<<<<<<<<<
  * 
  *         masked_coords = read_coords(buf, fp, num_masked_cells)
  */
-    __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 315, __pyx_L7_error)
+    __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 319, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_debug); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 315, __pyx_L7_error)
+    __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_debug); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 319, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_11);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_y, __pyx_n_s_size); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 315, __pyx_L7_error)
+    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_y, __pyx_n_s_size); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 319, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_1);
     __pyx_t_14 = NULL;
     __pyx_t_17 = 0;
@@ -7427,7 +7520,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_11)) {
       PyObject *__pyx_temp[3] = {__pyx_t_14, __pyx_kp_s_cells_d, __pyx_t_1};
-      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_11, __pyx_temp+1-__pyx_t_17, 2+__pyx_t_17); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 315, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_11, __pyx_temp+1-__pyx_t_17, 2+__pyx_t_17); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 319, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
@@ -7436,14 +7529,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_11)) {
       PyObject *__pyx_temp[3] = {__pyx_t_14, __pyx_kp_s_cells_d, __pyx_t_1};
-      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_11, __pyx_temp+1-__pyx_t_17, 2+__pyx_t_17); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 315, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_11, __pyx_temp+1-__pyx_t_17, 2+__pyx_t_17); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 319, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     } else
     #endif
     {
-      __pyx_t_6 = PyTuple_New(2+__pyx_t_17); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 315, __pyx_L7_error)
+      __pyx_t_6 = PyTuple_New(2+__pyx_t_17); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 319, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_6);
       if (__pyx_t_14) {
         __Pyx_GIVEREF(__pyx_t_14); PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_t_14); __pyx_t_14 = NULL;
@@ -7454,22 +7547,22 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __Pyx_GIVEREF(__pyx_t_1);
       PyTuple_SET_ITEM(__pyx_t_6, 1+__pyx_t_17, __pyx_t_1);
       __pyx_t_1 = 0;
-      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_11, __pyx_t_6, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 315, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_11, __pyx_t_6, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 319, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     }
     __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":317
+    /* "pyaffy/celparser.pyx":321
  *         logger.debug('# cells: %d', y.size)
  * 
  *         masked_coords = read_coords(buf, fp, num_masked_cells)             # <<<<<<<<<<<<<<
  *         if not ignore_masked:
  *             apply_mask(y, num_rows, num_cols, masked_coords, num_masked_cells)
  */
-    __pyx_t_19 = __pyx_f_6pyaffy_9celparser_read_coords(__pyx_v_buf, __pyx_v_fp, __pyx_v_num_masked_cells); if (unlikely(!__pyx_t_19.memview)) __PYX_ERR(0, 317, __pyx_L7_error)
-    __pyx_t_5 = __pyx_memoryview_fromslice(__pyx_t_19, 2, (PyObject *(*)(char *)) __pyx_memview_get_short, (int (*)(char *, PyObject *)) __pyx_memview_set_short, 0);; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 317, __pyx_L7_error)
+    __pyx_t_19 = __pyx_f_6pyaffy_9celparser_read_coords(__pyx_v_buf, __pyx_v_fp, __pyx_v_num_masked_cells); if (unlikely(!__pyx_t_19.memview)) __PYX_ERR(0, 321, __pyx_L7_error)
+    __pyx_t_5 = __pyx_memoryview_fromslice(__pyx_t_19, 2, (PyObject *(*)(char *)) __pyx_memview_get_short, (int (*)(char *, PyObject *)) __pyx_memview_set_short, 0);; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 321, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_5);
     __PYX_XDEC_MEMVIEW(&__pyx_t_19, 1);
     __pyx_t_19.memview = NULL;
@@ -7477,18 +7570,18 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     __pyx_v_masked_coords = __pyx_t_5;
     __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":318
+    /* "pyaffy/celparser.pyx":322
  * 
  *         masked_coords = read_coords(buf, fp, num_masked_cells)
  *         if not ignore_masked:             # <<<<<<<<<<<<<<
  *             apply_mask(y, num_rows, num_cols, masked_coords, num_masked_cells)
  *         else:
  */
-    __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_ignore_masked); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 318, __pyx_L7_error)
+    __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_ignore_masked); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 322, __pyx_L7_error)
     __pyx_t_4 = ((!__pyx_t_2) != 0);
     if (__pyx_t_4) {
 
-      /* "pyaffy/celparser.pyx":319
+      /* "pyaffy/celparser.pyx":323
  *         masked_coords = read_coords(buf, fp, num_masked_cells)
  *         if not ignore_masked:
  *             apply_mask(y, num_rows, num_cols, masked_coords, num_masked_cells)             # <<<<<<<<<<<<<<
@@ -7496,11 +7589,11 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  *             logger.debug('Ignoring any masked cells')
  */
       __pyx_t_18 = __Pyx_PyObject_to_MemoryviewSlice_dc_float(__pyx_v_y);
-      if (unlikely(!__pyx_t_18.memview)) __PYX_ERR(0, 319, __pyx_L7_error)
-      __pyx_t_17 = __Pyx_PyInt_As_int(__pyx_v_num_rows); if (unlikely((__pyx_t_17 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 319, __pyx_L7_error)
-      __pyx_t_7 = __Pyx_PyInt_As_int(__pyx_v_num_cols); if (unlikely((__pyx_t_7 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 319, __pyx_L7_error)
+      if (unlikely(!__pyx_t_18.memview)) __PYX_ERR(0, 323, __pyx_L7_error)
+      __pyx_t_17 = __Pyx_PyInt_As_int(__pyx_v_num_rows); if (unlikely((__pyx_t_17 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 323, __pyx_L7_error)
+      __pyx_t_7 = __Pyx_PyInt_As_int(__pyx_v_num_cols); if (unlikely((__pyx_t_7 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 323, __pyx_L7_error)
       __pyx_t_19 = __Pyx_PyObject_to_MemoryviewSlice_d_dc_short(__pyx_v_masked_coords);
-      if (unlikely(!__pyx_t_19.memview)) __PYX_ERR(0, 319, __pyx_L7_error)
+      if (unlikely(!__pyx_t_19.memview)) __PYX_ERR(0, 323, __pyx_L7_error)
       __pyx_f_6pyaffy_9celparser_apply_mask(__pyx_t_18, __pyx_t_17, __pyx_t_7, __pyx_t_19, __pyx_v_num_masked_cells);
       __PYX_XDEC_MEMVIEW(&__pyx_t_18, 1);
       __pyx_t_18.memview = NULL;
@@ -7509,7 +7602,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __pyx_t_19.memview = NULL;
       __pyx_t_19.data = NULL;
 
-      /* "pyaffy/celparser.pyx":318
+      /* "pyaffy/celparser.pyx":322
  * 
  *         masked_coords = read_coords(buf, fp, num_masked_cells)
  *         if not ignore_masked:             # <<<<<<<<<<<<<<
@@ -7519,7 +7612,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       goto __pyx_L19;
     }
 
-    /* "pyaffy/celparser.pyx":321
+    /* "pyaffy/celparser.pyx":325
  *             apply_mask(y, num_rows, num_cols, masked_coords, num_masked_cells)
  *         else:
  *             logger.debug('Ignoring any masked cells')             # <<<<<<<<<<<<<<
@@ -7527,27 +7620,27 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  *         outlier_coords = read_coords(buf, fp, num_outlier_cells)
  */
     /*else*/ {
-      __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 321, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 325, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_5);
-      __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 321, __pyx_L7_error)
+      __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 325, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_11);
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_11, __pyx_tuple__16, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 321, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_11, __pyx_tuple__16, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 325, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     }
     __pyx_L19:;
 
-    /* "pyaffy/celparser.pyx":323
+    /* "pyaffy/celparser.pyx":327
  *             logger.debug('Ignoring any masked cells')
  * 
  *         outlier_coords = read_coords(buf, fp, num_outlier_cells)             # <<<<<<<<<<<<<<
  *         if not ignore_outliers:
  *             apply_mask(y, num_rows, num_cols, outlier_coords, num_outlier_cells)
  */
-    __pyx_t_19 = __pyx_f_6pyaffy_9celparser_read_coords(__pyx_v_buf, __pyx_v_fp, __pyx_v_num_outlier_cells); if (unlikely(!__pyx_t_19.memview)) __PYX_ERR(0, 323, __pyx_L7_error)
-    __pyx_t_5 = __pyx_memoryview_fromslice(__pyx_t_19, 2, (PyObject *(*)(char *)) __pyx_memview_get_short, (int (*)(char *, PyObject *)) __pyx_memview_set_short, 0);; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 323, __pyx_L7_error)
+    __pyx_t_19 = __pyx_f_6pyaffy_9celparser_read_coords(__pyx_v_buf, __pyx_v_fp, __pyx_v_num_outlier_cells); if (unlikely(!__pyx_t_19.memview)) __PYX_ERR(0, 327, __pyx_L7_error)
+    __pyx_t_5 = __pyx_memoryview_fromslice(__pyx_t_19, 2, (PyObject *(*)(char *)) __pyx_memview_get_short, (int (*)(char *, PyObject *)) __pyx_memview_set_short, 0);; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 327, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_5);
     __PYX_XDEC_MEMVIEW(&__pyx_t_19, 1);
     __pyx_t_19.memview = NULL;
@@ -7555,18 +7648,18 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     __pyx_v_outlier_coords = __pyx_t_5;
     __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":324
+    /* "pyaffy/celparser.pyx":328
  * 
  *         outlier_coords = read_coords(buf, fp, num_outlier_cells)
  *         if not ignore_outliers:             # <<<<<<<<<<<<<<
  *             apply_mask(y, num_rows, num_cols, outlier_coords, num_outlier_cells)
  *         else:
  */
-    __pyx_t_4 = __Pyx_PyObject_IsTrue(__pyx_v_ignore_outliers); if (unlikely(__pyx_t_4 < 0)) __PYX_ERR(0, 324, __pyx_L7_error)
+    __pyx_t_4 = __Pyx_PyObject_IsTrue(__pyx_v_ignore_outliers); if (unlikely(__pyx_t_4 < 0)) __PYX_ERR(0, 328, __pyx_L7_error)
     __pyx_t_2 = ((!__pyx_t_4) != 0);
     if (__pyx_t_2) {
 
-      /* "pyaffy/celparser.pyx":325
+      /* "pyaffy/celparser.pyx":329
  *         outlier_coords = read_coords(buf, fp, num_outlier_cells)
  *         if not ignore_outliers:
  *             apply_mask(y, num_rows, num_cols, outlier_coords, num_outlier_cells)             # <<<<<<<<<<<<<<
@@ -7574,11 +7667,11 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  *             logger.debug('Ignoring any outlier cells')
  */
       __pyx_t_18 = __Pyx_PyObject_to_MemoryviewSlice_dc_float(__pyx_v_y);
-      if (unlikely(!__pyx_t_18.memview)) __PYX_ERR(0, 325, __pyx_L7_error)
-      __pyx_t_7 = __Pyx_PyInt_As_int(__pyx_v_num_rows); if (unlikely((__pyx_t_7 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 325, __pyx_L7_error)
-      __pyx_t_17 = __Pyx_PyInt_As_int(__pyx_v_num_cols); if (unlikely((__pyx_t_17 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 325, __pyx_L7_error)
+      if (unlikely(!__pyx_t_18.memview)) __PYX_ERR(0, 329, __pyx_L7_error)
+      __pyx_t_7 = __Pyx_PyInt_As_int(__pyx_v_num_rows); if (unlikely((__pyx_t_7 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 329, __pyx_L7_error)
+      __pyx_t_17 = __Pyx_PyInt_As_int(__pyx_v_num_cols); if (unlikely((__pyx_t_17 == (int)-1) && PyErr_Occurred())) __PYX_ERR(0, 329, __pyx_L7_error)
       __pyx_t_19 = __Pyx_PyObject_to_MemoryviewSlice_d_dc_short(__pyx_v_outlier_coords);
-      if (unlikely(!__pyx_t_19.memview)) __PYX_ERR(0, 325, __pyx_L7_error)
+      if (unlikely(!__pyx_t_19.memview)) __PYX_ERR(0, 329, __pyx_L7_error)
       __pyx_f_6pyaffy_9celparser_apply_mask(__pyx_t_18, __pyx_t_7, __pyx_t_17, __pyx_t_19, __pyx_v_num_outlier_cells);
       __PYX_XDEC_MEMVIEW(&__pyx_t_18, 1);
       __pyx_t_18.memview = NULL;
@@ -7587,7 +7680,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __pyx_t_19.memview = NULL;
       __pyx_t_19.data = NULL;
 
-      /* "pyaffy/celparser.pyx":324
+      /* "pyaffy/celparser.pyx":328
  * 
  *         outlier_coords = read_coords(buf, fp, num_outlier_cells)
  *         if not ignore_outliers:             # <<<<<<<<<<<<<<
@@ -7597,7 +7690,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       goto __pyx_L20;
     }
 
-    /* "pyaffy/celparser.pyx":327
+    /* "pyaffy/celparser.pyx":331
  *             apply_mask(y, num_rows, num_cols, outlier_coords, num_outlier_cells)
  *         else:
  *             logger.debug('Ignoring any outlier cells')             # <<<<<<<<<<<<<<
@@ -7605,12 +7698,12 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  *         #subgrids = []
  */
     /*else*/ {
-      __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 327, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 331, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_5);
-      __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 327, __pyx_L7_error)
+      __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 331, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_11);
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_11, __pyx_tuple__17, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 327, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_11, __pyx_tuple__17, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 331, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
@@ -7618,7 +7711,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     __pyx_L20:;
   }
 
-  /* "pyaffy/celparser.pyx":334
+  /* "pyaffy/celparser.pyx":338
  * 
  *     finally:
  *         if compressed:             # <<<<<<<<<<<<<<
@@ -7627,19 +7720,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  */
   /*finally:*/ {
     /*normal exit:*/{
-      __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_compressed); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 334, __pyx_L1_error)
+      __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_compressed); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 338, __pyx_L1_error)
       if (__pyx_t_2) {
 
-        /* "pyaffy/celparser.pyx":335
+        /* "pyaffy/celparser.pyx":339
  *     finally:
  *         if compressed:
  *             os.remove(final_path)             # <<<<<<<<<<<<<<
  * 
  *     return np.float32(y)
  */
-        __pyx_t_11 = __Pyx_GetModuleGlobalName(__pyx_n_s_os); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 335, __pyx_L1_error)
+        __pyx_t_11 = __Pyx_GetModuleGlobalName(__pyx_n_s_os); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 339, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_11);
-        __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_11, __pyx_n_s_remove); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 335, __pyx_L1_error)
+        __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_11, __pyx_n_s_remove); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 339, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_6);
         __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
         __pyx_t_11 = NULL;
@@ -7653,13 +7746,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
           }
         }
         if (!__pyx_t_11) {
-          __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_v_final_path); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 335, __pyx_L1_error)
+          __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_v_final_path); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 339, __pyx_L1_error)
           __Pyx_GOTREF(__pyx_t_5);
         } else {
           #if CYTHON_FAST_PYCALL
           if (PyFunction_Check(__pyx_t_6)) {
             PyObject *__pyx_temp[2] = {__pyx_t_11, __pyx_v_final_path};
-            __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 335, __pyx_L1_error)
+            __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 339, __pyx_L1_error)
             __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
             __Pyx_GOTREF(__pyx_t_5);
           } else
@@ -7667,19 +7760,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
           #if CYTHON_FAST_PYCCALL
           if (__Pyx_PyFastCFunction_Check(__pyx_t_6)) {
             PyObject *__pyx_temp[2] = {__pyx_t_11, __pyx_v_final_path};
-            __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 335, __pyx_L1_error)
+            __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 339, __pyx_L1_error)
             __Pyx_XDECREF(__pyx_t_11); __pyx_t_11 = 0;
             __Pyx_GOTREF(__pyx_t_5);
           } else
           #endif
           {
-            __pyx_t_1 = PyTuple_New(1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 335, __pyx_L1_error)
+            __pyx_t_1 = PyTuple_New(1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 339, __pyx_L1_error)
             __Pyx_GOTREF(__pyx_t_1);
             __Pyx_GIVEREF(__pyx_t_11); PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_t_11); __pyx_t_11 = NULL;
             __Pyx_INCREF(__pyx_v_final_path);
             __Pyx_GIVEREF(__pyx_v_final_path);
             PyTuple_SET_ITEM(__pyx_t_1, 0+1, __pyx_v_final_path);
-            __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_1, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 335, __pyx_L1_error)
+            __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_1, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 339, __pyx_L1_error)
             __Pyx_GOTREF(__pyx_t_5);
             __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
           }
@@ -7687,7 +7780,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
         __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
         __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-        /* "pyaffy/celparser.pyx":334
+        /* "pyaffy/celparser.pyx":338
  * 
  *     finally:
  *         if compressed:             # <<<<<<<<<<<<<<
@@ -7702,8 +7795,8 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __Pyx_PyThreadState_declare
       __Pyx_PyThreadState_assign
       __pyx_t_21 = 0; __pyx_t_22 = 0; __pyx_t_23 = 0; __pyx_t_24 = 0; __pyx_t_25 = 0; __pyx_t_26 = 0;
-      __PYX_XDEC_MEMVIEW(&__pyx_t_18, 1);
       __PYX_XDEC_MEMVIEW(&__pyx_t_19, 1);
+      __PYX_XDEC_MEMVIEW(&__pyx_t_18, 1);
       __Pyx_XDECREF(__pyx_t_15); __pyx_t_15 = 0;
       __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
       __Pyx_XDECREF(__pyx_t_10); __pyx_t_10 = 0;
@@ -7722,19 +7815,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
       __Pyx_XGOTREF(__pyx_t_26);
       __pyx_t_17 = __pyx_lineno; __pyx_t_7 = __pyx_clineno; __pyx_t_20 = __pyx_filename;
       {
-        __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_compressed); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 334, __pyx_L23_error)
+        __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_compressed); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 338, __pyx_L23_error)
         if (__pyx_t_2) {
 
-          /* "pyaffy/celparser.pyx":335
+          /* "pyaffy/celparser.pyx":339
  *     finally:
  *         if compressed:
  *             os.remove(final_path)             # <<<<<<<<<<<<<<
  * 
  *     return np.float32(y)
  */
-          __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_os); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 335, __pyx_L23_error)
+          __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_os); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 339, __pyx_L23_error)
           __Pyx_GOTREF(__pyx_t_6);
-          __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_remove); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 335, __pyx_L23_error)
+          __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_remove); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 339, __pyx_L23_error)
           __Pyx_GOTREF(__pyx_t_1);
           __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
           __pyx_t_6 = NULL;
@@ -7748,13 +7841,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
             }
           }
           if (!__pyx_t_6) {
-            __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_v_final_path); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 335, __pyx_L23_error)
+            __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_v_final_path); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 339, __pyx_L23_error)
             __Pyx_GOTREF(__pyx_t_5);
           } else {
             #if CYTHON_FAST_PYCALL
             if (PyFunction_Check(__pyx_t_1)) {
               PyObject *__pyx_temp[2] = {__pyx_t_6, __pyx_v_final_path};
-              __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 335, __pyx_L23_error)
+              __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 339, __pyx_L23_error)
               __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
               __Pyx_GOTREF(__pyx_t_5);
             } else
@@ -7762,19 +7855,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
             #if CYTHON_FAST_PYCCALL
             if (__Pyx_PyFastCFunction_Check(__pyx_t_1)) {
               PyObject *__pyx_temp[2] = {__pyx_t_6, __pyx_v_final_path};
-              __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 335, __pyx_L23_error)
+              __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 339, __pyx_L23_error)
               __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
               __Pyx_GOTREF(__pyx_t_5);
             } else
             #endif
             {
-              __pyx_t_11 = PyTuple_New(1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 335, __pyx_L23_error)
+              __pyx_t_11 = PyTuple_New(1+1); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 339, __pyx_L23_error)
               __Pyx_GOTREF(__pyx_t_11);
               __Pyx_GIVEREF(__pyx_t_6); PyTuple_SET_ITEM(__pyx_t_11, 0, __pyx_t_6); __pyx_t_6 = NULL;
               __Pyx_INCREF(__pyx_v_final_path);
               __Pyx_GIVEREF(__pyx_v_final_path);
               PyTuple_SET_ITEM(__pyx_t_11, 0+1, __pyx_v_final_path);
-              __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_11, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 335, __pyx_L23_error)
+              __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_11, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 339, __pyx_L23_error)
               __Pyx_GOTREF(__pyx_t_5);
               __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
             }
@@ -7782,7 +7875,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
           __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
           __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-          /* "pyaffy/celparser.pyx":334
+          /* "pyaffy/celparser.pyx":338
  * 
  *     finally:
  *         if compressed:             # <<<<<<<<<<<<<<
@@ -7820,7 +7913,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     __pyx_L8:;
   }
 
-  /* "pyaffy/celparser.pyx":337
+  /* "pyaffy/celparser.pyx":341
  *             os.remove(final_path)
  * 
  *     return np.float32(y)             # <<<<<<<<<<<<<<
@@ -7828,9 +7921,9 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
  * 
  */
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 337, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 341, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_float32); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 337, __pyx_L1_error)
+  __pyx_t_11 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_float32); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 341, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_11);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_t_1 = NULL;
@@ -7844,13 +7937,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     }
   }
   if (!__pyx_t_1) {
-    __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_11, __pyx_v_y); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 337, __pyx_L1_error)
+    __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_11, __pyx_v_y); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 341, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
   } else {
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_11)) {
       PyObject *__pyx_temp[2] = {__pyx_t_1, __pyx_v_y};
-      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_11, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 337, __pyx_L1_error)
+      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_11, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 341, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
       __Pyx_GOTREF(__pyx_t_5);
     } else
@@ -7858,19 +7951,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_11)) {
       PyObject *__pyx_temp[2] = {__pyx_t_1, __pyx_v_y};
-      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_11, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 337, __pyx_L1_error)
+      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_11, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 341, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
       __Pyx_GOTREF(__pyx_t_5);
     } else
     #endif
     {
-      __pyx_t_6 = PyTuple_New(1+1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 337, __pyx_L1_error)
+      __pyx_t_6 = PyTuple_New(1+1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 341, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_6);
       __Pyx_GIVEREF(__pyx_t_1); PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_t_1); __pyx_t_1 = NULL;
       __Pyx_INCREF(__pyx_v_y);
       __Pyx_GIVEREF(__pyx_v_y);
       PyTuple_SET_ITEM(__pyx_t_6, 0+1, __pyx_v_y);
-      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_11, __pyx_t_6, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 337, __pyx_L1_error)
+      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_11, __pyx_t_6, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 341, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     }
@@ -7880,7 +7973,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
   __pyx_t_5 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":228
+  /* "pyaffy/celparser.pyx":232
  * 
  * 
  * def parse_celfile_v4(path, compressed=True, ignore_outliers=True, ignore_masked=True):             # <<<<<<<<<<<<<<
@@ -7920,7 +8013,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_4parse_celfile_v4(CYTHON_UNUSED PyO
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":358
+/* "pyaffy/celparser.pyx":362
  * 
  * 
  * cdef void reverse_copy(const char* src, char* dst, int num):             # <<<<<<<<<<<<<<
@@ -7935,7 +8028,7 @@ static void __pyx_f_6pyaffy_9celparser_reverse_copy(char const *__pyx_v_src, cha
   int __pyx_t_2;
   __Pyx_RefNannySetupContext("reverse_copy", 0);
 
-  /* "pyaffy/celparser.pyx":360
+  /* "pyaffy/celparser.pyx":364
  * cdef void reverse_copy(const char* src, char* dst, int num):
  *     cdef int i
  *     for i in range(num):             # <<<<<<<<<<<<<<
@@ -7946,7 +8039,7 @@ static void __pyx_f_6pyaffy_9celparser_reverse_copy(char const *__pyx_v_src, cha
   for (__pyx_t_2 = 0; __pyx_t_2 < __pyx_t_1; __pyx_t_2+=1) {
     __pyx_v_i = __pyx_t_2;
 
-    /* "pyaffy/celparser.pyx":361
+    /* "pyaffy/celparser.pyx":365
  *     cdef int i
  *     for i in range(num):
  *         dst[num - i - 1] = src[i]             # <<<<<<<<<<<<<<
@@ -7956,7 +8049,7 @@ static void __pyx_f_6pyaffy_9celparser_reverse_copy(char const *__pyx_v_src, cha
     (__pyx_v_dst[((__pyx_v_num - __pyx_v_i) - 1)]) = (__pyx_v_src[__pyx_v_i]);
   }
 
-  /* "pyaffy/celparser.pyx":358
+  /* "pyaffy/celparser.pyx":362
  * 
  * 
  * cdef void reverse_copy(const char* src, char* dst, int num):             # <<<<<<<<<<<<<<
@@ -7968,7 +8061,7 @@ static void __pyx_f_6pyaffy_9celparser_reverse_copy(char const *__pyx_v_src, cha
   __Pyx_RefNannyFinishContext();
 }
 
-/* "pyaffy/celparser.pyx":363
+/* "pyaffy/celparser.pyx":367
  *         dst[num - i - 1] = src[i]
  * 
  * cdef float read_FLOAT(char* buf, char* data):             # <<<<<<<<<<<<<<
@@ -7982,7 +8075,7 @@ static float __pyx_f_6pyaffy_9celparser_read_FLOAT(char *__pyx_v_buf, char *__py
   __Pyx_RefNannyDeclarations
   __Pyx_RefNannySetupContext("read_FLOAT", 0);
 
-  /* "pyaffy/celparser.pyx":364
+  /* "pyaffy/celparser.pyx":368
  * 
  * cdef float read_FLOAT(char* buf, char* data):
  *     reverse_copy(data, buf, 4)             # <<<<<<<<<<<<<<
@@ -7991,7 +8084,7 @@ static float __pyx_f_6pyaffy_9celparser_read_FLOAT(char *__pyx_v_buf, char *__py
  */
   __pyx_f_6pyaffy_9celparser_reverse_copy(__pyx_v_data, __pyx_v_buf, 4);
 
-  /* "pyaffy/celparser.pyx":365
+  /* "pyaffy/celparser.pyx":369
  * cdef float read_FLOAT(char* buf, char* data):
  *     reverse_copy(data, buf, 4)
  *     cdef float val = (<float*>buf)[0]             # <<<<<<<<<<<<<<
@@ -8000,7 +8093,7 @@ static float __pyx_f_6pyaffy_9celparser_read_FLOAT(char *__pyx_v_buf, char *__py
  */
   __pyx_v_val = (((float *)__pyx_v_buf)[0]);
 
-  /* "pyaffy/celparser.pyx":366
+  /* "pyaffy/celparser.pyx":370
  *     reverse_copy(data, buf, 4)
  *     cdef float val = (<float*>buf)[0]
  *     return val             # <<<<<<<<<<<<<<
@@ -8010,7 +8103,7 @@ static float __pyx_f_6pyaffy_9celparser_read_FLOAT(char *__pyx_v_buf, char *__py
   __pyx_r = __pyx_v_val;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":363
+  /* "pyaffy/celparser.pyx":367
  *         dst[num - i - 1] = src[i]
  * 
  * cdef float read_FLOAT(char* buf, char* data):             # <<<<<<<<<<<<<<
@@ -8024,7 +8117,7 @@ static float __pyx_f_6pyaffy_9celparser_read_FLOAT(char *__pyx_v_buf, char *__py
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":368
+/* "pyaffy/celparser.pyx":372
  *     return val
  * 
  * cdef float[::1] read_cc_intensities(char* data, unsigned int num_values):             # <<<<<<<<<<<<<<
@@ -8049,47 +8142,47 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_cc_intensities(char *_
   size_t __pyx_t_9;
   __Pyx_RefNannySetupContext("read_cc_intensities", 0);
 
-  /* "pyaffy/celparser.pyx":369
+  /* "pyaffy/celparser.pyx":373
  * 
  * cdef float[::1] read_cc_intensities(char* data, unsigned int num_values):
  *     cdef float[::1] y = np.empty(num_values, dtype = np.float32)             # <<<<<<<<<<<<<<
  *     cdef unsigned int i
  *     cdef char* buf = <char*>malloc(10)
  */
-  __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 369, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 373, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_empty); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 369, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_empty); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 373, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  __pyx_t_1 = __Pyx_PyInt_From_unsigned_int(__pyx_v_num_values); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 369, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyInt_From_unsigned_int(__pyx_v_num_values); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 373, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_3 = PyTuple_New(1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 369, __pyx_L1_error)
+  __pyx_t_3 = PyTuple_New(1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 373, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_GIVEREF(__pyx_t_1);
   PyTuple_SET_ITEM(__pyx_t_3, 0, __pyx_t_1);
   __pyx_t_1 = 0;
-  __pyx_t_1 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 369, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 373, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_4 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 369, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 373, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
-  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_float32); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 369, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_float32); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 373, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
-  if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_dtype, __pyx_t_5) < 0) __PYX_ERR(0, 369, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_dtype, __pyx_t_5) < 0) __PYX_ERR(0, 373, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_3, __pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 369, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_3, __pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 373, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_t_6 = __Pyx_PyObject_to_MemoryviewSlice_dc_float(__pyx_t_5);
-  if (unlikely(!__pyx_t_6.memview)) __PYX_ERR(0, 369, __pyx_L1_error)
+  if (unlikely(!__pyx_t_6.memview)) __PYX_ERR(0, 373, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __pyx_v_y = __pyx_t_6;
   __pyx_t_6.memview = NULL;
   __pyx_t_6.data = NULL;
 
-  /* "pyaffy/celparser.pyx":371
+  /* "pyaffy/celparser.pyx":375
  *     cdef float[::1] y = np.empty(num_values, dtype = np.float32)
  *     cdef unsigned int i
  *     cdef char* buf = <char*>malloc(10)             # <<<<<<<<<<<<<<
@@ -8098,7 +8191,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_cc_intensities(char *_
  */
   __pyx_v_buf = ((char *)malloc(10));
 
-  /* "pyaffy/celparser.pyx":372
+  /* "pyaffy/celparser.pyx":376
  *     cdef unsigned int i
  *     cdef char* buf = <char*>malloc(10)
  *     for i in range(num_values):             # <<<<<<<<<<<<<<
@@ -8109,7 +8202,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_cc_intensities(char *_
   for (__pyx_t_8 = 0; __pyx_t_8 < __pyx_t_7; __pyx_t_8+=1) {
     __pyx_v_i = __pyx_t_8;
 
-    /* "pyaffy/celparser.pyx":373
+    /* "pyaffy/celparser.pyx":377
  *     cdef char* buf = <char*>malloc(10)
  *     for i in range(num_values):
  *         y[i] = read_FLOAT(buf, data)             # <<<<<<<<<<<<<<
@@ -8119,7 +8212,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_cc_intensities(char *_
     __pyx_t_9 = __pyx_v_i;
     *((float *) ( /* dim=0 */ ((char *) (((float *) __pyx_v_y.data) + __pyx_t_9)) )) = __pyx_f_6pyaffy_9celparser_read_FLOAT(__pyx_v_buf, __pyx_v_data);
 
-    /* "pyaffy/celparser.pyx":374
+    /* "pyaffy/celparser.pyx":378
  *     for i in range(num_values):
  *         y[i] = read_FLOAT(buf, data)
  *         data += 4             # <<<<<<<<<<<<<<
@@ -8129,7 +8222,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_cc_intensities(char *_
     __pyx_v_data = (__pyx_v_data + 4);
   }
 
-  /* "pyaffy/celparser.pyx":375
+  /* "pyaffy/celparser.pyx":379
  *         y[i] = read_FLOAT(buf, data)
  *         data += 4
  *     return y             # <<<<<<<<<<<<<<
@@ -8140,7 +8233,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_cc_intensities(char *_
   __pyx_r = __pyx_v_y;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":368
+  /* "pyaffy/celparser.pyx":372
  *     return val
  * 
  * cdef float[::1] read_cc_intensities(char* data, unsigned int num_values):             # <<<<<<<<<<<<<<
@@ -8171,7 +8264,7 @@ static __Pyx_memviewslice __pyx_f_6pyaffy_9celparser_read_cc_intensities(char *_
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":377
+/* "pyaffy/celparser.pyx":381
  *     return y
  * 
  * def parse_celfile_cc(path, compressed=True, ignore_outliers=True, ignore_masked=True):             # <<<<<<<<<<<<<<
@@ -8237,7 +8330,7 @@ static PyObject *__pyx_pw_6pyaffy_9celparser_7parse_celfile_cc(PyObject *__pyx_s
         }
       }
       if (unlikely(kw_args > 0)) {
-        if (unlikely(__Pyx_ParseOptionalKeywords(__pyx_kwds, __pyx_pyargnames, 0, values, pos_args, "parse_celfile_cc") < 0)) __PYX_ERR(0, 377, __pyx_L3_error)
+        if (unlikely(__Pyx_ParseOptionalKeywords(__pyx_kwds, __pyx_pyargnames, 0, values, pos_args, "parse_celfile_cc") < 0)) __PYX_ERR(0, 381, __pyx_L3_error)
       }
     } else {
       switch (PyTuple_GET_SIZE(__pyx_args)) {
@@ -8259,7 +8352,7 @@ static PyObject *__pyx_pw_6pyaffy_9celparser_7parse_celfile_cc(PyObject *__pyx_s
   }
   goto __pyx_L4_argument_unpacking_done;
   __pyx_L5_argtuple_error:;
-  __Pyx_RaiseArgtupleInvalid("parse_celfile_cc", 0, 1, 4, PyTuple_GET_SIZE(__pyx_args)); __PYX_ERR(0, 377, __pyx_L3_error)
+  __Pyx_RaiseArgtupleInvalid("parse_celfile_cc", 0, 1, 4, PyTuple_GET_SIZE(__pyx_args)); __PYX_ERR(0, 381, __pyx_L3_error)
   __pyx_L3_error:;
   __Pyx_AddTraceback("pyaffy.celparser.parse_celfile_cc", __pyx_clineno, __pyx_lineno, __pyx_filename);
   __Pyx_RefNannyFinishContext();
@@ -8272,7 +8365,7 @@ static PyObject *__pyx_pw_6pyaffy_9celparser_7parse_celfile_cc(PyObject *__pyx_s
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":402
+/* "pyaffy/celparser.pyx":406
  *     decode_uint16 = lambda s: struct.unpack('>H', s)[0]
  * 
  *     def read_float(bytes):             # <<<<<<<<<<<<<<
@@ -8307,36 +8400,36 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_read_float(PyObj
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":403
+  /* "pyaffy/celparser.pyx":407
  * 
  *     def read_float(bytes):
  *         read[0] += 4             # <<<<<<<<<<<<<<
  *         return decode_float(fh.read(4))
  * 
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 403, __pyx_L1_error) }
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 407, __pyx_L1_error) }
   if (unlikely(__pyx_cur_scope->__pyx_v_read == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 403, __pyx_L1_error)
+    __PYX_ERR(0, 407, __pyx_L1_error)
   }
   __Pyx_INCREF(__pyx_cur_scope->__pyx_v_read);
   __pyx_t_1 = __pyx_cur_scope->__pyx_v_read;
   __pyx_t_2 = 0;
   if (unlikely(__pyx_t_1 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 403, __pyx_L1_error)
+    __PYX_ERR(0, 407, __pyx_L1_error)
   }
-  __pyx_t_3 = __Pyx_PyInt_AddObjC(PyList_GET_ITEM(__pyx_t_1, __pyx_t_2), __pyx_int_4, 4, 1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 403, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyInt_AddObjC(PyList_GET_ITEM(__pyx_t_1, __pyx_t_2), __pyx_int_4, 4, 1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 407, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (unlikely(__pyx_t_1 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 403, __pyx_L1_error)
+    __PYX_ERR(0, 407, __pyx_L1_error)
   }
-  if (unlikely(__Pyx_SetItemInt(__pyx_t_1, __pyx_t_2, __pyx_t_3, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 403, __pyx_L1_error)
+  if (unlikely(__Pyx_SetItemInt(__pyx_t_1, __pyx_t_2, __pyx_t_3, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 407, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":404
+  /* "pyaffy/celparser.pyx":408
  *     def read_float(bytes):
  *         read[0] += 4
  *         return decode_float(fh.read(4))             # <<<<<<<<<<<<<<
@@ -8344,21 +8437,21 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_read_float(PyObj
  *     def read_byte(fh):
  */
   __Pyx_XDECREF(__pyx_r);
-  if (unlikely(!__pyx_cur_scope->__pyx_v_fh)) { __Pyx_RaiseClosureNameError("fh"); __PYX_ERR(0, 404, __pyx_L1_error) }
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_cur_scope->__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 404, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_fh)) { __Pyx_RaiseClosureNameError("fh"); __PYX_ERR(0, 408, __pyx_L1_error) }
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_cur_scope->__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 408, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_tuple__18, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 404, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_tuple__18, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 408, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  if (unlikely(!__pyx_cur_scope->__pyx_v_decode_float)) { __Pyx_RaiseClosureNameError("decode_float"); __PYX_ERR(0, 404, __pyx_L1_error) }
-  __pyx_t_3 = __pyx_lambda_funcdef_lambda4(__pyx_cur_scope->__pyx_v_decode_float, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 404, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_decode_float)) { __Pyx_RaiseClosureNameError("decode_float"); __PYX_ERR(0, 408, __pyx_L1_error) }
+  __pyx_t_3 = __pyx_lambda_funcdef_lambda4(__pyx_cur_scope->__pyx_v_decode_float, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 408, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   __pyx_r = __pyx_t_3;
   __pyx_t_3 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":402
+  /* "pyaffy/celparser.pyx":406
  *     decode_uint16 = lambda s: struct.unpack('>H', s)[0]
  * 
  *     def read_float(bytes):             # <<<<<<<<<<<<<<
@@ -8379,7 +8472,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_read_float(PyObj
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":406
+/* "pyaffy/celparser.pyx":410
  *         return decode_float(fh.read(4))
  * 
  *     def read_byte(fh):             # <<<<<<<<<<<<<<
@@ -8414,36 +8507,36 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_2read_byte(PyObj
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":407
+  /* "pyaffy/celparser.pyx":411
  * 
  *     def read_byte(fh):
  *         read[0] += 1             # <<<<<<<<<<<<<<
  *         return decode_int8(fh.read(1))
  * 
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 407, __pyx_L1_error) }
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 411, __pyx_L1_error) }
   if (unlikely(__pyx_cur_scope->__pyx_v_read == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 407, __pyx_L1_error)
+    __PYX_ERR(0, 411, __pyx_L1_error)
   }
   __Pyx_INCREF(__pyx_cur_scope->__pyx_v_read);
   __pyx_t_1 = __pyx_cur_scope->__pyx_v_read;
   __pyx_t_2 = 0;
   if (unlikely(__pyx_t_1 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 407, __pyx_L1_error)
+    __PYX_ERR(0, 411, __pyx_L1_error)
   }
-  __pyx_t_3 = __Pyx_PyInt_AddObjC(PyList_GET_ITEM(__pyx_t_1, __pyx_t_2), __pyx_int_1, 1, 1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 407, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyInt_AddObjC(PyList_GET_ITEM(__pyx_t_1, __pyx_t_2), __pyx_int_1, 1, 1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 411, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (unlikely(__pyx_t_1 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 407, __pyx_L1_error)
+    __PYX_ERR(0, 411, __pyx_L1_error)
   }
-  if (unlikely(__Pyx_SetItemInt(__pyx_t_1, __pyx_t_2, __pyx_t_3, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 407, __pyx_L1_error)
+  if (unlikely(__Pyx_SetItemInt(__pyx_t_1, __pyx_t_2, __pyx_t_3, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 411, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":408
+  /* "pyaffy/celparser.pyx":412
  *     def read_byte(fh):
  *         read[0] += 1
  *         return decode_int8(fh.read(1))             # <<<<<<<<<<<<<<
@@ -8451,20 +8544,20 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_2read_byte(PyObj
  *     def read_ubyte(fh):
  */
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 408, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 412, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_tuple__19, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 408, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_tuple__19, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 412, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  if (unlikely(!__pyx_cur_scope->__pyx_v_decode_int8)) { __Pyx_RaiseClosureNameError("decode_int8"); __PYX_ERR(0, 408, __pyx_L1_error) }
-  __pyx_t_3 = __pyx_lambda_funcdef_lambda7(__pyx_cur_scope->__pyx_v_decode_int8, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 408, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_decode_int8)) { __Pyx_RaiseClosureNameError("decode_int8"); __PYX_ERR(0, 412, __pyx_L1_error) }
+  __pyx_t_3 = __pyx_lambda_funcdef_lambda7(__pyx_cur_scope->__pyx_v_decode_int8, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 412, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   __pyx_r = __pyx_t_3;
   __pyx_t_3 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":406
+  /* "pyaffy/celparser.pyx":410
  *         return decode_float(fh.read(4))
  * 
  *     def read_byte(fh):             # <<<<<<<<<<<<<<
@@ -8485,7 +8578,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_2read_byte(PyObj
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":410
+/* "pyaffy/celparser.pyx":414
  *         return decode_int8(fh.read(1))
  * 
  *     def read_ubyte(fh):             # <<<<<<<<<<<<<<
@@ -8520,36 +8613,36 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_4read_ubyte(PyOb
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":411
+  /* "pyaffy/celparser.pyx":415
  * 
  *     def read_ubyte(fh):
  *         read[0] += 1             # <<<<<<<<<<<<<<
  *         return decode_uint8(fh.read(1))
  * 
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 411, __pyx_L1_error) }
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 415, __pyx_L1_error) }
   if (unlikely(__pyx_cur_scope->__pyx_v_read == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 411, __pyx_L1_error)
+    __PYX_ERR(0, 415, __pyx_L1_error)
   }
   __Pyx_INCREF(__pyx_cur_scope->__pyx_v_read);
   __pyx_t_1 = __pyx_cur_scope->__pyx_v_read;
   __pyx_t_2 = 0;
   if (unlikely(__pyx_t_1 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 411, __pyx_L1_error)
+    __PYX_ERR(0, 415, __pyx_L1_error)
   }
-  __pyx_t_3 = __Pyx_PyInt_AddObjC(PyList_GET_ITEM(__pyx_t_1, __pyx_t_2), __pyx_int_1, 1, 1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 411, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyInt_AddObjC(PyList_GET_ITEM(__pyx_t_1, __pyx_t_2), __pyx_int_1, 1, 1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 415, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (unlikely(__pyx_t_1 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 411, __pyx_L1_error)
+    __PYX_ERR(0, 415, __pyx_L1_error)
   }
-  if (unlikely(__Pyx_SetItemInt(__pyx_t_1, __pyx_t_2, __pyx_t_3, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 411, __pyx_L1_error)
+  if (unlikely(__Pyx_SetItemInt(__pyx_t_1, __pyx_t_2, __pyx_t_3, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 415, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":412
+  /* "pyaffy/celparser.pyx":416
  *     def read_ubyte(fh):
  *         read[0] += 1
  *         return decode_uint8(fh.read(1))             # <<<<<<<<<<<<<<
@@ -8557,20 +8650,20 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_4read_ubyte(PyOb
  *     def read_short(fh):
  */
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 412, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 416, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_tuple__20, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 412, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_tuple__20, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 416, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  if (unlikely(!__pyx_cur_scope->__pyx_v_decode_uint8)) { __Pyx_RaiseClosureNameError("decode_uint8"); __PYX_ERR(0, 412, __pyx_L1_error) }
-  __pyx_t_3 = __pyx_lambda_funcdef_lambda8(__pyx_cur_scope->__pyx_v_decode_uint8, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 412, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_decode_uint8)) { __Pyx_RaiseClosureNameError("decode_uint8"); __PYX_ERR(0, 416, __pyx_L1_error) }
+  __pyx_t_3 = __pyx_lambda_funcdef_lambda8(__pyx_cur_scope->__pyx_v_decode_uint8, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 416, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   __pyx_r = __pyx_t_3;
   __pyx_t_3 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":410
+  /* "pyaffy/celparser.pyx":414
  *         return decode_int8(fh.read(1))
  * 
  *     def read_ubyte(fh):             # <<<<<<<<<<<<<<
@@ -8591,7 +8684,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_4read_ubyte(PyOb
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":414
+/* "pyaffy/celparser.pyx":418
  *         return decode_uint8(fh.read(1))
  * 
  *     def read_short(fh):             # <<<<<<<<<<<<<<
@@ -8626,36 +8719,36 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_6read_short(PyOb
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":415
+  /* "pyaffy/celparser.pyx":419
  * 
  *     def read_short(fh):
  *         read[0] += 2             # <<<<<<<<<<<<<<
  *         return decode_int16(fh.read(2))
  * 
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 415, __pyx_L1_error) }
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 419, __pyx_L1_error) }
   if (unlikely(__pyx_cur_scope->__pyx_v_read == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 415, __pyx_L1_error)
+    __PYX_ERR(0, 419, __pyx_L1_error)
   }
   __Pyx_INCREF(__pyx_cur_scope->__pyx_v_read);
   __pyx_t_1 = __pyx_cur_scope->__pyx_v_read;
   __pyx_t_2 = 0;
   if (unlikely(__pyx_t_1 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 415, __pyx_L1_error)
+    __PYX_ERR(0, 419, __pyx_L1_error)
   }
-  __pyx_t_3 = __Pyx_PyInt_AddObjC(PyList_GET_ITEM(__pyx_t_1, __pyx_t_2), __pyx_int_2, 2, 1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 415, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyInt_AddObjC(PyList_GET_ITEM(__pyx_t_1, __pyx_t_2), __pyx_int_2, 2, 1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 419, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (unlikely(__pyx_t_1 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 415, __pyx_L1_error)
+    __PYX_ERR(0, 419, __pyx_L1_error)
   }
-  if (unlikely(__Pyx_SetItemInt(__pyx_t_1, __pyx_t_2, __pyx_t_3, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 415, __pyx_L1_error)
+  if (unlikely(__Pyx_SetItemInt(__pyx_t_1, __pyx_t_2, __pyx_t_3, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 419, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":416
+  /* "pyaffy/celparser.pyx":420
  *     def read_short(fh):
  *         read[0] += 2
  *         return decode_int16(fh.read(2))             # <<<<<<<<<<<<<<
@@ -8663,20 +8756,20 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_6read_short(PyOb
  *     def read_ushort(fh):
  */
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 416, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 420, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_tuple__21, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 416, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_tuple__21, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 420, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  if (unlikely(!__pyx_cur_scope->__pyx_v_decode_int16)) { __Pyx_RaiseClosureNameError("decode_int16"); __PYX_ERR(0, 416, __pyx_L1_error) }
-  __pyx_t_3 = __pyx_lambda_funcdef_lambda9(__pyx_cur_scope->__pyx_v_decode_int16, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 416, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_decode_int16)) { __Pyx_RaiseClosureNameError("decode_int16"); __PYX_ERR(0, 420, __pyx_L1_error) }
+  __pyx_t_3 = __pyx_lambda_funcdef_lambda9(__pyx_cur_scope->__pyx_v_decode_int16, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 420, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   __pyx_r = __pyx_t_3;
   __pyx_t_3 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":414
+  /* "pyaffy/celparser.pyx":418
  *         return decode_uint8(fh.read(1))
  * 
  *     def read_short(fh):             # <<<<<<<<<<<<<<
@@ -8697,7 +8790,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_6read_short(PyOb
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":418
+/* "pyaffy/celparser.pyx":422
  *         return decode_int16(fh.read(2))
  * 
  *     def read_ushort(fh):             # <<<<<<<<<<<<<<
@@ -8732,36 +8825,36 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_8read_ushort(PyO
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":419
+  /* "pyaffy/celparser.pyx":423
  * 
  *     def read_ushort(fh):
  *         read[0] += 2             # <<<<<<<<<<<<<<
  *         return decode_uint16(fh.read(2))
  * 
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 419, __pyx_L1_error) }
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 423, __pyx_L1_error) }
   if (unlikely(__pyx_cur_scope->__pyx_v_read == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 419, __pyx_L1_error)
+    __PYX_ERR(0, 423, __pyx_L1_error)
   }
   __Pyx_INCREF(__pyx_cur_scope->__pyx_v_read);
   __pyx_t_1 = __pyx_cur_scope->__pyx_v_read;
   __pyx_t_2 = 0;
   if (unlikely(__pyx_t_1 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 419, __pyx_L1_error)
+    __PYX_ERR(0, 423, __pyx_L1_error)
   }
-  __pyx_t_3 = __Pyx_PyInt_AddObjC(PyList_GET_ITEM(__pyx_t_1, __pyx_t_2), __pyx_int_2, 2, 1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 419, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyInt_AddObjC(PyList_GET_ITEM(__pyx_t_1, __pyx_t_2), __pyx_int_2, 2, 1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 423, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (unlikely(__pyx_t_1 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 419, __pyx_L1_error)
+    __PYX_ERR(0, 423, __pyx_L1_error)
   }
-  if (unlikely(__Pyx_SetItemInt(__pyx_t_1, __pyx_t_2, __pyx_t_3, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 419, __pyx_L1_error)
+  if (unlikely(__Pyx_SetItemInt(__pyx_t_1, __pyx_t_2, __pyx_t_3, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 423, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":420
+  /* "pyaffy/celparser.pyx":424
  *     def read_ushort(fh):
  *         read[0] += 2
  *         return decode_uint16(fh.read(2))             # <<<<<<<<<<<<<<
@@ -8769,20 +8862,20 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_8read_ushort(PyO
  *     def read_int(fh):
  */
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 420, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 424, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_tuple__22, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 420, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_tuple__22, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 424, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  if (unlikely(!__pyx_cur_scope->__pyx_v_decode_uint16)) { __Pyx_RaiseClosureNameError("decode_uint16"); __PYX_ERR(0, 420, __pyx_L1_error) }
-  __pyx_t_3 = __pyx_lambda_funcdef_lambda10(__pyx_cur_scope->__pyx_v_decode_uint16, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 420, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_decode_uint16)) { __Pyx_RaiseClosureNameError("decode_uint16"); __PYX_ERR(0, 424, __pyx_L1_error) }
+  __pyx_t_3 = __pyx_lambda_funcdef_lambda10(__pyx_cur_scope->__pyx_v_decode_uint16, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 424, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   __pyx_r = __pyx_t_3;
   __pyx_t_3 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":418
+  /* "pyaffy/celparser.pyx":422
  *         return decode_int16(fh.read(2))
  * 
  *     def read_ushort(fh):             # <<<<<<<<<<<<<<
@@ -8803,7 +8896,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_8read_ushort(PyO
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":422
+/* "pyaffy/celparser.pyx":426
  *         return decode_uint16(fh.read(2))
  * 
  *     def read_int(fh):             # <<<<<<<<<<<<<<
@@ -8838,36 +8931,36 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(PyObj
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":423
+  /* "pyaffy/celparser.pyx":427
  * 
  *     def read_int(fh):
  *         read[0] += 4             # <<<<<<<<<<<<<<
  *         return decode_int32(fh.read(4))
  * 
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 423, __pyx_L1_error) }
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 427, __pyx_L1_error) }
   if (unlikely(__pyx_cur_scope->__pyx_v_read == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 423, __pyx_L1_error)
+    __PYX_ERR(0, 427, __pyx_L1_error)
   }
   __Pyx_INCREF(__pyx_cur_scope->__pyx_v_read);
   __pyx_t_1 = __pyx_cur_scope->__pyx_v_read;
   __pyx_t_2 = 0;
   if (unlikely(__pyx_t_1 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 423, __pyx_L1_error)
+    __PYX_ERR(0, 427, __pyx_L1_error)
   }
-  __pyx_t_3 = __Pyx_PyInt_AddObjC(PyList_GET_ITEM(__pyx_t_1, __pyx_t_2), __pyx_int_4, 4, 1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 423, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyInt_AddObjC(PyList_GET_ITEM(__pyx_t_1, __pyx_t_2), __pyx_int_4, 4, 1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 427, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (unlikely(__pyx_t_1 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 423, __pyx_L1_error)
+    __PYX_ERR(0, 427, __pyx_L1_error)
   }
-  if (unlikely(__Pyx_SetItemInt(__pyx_t_1, __pyx_t_2, __pyx_t_3, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 423, __pyx_L1_error)
+  if (unlikely(__Pyx_SetItemInt(__pyx_t_1, __pyx_t_2, __pyx_t_3, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 427, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":424
+  /* "pyaffy/celparser.pyx":428
  *     def read_int(fh):
  *         read[0] += 4
  *         return decode_int32(fh.read(4))             # <<<<<<<<<<<<<<
@@ -8875,20 +8968,20 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(PyObj
  *     def read_uint(fh):
  */
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 424, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 428, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_tuple__23, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 424, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_tuple__23, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 428, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  if (unlikely(!__pyx_cur_scope->__pyx_v_decode_int32)) { __Pyx_RaiseClosureNameError("decode_int32"); __PYX_ERR(0, 424, __pyx_L1_error) }
-  __pyx_t_3 = __pyx_lambda_funcdef_lambda5(__pyx_cur_scope->__pyx_v_decode_int32, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 424, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_decode_int32)) { __Pyx_RaiseClosureNameError("decode_int32"); __PYX_ERR(0, 428, __pyx_L1_error) }
+  __pyx_t_3 = __pyx_lambda_funcdef_lambda5(__pyx_cur_scope->__pyx_v_decode_int32, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 428, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   __pyx_r = __pyx_t_3;
   __pyx_t_3 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":422
+  /* "pyaffy/celparser.pyx":426
  *         return decode_uint16(fh.read(2))
  * 
  *     def read_int(fh):             # <<<<<<<<<<<<<<
@@ -8909,7 +9002,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(PyObj
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":426
+/* "pyaffy/celparser.pyx":430
  *         return decode_int32(fh.read(4))
  * 
  *     def read_uint(fh):             # <<<<<<<<<<<<<<
@@ -8944,36 +9037,36 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_12read_uint(PyOb
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":427
+  /* "pyaffy/celparser.pyx":431
  * 
  *     def read_uint(fh):
  *         read[0] +=4             # <<<<<<<<<<<<<<
  *         return decode_uint32(fh.read(4))
  * 
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 427, __pyx_L1_error) }
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 431, __pyx_L1_error) }
   if (unlikely(__pyx_cur_scope->__pyx_v_read == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 427, __pyx_L1_error)
+    __PYX_ERR(0, 431, __pyx_L1_error)
   }
   __Pyx_INCREF(__pyx_cur_scope->__pyx_v_read);
   __pyx_t_1 = __pyx_cur_scope->__pyx_v_read;
   __pyx_t_2 = 0;
   if (unlikely(__pyx_t_1 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 427, __pyx_L1_error)
+    __PYX_ERR(0, 431, __pyx_L1_error)
   }
-  __pyx_t_3 = __Pyx_PyInt_AddObjC(PyList_GET_ITEM(__pyx_t_1, __pyx_t_2), __pyx_int_4, 4, 1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 427, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyInt_AddObjC(PyList_GET_ITEM(__pyx_t_1, __pyx_t_2), __pyx_int_4, 4, 1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 431, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   if (unlikely(__pyx_t_1 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 427, __pyx_L1_error)
+    __PYX_ERR(0, 431, __pyx_L1_error)
   }
-  if (unlikely(__Pyx_SetItemInt(__pyx_t_1, __pyx_t_2, __pyx_t_3, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 427, __pyx_L1_error)
+  if (unlikely(__Pyx_SetItemInt(__pyx_t_1, __pyx_t_2, __pyx_t_3, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 431, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":428
+  /* "pyaffy/celparser.pyx":432
  *     def read_uint(fh):
  *         read[0] +=4
  *         return decode_uint32(fh.read(4))             # <<<<<<<<<<<<<<
@@ -8981,20 +9074,20 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_12read_uint(PyOb
  *     def read_raw(fh):
  */
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 428, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 432, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_tuple__24, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 428, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_tuple__24, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 432, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  if (unlikely(!__pyx_cur_scope->__pyx_v_decode_uint32)) { __Pyx_RaiseClosureNameError("decode_uint32"); __PYX_ERR(0, 428, __pyx_L1_error) }
-  __pyx_t_3 = __pyx_lambda_funcdef_lambda6(__pyx_cur_scope->__pyx_v_decode_uint32, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 428, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_decode_uint32)) { __Pyx_RaiseClosureNameError("decode_uint32"); __PYX_ERR(0, 432, __pyx_L1_error) }
+  __pyx_t_3 = __pyx_lambda_funcdef_lambda6(__pyx_cur_scope->__pyx_v_decode_uint32, __pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 432, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
   __pyx_r = __pyx_t_3;
   __pyx_t_3 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":426
+  /* "pyaffy/celparser.pyx":430
  *         return decode_int32(fh.read(4))
  * 
  *     def read_uint(fh):             # <<<<<<<<<<<<<<
@@ -9015,7 +9108,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_12read_uint(PyOb
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":430
+/* "pyaffy/celparser.pyx":434
  *         return decode_uint32(fh.read(4))
  * 
  *     def read_raw(fh):             # <<<<<<<<<<<<<<
@@ -9053,49 +9146,49 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_14read_raw(PyObj
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":432
+  /* "pyaffy/celparser.pyx":436
  *     def read_raw(fh):
  *         # reads an int x and then x raw bytes
  *         bytes = read_int(fh)             # <<<<<<<<<<<<<<
  *         read[0] += bytes
  *         return fh.read(bytes)
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_int)) { __Pyx_RaiseClosureNameError("read_int"); __PYX_ERR(0, 432, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(__pyx_cur_scope->__pyx_v_read_int, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 432, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_int)) { __Pyx_RaiseClosureNameError("read_int"); __PYX_ERR(0, 436, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(__pyx_cur_scope->__pyx_v_read_int, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 436, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_bytes = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":433
+  /* "pyaffy/celparser.pyx":437
  *         # reads an int x and then x raw bytes
  *         bytes = read_int(fh)
  *         read[0] += bytes             # <<<<<<<<<<<<<<
  *         return fh.read(bytes)
  * 
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 433, __pyx_L1_error) }
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 437, __pyx_L1_error) }
   if (unlikely(__pyx_cur_scope->__pyx_v_read == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 433, __pyx_L1_error)
+    __PYX_ERR(0, 437, __pyx_L1_error)
   }
   __Pyx_INCREF(__pyx_cur_scope->__pyx_v_read);
   __pyx_t_2 = __pyx_cur_scope->__pyx_v_read;
   __pyx_t_3 = 0;
   if (unlikely(__pyx_t_2 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 433, __pyx_L1_error)
+    __PYX_ERR(0, 437, __pyx_L1_error)
   }
-  __pyx_t_1 = PyNumber_InPlaceAdd(PyList_GET_ITEM(__pyx_t_2, __pyx_t_3), __pyx_v_bytes); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 433, __pyx_L1_error)
+  __pyx_t_1 = PyNumber_InPlaceAdd(PyList_GET_ITEM(__pyx_t_2, __pyx_t_3), __pyx_v_bytes); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 437, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   if (unlikely(__pyx_t_2 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 433, __pyx_L1_error)
+    __PYX_ERR(0, 437, __pyx_L1_error)
   }
-  if (unlikely(__Pyx_SetItemInt(__pyx_t_2, __pyx_t_3, __pyx_t_1, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 433, __pyx_L1_error)
+  if (unlikely(__Pyx_SetItemInt(__pyx_t_2, __pyx_t_3, __pyx_t_1, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 437, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
-  /* "pyaffy/celparser.pyx":434
+  /* "pyaffy/celparser.pyx":438
  *         bytes = read_int(fh)
  *         read[0] += bytes
  *         return fh.read(bytes)             # <<<<<<<<<<<<<<
@@ -9103,7 +9196,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_14read_raw(PyObj
  *     def read_string(fh):
  */
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 434, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 438, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __pyx_t_5 = NULL;
   if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_4))) {
@@ -9116,13 +9209,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_14read_raw(PyObj
     }
   }
   if (!__pyx_t_5) {
-    __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_v_bytes); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 434, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_v_bytes); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 438, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
   } else {
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_4)) {
       PyObject *__pyx_temp[2] = {__pyx_t_5, __pyx_v_bytes};
-      __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_4, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 434, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_4, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 438, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
       __Pyx_GOTREF(__pyx_t_1);
     } else
@@ -9130,19 +9223,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_14read_raw(PyObj
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_4)) {
       PyObject *__pyx_temp[2] = {__pyx_t_5, __pyx_v_bytes};
-      __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_4, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 434, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_4, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 438, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
       __Pyx_GOTREF(__pyx_t_1);
     } else
     #endif
     {
-      __pyx_t_6 = PyTuple_New(1+1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 434, __pyx_L1_error)
+      __pyx_t_6 = PyTuple_New(1+1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 438, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_6);
       __Pyx_GIVEREF(__pyx_t_5); PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_t_5); __pyx_t_5 = NULL;
       __Pyx_INCREF(__pyx_v_bytes);
       __Pyx_GIVEREF(__pyx_v_bytes);
       PyTuple_SET_ITEM(__pyx_t_6, 0+1, __pyx_v_bytes);
-      __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_4, __pyx_t_6, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 434, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_4, __pyx_t_6, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 438, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     }
@@ -9152,7 +9245,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_14read_raw(PyObj
   __pyx_t_1 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":430
+  /* "pyaffy/celparser.pyx":434
  *         return decode_uint32(fh.read(4))
  * 
  *     def read_raw(fh):             # <<<<<<<<<<<<<<
@@ -9176,7 +9269,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_14read_raw(PyObj
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":436
+/* "pyaffy/celparser.pyx":440
  *         return fh.read(bytes)
  * 
  *     def read_string(fh):             # <<<<<<<<<<<<<<
@@ -9214,49 +9307,49 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_16read_string(Py
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":437
+  /* "pyaffy/celparser.pyx":441
  * 
  *     def read_string(fh):
  *         strlen = read_int(fh)             # <<<<<<<<<<<<<<
  *         read[0] += strlen
  *         return fh.read(strlen)
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_int)) { __Pyx_RaiseClosureNameError("read_int"); __PYX_ERR(0, 437, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(__pyx_cur_scope->__pyx_v_read_int, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 437, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_int)) { __Pyx_RaiseClosureNameError("read_int"); __PYX_ERR(0, 441, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(__pyx_cur_scope->__pyx_v_read_int, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 441, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_strlen = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":438
+  /* "pyaffy/celparser.pyx":442
  *     def read_string(fh):
  *         strlen = read_int(fh)
  *         read[0] += strlen             # <<<<<<<<<<<<<<
  *         return fh.read(strlen)
  * 
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 438, __pyx_L1_error) }
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 442, __pyx_L1_error) }
   if (unlikely(__pyx_cur_scope->__pyx_v_read == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 438, __pyx_L1_error)
+    __PYX_ERR(0, 442, __pyx_L1_error)
   }
   __Pyx_INCREF(__pyx_cur_scope->__pyx_v_read);
   __pyx_t_2 = __pyx_cur_scope->__pyx_v_read;
   __pyx_t_3 = 0;
   if (unlikely(__pyx_t_2 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 438, __pyx_L1_error)
+    __PYX_ERR(0, 442, __pyx_L1_error)
   }
-  __pyx_t_1 = PyNumber_InPlaceAdd(PyList_GET_ITEM(__pyx_t_2, __pyx_t_3), __pyx_v_strlen); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 438, __pyx_L1_error)
+  __pyx_t_1 = PyNumber_InPlaceAdd(PyList_GET_ITEM(__pyx_t_2, __pyx_t_3), __pyx_v_strlen); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 442, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   if (unlikely(__pyx_t_2 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 438, __pyx_L1_error)
+    __PYX_ERR(0, 442, __pyx_L1_error)
   }
-  if (unlikely(__Pyx_SetItemInt(__pyx_t_2, __pyx_t_3, __pyx_t_1, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 438, __pyx_L1_error)
+  if (unlikely(__Pyx_SetItemInt(__pyx_t_2, __pyx_t_3, __pyx_t_1, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 442, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
-  /* "pyaffy/celparser.pyx":439
+  /* "pyaffy/celparser.pyx":443
  *         strlen = read_int(fh)
  *         read[0] += strlen
  *         return fh.read(strlen)             # <<<<<<<<<<<<<<
@@ -9264,7 +9357,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_16read_string(Py
  *     def read_wstring(fh):
  */
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 439, __pyx_L1_error)
+  __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 443, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
   __pyx_t_5 = NULL;
   if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_4))) {
@@ -9277,13 +9370,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_16read_string(Py
     }
   }
   if (!__pyx_t_5) {
-    __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_v_strlen); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 439, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_4, __pyx_v_strlen); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 443, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
   } else {
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_4)) {
       PyObject *__pyx_temp[2] = {__pyx_t_5, __pyx_v_strlen};
-      __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_4, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 439, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_4, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 443, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
       __Pyx_GOTREF(__pyx_t_1);
     } else
@@ -9291,19 +9384,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_16read_string(Py
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_4)) {
       PyObject *__pyx_temp[2] = {__pyx_t_5, __pyx_v_strlen};
-      __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_4, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 439, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_4, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 443, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
       __Pyx_GOTREF(__pyx_t_1);
     } else
     #endif
     {
-      __pyx_t_6 = PyTuple_New(1+1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 439, __pyx_L1_error)
+      __pyx_t_6 = PyTuple_New(1+1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 443, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_6);
       __Pyx_GIVEREF(__pyx_t_5); PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_t_5); __pyx_t_5 = NULL;
       __Pyx_INCREF(__pyx_v_strlen);
       __Pyx_GIVEREF(__pyx_v_strlen);
       PyTuple_SET_ITEM(__pyx_t_6, 0+1, __pyx_v_strlen);
-      __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_4, __pyx_t_6, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 439, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_4, __pyx_t_6, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 443, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     }
@@ -9313,7 +9406,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_16read_string(Py
   __pyx_t_1 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":436
+  /* "pyaffy/celparser.pyx":440
  *         return fh.read(bytes)
  * 
  *     def read_string(fh):             # <<<<<<<<<<<<<<
@@ -9337,7 +9430,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_16read_string(Py
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":441
+/* "pyaffy/celparser.pyx":445
  *         return fh.read(strlen)
  * 
  *     def read_wstring(fh):             # <<<<<<<<<<<<<<
@@ -9377,29 +9470,29 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(P
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":442
+  /* "pyaffy/celparser.pyx":446
  * 
  *     def read_wstring(fh):
  *         strlen = read_int(fh)             # <<<<<<<<<<<<<<
  *         s = fh.read(2 * strlen)
  *         read[0] += (2 * strlen)
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_int)) { __Pyx_RaiseClosureNameError("read_int"); __PYX_ERR(0, 442, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(__pyx_cur_scope->__pyx_v_read_int, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 442, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_int)) { __Pyx_RaiseClosureNameError("read_int"); __PYX_ERR(0, 446, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(__pyx_cur_scope->__pyx_v_read_int, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 446, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_strlen = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":443
+  /* "pyaffy/celparser.pyx":447
  *     def read_wstring(fh):
  *         strlen = read_int(fh)
  *         s = fh.read(2 * strlen)             # <<<<<<<<<<<<<<
  *         read[0] += (2 * strlen)
  *         return decode_unicode(s)
  */
-  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 443, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 447, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = PyNumber_Multiply(__pyx_int_2, __pyx_v_strlen); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 443, __pyx_L1_error)
+  __pyx_t_3 = PyNumber_Multiply(__pyx_int_2, __pyx_v_strlen); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 447, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __pyx_t_4 = NULL;
   if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_2))) {
@@ -9412,14 +9505,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(P
     }
   }
   if (!__pyx_t_4) {
-    __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_2, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 443, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_2, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 447, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else {
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_2)) {
       PyObject *__pyx_temp[2] = {__pyx_t_4, __pyx_t_3};
-      __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_2, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 443, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_2, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 447, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
       __Pyx_GOTREF(__pyx_t_1);
       __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
@@ -9428,20 +9521,20 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(P
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_2)) {
       PyObject *__pyx_temp[2] = {__pyx_t_4, __pyx_t_3};
-      __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_2, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 443, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_2, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 447, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
       __Pyx_GOTREF(__pyx_t_1);
       __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     } else
     #endif
     {
-      __pyx_t_5 = PyTuple_New(1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 443, __pyx_L1_error)
+      __pyx_t_5 = PyTuple_New(1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 447, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_GIVEREF(__pyx_t_4); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_4); __pyx_t_4 = NULL;
       __Pyx_GIVEREF(__pyx_t_3);
       PyTuple_SET_ITEM(__pyx_t_5, 0+1, __pyx_t_3);
       __pyx_t_3 = 0;
-      __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 443, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_2, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 447, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     }
@@ -9450,39 +9543,39 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(P
   __pyx_v_s = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":444
+  /* "pyaffy/celparser.pyx":448
  *         strlen = read_int(fh)
  *         s = fh.read(2 * strlen)
  *         read[0] += (2 * strlen)             # <<<<<<<<<<<<<<
  *         return decode_unicode(s)
  * 
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 444, __pyx_L1_error) }
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 448, __pyx_L1_error) }
   if (unlikely(__pyx_cur_scope->__pyx_v_read == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 444, __pyx_L1_error)
+    __PYX_ERR(0, 448, __pyx_L1_error)
   }
   __Pyx_INCREF(__pyx_cur_scope->__pyx_v_read);
   __pyx_t_6 = __pyx_cur_scope->__pyx_v_read;
   __pyx_t_7 = 0;
   if (unlikely(__pyx_t_6 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 444, __pyx_L1_error)
+    __PYX_ERR(0, 448, __pyx_L1_error)
   }
-  __pyx_t_1 = PyNumber_Multiply(__pyx_int_2, __pyx_v_strlen); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 444, __pyx_L1_error)
+  __pyx_t_1 = PyNumber_Multiply(__pyx_int_2, __pyx_v_strlen); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 448, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_2 = PyNumber_InPlaceAdd(PyList_GET_ITEM(__pyx_t_6, __pyx_t_7), __pyx_t_1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 444, __pyx_L1_error)
+  __pyx_t_2 = PyNumber_InPlaceAdd(PyList_GET_ITEM(__pyx_t_6, __pyx_t_7), __pyx_t_1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 448, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   if (unlikely(__pyx_t_6 == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 444, __pyx_L1_error)
+    __PYX_ERR(0, 448, __pyx_L1_error)
   }
-  if (unlikely(__Pyx_SetItemInt(__pyx_t_6, __pyx_t_7, __pyx_t_2, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 444, __pyx_L1_error)
+  if (unlikely(__Pyx_SetItemInt(__pyx_t_6, __pyx_t_7, __pyx_t_2, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 448, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-  /* "pyaffy/celparser.pyx":445
+  /* "pyaffy/celparser.pyx":449
  *         s = fh.read(2 * strlen)
  *         read[0] += (2 * strlen)
  *         return decode_unicode(s)             # <<<<<<<<<<<<<<
@@ -9490,14 +9583,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(P
  *     def read_guid(fh):
  */
   __Pyx_XDECREF(__pyx_r);
-  if (unlikely(!__pyx_cur_scope->__pyx_v_decode_unicode)) { __Pyx_RaiseClosureNameError("decode_unicode"); __PYX_ERR(0, 445, __pyx_L1_error) }
-  __pyx_t_2 = __pyx_lambda_funcdef_lambda2(__pyx_cur_scope->__pyx_v_decode_unicode, __pyx_v_s); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 445, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_decode_unicode)) { __Pyx_RaiseClosureNameError("decode_unicode"); __PYX_ERR(0, 449, __pyx_L1_error) }
+  __pyx_t_2 = __pyx_lambda_funcdef_lambda2(__pyx_cur_scope->__pyx_v_decode_unicode, __pyx_v_s); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 449, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __pyx_r = __pyx_t_2;
   __pyx_t_2 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":441
+  /* "pyaffy/celparser.pyx":445
  *         return fh.read(strlen)
  * 
  *     def read_wstring(fh):             # <<<<<<<<<<<<<<
@@ -9523,7 +9616,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(P
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":447
+/* "pyaffy/celparser.pyx":451
  *         return decode_unicode(s)
  * 
  *     def read_guid(fh):             # <<<<<<<<<<<<<<
@@ -9555,7 +9648,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_20read_guid(PyOb
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":448
+  /* "pyaffy/celparser.pyx":452
  * 
  *     def read_guid(fh):
  *         return read_string(fh)             # <<<<<<<<<<<<<<
@@ -9563,14 +9656,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_20read_guid(PyOb
  *     def read_datetime(fh):
  */
   __Pyx_XDECREF(__pyx_r);
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_string)) { __Pyx_RaiseClosureNameError("read_string"); __PYX_ERR(0, 448, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_16read_string(__pyx_cur_scope->__pyx_v_read_string, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 448, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_string)) { __Pyx_RaiseClosureNameError("read_string"); __PYX_ERR(0, 452, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_16read_string(__pyx_cur_scope->__pyx_v_read_string, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 452, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_r = __pyx_t_1;
   __pyx_t_1 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":447
+  /* "pyaffy/celparser.pyx":451
  *         return decode_unicode(s)
  * 
  *     def read_guid(fh):             # <<<<<<<<<<<<<<
@@ -9589,7 +9682,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_20read_guid(PyOb
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":450
+/* "pyaffy/celparser.pyx":454
  *         return read_string(fh)
  * 
  *     def read_datetime(fh):             # <<<<<<<<<<<<<<
@@ -9628,29 +9721,29 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_22read_datetime(
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":451
+  /* "pyaffy/celparser.pyx":455
  * 
  *     def read_datetime(fh):
  *         s = read_wstring(fh)             # <<<<<<<<<<<<<<
  *         logger.debug('DateTime string: %s|||', s)
  *         dt = None
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_wstring)) { __Pyx_RaiseClosureNameError("read_wstring"); __PYX_ERR(0, 451, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(__pyx_cur_scope->__pyx_v_read_wstring, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 451, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_wstring)) { __Pyx_RaiseClosureNameError("read_wstring"); __PYX_ERR(0, 455, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(__pyx_cur_scope->__pyx_v_read_wstring, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 455, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_s = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":452
+  /* "pyaffy/celparser.pyx":456
  *     def read_datetime(fh):
  *         s = read_wstring(fh)
  *         logger.debug('DateTime string: %s|||', s)             # <<<<<<<<<<<<<<
  *         dt = None
  *         if s:
  */
-  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 452, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 456, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_debug); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 452, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_debug); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 456, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __pyx_t_2 = NULL;
@@ -9668,7 +9761,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_22read_datetime(
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_DateTime_string_s, __pyx_v_s};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 452, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 456, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -9676,13 +9769,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_22read_datetime(
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_DateTime_string_s, __pyx_v_s};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 452, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 456, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 452, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 456, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     if (__pyx_t_2) {
       __Pyx_GIVEREF(__pyx_t_2); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_2); __pyx_t_2 = NULL;
@@ -9693,14 +9786,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_22read_datetime(
     __Pyx_INCREF(__pyx_v_s);
     __Pyx_GIVEREF(__pyx_v_s);
     PyTuple_SET_ITEM(__pyx_t_5, 1+__pyx_t_4, __pyx_v_s);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 452, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 456, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":453
+  /* "pyaffy/celparser.pyx":457
  *         s = read_wstring(fh)
  *         logger.debug('DateTime string: %s|||', s)
  *         dt = None             # <<<<<<<<<<<<<<
@@ -9710,29 +9803,29 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_22read_datetime(
   __Pyx_INCREF(Py_None);
   __pyx_v_dt = Py_None;
 
-  /* "pyaffy/celparser.pyx":454
+  /* "pyaffy/celparser.pyx":458
  *         logger.debug('DateTime string: %s|||', s)
  *         dt = None
  *         if s:             # <<<<<<<<<<<<<<
  *             dt = dateutil.parser.parse(s).replace(tzinfo = None)
  *         #s = u'2015-02-20T13:52:11Z'
  */
-  __pyx_t_6 = __Pyx_PyObject_IsTrue(__pyx_v_s); if (unlikely(__pyx_t_6 < 0)) __PYX_ERR(0, 454, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_PyObject_IsTrue(__pyx_v_s); if (unlikely(__pyx_t_6 < 0)) __PYX_ERR(0, 458, __pyx_L1_error)
   if (__pyx_t_6) {
 
-    /* "pyaffy/celparser.pyx":455
+    /* "pyaffy/celparser.pyx":459
  *         dt = None
  *         if s:
  *             dt = dateutil.parser.parse(s).replace(tzinfo = None)             # <<<<<<<<<<<<<<
  *         #s = u'2015-02-20T13:52:11Z'
  *         #print s
  */
-    __pyx_t_3 = __Pyx_GetModuleGlobalName(__pyx_n_s_dateutil); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 455, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_GetModuleGlobalName(__pyx_n_s_dateutil); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 459, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
-    __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_parser); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 455, __pyx_L1_error)
+    __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_parser); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 459, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_parse); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 455, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_parse); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 459, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     __pyx_t_5 = NULL;
@@ -9746,13 +9839,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_22read_datetime(
       }
     }
     if (!__pyx_t_5) {
-      __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_v_s); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 455, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_v_s); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 459, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
     } else {
       #if CYTHON_FAST_PYCALL
       if (PyFunction_Check(__pyx_t_3)) {
         PyObject *__pyx_temp[2] = {__pyx_t_5, __pyx_v_s};
-        __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 455, __pyx_L1_error)
+        __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 459, __pyx_L1_error)
         __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
         __Pyx_GOTREF(__pyx_t_1);
       } else
@@ -9760,38 +9853,38 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_22read_datetime(
       #if CYTHON_FAST_PYCCALL
       if (__Pyx_PyFastCFunction_Check(__pyx_t_3)) {
         PyObject *__pyx_temp[2] = {__pyx_t_5, __pyx_v_s};
-        __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 455, __pyx_L1_error)
+        __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 459, __pyx_L1_error)
         __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
         __Pyx_GOTREF(__pyx_t_1);
       } else
       #endif
       {
-        __pyx_t_2 = PyTuple_New(1+1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 455, __pyx_L1_error)
+        __pyx_t_2 = PyTuple_New(1+1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 459, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_2);
         __Pyx_GIVEREF(__pyx_t_5); PyTuple_SET_ITEM(__pyx_t_2, 0, __pyx_t_5); __pyx_t_5 = NULL;
         __Pyx_INCREF(__pyx_v_s);
         __Pyx_GIVEREF(__pyx_v_s);
         PyTuple_SET_ITEM(__pyx_t_2, 0+1, __pyx_v_s);
-        __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_2, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 455, __pyx_L1_error)
+        __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_2, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 459, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_1);
         __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
       }
     }
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_replace); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 455, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_replace); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 459, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    __pyx_t_1 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 455, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 459, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_tzinfo, Py_None) < 0) __PYX_ERR(0, 455, __pyx_L1_error)
-    __pyx_t_2 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_empty_tuple, __pyx_t_1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 455, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_tzinfo, Py_None) < 0) __PYX_ERR(0, 459, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_empty_tuple, __pyx_t_1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 459, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF_SET(__pyx_v_dt, __pyx_t_2);
     __pyx_t_2 = 0;
 
-    /* "pyaffy/celparser.pyx":454
+    /* "pyaffy/celparser.pyx":458
  *         logger.debug('DateTime string: %s|||', s)
  *         dt = None
  *         if s:             # <<<<<<<<<<<<<<
@@ -9800,7 +9893,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_22read_datetime(
  */
   }
 
-  /* "pyaffy/celparser.pyx":458
+  /* "pyaffy/celparser.pyx":462
  *         #s = u'2015-02-20T13:52:11Z'
  *         #print s
  *         return dt             # <<<<<<<<<<<<<<
@@ -9812,7 +9905,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_22read_datetime(
   __pyx_r = __pyx_v_dt;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":450
+  /* "pyaffy/celparser.pyx":454
  *         return read_string(fh)
  * 
  *     def read_datetime(fh):             # <<<<<<<<<<<<<<
@@ -9836,7 +9929,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_22read_datetime(
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":460
+/* "pyaffy/celparser.pyx":464
  *         return dt
  * 
  *     def read_locale(fh):             # <<<<<<<<<<<<<<
@@ -9871,20 +9964,20 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_24read_locale(Py
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":461
+  /* "pyaffy/celparser.pyx":465
  * 
  *     def read_locale(fh):
  *         loc = read_wstring(fh)             # <<<<<<<<<<<<<<
  *         return loc[:2], loc[3:]
  * 
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_wstring)) { __Pyx_RaiseClosureNameError("read_wstring"); __PYX_ERR(0, 461, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(__pyx_cur_scope->__pyx_v_read_wstring, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 461, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_wstring)) { __Pyx_RaiseClosureNameError("read_wstring"); __PYX_ERR(0, 465, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(__pyx_cur_scope->__pyx_v_read_wstring, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 465, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_loc = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":462
+  /* "pyaffy/celparser.pyx":466
  *     def read_locale(fh):
  *         loc = read_wstring(fh)
  *         return loc[:2], loc[3:]             # <<<<<<<<<<<<<<
@@ -9892,11 +9985,11 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_24read_locale(Py
  *     def read_value(fh):
  */
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_1 = __Pyx_PyObject_GetSlice(__pyx_v_loc, 0, 2, NULL, NULL, &__pyx_slice__25, 0, 1, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 462, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyObject_GetSlice(__pyx_v_loc, 0, 2, NULL, NULL, &__pyx_slice__25, 0, 1, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 466, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_2 = __Pyx_PyObject_GetSlice(__pyx_v_loc, 3, 0, NULL, NULL, &__pyx_slice__26, 1, 0, 0); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 462, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_GetSlice(__pyx_v_loc, 3, 0, NULL, NULL, &__pyx_slice__26, 1, 0, 0); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 466, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = PyTuple_New(2); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 462, __pyx_L1_error)
+  __pyx_t_3 = PyTuple_New(2); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 466, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_GIVEREF(__pyx_t_1);
   PyTuple_SET_ITEM(__pyx_t_3, 0, __pyx_t_1);
@@ -9908,7 +10001,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_24read_locale(Py
   __pyx_t_3 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":460
+  /* "pyaffy/celparser.pyx":464
  *         return dt
  * 
  *     def read_locale(fh):             # <<<<<<<<<<<<<<
@@ -9930,7 +10023,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_24read_locale(Py
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":464
+/* "pyaffy/celparser.pyx":468
  *         return loc[:2], loc[3:]
  * 
  *     def read_value(fh):             # <<<<<<<<<<<<<<
@@ -9963,20 +10056,20 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_26read_value(PyO
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":465
+  /* "pyaffy/celparser.pyx":469
  * 
  *     def read_value(fh):
  *         raw = read_raw(fh)             # <<<<<<<<<<<<<<
  *         return raw
  * 
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_raw)) { __Pyx_RaiseClosureNameError("read_raw"); __PYX_ERR(0, 465, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_14read_raw(__pyx_cur_scope->__pyx_v_read_raw, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 465, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_raw)) { __Pyx_RaiseClosureNameError("read_raw"); __PYX_ERR(0, 469, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_14read_raw(__pyx_cur_scope->__pyx_v_read_raw, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 469, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_raw = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":466
+  /* "pyaffy/celparser.pyx":470
  *     def read_value(fh):
  *         raw = read_raw(fh)
  *         return raw             # <<<<<<<<<<<<<<
@@ -9988,7 +10081,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_26read_value(PyO
   __pyx_r = __pyx_v_raw;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":464
+  /* "pyaffy/celparser.pyx":468
  *         return loc[:2], loc[3:]
  * 
  *     def read_value(fh):             # <<<<<<<<<<<<<<
@@ -10008,7 +10101,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_26read_value(PyO
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":468
+/* "pyaffy/celparser.pyx":472
  *         return raw
  * 
  *     def read_type(fh):             # <<<<<<<<<<<<<<
@@ -10040,7 +10133,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_28read_type(PyOb
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":469
+  /* "pyaffy/celparser.pyx":473
  * 
  *     def read_type(fh):
  *         return read_wstring(fh)             # <<<<<<<<<<<<<<
@@ -10048,14 +10141,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_28read_type(PyOb
  *     def read_file_header(fh):
  */
   __Pyx_XDECREF(__pyx_r);
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_wstring)) { __Pyx_RaiseClosureNameError("read_wstring"); __PYX_ERR(0, 469, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(__pyx_cur_scope->__pyx_v_read_wstring, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 469, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_wstring)) { __Pyx_RaiseClosureNameError("read_wstring"); __PYX_ERR(0, 473, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(__pyx_cur_scope->__pyx_v_read_wstring, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 473, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_r = __pyx_t_1;
   __pyx_t_1 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":468
+  /* "pyaffy/celparser.pyx":472
  *         return raw
  * 
  *     def read_type(fh):             # <<<<<<<<<<<<<<
@@ -10074,7 +10167,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_28read_type(PyOb
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":471
+/* "pyaffy/celparser.pyx":475
  *         return read_wstring(fh)
  * 
  *     def read_file_header(fh):             # <<<<<<<<<<<<<<
@@ -10117,29 +10210,29 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_30read_file_head
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":472
+  /* "pyaffy/celparser.pyx":476
  * 
  *     def read_file_header(fh):
  *         magic_number = read_ubyte(fh)             # <<<<<<<<<<<<<<
  *         logger.debug('Magic number: %d', magic_number)
  *         # check magic number
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_ubyte)) { __Pyx_RaiseClosureNameError("read_ubyte"); __PYX_ERR(0, 472, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_4read_ubyte(__pyx_cur_scope->__pyx_v_read_ubyte, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 472, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_ubyte)) { __Pyx_RaiseClosureNameError("read_ubyte"); __PYX_ERR(0, 476, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_4read_ubyte(__pyx_cur_scope->__pyx_v_read_ubyte, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 476, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_magic_number = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":473
+  /* "pyaffy/celparser.pyx":477
  *     def read_file_header(fh):
  *         magic_number = read_ubyte(fh)
  *         logger.debug('Magic number: %d', magic_number)             # <<<<<<<<<<<<<<
  *         # check magic number
  *         assert isinstance(magic_number, int) and magic_number == 59
  */
-  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 473, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 477, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_debug); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 473, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_debug); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 477, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __pyx_t_2 = NULL;
@@ -10157,7 +10250,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_30read_file_head
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_Magic_number_d, __pyx_v_magic_number};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 473, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 477, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -10165,13 +10258,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_30read_file_head
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_Magic_number_d, __pyx_v_magic_number};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 473, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 477, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 473, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 477, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     if (__pyx_t_2) {
       __Pyx_GIVEREF(__pyx_t_2); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_2); __pyx_t_2 = NULL;
@@ -10182,14 +10275,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_30read_file_head
     __Pyx_INCREF(__pyx_v_magic_number);
     __Pyx_GIVEREF(__pyx_v_magic_number);
     PyTuple_SET_ITEM(__pyx_t_5, 1+__pyx_t_4, __pyx_v_magic_number);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 473, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 477, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":475
+  /* "pyaffy/celparser.pyx":479
  *         logger.debug('Magic number: %d', magic_number)
  *         # check magic number
  *         assert isinstance(magic_number, int) and magic_number == 59             # <<<<<<<<<<<<<<
@@ -10205,33 +10298,33 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_30read_file_head
       __pyx_t_6 = __pyx_t_8;
       goto __pyx_L3_bool_binop_done;
     }
-    __pyx_t_1 = __Pyx_PyInt_EqObjC(__pyx_v_magic_number, __pyx_int_59, 59, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 475, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyInt_EqObjC(__pyx_v_magic_number, __pyx_int_59, 59, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 479, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_8 = __Pyx_PyObject_IsTrue(__pyx_t_1); if (unlikely(__pyx_t_8 < 0)) __PYX_ERR(0, 475, __pyx_L1_error)
+    __pyx_t_8 = __Pyx_PyObject_IsTrue(__pyx_t_1); if (unlikely(__pyx_t_8 < 0)) __PYX_ERR(0, 479, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __pyx_t_6 = __pyx_t_8;
     __pyx_L3_bool_binop_done:;
     if (unlikely(!__pyx_t_6)) {
       PyErr_SetNone(PyExc_AssertionError);
-      __PYX_ERR(0, 475, __pyx_L1_error)
+      __PYX_ERR(0, 479, __pyx_L1_error)
     }
   }
   #endif
 
-  /* "pyaffy/celparser.pyx":476
+  /* "pyaffy/celparser.pyx":480
  *         # check magic number
  *         assert isinstance(magic_number, int) and magic_number == 59
  *         version_number = read_ubyte(fh)             # <<<<<<<<<<<<<<
  *         # check version number
  *         assert version_number == 1
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_ubyte)) { __Pyx_RaiseClosureNameError("read_ubyte"); __PYX_ERR(0, 476, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_4read_ubyte(__pyx_cur_scope->__pyx_v_read_ubyte, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 476, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_ubyte)) { __Pyx_RaiseClosureNameError("read_ubyte"); __PYX_ERR(0, 480, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_4read_ubyte(__pyx_cur_scope->__pyx_v_read_ubyte, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 480, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_version_number = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":478
+  /* "pyaffy/celparser.pyx":482
  *         version_number = read_ubyte(fh)
  *         # check version number
  *         assert version_number == 1             # <<<<<<<<<<<<<<
@@ -10240,40 +10333,40 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_30read_file_head
  */
   #ifndef CYTHON_WITHOUT_ASSERTIONS
   if (unlikely(!Py_OptimizeFlag)) {
-    __pyx_t_1 = __Pyx_PyInt_EqObjC(__pyx_v_version_number, __pyx_int_1, 1, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 478, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyInt_EqObjC(__pyx_v_version_number, __pyx_int_1, 1, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 482, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_6 = __Pyx_PyObject_IsTrue(__pyx_t_1); if (unlikely(__pyx_t_6 < 0)) __PYX_ERR(0, 478, __pyx_L1_error)
+    __pyx_t_6 = __Pyx_PyObject_IsTrue(__pyx_t_1); if (unlikely(__pyx_t_6 < 0)) __PYX_ERR(0, 482, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     if (unlikely(!__pyx_t_6)) {
       PyErr_SetNone(PyExc_AssertionError);
-      __PYX_ERR(0, 478, __pyx_L1_error)
+      __PYX_ERR(0, 482, __pyx_L1_error)
     }
   }
   #endif
 
-  /* "pyaffy/celparser.pyx":479
+  /* "pyaffy/celparser.pyx":483
  *         # check version number
  *         assert version_number == 1
  *         num_data_groups = read_int(fh)             # <<<<<<<<<<<<<<
  *         logger.debug('# data groups: %d', num_data_groups)
  *         first_data_group_pos = read_uint(fh)
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_int)) { __Pyx_RaiseClosureNameError("read_int"); __PYX_ERR(0, 479, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(__pyx_cur_scope->__pyx_v_read_int, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 479, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_int)) { __Pyx_RaiseClosureNameError("read_int"); __PYX_ERR(0, 483, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(__pyx_cur_scope->__pyx_v_read_int, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 483, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_num_data_groups = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":480
+  /* "pyaffy/celparser.pyx":484
  *         assert version_number == 1
  *         num_data_groups = read_int(fh)
  *         logger.debug('# data groups: %d', num_data_groups)             # <<<<<<<<<<<<<<
  *         first_data_group_pos = read_uint(fh)
  *         return num_data_groups, first_data_group_pos
  */
-  __pyx_t_3 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 480, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 484, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_debug); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 480, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_debug); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 484, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __pyx_t_3 = NULL;
@@ -10291,7 +10384,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_30read_file_head
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_5)) {
     PyObject *__pyx_temp[3] = {__pyx_t_3, __pyx_kp_s_data_groups_d, __pyx_v_num_data_groups};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 480, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 484, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -10299,13 +10392,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_30read_file_head
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_5)) {
     PyObject *__pyx_temp[3] = {__pyx_t_3, __pyx_kp_s_data_groups_d, __pyx_v_num_data_groups};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 480, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 484, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_2 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 480, __pyx_L1_error)
+    __pyx_t_2 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 484, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
     if (__pyx_t_3) {
       __Pyx_GIVEREF(__pyx_t_3); PyTuple_SET_ITEM(__pyx_t_2, 0, __pyx_t_3); __pyx_t_3 = NULL;
@@ -10316,27 +10409,27 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_30read_file_head
     __Pyx_INCREF(__pyx_v_num_data_groups);
     __Pyx_GIVEREF(__pyx_v_num_data_groups);
     PyTuple_SET_ITEM(__pyx_t_2, 1+__pyx_t_4, __pyx_v_num_data_groups);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_2, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 480, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_2, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 484, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   }
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":481
+  /* "pyaffy/celparser.pyx":485
  *         num_data_groups = read_int(fh)
  *         logger.debug('# data groups: %d', num_data_groups)
  *         first_data_group_pos = read_uint(fh)             # <<<<<<<<<<<<<<
  *         return num_data_groups, first_data_group_pos
  * 
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_uint)) { __Pyx_RaiseClosureNameError("read_uint"); __PYX_ERR(0, 481, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_12read_uint(__pyx_cur_scope->__pyx_v_read_uint, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 481, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_uint)) { __Pyx_RaiseClosureNameError("read_uint"); __PYX_ERR(0, 485, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_12read_uint(__pyx_cur_scope->__pyx_v_read_uint, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 485, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_first_data_group_pos = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":482
+  /* "pyaffy/celparser.pyx":486
  *         logger.debug('# data groups: %d', num_data_groups)
  *         first_data_group_pos = read_uint(fh)
  *         return num_data_groups, first_data_group_pos             # <<<<<<<<<<<<<<
@@ -10344,7 +10437,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_30read_file_head
  *     def read_header_param(fh):
  */
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_1 = PyTuple_New(2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 482, __pyx_L1_error)
+  __pyx_t_1 = PyTuple_New(2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 486, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_v_num_data_groups);
   __Pyx_GIVEREF(__pyx_v_num_data_groups);
@@ -10356,7 +10449,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_30read_file_head
   __pyx_t_1 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":471
+  /* "pyaffy/celparser.pyx":475
  *         return read_wstring(fh)
  * 
  *     def read_file_header(fh):             # <<<<<<<<<<<<<<
@@ -10382,7 +10475,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_30read_file_head
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":484
+/* "pyaffy/celparser.pyx":488
  *         return num_data_groups, first_data_group_pos
  * 
  *     def read_header_param(fh):             # <<<<<<<<<<<<<<
@@ -10419,75 +10512,75 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_32read_header_pa
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":485
+  /* "pyaffy/celparser.pyx":489
  * 
  *     def read_header_param(fh):
  *         v1 = read_wstring(fh)             # <<<<<<<<<<<<<<
  *         v2 = read_value(fh)
  *         v3 = read_type(fh)
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_wstring)) { __Pyx_RaiseClosureNameError("read_wstring"); __PYX_ERR(0, 485, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(__pyx_cur_scope->__pyx_v_read_wstring, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 485, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_wstring)) { __Pyx_RaiseClosureNameError("read_wstring"); __PYX_ERR(0, 489, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(__pyx_cur_scope->__pyx_v_read_wstring, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 489, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_v1 = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":486
+  /* "pyaffy/celparser.pyx":490
  *     def read_header_param(fh):
  *         v1 = read_wstring(fh)
  *         v2 = read_value(fh)             # <<<<<<<<<<<<<<
  *         v3 = read_type(fh)
  * 
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_value)) { __Pyx_RaiseClosureNameError("read_value"); __PYX_ERR(0, 486, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_26read_value(__pyx_cur_scope->__pyx_v_read_value, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 486, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_value)) { __Pyx_RaiseClosureNameError("read_value"); __PYX_ERR(0, 490, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_26read_value(__pyx_cur_scope->__pyx_v_read_value, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 490, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_v2 = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":487
+  /* "pyaffy/celparser.pyx":491
  *         v1 = read_wstring(fh)
  *         v2 = read_value(fh)
  *         v3 = read_type(fh)             # <<<<<<<<<<<<<<
  * 
  *         if v3 == 'text/plain':
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_type)) { __Pyx_RaiseClosureNameError("read_type"); __PYX_ERR(0, 487, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_28read_type(__pyx_cur_scope->__pyx_v_read_type, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 487, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_type)) { __Pyx_RaiseClosureNameError("read_type"); __PYX_ERR(0, 491, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_28read_type(__pyx_cur_scope->__pyx_v_read_type, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 491, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_v3 = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":489
+  /* "pyaffy/celparser.pyx":493
  *         v3 = read_type(fh)
  * 
  *         if v3 == 'text/plain':             # <<<<<<<<<<<<<<
  *             v2 = decode_unicode(v2.rstrip('\x00'))
  *         elif v3 == 'text/ascii':
  */
-  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_v3, __pyx_kp_s_text_plain, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 489, __pyx_L1_error)
+  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_v3, __pyx_kp_s_text_plain, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 493, __pyx_L1_error)
   if (__pyx_t_2) {
 
-    /* "pyaffy/celparser.pyx":490
+    /* "pyaffy/celparser.pyx":494
  * 
  *         if v3 == 'text/plain':
  *             v2 = decode_unicode(v2.rstrip('\x00'))             # <<<<<<<<<<<<<<
  *         elif v3 == 'text/ascii':
  *             v2 = decode_ascii(v2.rstrip('\x00'))
  */
-    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_v2, __pyx_n_s_rstrip); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 490, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_v2, __pyx_n_s_rstrip); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 494, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_tuple__28, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 490, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_tuple__28, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 494, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    if (unlikely(!__pyx_cur_scope->__pyx_v_decode_unicode)) { __Pyx_RaiseClosureNameError("decode_unicode"); __PYX_ERR(0, 490, __pyx_L1_error) }
-    __pyx_t_1 = __pyx_lambda_funcdef_lambda2(__pyx_cur_scope->__pyx_v_decode_unicode, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 490, __pyx_L1_error)
+    if (unlikely(!__pyx_cur_scope->__pyx_v_decode_unicode)) { __Pyx_RaiseClosureNameError("decode_unicode"); __PYX_ERR(0, 494, __pyx_L1_error) }
+    __pyx_t_1 = __pyx_lambda_funcdef_lambda2(__pyx_cur_scope->__pyx_v_decode_unicode, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 494, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF_SET(__pyx_v_v2, __pyx_t_1);
     __pyx_t_1 = 0;
 
-    /* "pyaffy/celparser.pyx":489
+    /* "pyaffy/celparser.pyx":493
  *         v3 = read_type(fh)
  * 
  *         if v3 == 'text/plain':             # <<<<<<<<<<<<<<
@@ -10497,36 +10590,36 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_32read_header_pa
     goto __pyx_L3;
   }
 
-  /* "pyaffy/celparser.pyx":491
+  /* "pyaffy/celparser.pyx":495
  *         if v3 == 'text/plain':
  *             v2 = decode_unicode(v2.rstrip('\x00'))
  *         elif v3 == 'text/ascii':             # <<<<<<<<<<<<<<
  *             v2 = decode_ascii(v2.rstrip('\x00'))
  *         elif v3 == 'text/x-calvin-float':
  */
-  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_v3, __pyx_kp_s_text_ascii, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 491, __pyx_L1_error)
+  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_v3, __pyx_kp_s_text_ascii, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 495, __pyx_L1_error)
   if (__pyx_t_2) {
 
-    /* "pyaffy/celparser.pyx":492
+    /* "pyaffy/celparser.pyx":496
  *             v2 = decode_unicode(v2.rstrip('\x00'))
  *         elif v3 == 'text/ascii':
  *             v2 = decode_ascii(v2.rstrip('\x00'))             # <<<<<<<<<<<<<<
  *         elif v3 == 'text/x-calvin-float':
  *             v2 = decode_float(v2[:4])
  */
-    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_v2, __pyx_n_s_rstrip); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 492, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_v2, __pyx_n_s_rstrip); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 496, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_tuple__29, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 492, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_tuple__29, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 496, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    if (unlikely(!__pyx_cur_scope->__pyx_v_decode_ascii)) { __Pyx_RaiseClosureNameError("decode_ascii"); __PYX_ERR(0, 492, __pyx_L1_error) }
-    __pyx_t_1 = __pyx_lambda_funcdef_lambda3(__pyx_cur_scope->__pyx_v_decode_ascii, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 492, __pyx_L1_error)
+    if (unlikely(!__pyx_cur_scope->__pyx_v_decode_ascii)) { __Pyx_RaiseClosureNameError("decode_ascii"); __PYX_ERR(0, 496, __pyx_L1_error) }
+    __pyx_t_1 = __pyx_lambda_funcdef_lambda3(__pyx_cur_scope->__pyx_v_decode_ascii, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 496, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF_SET(__pyx_v_v2, __pyx_t_1);
     __pyx_t_1 = 0;
 
-    /* "pyaffy/celparser.pyx":491
+    /* "pyaffy/celparser.pyx":495
  *         if v3 == 'text/plain':
  *             v2 = decode_unicode(v2.rstrip('\x00'))
  *         elif v3 == 'text/ascii':             # <<<<<<<<<<<<<<
@@ -10536,33 +10629,33 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_32read_header_pa
     goto __pyx_L3;
   }
 
-  /* "pyaffy/celparser.pyx":493
+  /* "pyaffy/celparser.pyx":497
  *         elif v3 == 'text/ascii':
  *             v2 = decode_ascii(v2.rstrip('\x00'))
  *         elif v3 == 'text/x-calvin-float':             # <<<<<<<<<<<<<<
  *             v2 = decode_float(v2[:4])
  *         elif v3 == 'text/x-calvin-integer-32':
  */
-  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_v3, __pyx_kp_s_text_x_calvin_float, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 493, __pyx_L1_error)
+  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_v3, __pyx_kp_s_text_x_calvin_float, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 497, __pyx_L1_error)
   if (__pyx_t_2) {
 
-    /* "pyaffy/celparser.pyx":494
+    /* "pyaffy/celparser.pyx":498
  *             v2 = decode_ascii(v2.rstrip('\x00'))
  *         elif v3 == 'text/x-calvin-float':
  *             v2 = decode_float(v2[:4])             # <<<<<<<<<<<<<<
  *         elif v3 == 'text/x-calvin-integer-32':
  *             v2 = decode_int32(v2[:4])
  */
-    __pyx_t_1 = __Pyx_PyObject_GetSlice(__pyx_v_v2, 0, 4, NULL, NULL, &__pyx_slice__30, 0, 1, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 494, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_GetSlice(__pyx_v_v2, 0, 4, NULL, NULL, &__pyx_slice__30, 0, 1, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 498, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    if (unlikely(!__pyx_cur_scope->__pyx_v_decode_float)) { __Pyx_RaiseClosureNameError("decode_float"); __PYX_ERR(0, 494, __pyx_L1_error) }
-    __pyx_t_3 = __pyx_lambda_funcdef_lambda4(__pyx_cur_scope->__pyx_v_decode_float, __pyx_t_1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 494, __pyx_L1_error)
+    if (unlikely(!__pyx_cur_scope->__pyx_v_decode_float)) { __Pyx_RaiseClosureNameError("decode_float"); __PYX_ERR(0, 498, __pyx_L1_error) }
+    __pyx_t_3 = __pyx_lambda_funcdef_lambda4(__pyx_cur_scope->__pyx_v_decode_float, __pyx_t_1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 498, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF_SET(__pyx_v_v2, __pyx_t_3);
     __pyx_t_3 = 0;
 
-    /* "pyaffy/celparser.pyx":493
+    /* "pyaffy/celparser.pyx":497
  *         elif v3 == 'text/ascii':
  *             v2 = decode_ascii(v2.rstrip('\x00'))
  *         elif v3 == 'text/x-calvin-float':             # <<<<<<<<<<<<<<
@@ -10572,33 +10665,33 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_32read_header_pa
     goto __pyx_L3;
   }
 
-  /* "pyaffy/celparser.pyx":495
+  /* "pyaffy/celparser.pyx":499
  *         elif v3 == 'text/x-calvin-float':
  *             v2 = decode_float(v2[:4])
  *         elif v3 == 'text/x-calvin-integer-32':             # <<<<<<<<<<<<<<
  *             v2 = decode_int32(v2[:4])
  *         elif v3 == 'text/x-calvin-unsigned-integer-32':
  */
-  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_v3, __pyx_kp_s_text_x_calvin_integer_32, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 495, __pyx_L1_error)
+  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_v3, __pyx_kp_s_text_x_calvin_integer_32, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 499, __pyx_L1_error)
   if (__pyx_t_2) {
 
-    /* "pyaffy/celparser.pyx":496
+    /* "pyaffy/celparser.pyx":500
  *             v2 = decode_float(v2[:4])
  *         elif v3 == 'text/x-calvin-integer-32':
  *             v2 = decode_int32(v2[:4])             # <<<<<<<<<<<<<<
  *         elif v3 == 'text/x-calvin-unsigned-integer-32':
  *             v2 = decode_uint32(v2[:4])
  */
-    __pyx_t_3 = __Pyx_PyObject_GetSlice(__pyx_v_v2, 0, 4, NULL, NULL, &__pyx_slice__31, 0, 1, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 496, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_GetSlice(__pyx_v_v2, 0, 4, NULL, NULL, &__pyx_slice__31, 0, 1, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 500, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
-    if (unlikely(!__pyx_cur_scope->__pyx_v_decode_int32)) { __Pyx_RaiseClosureNameError("decode_int32"); __PYX_ERR(0, 496, __pyx_L1_error) }
-    __pyx_t_1 = __pyx_lambda_funcdef_lambda5(__pyx_cur_scope->__pyx_v_decode_int32, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 496, __pyx_L1_error)
+    if (unlikely(!__pyx_cur_scope->__pyx_v_decode_int32)) { __Pyx_RaiseClosureNameError("decode_int32"); __PYX_ERR(0, 500, __pyx_L1_error) }
+    __pyx_t_1 = __pyx_lambda_funcdef_lambda5(__pyx_cur_scope->__pyx_v_decode_int32, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 500, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF_SET(__pyx_v_v2, __pyx_t_1);
     __pyx_t_1 = 0;
 
-    /* "pyaffy/celparser.pyx":495
+    /* "pyaffy/celparser.pyx":499
  *         elif v3 == 'text/x-calvin-float':
  *             v2 = decode_float(v2[:4])
  *         elif v3 == 'text/x-calvin-integer-32':             # <<<<<<<<<<<<<<
@@ -10608,33 +10701,33 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_32read_header_pa
     goto __pyx_L3;
   }
 
-  /* "pyaffy/celparser.pyx":497
+  /* "pyaffy/celparser.pyx":501
  *         elif v3 == 'text/x-calvin-integer-32':
  *             v2 = decode_int32(v2[:4])
  *         elif v3 == 'text/x-calvin-unsigned-integer-32':             # <<<<<<<<<<<<<<
  *             v2 = decode_uint32(v2[:4])
  *         elif v3 == 'text/x-calvin-unsigned-integer-8':
  */
-  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_v3, __pyx_kp_s_text_x_calvin_unsigned_integer_3, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 497, __pyx_L1_error)
+  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_v3, __pyx_kp_s_text_x_calvin_unsigned_integer_3, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 501, __pyx_L1_error)
   if (__pyx_t_2) {
 
-    /* "pyaffy/celparser.pyx":498
+    /* "pyaffy/celparser.pyx":502
  *             v2 = decode_int32(v2[:4])
  *         elif v3 == 'text/x-calvin-unsigned-integer-32':
  *             v2 = decode_uint32(v2[:4])             # <<<<<<<<<<<<<<
  *         elif v3 == 'text/x-calvin-unsigned-integer-8':
  *             v2 = decode_uint8(v2[:1])
  */
-    __pyx_t_1 = __Pyx_PyObject_GetSlice(__pyx_v_v2, 0, 4, NULL, NULL, &__pyx_slice__32, 0, 1, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 498, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_GetSlice(__pyx_v_v2, 0, 4, NULL, NULL, &__pyx_slice__32, 0, 1, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 502, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    if (unlikely(!__pyx_cur_scope->__pyx_v_decode_uint32)) { __Pyx_RaiseClosureNameError("decode_uint32"); __PYX_ERR(0, 498, __pyx_L1_error) }
-    __pyx_t_3 = __pyx_lambda_funcdef_lambda6(__pyx_cur_scope->__pyx_v_decode_uint32, __pyx_t_1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 498, __pyx_L1_error)
+    if (unlikely(!__pyx_cur_scope->__pyx_v_decode_uint32)) { __Pyx_RaiseClosureNameError("decode_uint32"); __PYX_ERR(0, 502, __pyx_L1_error) }
+    __pyx_t_3 = __pyx_lambda_funcdef_lambda6(__pyx_cur_scope->__pyx_v_decode_uint32, __pyx_t_1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 502, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF_SET(__pyx_v_v2, __pyx_t_3);
     __pyx_t_3 = 0;
 
-    /* "pyaffy/celparser.pyx":497
+    /* "pyaffy/celparser.pyx":501
  *         elif v3 == 'text/x-calvin-integer-32':
  *             v2 = decode_int32(v2[:4])
  *         elif v3 == 'text/x-calvin-unsigned-integer-32':             # <<<<<<<<<<<<<<
@@ -10644,33 +10737,33 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_32read_header_pa
     goto __pyx_L3;
   }
 
-  /* "pyaffy/celparser.pyx":499
+  /* "pyaffy/celparser.pyx":503
  *         elif v3 == 'text/x-calvin-unsigned-integer-32':
  *             v2 = decode_uint32(v2[:4])
  *         elif v3 == 'text/x-calvin-unsigned-integer-8':             # <<<<<<<<<<<<<<
  *             v2 = decode_uint8(v2[:1])
  *         elif v3 == 'text/x-calvin-unsigned-integer-16':
  */
-  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_v3, __pyx_kp_s_text_x_calvin_unsigned_integer_8, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 499, __pyx_L1_error)
+  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_v3, __pyx_kp_s_text_x_calvin_unsigned_integer_8, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 503, __pyx_L1_error)
   if (__pyx_t_2) {
 
-    /* "pyaffy/celparser.pyx":500
+    /* "pyaffy/celparser.pyx":504
  *             v2 = decode_uint32(v2[:4])
  *         elif v3 == 'text/x-calvin-unsigned-integer-8':
  *             v2 = decode_uint8(v2[:1])             # <<<<<<<<<<<<<<
  *         elif v3 == 'text/x-calvin-unsigned-integer-16':
  *             v2 = decode_uint16(v2[:2])
  */
-    __pyx_t_3 = __Pyx_PyObject_GetSlice(__pyx_v_v2, 0, 1, NULL, NULL, &__pyx_slice__33, 0, 1, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 500, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_GetSlice(__pyx_v_v2, 0, 1, NULL, NULL, &__pyx_slice__33, 0, 1, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 504, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
-    if (unlikely(!__pyx_cur_scope->__pyx_v_decode_uint8)) { __Pyx_RaiseClosureNameError("decode_uint8"); __PYX_ERR(0, 500, __pyx_L1_error) }
-    __pyx_t_1 = __pyx_lambda_funcdef_lambda8(__pyx_cur_scope->__pyx_v_decode_uint8, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 500, __pyx_L1_error)
+    if (unlikely(!__pyx_cur_scope->__pyx_v_decode_uint8)) { __Pyx_RaiseClosureNameError("decode_uint8"); __PYX_ERR(0, 504, __pyx_L1_error) }
+    __pyx_t_1 = __pyx_lambda_funcdef_lambda8(__pyx_cur_scope->__pyx_v_decode_uint8, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 504, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF_SET(__pyx_v_v2, __pyx_t_1);
     __pyx_t_1 = 0;
 
-    /* "pyaffy/celparser.pyx":499
+    /* "pyaffy/celparser.pyx":503
  *         elif v3 == 'text/x-calvin-unsigned-integer-32':
  *             v2 = decode_uint32(v2[:4])
  *         elif v3 == 'text/x-calvin-unsigned-integer-8':             # <<<<<<<<<<<<<<
@@ -10680,33 +10773,33 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_32read_header_pa
     goto __pyx_L3;
   }
 
-  /* "pyaffy/celparser.pyx":501
+  /* "pyaffy/celparser.pyx":505
  *         elif v3 == 'text/x-calvin-unsigned-integer-8':
  *             v2 = decode_uint8(v2[:1])
  *         elif v3 == 'text/x-calvin-unsigned-integer-16':             # <<<<<<<<<<<<<<
  *             v2 = decode_uint16(v2[:2])
  *         elif v3 == 'text/x-calvin-integer-8':
  */
-  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_v3, __pyx_kp_s_text_x_calvin_unsigned_integer_1, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 501, __pyx_L1_error)
+  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_v3, __pyx_kp_s_text_x_calvin_unsigned_integer_1, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 505, __pyx_L1_error)
   if (__pyx_t_2) {
 
-    /* "pyaffy/celparser.pyx":502
+    /* "pyaffy/celparser.pyx":506
  *             v2 = decode_uint8(v2[:1])
  *         elif v3 == 'text/x-calvin-unsigned-integer-16':
  *             v2 = decode_uint16(v2[:2])             # <<<<<<<<<<<<<<
  *         elif v3 == 'text/x-calvin-integer-8':
  *             v2 = decode_int8(v2[:1])
  */
-    __pyx_t_1 = __Pyx_PyObject_GetSlice(__pyx_v_v2, 0, 2, NULL, NULL, &__pyx_slice__34, 0, 1, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 502, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_GetSlice(__pyx_v_v2, 0, 2, NULL, NULL, &__pyx_slice__34, 0, 1, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 506, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    if (unlikely(!__pyx_cur_scope->__pyx_v_decode_uint16)) { __Pyx_RaiseClosureNameError("decode_uint16"); __PYX_ERR(0, 502, __pyx_L1_error) }
-    __pyx_t_3 = __pyx_lambda_funcdef_lambda10(__pyx_cur_scope->__pyx_v_decode_uint16, __pyx_t_1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 502, __pyx_L1_error)
+    if (unlikely(!__pyx_cur_scope->__pyx_v_decode_uint16)) { __Pyx_RaiseClosureNameError("decode_uint16"); __PYX_ERR(0, 506, __pyx_L1_error) }
+    __pyx_t_3 = __pyx_lambda_funcdef_lambda10(__pyx_cur_scope->__pyx_v_decode_uint16, __pyx_t_1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 506, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF_SET(__pyx_v_v2, __pyx_t_3);
     __pyx_t_3 = 0;
 
-    /* "pyaffy/celparser.pyx":501
+    /* "pyaffy/celparser.pyx":505
  *         elif v3 == 'text/x-calvin-unsigned-integer-8':
  *             v2 = decode_uint8(v2[:1])
  *         elif v3 == 'text/x-calvin-unsigned-integer-16':             # <<<<<<<<<<<<<<
@@ -10716,33 +10809,33 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_32read_header_pa
     goto __pyx_L3;
   }
 
-  /* "pyaffy/celparser.pyx":503
+  /* "pyaffy/celparser.pyx":507
  *         elif v3 == 'text/x-calvin-unsigned-integer-16':
  *             v2 = decode_uint16(v2[:2])
  *         elif v3 == 'text/x-calvin-integer-8':             # <<<<<<<<<<<<<<
  *             v2 = decode_int8(v2[:1])
  *         elif v3 == 'text/x-calvin-integer-16':
  */
-  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_v3, __pyx_kp_s_text_x_calvin_integer_8, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 503, __pyx_L1_error)
+  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_v3, __pyx_kp_s_text_x_calvin_integer_8, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 507, __pyx_L1_error)
   if (__pyx_t_2) {
 
-    /* "pyaffy/celparser.pyx":504
+    /* "pyaffy/celparser.pyx":508
  *             v2 = decode_uint16(v2[:2])
  *         elif v3 == 'text/x-calvin-integer-8':
  *             v2 = decode_int8(v2[:1])             # <<<<<<<<<<<<<<
  *         elif v3 == 'text/x-calvin-integer-16':
  *             v2 = decode_int16(v2[:2])
  */
-    __pyx_t_3 = __Pyx_PyObject_GetSlice(__pyx_v_v2, 0, 1, NULL, NULL, &__pyx_slice__35, 0, 1, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 504, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_GetSlice(__pyx_v_v2, 0, 1, NULL, NULL, &__pyx_slice__35, 0, 1, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 508, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
-    if (unlikely(!__pyx_cur_scope->__pyx_v_decode_int8)) { __Pyx_RaiseClosureNameError("decode_int8"); __PYX_ERR(0, 504, __pyx_L1_error) }
-    __pyx_t_1 = __pyx_lambda_funcdef_lambda7(__pyx_cur_scope->__pyx_v_decode_int8, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 504, __pyx_L1_error)
+    if (unlikely(!__pyx_cur_scope->__pyx_v_decode_int8)) { __Pyx_RaiseClosureNameError("decode_int8"); __PYX_ERR(0, 508, __pyx_L1_error) }
+    __pyx_t_1 = __pyx_lambda_funcdef_lambda7(__pyx_cur_scope->__pyx_v_decode_int8, __pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 508, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF_SET(__pyx_v_v2, __pyx_t_1);
     __pyx_t_1 = 0;
 
-    /* "pyaffy/celparser.pyx":503
+    /* "pyaffy/celparser.pyx":507
  *         elif v3 == 'text/x-calvin-unsigned-integer-16':
  *             v2 = decode_uint16(v2[:2])
  *         elif v3 == 'text/x-calvin-integer-8':             # <<<<<<<<<<<<<<
@@ -10752,33 +10845,33 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_32read_header_pa
     goto __pyx_L3;
   }
 
-  /* "pyaffy/celparser.pyx":505
+  /* "pyaffy/celparser.pyx":509
  *         elif v3 == 'text/x-calvin-integer-8':
  *             v2 = decode_int8(v2[:1])
  *         elif v3 == 'text/x-calvin-integer-16':             # <<<<<<<<<<<<<<
  *             v2 = decode_int16(v2[:2])
  * 
  */
-  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_v3, __pyx_kp_s_text_x_calvin_integer_16, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 505, __pyx_L1_error)
+  __pyx_t_2 = (__Pyx_PyString_Equals(__pyx_v_v3, __pyx_kp_s_text_x_calvin_integer_16, Py_EQ)); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 509, __pyx_L1_error)
   if (__pyx_t_2) {
 
-    /* "pyaffy/celparser.pyx":506
+    /* "pyaffy/celparser.pyx":510
  *             v2 = decode_int8(v2[:1])
  *         elif v3 == 'text/x-calvin-integer-16':
  *             v2 = decode_int16(v2[:2])             # <<<<<<<<<<<<<<
  * 
  *         return (v1, v2)
  */
-    __pyx_t_1 = __Pyx_PyObject_GetSlice(__pyx_v_v2, 0, 2, NULL, NULL, &__pyx_slice__36, 0, 1, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 506, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_GetSlice(__pyx_v_v2, 0, 2, NULL, NULL, &__pyx_slice__36, 0, 1, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 510, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    if (unlikely(!__pyx_cur_scope->__pyx_v_decode_int16)) { __Pyx_RaiseClosureNameError("decode_int16"); __PYX_ERR(0, 506, __pyx_L1_error) }
-    __pyx_t_3 = __pyx_lambda_funcdef_lambda9(__pyx_cur_scope->__pyx_v_decode_int16, __pyx_t_1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 506, __pyx_L1_error)
+    if (unlikely(!__pyx_cur_scope->__pyx_v_decode_int16)) { __Pyx_RaiseClosureNameError("decode_int16"); __PYX_ERR(0, 510, __pyx_L1_error) }
+    __pyx_t_3 = __pyx_lambda_funcdef_lambda9(__pyx_cur_scope->__pyx_v_decode_int16, __pyx_t_1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 510, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF_SET(__pyx_v_v2, __pyx_t_3);
     __pyx_t_3 = 0;
 
-    /* "pyaffy/celparser.pyx":505
+    /* "pyaffy/celparser.pyx":509
  *         elif v3 == 'text/x-calvin-integer-8':
  *             v2 = decode_int8(v2[:1])
  *         elif v3 == 'text/x-calvin-integer-16':             # <<<<<<<<<<<<<<
@@ -10788,7 +10881,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_32read_header_pa
   }
   __pyx_L3:;
 
-  /* "pyaffy/celparser.pyx":508
+  /* "pyaffy/celparser.pyx":512
  *             v2 = decode_int16(v2[:2])
  * 
  *         return (v1, v2)             # <<<<<<<<<<<<<<
@@ -10796,7 +10889,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_32read_header_pa
  *     def read_data_header(fh):
  */
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_3 = PyTuple_New(2); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 508, __pyx_L1_error)
+  __pyx_t_3 = PyTuple_New(2); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 512, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_INCREF(__pyx_v_v1);
   __Pyx_GIVEREF(__pyx_v_v1);
@@ -10808,7 +10901,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_32read_header_pa
   __pyx_t_3 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":484
+  /* "pyaffy/celparser.pyx":488
  *         return num_data_groups, first_data_group_pos
  * 
  *     def read_header_param(fh):             # <<<<<<<<<<<<<<
@@ -10831,7 +10924,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_32read_header_pa
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":510
+/* "pyaffy/celparser.pyx":514
  *         return (v1, v2)
  * 
  *     def read_data_header(fh):             # <<<<<<<<<<<<<<
@@ -10884,29 +10977,29 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":511
+  /* "pyaffy/celparser.pyx":515
  * 
  *     def read_data_header(fh):
  *         data_type_id = read_guid(fh)             # <<<<<<<<<<<<<<
  *         logger.debug('Data type identifier: %s', data_type_id)
  *         file_id = read_guid(fh)
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_guid)) { __Pyx_RaiseClosureNameError("read_guid"); __PYX_ERR(0, 511, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_20read_guid(__pyx_cur_scope->__pyx_v_read_guid, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 511, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_guid)) { __Pyx_RaiseClosureNameError("read_guid"); __PYX_ERR(0, 515, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_20read_guid(__pyx_cur_scope->__pyx_v_read_guid, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 515, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_data_type_id = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":512
+  /* "pyaffy/celparser.pyx":516
  *     def read_data_header(fh):
  *         data_type_id = read_guid(fh)
  *         logger.debug('Data type identifier: %s', data_type_id)             # <<<<<<<<<<<<<<
  *         file_id = read_guid(fh)
  *         logger.debug('File identifier: %s', file_id)
  */
-  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 512, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 516, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_debug); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 512, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_debug); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 516, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __pyx_t_2 = NULL;
@@ -10924,7 +11017,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_Data_type_identifier_s, __pyx_v_data_type_id};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 512, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 516, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -10932,13 +11025,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_Data_type_identifier_s, __pyx_v_data_type_id};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 512, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 516, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 512, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 516, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     if (__pyx_t_2) {
       __Pyx_GIVEREF(__pyx_t_2); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_2); __pyx_t_2 = NULL;
@@ -10949,36 +11042,36 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
     __Pyx_INCREF(__pyx_v_data_type_id);
     __Pyx_GIVEREF(__pyx_v_data_type_id);
     PyTuple_SET_ITEM(__pyx_t_5, 1+__pyx_t_4, __pyx_v_data_type_id);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 512, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 516, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":513
+  /* "pyaffy/celparser.pyx":517
  *         data_type_id = read_guid(fh)
  *         logger.debug('Data type identifier: %s', data_type_id)
  *         file_id = read_guid(fh)             # <<<<<<<<<<<<<<
  *         logger.debug('File identifier: %s', file_id)
  *         creation_time = read_datetime(fh)
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_guid)) { __Pyx_RaiseClosureNameError("read_guid"); __PYX_ERR(0, 513, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_20read_guid(__pyx_cur_scope->__pyx_v_read_guid, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 513, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_guid)) { __Pyx_RaiseClosureNameError("read_guid"); __PYX_ERR(0, 517, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_20read_guid(__pyx_cur_scope->__pyx_v_read_guid, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 517, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_file_id = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":514
+  /* "pyaffy/celparser.pyx":518
  *         logger.debug('Data type identifier: %s', data_type_id)
  *         file_id = read_guid(fh)
  *         logger.debug('File identifier: %s', file_id)             # <<<<<<<<<<<<<<
  *         creation_time = read_datetime(fh)
  *         #print creation_time
  */
-  __pyx_t_3 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 514, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 518, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_debug); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 514, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_debug); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 518, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __pyx_t_3 = NULL;
@@ -10996,7 +11089,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_5)) {
     PyObject *__pyx_temp[3] = {__pyx_t_3, __pyx_kp_s_File_identifier_s, __pyx_v_file_id};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 514, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 518, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -11004,13 +11097,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_5)) {
     PyObject *__pyx_temp[3] = {__pyx_t_3, __pyx_kp_s_File_identifier_s, __pyx_v_file_id};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 514, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 518, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_2 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 514, __pyx_L1_error)
+    __pyx_t_2 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 518, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
     if (__pyx_t_3) {
       __Pyx_GIVEREF(__pyx_t_3); PyTuple_SET_ITEM(__pyx_t_2, 0, __pyx_t_3); __pyx_t_3 = NULL;
@@ -11021,35 +11114,35 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
     __Pyx_INCREF(__pyx_v_file_id);
     __Pyx_GIVEREF(__pyx_v_file_id);
     PyTuple_SET_ITEM(__pyx_t_2, 1+__pyx_t_4, __pyx_v_file_id);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_2, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 514, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_2, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 518, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   }
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":515
+  /* "pyaffy/celparser.pyx":519
  *         file_id = read_guid(fh)
  *         logger.debug('File identifier: %s', file_id)
  *         creation_time = read_datetime(fh)             # <<<<<<<<<<<<<<
  *         #print creation_time
  *         iso639, iso3166 = read_locale(fh)
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_datetime)) { __Pyx_RaiseClosureNameError("read_datetime"); __PYX_ERR(0, 515, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_22read_datetime(__pyx_cur_scope->__pyx_v_read_datetime, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 515, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_datetime)) { __Pyx_RaiseClosureNameError("read_datetime"); __PYX_ERR(0, 519, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_22read_datetime(__pyx_cur_scope->__pyx_v_read_datetime, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 519, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_creation_time = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":517
+  /* "pyaffy/celparser.pyx":521
  *         creation_time = read_datetime(fh)
  *         #print creation_time
  *         iso639, iso3166 = read_locale(fh)             # <<<<<<<<<<<<<<
  *         locale = '-'.join([iso639, iso3166])
  *         n_params = read_int(fh)
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_locale)) { __Pyx_RaiseClosureNameError("read_locale"); __PYX_ERR(0, 517, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_24read_locale(__pyx_cur_scope->__pyx_v_read_locale, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 517, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_locale)) { __Pyx_RaiseClosureNameError("read_locale"); __PYX_ERR(0, 521, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_24read_locale(__pyx_cur_scope->__pyx_v_read_locale, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 521, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   if ((likely(PyTuple_CheckExact(__pyx_t_1))) || (PyList_CheckExact(__pyx_t_1))) {
     PyObject* sequence = __pyx_t_1;
@@ -11061,7 +11154,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
     if (unlikely(size != 2)) {
       if (size > 2) __Pyx_RaiseTooManyValuesError(2);
       else if (size >= 0) __Pyx_RaiseNeedMoreValuesError(size);
-      __PYX_ERR(0, 517, __pyx_L1_error)
+      __PYX_ERR(0, 521, __pyx_L1_error)
     }
     #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
     if (likely(PyTuple_CheckExact(sequence))) {
@@ -11074,15 +11167,15 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
     __Pyx_INCREF(__pyx_t_5);
     __Pyx_INCREF(__pyx_t_2);
     #else
-    __pyx_t_5 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 517, __pyx_L1_error)
+    __pyx_t_5 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 521, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_2 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 517, __pyx_L1_error)
+    __pyx_t_2 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 521, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
     #endif
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   } else {
     Py_ssize_t index = -1;
-    __pyx_t_3 = PyObject_GetIter(__pyx_t_1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 517, __pyx_L1_error)
+    __pyx_t_3 = PyObject_GetIter(__pyx_t_1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 521, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __pyx_t_6 = Py_TYPE(__pyx_t_3)->tp_iternext;
@@ -11090,7 +11183,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
     __Pyx_GOTREF(__pyx_t_5);
     index = 1; __pyx_t_2 = __pyx_t_6(__pyx_t_3); if (unlikely(!__pyx_t_2)) goto __pyx_L3_unpacking_failed;
     __Pyx_GOTREF(__pyx_t_2);
-    if (__Pyx_IternextUnpackEndCheck(__pyx_t_6(__pyx_t_3), 2) < 0) __PYX_ERR(0, 517, __pyx_L1_error)
+    if (__Pyx_IternextUnpackEndCheck(__pyx_t_6(__pyx_t_3), 2) < 0) __PYX_ERR(0, 521, __pyx_L1_error)
     __pyx_t_6 = NULL;
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     goto __pyx_L4_unpacking_done;
@@ -11098,7 +11191,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __pyx_t_6 = NULL;
     if (__Pyx_IterFinish() == 0) __Pyx_RaiseNeedMoreValuesError(index);
-    __PYX_ERR(0, 517, __pyx_L1_error)
+    __PYX_ERR(0, 521, __pyx_L1_error)
     __pyx_L4_unpacking_done:;
   }
   __pyx_v_iso639 = __pyx_t_5;
@@ -11106,14 +11199,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
   __pyx_v_iso3166 = __pyx_t_2;
   __pyx_t_2 = 0;
 
-  /* "pyaffy/celparser.pyx":518
+  /* "pyaffy/celparser.pyx":522
  *         #print creation_time
  *         iso639, iso3166 = read_locale(fh)
  *         locale = '-'.join([iso639, iso3166])             # <<<<<<<<<<<<<<
  *         n_params = read_int(fh)
  *         logger.debug('Number of parameters (name/value/type triplets): %d', n_params)
  */
-  __pyx_t_1 = PyList_New(2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 518, __pyx_L1_error)
+  __pyx_t_1 = PyList_New(2); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 522, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_v_iso639);
   __Pyx_GIVEREF(__pyx_v_iso639);
@@ -11121,35 +11214,35 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
   __Pyx_INCREF(__pyx_v_iso3166);
   __Pyx_GIVEREF(__pyx_v_iso3166);
   PyList_SET_ITEM(__pyx_t_1, 1, __pyx_v_iso3166);
-  __pyx_t_2 = __Pyx_PyString_Join(__pyx_kp_s__37, __pyx_t_1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 518, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyString_Join(__pyx_kp_s__37, __pyx_t_1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 522, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_v_locale = ((PyObject*)__pyx_t_2);
   __pyx_t_2 = 0;
 
-  /* "pyaffy/celparser.pyx":519
+  /* "pyaffy/celparser.pyx":523
  *         iso639, iso3166 = read_locale(fh)
  *         locale = '-'.join([iso639, iso3166])
  *         n_params = read_int(fh)             # <<<<<<<<<<<<<<
  *         logger.debug('Number of parameters (name/value/type triplets): %d', n_params)
  *         params = OrderedDict()
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_int)) { __Pyx_RaiseClosureNameError("read_int"); __PYX_ERR(0, 519, __pyx_L1_error) }
-  __pyx_t_2 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(__pyx_cur_scope->__pyx_v_read_int, __pyx_v_fh); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 519, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_int)) { __Pyx_RaiseClosureNameError("read_int"); __PYX_ERR(0, 523, __pyx_L1_error) }
+  __pyx_t_2 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(__pyx_cur_scope->__pyx_v_read_int, __pyx_v_fh); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 523, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __pyx_v_n_params = __pyx_t_2;
   __pyx_t_2 = 0;
 
-  /* "pyaffy/celparser.pyx":520
+  /* "pyaffy/celparser.pyx":524
  *         locale = '-'.join([iso639, iso3166])
  *         n_params = read_int(fh)
  *         logger.debug('Number of parameters (name/value/type triplets): %d', n_params)             # <<<<<<<<<<<<<<
  *         params = OrderedDict()
  *         for i in range(n_params):
  */
-  __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 520, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 524, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_debug); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 520, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_debug); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 524, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_t_1 = NULL;
@@ -11167,7 +11260,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_5)) {
     PyObject *__pyx_temp[3] = {__pyx_t_1, __pyx_kp_s_Number_of_parameters_name_value, __pyx_v_n_params};
-    __pyx_t_2 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 520, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 524, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_GOTREF(__pyx_t_2);
   } else
@@ -11175,13 +11268,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_5)) {
     PyObject *__pyx_temp[3] = {__pyx_t_1, __pyx_kp_s_Number_of_parameters_name_value, __pyx_v_n_params};
-    __pyx_t_2 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 520, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 524, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_GOTREF(__pyx_t_2);
   } else
   #endif
   {
-    __pyx_t_3 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 520, __pyx_L1_error)
+    __pyx_t_3 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 524, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     if (__pyx_t_1) {
       __Pyx_GIVEREF(__pyx_t_1); PyTuple_SET_ITEM(__pyx_t_3, 0, __pyx_t_1); __pyx_t_1 = NULL;
@@ -11192,21 +11285,21 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
     __Pyx_INCREF(__pyx_v_n_params);
     __Pyx_GIVEREF(__pyx_v_n_params);
     PyTuple_SET_ITEM(__pyx_t_3, 1+__pyx_t_4, __pyx_v_n_params);
-    __pyx_t_2 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_3, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 520, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_3, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 524, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   }
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
-  /* "pyaffy/celparser.pyx":521
+  /* "pyaffy/celparser.pyx":525
  *         n_params = read_int(fh)
  *         logger.debug('Number of parameters (name/value/type triplets): %d', n_params)
  *         params = OrderedDict()             # <<<<<<<<<<<<<<
  *         for i in range(n_params):
  *             params.update([read_header_param(fh)])
  */
-  __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_OrderedDict); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 521, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_OrderedDict); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 525, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __pyx_t_3 = NULL;
   if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_5))) {
@@ -11219,38 +11312,38 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
     }
   }
   if (__pyx_t_3) {
-    __pyx_t_2 = __Pyx_PyObject_CallOneArg(__pyx_t_5, __pyx_t_3); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 521, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyObject_CallOneArg(__pyx_t_5, __pyx_t_3); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 525, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   } else {
-    __pyx_t_2 = __Pyx_PyObject_CallNoArg(__pyx_t_5); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 521, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyObject_CallNoArg(__pyx_t_5); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 525, __pyx_L1_error)
   }
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __pyx_v_params = __pyx_t_2;
   __pyx_t_2 = 0;
 
-  /* "pyaffy/celparser.pyx":522
+  /* "pyaffy/celparser.pyx":526
  *         logger.debug('Number of parameters (name/value/type triplets): %d', n_params)
  *         params = OrderedDict()
  *         for i in range(n_params):             # <<<<<<<<<<<<<<
  *             params.update([read_header_param(fh)])
  * 
  */
-  __pyx_t_2 = PyTuple_New(1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 522, __pyx_L1_error)
+  __pyx_t_2 = PyTuple_New(1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 526, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_INCREF(__pyx_v_n_params);
   __Pyx_GIVEREF(__pyx_v_n_params);
   PyTuple_SET_ITEM(__pyx_t_2, 0, __pyx_v_n_params);
-  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_builtin_range, __pyx_t_2, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 522, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_builtin_range, __pyx_t_2, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 526, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   if (likely(PyList_CheckExact(__pyx_t_5)) || PyTuple_CheckExact(__pyx_t_5)) {
     __pyx_t_2 = __pyx_t_5; __Pyx_INCREF(__pyx_t_2); __pyx_t_7 = 0;
     __pyx_t_8 = NULL;
   } else {
-    __pyx_t_7 = -1; __pyx_t_2 = PyObject_GetIter(__pyx_t_5); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 522, __pyx_L1_error)
+    __pyx_t_7 = -1; __pyx_t_2 = PyObject_GetIter(__pyx_t_5); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 526, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
-    __pyx_t_8 = Py_TYPE(__pyx_t_2)->tp_iternext; if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 522, __pyx_L1_error)
+    __pyx_t_8 = Py_TYPE(__pyx_t_2)->tp_iternext; if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 526, __pyx_L1_error)
   }
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   for (;;) {
@@ -11258,17 +11351,17 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
       if (likely(PyList_CheckExact(__pyx_t_2))) {
         if (__pyx_t_7 >= PyList_GET_SIZE(__pyx_t_2)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_5 = PyList_GET_ITEM(__pyx_t_2, __pyx_t_7); __Pyx_INCREF(__pyx_t_5); __pyx_t_7++; if (unlikely(0 < 0)) __PYX_ERR(0, 522, __pyx_L1_error)
+        __pyx_t_5 = PyList_GET_ITEM(__pyx_t_2, __pyx_t_7); __Pyx_INCREF(__pyx_t_5); __pyx_t_7++; if (unlikely(0 < 0)) __PYX_ERR(0, 526, __pyx_L1_error)
         #else
-        __pyx_t_5 = PySequence_ITEM(__pyx_t_2, __pyx_t_7); __pyx_t_7++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 522, __pyx_L1_error)
+        __pyx_t_5 = PySequence_ITEM(__pyx_t_2, __pyx_t_7); __pyx_t_7++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 526, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_5);
         #endif
       } else {
         if (__pyx_t_7 >= PyTuple_GET_SIZE(__pyx_t_2)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_5 = PyTuple_GET_ITEM(__pyx_t_2, __pyx_t_7); __Pyx_INCREF(__pyx_t_5); __pyx_t_7++; if (unlikely(0 < 0)) __PYX_ERR(0, 522, __pyx_L1_error)
+        __pyx_t_5 = PyTuple_GET_ITEM(__pyx_t_2, __pyx_t_7); __Pyx_INCREF(__pyx_t_5); __pyx_t_7++; if (unlikely(0 < 0)) __PYX_ERR(0, 526, __pyx_L1_error)
         #else
-        __pyx_t_5 = PySequence_ITEM(__pyx_t_2, __pyx_t_7); __pyx_t_7++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 522, __pyx_L1_error)
+        __pyx_t_5 = PySequence_ITEM(__pyx_t_2, __pyx_t_7); __pyx_t_7++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 526, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_5);
         #endif
       }
@@ -11278,7 +11371,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
         PyObject* exc_type = PyErr_Occurred();
         if (exc_type) {
           if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-          else __PYX_ERR(0, 522, __pyx_L1_error)
+          else __PYX_ERR(0, 526, __pyx_L1_error)
         }
         break;
       }
@@ -11287,19 +11380,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
     __Pyx_XDECREF_SET(__pyx_v_i, __pyx_t_5);
     __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":523
+    /* "pyaffy/celparser.pyx":527
  *         params = OrderedDict()
  *         for i in range(n_params):
  *             params.update([read_header_param(fh)])             # <<<<<<<<<<<<<<
  * 
  *         num_parents = read_int(fh)
  */
-    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_params, __pyx_n_s_update); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 523, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_v_params, __pyx_n_s_update); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 527, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
-    if (unlikely(!__pyx_cur_scope->__pyx_v_read_header_param)) { __Pyx_RaiseClosureNameError("read_header_param"); __PYX_ERR(0, 523, __pyx_L1_error) }
-    __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_32read_header_param(__pyx_cur_scope->__pyx_v_read_header_param, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 523, __pyx_L1_error)
+    if (unlikely(!__pyx_cur_scope->__pyx_v_read_header_param)) { __Pyx_RaiseClosureNameError("read_header_param"); __PYX_ERR(0, 527, __pyx_L1_error) }
+    __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_32read_header_param(__pyx_cur_scope->__pyx_v_read_header_param, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 527, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_9 = PyList_New(1); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 523, __pyx_L1_error)
+    __pyx_t_9 = PyList_New(1); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 527, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_9);
     __Pyx_GIVEREF(__pyx_t_1);
     PyList_SET_ITEM(__pyx_t_9, 0, __pyx_t_1);
@@ -11315,14 +11408,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
       }
     }
     if (!__pyx_t_1) {
-      __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_t_9); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 523, __pyx_L1_error)
+      __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_t_9); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 527, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
       __Pyx_GOTREF(__pyx_t_5);
     } else {
       #if CYTHON_FAST_PYCALL
       if (PyFunction_Check(__pyx_t_3)) {
         PyObject *__pyx_temp[2] = {__pyx_t_1, __pyx_t_9};
-        __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 523, __pyx_L1_error)
+        __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 527, __pyx_L1_error)
         __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
         __Pyx_GOTREF(__pyx_t_5);
         __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
@@ -11331,20 +11424,20 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
       #if CYTHON_FAST_PYCCALL
       if (__Pyx_PyFastCFunction_Check(__pyx_t_3)) {
         PyObject *__pyx_temp[2] = {__pyx_t_1, __pyx_t_9};
-        __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 523, __pyx_L1_error)
+        __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 527, __pyx_L1_error)
         __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
         __Pyx_GOTREF(__pyx_t_5);
         __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
       } else
       #endif
       {
-        __pyx_t_10 = PyTuple_New(1+1); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 523, __pyx_L1_error)
+        __pyx_t_10 = PyTuple_New(1+1); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 527, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_10);
         __Pyx_GIVEREF(__pyx_t_1); PyTuple_SET_ITEM(__pyx_t_10, 0, __pyx_t_1); __pyx_t_1 = NULL;
         __Pyx_GIVEREF(__pyx_t_9);
         PyTuple_SET_ITEM(__pyx_t_10, 0+1, __pyx_t_9);
         __pyx_t_9 = 0;
-        __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_10, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 523, __pyx_L1_error)
+        __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_10, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 527, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_5);
         __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
       }
@@ -11352,7 +11445,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":522
+    /* "pyaffy/celparser.pyx":526
  *         logger.debug('Number of parameters (name/value/type triplets): %d', n_params)
  *         params = OrderedDict()
  *         for i in range(n_params):             # <<<<<<<<<<<<<<
@@ -11362,29 +11455,29 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
   }
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
-  /* "pyaffy/celparser.pyx":525
+  /* "pyaffy/celparser.pyx":529
  *             params.update([read_header_param(fh)])
  * 
  *         num_parents = read_int(fh)             # <<<<<<<<<<<<<<
  *         logger.debug('Number of parent file headers: %d', num_parents)
  * 
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_int)) { __Pyx_RaiseClosureNameError("read_int"); __PYX_ERR(0, 525, __pyx_L1_error) }
-  __pyx_t_2 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(__pyx_cur_scope->__pyx_v_read_int, __pyx_v_fh); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 525, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_int)) { __Pyx_RaiseClosureNameError("read_int"); __PYX_ERR(0, 529, __pyx_L1_error) }
+  __pyx_t_2 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(__pyx_cur_scope->__pyx_v_read_int, __pyx_v_fh); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 529, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __pyx_v_num_parents = __pyx_t_2;
   __pyx_t_2 = 0;
 
-  /* "pyaffy/celparser.pyx":526
+  /* "pyaffy/celparser.pyx":530
  * 
  *         num_parents = read_int(fh)
  *         logger.debug('Number of parent file headers: %d', num_parents)             # <<<<<<<<<<<<<<
  * 
  *         parent_headers = []
  */
-  __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 526, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 530, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 526, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 530, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __pyx_t_5 = NULL;
@@ -11402,7 +11495,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_5, __pyx_kp_s_Number_of_parent_file_headers_d, __pyx_v_num_parents};
-    __pyx_t_2 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 526, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 530, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
     __Pyx_GOTREF(__pyx_t_2);
   } else
@@ -11410,13 +11503,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_5, __pyx_kp_s_Number_of_parent_file_headers_d, __pyx_v_num_parents};
-    __pyx_t_2 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 526, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 530, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
     __Pyx_GOTREF(__pyx_t_2);
   } else
   #endif
   {
-    __pyx_t_10 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 526, __pyx_L1_error)
+    __pyx_t_10 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 530, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_10);
     if (__pyx_t_5) {
       __Pyx_GIVEREF(__pyx_t_5); PyTuple_SET_ITEM(__pyx_t_10, 0, __pyx_t_5); __pyx_t_5 = NULL;
@@ -11427,47 +11520,47 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
     __Pyx_INCREF(__pyx_v_num_parents);
     __Pyx_GIVEREF(__pyx_v_num_parents);
     PyTuple_SET_ITEM(__pyx_t_10, 1+__pyx_t_4, __pyx_v_num_parents);
-    __pyx_t_2 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_10, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 526, __pyx_L1_error)
+    __pyx_t_2 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_10, NULL); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 530, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
     __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
   }
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
-  /* "pyaffy/celparser.pyx":528
+  /* "pyaffy/celparser.pyx":532
  *         logger.debug('Number of parent file headers: %d', num_parents)
  * 
  *         parent_headers = []             # <<<<<<<<<<<<<<
  *         for i in range(num_parents):
  *             logger.debug('')
  */
-  __pyx_t_2 = PyList_New(0); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 528, __pyx_L1_error)
+  __pyx_t_2 = PyList_New(0); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 532, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __pyx_v_parent_headers = ((PyObject*)__pyx_t_2);
   __pyx_t_2 = 0;
 
-  /* "pyaffy/celparser.pyx":529
+  /* "pyaffy/celparser.pyx":533
  * 
  *         parent_headers = []
  *         for i in range(num_parents):             # <<<<<<<<<<<<<<
  *             logger.debug('')
  *             logger.debug('-------------------------------------------')
  */
-  __pyx_t_2 = PyTuple_New(1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 529, __pyx_L1_error)
+  __pyx_t_2 = PyTuple_New(1); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 533, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
   __Pyx_INCREF(__pyx_v_num_parents);
   __Pyx_GIVEREF(__pyx_v_num_parents);
   PyTuple_SET_ITEM(__pyx_t_2, 0, __pyx_v_num_parents);
-  __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_range, __pyx_t_2, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 529, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_range, __pyx_t_2, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 533, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   if (likely(PyList_CheckExact(__pyx_t_3)) || PyTuple_CheckExact(__pyx_t_3)) {
     __pyx_t_2 = __pyx_t_3; __Pyx_INCREF(__pyx_t_2); __pyx_t_7 = 0;
     __pyx_t_8 = NULL;
   } else {
-    __pyx_t_7 = -1; __pyx_t_2 = PyObject_GetIter(__pyx_t_3); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 529, __pyx_L1_error)
+    __pyx_t_7 = -1; __pyx_t_2 = PyObject_GetIter(__pyx_t_3); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 533, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
-    __pyx_t_8 = Py_TYPE(__pyx_t_2)->tp_iternext; if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 529, __pyx_L1_error)
+    __pyx_t_8 = Py_TYPE(__pyx_t_2)->tp_iternext; if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 533, __pyx_L1_error)
   }
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   for (;;) {
@@ -11475,17 +11568,17 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
       if (likely(PyList_CheckExact(__pyx_t_2))) {
         if (__pyx_t_7 >= PyList_GET_SIZE(__pyx_t_2)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_3 = PyList_GET_ITEM(__pyx_t_2, __pyx_t_7); __Pyx_INCREF(__pyx_t_3); __pyx_t_7++; if (unlikely(0 < 0)) __PYX_ERR(0, 529, __pyx_L1_error)
+        __pyx_t_3 = PyList_GET_ITEM(__pyx_t_2, __pyx_t_7); __Pyx_INCREF(__pyx_t_3); __pyx_t_7++; if (unlikely(0 < 0)) __PYX_ERR(0, 533, __pyx_L1_error)
         #else
-        __pyx_t_3 = PySequence_ITEM(__pyx_t_2, __pyx_t_7); __pyx_t_7++; if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 529, __pyx_L1_error)
+        __pyx_t_3 = PySequence_ITEM(__pyx_t_2, __pyx_t_7); __pyx_t_7++; if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 533, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_3);
         #endif
       } else {
         if (__pyx_t_7 >= PyTuple_GET_SIZE(__pyx_t_2)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_3 = PyTuple_GET_ITEM(__pyx_t_2, __pyx_t_7); __Pyx_INCREF(__pyx_t_3); __pyx_t_7++; if (unlikely(0 < 0)) __PYX_ERR(0, 529, __pyx_L1_error)
+        __pyx_t_3 = PyTuple_GET_ITEM(__pyx_t_2, __pyx_t_7); __Pyx_INCREF(__pyx_t_3); __pyx_t_7++; if (unlikely(0 < 0)) __PYX_ERR(0, 533, __pyx_L1_error)
         #else
-        __pyx_t_3 = PySequence_ITEM(__pyx_t_2, __pyx_t_7); __pyx_t_7++; if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 529, __pyx_L1_error)
+        __pyx_t_3 = PySequence_ITEM(__pyx_t_2, __pyx_t_7); __pyx_t_7++; if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 533, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_3);
         #endif
       }
@@ -11495,7 +11588,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
         PyObject* exc_type = PyErr_Occurred();
         if (exc_type) {
           if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-          else __PYX_ERR(0, 529, __pyx_L1_error)
+          else __PYX_ERR(0, 533, __pyx_L1_error)
         }
         break;
       }
@@ -11504,54 +11597,54 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
     __Pyx_XDECREF_SET(__pyx_v_i, __pyx_t_3);
     __pyx_t_3 = 0;
 
-    /* "pyaffy/celparser.pyx":530
+    /* "pyaffy/celparser.pyx":534
  *         parent_headers = []
  *         for i in range(num_parents):
  *             logger.debug('')             # <<<<<<<<<<<<<<
  *             logger.debug('-------------------------------------------')
  *             parent_headers.append(read_data_header(fh))
  */
-    __pyx_t_3 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 530, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 534, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
-    __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_debug); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 530, __pyx_L1_error)
+    __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_debug); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 534, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_10);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_10, __pyx_tuple__39, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 530, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_10, __pyx_tuple__39, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 534, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-    /* "pyaffy/celparser.pyx":531
+    /* "pyaffy/celparser.pyx":535
  *         for i in range(num_parents):
  *             logger.debug('')
  *             logger.debug('-------------------------------------------')             # <<<<<<<<<<<<<<
  *             parent_headers.append(read_data_header(fh))
  * 
  */
-    __pyx_t_3 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 531, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 535, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
-    __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_debug); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 531, __pyx_L1_error)
+    __pyx_t_10 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_debug); if (unlikely(!__pyx_t_10)) __PYX_ERR(0, 535, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_10);
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_10, __pyx_tuple__41, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 531, __pyx_L1_error)
+    __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_10, __pyx_tuple__41, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 535, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
     __Pyx_DECREF(__pyx_t_10); __pyx_t_10 = 0;
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-    /* "pyaffy/celparser.pyx":532
+    /* "pyaffy/celparser.pyx":536
  *             logger.debug('')
  *             logger.debug('-------------------------------------------')
  *             parent_headers.append(read_data_header(fh))             # <<<<<<<<<<<<<<
  * 
  *     def read_col(fh):
  */
-    if (unlikely(!__pyx_cur_scope->__pyx_v_read_data_header)) { __Pyx_RaiseClosureNameError("read_data_header"); __PYX_ERR(0, 532, __pyx_L1_error) }
-    __pyx_t_3 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_header(__pyx_cur_scope->__pyx_v_read_data_header, __pyx_v_fh); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 532, __pyx_L1_error)
+    if (unlikely(!__pyx_cur_scope->__pyx_v_read_data_header)) { __Pyx_RaiseClosureNameError("read_data_header"); __PYX_ERR(0, 536, __pyx_L1_error) }
+    __pyx_t_3 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_header(__pyx_cur_scope->__pyx_v_read_data_header, __pyx_v_fh); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 536, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_3);
-    __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_parent_headers, __pyx_t_3); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 532, __pyx_L1_error)
+    __pyx_t_11 = __Pyx_PyList_Append(__pyx_v_parent_headers, __pyx_t_3); if (unlikely(__pyx_t_11 == ((int)-1))) __PYX_ERR(0, 536, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-    /* "pyaffy/celparser.pyx":529
+    /* "pyaffy/celparser.pyx":533
  * 
  *         parent_headers = []
  *         for i in range(num_parents):             # <<<<<<<<<<<<<<
@@ -11561,7 +11654,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
   }
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
 
-  /* "pyaffy/celparser.pyx":510
+  /* "pyaffy/celparser.pyx":514
  *         return (v1, v2)
  * 
  *     def read_data_header(fh):             # <<<<<<<<<<<<<<
@@ -11598,7 +11691,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_head
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":534
+/* "pyaffy/celparser.pyx":538
  *             parent_headers.append(read_data_header(fh))
  * 
  *     def read_col(fh):             # <<<<<<<<<<<<<<
@@ -11633,46 +11726,46 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_36read_col(PyObj
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":535
+  /* "pyaffy/celparser.pyx":539
  * 
  *     def read_col(fh):
  *         name = read_wstring(fh)             # <<<<<<<<<<<<<<
  *         valtype = read_byte(fh)
  *         size = read_int(fh)
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_wstring)) { __Pyx_RaiseClosureNameError("read_wstring"); __PYX_ERR(0, 535, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(__pyx_cur_scope->__pyx_v_read_wstring, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 535, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_wstring)) { __Pyx_RaiseClosureNameError("read_wstring"); __PYX_ERR(0, 539, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(__pyx_cur_scope->__pyx_v_read_wstring, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 539, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_name = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":536
+  /* "pyaffy/celparser.pyx":540
  *     def read_col(fh):
  *         name = read_wstring(fh)
  *         valtype = read_byte(fh)             # <<<<<<<<<<<<<<
  *         size = read_int(fh)
  *         return (name, valtype, size)
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_byte)) { __Pyx_RaiseClosureNameError("read_byte"); __PYX_ERR(0, 536, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_2read_byte(__pyx_cur_scope->__pyx_v_read_byte, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 536, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_byte)) { __Pyx_RaiseClosureNameError("read_byte"); __PYX_ERR(0, 540, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_2read_byte(__pyx_cur_scope->__pyx_v_read_byte, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 540, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_valtype = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":537
+  /* "pyaffy/celparser.pyx":541
  *         name = read_wstring(fh)
  *         valtype = read_byte(fh)
  *         size = read_int(fh)             # <<<<<<<<<<<<<<
  *         return (name, valtype, size)
  * 
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_int)) { __Pyx_RaiseClosureNameError("read_int"); __PYX_ERR(0, 537, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(__pyx_cur_scope->__pyx_v_read_int, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 537, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_int)) { __Pyx_RaiseClosureNameError("read_int"); __PYX_ERR(0, 541, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(__pyx_cur_scope->__pyx_v_read_int, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 541, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_size = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":538
+  /* "pyaffy/celparser.pyx":542
  *         valtype = read_byte(fh)
  *         size = read_int(fh)
  *         return (name, valtype, size)             # <<<<<<<<<<<<<<
@@ -11680,7 +11773,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_36read_col(PyObj
  *     def read_dataset(fh):
  */
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_1 = PyTuple_New(3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 538, __pyx_L1_error)
+  __pyx_t_1 = PyTuple_New(3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 542, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_v_name);
   __Pyx_GIVEREF(__pyx_v_name);
@@ -11695,7 +11788,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_36read_col(PyObj
   __pyx_t_1 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":534
+  /* "pyaffy/celparser.pyx":538
  *             parent_headers.append(read_data_header(fh))
  * 
  *     def read_col(fh):             # <<<<<<<<<<<<<<
@@ -11717,7 +11810,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_36read_col(PyObj
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":540
+/* "pyaffy/celparser.pyx":544
  *         return (name, valtype, size)
  * 
  *     def read_dataset(fh):             # <<<<<<<<<<<<<<
@@ -11772,8 +11865,8 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   PyObject *__pyx_t_8 = NULL;
   PyObject *__pyx_t_9 = NULL;
   int __pyx_t_10;
-  PyObject *__pyx_t_11 = NULL;
-  int __pyx_t_12;
+  int __pyx_t_11;
+  PyObject *__pyx_t_12 = NULL;
   char *__pyx_t_13;
   unsigned int __pyx_t_14;
   __Pyx_memviewslice __pyx_t_15 = { 0, 0, { 0 }, { 0 }, { 0 } };
@@ -11781,22 +11874,22 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":541
+  /* "pyaffy/celparser.pyx":545
  * 
  *     def read_dataset(fh):
  *         logger.debug('New DataSet! Bytes read up until this point: %d', read[0])             # <<<<<<<<<<<<<<
  *         data_pos = read_uint(fh)
  *         next_pos = read_uint(fh)
  */
-  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 541, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 545, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_debug); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 541, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_debug); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 545, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 541, __pyx_L1_error) }
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 545, __pyx_L1_error) }
   if (unlikely(__pyx_cur_scope->__pyx_v_read == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 541, __pyx_L1_error)
+    __PYX_ERR(0, 545, __pyx_L1_error)
   }
   __pyx_t_2 = NULL;
   __pyx_t_4 = 0;
@@ -11813,7 +11906,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_New_DataSet_Bytes_read_up_until, PyList_GET_ITEM(__pyx_cur_scope->__pyx_v_read, 0)};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 541, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 545, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -11821,13 +11914,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_New_DataSet_Bytes_read_up_until, PyList_GET_ITEM(__pyx_cur_scope->__pyx_v_read, 0)};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 541, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 545, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 541, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 545, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     if (__pyx_t_2) {
       __Pyx_GIVEREF(__pyx_t_2); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_2); __pyx_t_2 = NULL;
@@ -11838,85 +11931,85 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
     __Pyx_INCREF(PyList_GET_ITEM(__pyx_cur_scope->__pyx_v_read, 0));
     __Pyx_GIVEREF(PyList_GET_ITEM(__pyx_cur_scope->__pyx_v_read, 0));
     PyTuple_SET_ITEM(__pyx_t_5, 1+__pyx_t_4, PyList_GET_ITEM(__pyx_cur_scope->__pyx_v_read, 0));
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 541, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 545, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":542
+  /* "pyaffy/celparser.pyx":546
  *     def read_dataset(fh):
  *         logger.debug('New DataSet! Bytes read up until this point: %d', read[0])
  *         data_pos = read_uint(fh)             # <<<<<<<<<<<<<<
  *         next_pos = read_uint(fh)
  *         data_size = next_pos - data_pos
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_uint)) { __Pyx_RaiseClosureNameError("read_uint"); __PYX_ERR(0, 542, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_12read_uint(__pyx_cur_scope->__pyx_v_read_uint, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 542, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_uint)) { __Pyx_RaiseClosureNameError("read_uint"); __PYX_ERR(0, 546, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_12read_uint(__pyx_cur_scope->__pyx_v_read_uint, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 546, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_data_pos = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":543
+  /* "pyaffy/celparser.pyx":547
  *         logger.debug('New DataSet! Bytes read up until this point: %d', read[0])
  *         data_pos = read_uint(fh)
  *         next_pos = read_uint(fh)             # <<<<<<<<<<<<<<
  *         data_size = next_pos - data_pos
  *         name = read_wstring(fh)
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_uint)) { __Pyx_RaiseClosureNameError("read_uint"); __PYX_ERR(0, 543, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_12read_uint(__pyx_cur_scope->__pyx_v_read_uint, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 543, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_uint)) { __Pyx_RaiseClosureNameError("read_uint"); __PYX_ERR(0, 547, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_12read_uint(__pyx_cur_scope->__pyx_v_read_uint, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 547, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_next_pos = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":544
+  /* "pyaffy/celparser.pyx":548
  *         data_pos = read_uint(fh)
  *         next_pos = read_uint(fh)
  *         data_size = next_pos - data_pos             # <<<<<<<<<<<<<<
  *         name = read_wstring(fh)
  *         num_params = read_int(fh)
  */
-  __pyx_t_1 = PyNumber_Subtract(__pyx_v_next_pos, __pyx_v_data_pos); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 544, __pyx_L1_error)
+  __pyx_t_1 = PyNumber_Subtract(__pyx_v_next_pos, __pyx_v_data_pos); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 548, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_data_size = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":545
+  /* "pyaffy/celparser.pyx":549
  *         next_pos = read_uint(fh)
  *         data_size = next_pos - data_pos
  *         name = read_wstring(fh)             # <<<<<<<<<<<<<<
  *         num_params = read_int(fh)
  * 
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_wstring)) { __Pyx_RaiseClosureNameError("read_wstring"); __PYX_ERR(0, 545, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(__pyx_cur_scope->__pyx_v_read_wstring, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 545, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_wstring)) { __Pyx_RaiseClosureNameError("read_wstring"); __PYX_ERR(0, 549, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(__pyx_cur_scope->__pyx_v_read_wstring, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 549, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_name = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":546
+  /* "pyaffy/celparser.pyx":550
  *         data_size = next_pos - data_pos
  *         name = read_wstring(fh)
  *         num_params = read_int(fh)             # <<<<<<<<<<<<<<
  * 
  *         # read parameters
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_int)) { __Pyx_RaiseClosureNameError("read_int"); __PYX_ERR(0, 546, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(__pyx_cur_scope->__pyx_v_read_int, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 546, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_int)) { __Pyx_RaiseClosureNameError("read_int"); __PYX_ERR(0, 550, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(__pyx_cur_scope->__pyx_v_read_int, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 550, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_num_params = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":549
+  /* "pyaffy/celparser.pyx":553
  * 
  *         # read parameters
  *         params = OrderedDict()             # <<<<<<<<<<<<<<
  *         for i in range(num_params):
  *             params.update([read_header_param(fh)])
  */
-  __pyx_t_3 = __Pyx_GetModuleGlobalName(__pyx_n_s_OrderedDict); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 549, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_GetModuleGlobalName(__pyx_n_s_OrderedDict); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 553, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __pyx_t_5 = NULL;
   if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_3))) {
@@ -11929,38 +12022,38 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
     }
   }
   if (__pyx_t_5) {
-    __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_t_5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 549, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_3, __pyx_t_5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 553, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   } else {
-    __pyx_t_1 = __Pyx_PyObject_CallNoArg(__pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 549, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_CallNoArg(__pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 553, __pyx_L1_error)
   }
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __pyx_v_params = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":550
+  /* "pyaffy/celparser.pyx":554
  *         # read parameters
  *         params = OrderedDict()
  *         for i in range(num_params):             # <<<<<<<<<<<<<<
  *             params.update([read_header_param(fh)])
  * 
  */
-  __pyx_t_1 = PyTuple_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 550, __pyx_L1_error)
+  __pyx_t_1 = PyTuple_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 554, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_v_num_params);
   __Pyx_GIVEREF(__pyx_v_num_params);
   PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_v_num_params);
-  __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_range, __pyx_t_1, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 550, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_Call(__pyx_builtin_range, __pyx_t_1, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 554, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   if (likely(PyList_CheckExact(__pyx_t_3)) || PyTuple_CheckExact(__pyx_t_3)) {
     __pyx_t_1 = __pyx_t_3; __Pyx_INCREF(__pyx_t_1); __pyx_t_6 = 0;
     __pyx_t_7 = NULL;
   } else {
-    __pyx_t_6 = -1; __pyx_t_1 = PyObject_GetIter(__pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 550, __pyx_L1_error)
+    __pyx_t_6 = -1; __pyx_t_1 = PyObject_GetIter(__pyx_t_3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 554, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_7 = Py_TYPE(__pyx_t_1)->tp_iternext; if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 550, __pyx_L1_error)
+    __pyx_t_7 = Py_TYPE(__pyx_t_1)->tp_iternext; if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 554, __pyx_L1_error)
   }
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   for (;;) {
@@ -11968,17 +12061,17 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
       if (likely(PyList_CheckExact(__pyx_t_1))) {
         if (__pyx_t_6 >= PyList_GET_SIZE(__pyx_t_1)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_3 = PyList_GET_ITEM(__pyx_t_1, __pyx_t_6); __Pyx_INCREF(__pyx_t_3); __pyx_t_6++; if (unlikely(0 < 0)) __PYX_ERR(0, 550, __pyx_L1_error)
+        __pyx_t_3 = PyList_GET_ITEM(__pyx_t_1, __pyx_t_6); __Pyx_INCREF(__pyx_t_3); __pyx_t_6++; if (unlikely(0 < 0)) __PYX_ERR(0, 554, __pyx_L1_error)
         #else
-        __pyx_t_3 = PySequence_ITEM(__pyx_t_1, __pyx_t_6); __pyx_t_6++; if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 550, __pyx_L1_error)
+        __pyx_t_3 = PySequence_ITEM(__pyx_t_1, __pyx_t_6); __pyx_t_6++; if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 554, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_3);
         #endif
       } else {
         if (__pyx_t_6 >= PyTuple_GET_SIZE(__pyx_t_1)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_3 = PyTuple_GET_ITEM(__pyx_t_1, __pyx_t_6); __Pyx_INCREF(__pyx_t_3); __pyx_t_6++; if (unlikely(0 < 0)) __PYX_ERR(0, 550, __pyx_L1_error)
+        __pyx_t_3 = PyTuple_GET_ITEM(__pyx_t_1, __pyx_t_6); __Pyx_INCREF(__pyx_t_3); __pyx_t_6++; if (unlikely(0 < 0)) __PYX_ERR(0, 554, __pyx_L1_error)
         #else
-        __pyx_t_3 = PySequence_ITEM(__pyx_t_1, __pyx_t_6); __pyx_t_6++; if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 550, __pyx_L1_error)
+        __pyx_t_3 = PySequence_ITEM(__pyx_t_1, __pyx_t_6); __pyx_t_6++; if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 554, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_3);
         #endif
       }
@@ -11988,7 +12081,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
         PyObject* exc_type = PyErr_Occurred();
         if (exc_type) {
           if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-          else __PYX_ERR(0, 550, __pyx_L1_error)
+          else __PYX_ERR(0, 554, __pyx_L1_error)
         }
         break;
       }
@@ -11997,19 +12090,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
     __Pyx_XDECREF_SET(__pyx_v_i, __pyx_t_3);
     __pyx_t_3 = 0;
 
-    /* "pyaffy/celparser.pyx":551
+    /* "pyaffy/celparser.pyx":555
  *         params = OrderedDict()
  *         for i in range(num_params):
  *             params.update([read_header_param(fh)])             # <<<<<<<<<<<<<<
  * 
  *         num_cols = read_uint(fh)
  */
-    __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_v_params, __pyx_n_s_update); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 551, __pyx_L1_error)
+    __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_v_params, __pyx_n_s_update); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 555, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
-    if (unlikely(!__pyx_cur_scope->__pyx_v_read_header_param)) { __Pyx_RaiseClosureNameError("read_header_param"); __PYX_ERR(0, 551, __pyx_L1_error) }
-    __pyx_t_2 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_32read_header_param(__pyx_cur_scope->__pyx_v_read_header_param, __pyx_v_fh); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 551, __pyx_L1_error)
+    if (unlikely(!__pyx_cur_scope->__pyx_v_read_header_param)) { __Pyx_RaiseClosureNameError("read_header_param"); __PYX_ERR(0, 555, __pyx_L1_error) }
+    __pyx_t_2 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_32read_header_param(__pyx_cur_scope->__pyx_v_read_header_param, __pyx_v_fh); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 555, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
-    __pyx_t_8 = PyList_New(1); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 551, __pyx_L1_error)
+    __pyx_t_8 = PyList_New(1); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 555, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_8);
     __Pyx_GIVEREF(__pyx_t_2);
     PyList_SET_ITEM(__pyx_t_8, 0, __pyx_t_2);
@@ -12025,14 +12118,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
       }
     }
     if (!__pyx_t_2) {
-      __pyx_t_3 = __Pyx_PyObject_CallOneArg(__pyx_t_5, __pyx_t_8); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 551, __pyx_L1_error)
+      __pyx_t_3 = __Pyx_PyObject_CallOneArg(__pyx_t_5, __pyx_t_8); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 555, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
       __Pyx_GOTREF(__pyx_t_3);
     } else {
       #if CYTHON_FAST_PYCALL
       if (PyFunction_Check(__pyx_t_5)) {
         PyObject *__pyx_temp[2] = {__pyx_t_2, __pyx_t_8};
-        __pyx_t_3 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 551, __pyx_L1_error)
+        __pyx_t_3 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 555, __pyx_L1_error)
         __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
         __Pyx_GOTREF(__pyx_t_3);
         __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
@@ -12041,20 +12134,20 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
       #if CYTHON_FAST_PYCCALL
       if (__Pyx_PyFastCFunction_Check(__pyx_t_5)) {
         PyObject *__pyx_temp[2] = {__pyx_t_2, __pyx_t_8};
-        __pyx_t_3 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 551, __pyx_L1_error)
+        __pyx_t_3 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 555, __pyx_L1_error)
         __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
         __Pyx_GOTREF(__pyx_t_3);
         __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
       } else
       #endif
       {
-        __pyx_t_9 = PyTuple_New(1+1); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 551, __pyx_L1_error)
+        __pyx_t_9 = PyTuple_New(1+1); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 555, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_9);
         __Pyx_GIVEREF(__pyx_t_2); PyTuple_SET_ITEM(__pyx_t_9, 0, __pyx_t_2); __pyx_t_2 = NULL;
         __Pyx_GIVEREF(__pyx_t_8);
         PyTuple_SET_ITEM(__pyx_t_9, 0+1, __pyx_t_8);
         __pyx_t_8 = 0;
-        __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_9, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 551, __pyx_L1_error)
+        __pyx_t_3 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_9, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 555, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_3);
         __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
       }
@@ -12062,7 +12155,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
 
-    /* "pyaffy/celparser.pyx":550
+    /* "pyaffy/celparser.pyx":554
  *         # read parameters
  *         params = OrderedDict()
  *         for i in range(num_params):             # <<<<<<<<<<<<<<
@@ -12072,29 +12165,29 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   }
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":553
+  /* "pyaffy/celparser.pyx":557
  *             params.update([read_header_param(fh)])
  * 
  *         num_cols = read_uint(fh)             # <<<<<<<<<<<<<<
  *         logger.debug('DataSet / # cols: %d', num_cols)
  *         cols = []
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_uint)) { __Pyx_RaiseClosureNameError("read_uint"); __PYX_ERR(0, 553, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_12read_uint(__pyx_cur_scope->__pyx_v_read_uint, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 553, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_uint)) { __Pyx_RaiseClosureNameError("read_uint"); __PYX_ERR(0, 557, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_12read_uint(__pyx_cur_scope->__pyx_v_read_uint, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 557, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_num_cols = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":554
+  /* "pyaffy/celparser.pyx":558
  * 
  *         num_cols = read_uint(fh)
  *         logger.debug('DataSet / # cols: %d', num_cols)             # <<<<<<<<<<<<<<
  *         cols = []
  *         for i in range(num_cols):
  */
-  __pyx_t_3 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 554, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 558, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_debug); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 554, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_debug); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 558, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __pyx_t_3 = NULL;
@@ -12112,7 +12205,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_5)) {
     PyObject *__pyx_temp[3] = {__pyx_t_3, __pyx_kp_s_DataSet_cols_d, __pyx_v_num_cols};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 554, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 558, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -12120,13 +12213,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_5)) {
     PyObject *__pyx_temp[3] = {__pyx_t_3, __pyx_kp_s_DataSet_cols_d, __pyx_v_num_cols};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 554, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 558, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_9 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 554, __pyx_L1_error)
+    __pyx_t_9 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 558, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_9);
     if (__pyx_t_3) {
       __Pyx_GIVEREF(__pyx_t_3); PyTuple_SET_ITEM(__pyx_t_9, 0, __pyx_t_3); __pyx_t_3 = NULL;
@@ -12137,47 +12230,47 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
     __Pyx_INCREF(__pyx_v_num_cols);
     __Pyx_GIVEREF(__pyx_v_num_cols);
     PyTuple_SET_ITEM(__pyx_t_9, 1+__pyx_t_4, __pyx_v_num_cols);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_9, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 554, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_9, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 558, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
   }
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":555
+  /* "pyaffy/celparser.pyx":559
  *         num_cols = read_uint(fh)
  *         logger.debug('DataSet / # cols: %d', num_cols)
  *         cols = []             # <<<<<<<<<<<<<<
  *         for i in range(num_cols):
  *             cols.append(read_col(fh))
  */
-  __pyx_t_1 = PyList_New(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 555, __pyx_L1_error)
+  __pyx_t_1 = PyList_New(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 559, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_cols = ((PyObject*)__pyx_t_1);
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":556
+  /* "pyaffy/celparser.pyx":560
  *         logger.debug('DataSet / # cols: %d', num_cols)
  *         cols = []
  *         for i in range(num_cols):             # <<<<<<<<<<<<<<
  *             cols.append(read_col(fh))
  *         col_names = [c[0] for c in cols]
  */
-  __pyx_t_1 = PyTuple_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 556, __pyx_L1_error)
+  __pyx_t_1 = PyTuple_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 560, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_v_num_cols);
   __Pyx_GIVEREF(__pyx_v_num_cols);
   PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_v_num_cols);
-  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_builtin_range, __pyx_t_1, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 556, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_builtin_range, __pyx_t_1, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 560, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   if (likely(PyList_CheckExact(__pyx_t_5)) || PyTuple_CheckExact(__pyx_t_5)) {
     __pyx_t_1 = __pyx_t_5; __Pyx_INCREF(__pyx_t_1); __pyx_t_6 = 0;
     __pyx_t_7 = NULL;
   } else {
-    __pyx_t_6 = -1; __pyx_t_1 = PyObject_GetIter(__pyx_t_5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 556, __pyx_L1_error)
+    __pyx_t_6 = -1; __pyx_t_1 = PyObject_GetIter(__pyx_t_5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 560, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_7 = Py_TYPE(__pyx_t_1)->tp_iternext; if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 556, __pyx_L1_error)
+    __pyx_t_7 = Py_TYPE(__pyx_t_1)->tp_iternext; if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 560, __pyx_L1_error)
   }
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   for (;;) {
@@ -12185,17 +12278,17 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
       if (likely(PyList_CheckExact(__pyx_t_1))) {
         if (__pyx_t_6 >= PyList_GET_SIZE(__pyx_t_1)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_5 = PyList_GET_ITEM(__pyx_t_1, __pyx_t_6); __Pyx_INCREF(__pyx_t_5); __pyx_t_6++; if (unlikely(0 < 0)) __PYX_ERR(0, 556, __pyx_L1_error)
+        __pyx_t_5 = PyList_GET_ITEM(__pyx_t_1, __pyx_t_6); __Pyx_INCREF(__pyx_t_5); __pyx_t_6++; if (unlikely(0 < 0)) __PYX_ERR(0, 560, __pyx_L1_error)
         #else
-        __pyx_t_5 = PySequence_ITEM(__pyx_t_1, __pyx_t_6); __pyx_t_6++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 556, __pyx_L1_error)
+        __pyx_t_5 = PySequence_ITEM(__pyx_t_1, __pyx_t_6); __pyx_t_6++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 560, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_5);
         #endif
       } else {
         if (__pyx_t_6 >= PyTuple_GET_SIZE(__pyx_t_1)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_5 = PyTuple_GET_ITEM(__pyx_t_1, __pyx_t_6); __Pyx_INCREF(__pyx_t_5); __pyx_t_6++; if (unlikely(0 < 0)) __PYX_ERR(0, 556, __pyx_L1_error)
+        __pyx_t_5 = PyTuple_GET_ITEM(__pyx_t_1, __pyx_t_6); __Pyx_INCREF(__pyx_t_5); __pyx_t_6++; if (unlikely(0 < 0)) __PYX_ERR(0, 560, __pyx_L1_error)
         #else
-        __pyx_t_5 = PySequence_ITEM(__pyx_t_1, __pyx_t_6); __pyx_t_6++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 556, __pyx_L1_error)
+        __pyx_t_5 = PySequence_ITEM(__pyx_t_1, __pyx_t_6); __pyx_t_6++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 560, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_5);
         #endif
       }
@@ -12205,7 +12298,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
         PyObject* exc_type = PyErr_Occurred();
         if (exc_type) {
           if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-          else __PYX_ERR(0, 556, __pyx_L1_error)
+          else __PYX_ERR(0, 560, __pyx_L1_error)
         }
         break;
       }
@@ -12214,20 +12307,20 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
     __Pyx_XDECREF_SET(__pyx_v_i, __pyx_t_5);
     __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":557
+    /* "pyaffy/celparser.pyx":561
  *         cols = []
  *         for i in range(num_cols):
  *             cols.append(read_col(fh))             # <<<<<<<<<<<<<<
  *         col_names = [c[0] for c in cols]
  *         logger.debug('DataSet / col names: %s', ', '.join(col_names))
  */
-    if (unlikely(!__pyx_cur_scope->__pyx_v_read_col)) { __Pyx_RaiseClosureNameError("read_col"); __PYX_ERR(0, 557, __pyx_L1_error) }
-    __pyx_t_5 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_36read_col(__pyx_cur_scope->__pyx_v_read_col, __pyx_v_fh); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 557, __pyx_L1_error)
+    if (unlikely(!__pyx_cur_scope->__pyx_v_read_col)) { __Pyx_RaiseClosureNameError("read_col"); __PYX_ERR(0, 561, __pyx_L1_error) }
+    __pyx_t_5 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_36read_col(__pyx_cur_scope->__pyx_v_read_col, __pyx_v_fh); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 561, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_10 = __Pyx_PyList_Append(__pyx_v_cols, __pyx_t_5); if (unlikely(__pyx_t_10 == ((int)-1))) __PYX_ERR(0, 557, __pyx_L1_error)
+    __pyx_t_10 = __Pyx_PyList_Append(__pyx_v_cols, __pyx_t_5); if (unlikely(__pyx_t_10 == ((int)-1))) __PYX_ERR(0, 561, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":556
+    /* "pyaffy/celparser.pyx":560
  *         logger.debug('DataSet / # cols: %d', num_cols)
  *         cols = []
  *         for i in range(num_cols):             # <<<<<<<<<<<<<<
@@ -12237,48 +12330,48 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   }
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":558
+  /* "pyaffy/celparser.pyx":562
  *         for i in range(num_cols):
  *             cols.append(read_col(fh))
  *         col_names = [c[0] for c in cols]             # <<<<<<<<<<<<<<
  *         logger.debug('DataSet / col names: %s', ', '.join(col_names))
  * 
  */
-  __pyx_t_1 = PyList_New(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 558, __pyx_L1_error)
+  __pyx_t_1 = PyList_New(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 562, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_t_5 = __pyx_v_cols; __Pyx_INCREF(__pyx_t_5); __pyx_t_6 = 0;
   for (;;) {
     if (__pyx_t_6 >= PyList_GET_SIZE(__pyx_t_5)) break;
     #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-    __pyx_t_9 = PyList_GET_ITEM(__pyx_t_5, __pyx_t_6); __Pyx_INCREF(__pyx_t_9); __pyx_t_6++; if (unlikely(0 < 0)) __PYX_ERR(0, 558, __pyx_L1_error)
+    __pyx_t_9 = PyList_GET_ITEM(__pyx_t_5, __pyx_t_6); __Pyx_INCREF(__pyx_t_9); __pyx_t_6++; if (unlikely(0 < 0)) __PYX_ERR(0, 562, __pyx_L1_error)
     #else
-    __pyx_t_9 = PySequence_ITEM(__pyx_t_5, __pyx_t_6); __pyx_t_6++; if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 558, __pyx_L1_error)
+    __pyx_t_9 = PySequence_ITEM(__pyx_t_5, __pyx_t_6); __pyx_t_6++; if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 562, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_9);
     #endif
     __Pyx_XDECREF_SET(__pyx_v_c, __pyx_t_9);
     __pyx_t_9 = 0;
-    __pyx_t_9 = __Pyx_GetItemInt(__pyx_v_c, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 558, __pyx_L1_error)
+    __pyx_t_9 = __Pyx_GetItemInt(__pyx_v_c, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 562, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_9);
-    if (unlikely(__Pyx_ListComp_Append(__pyx_t_1, (PyObject*)__pyx_t_9))) __PYX_ERR(0, 558, __pyx_L1_error)
+    if (unlikely(__Pyx_ListComp_Append(__pyx_t_1, (PyObject*)__pyx_t_9))) __PYX_ERR(0, 562, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
   }
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __pyx_v_col_names = ((PyObject*)__pyx_t_1);
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":559
+  /* "pyaffy/celparser.pyx":563
  *             cols.append(read_col(fh))
  *         col_names = [c[0] for c in cols]
  *         logger.debug('DataSet / col names: %s', ', '.join(col_names))             # <<<<<<<<<<<<<<
  * 
  *         num_rows = read_uint(fh)
  */
-  __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 559, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 563, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
-  __pyx_t_9 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 559, __pyx_L1_error)
+  __pyx_t_9 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 563, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_9);
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-  __pyx_t_5 = __Pyx_PyString_Join(__pyx_kp_s__42, __pyx_v_col_names); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 559, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyString_Join(__pyx_kp_s__42, __pyx_v_col_names); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 563, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __pyx_t_3 = NULL;
   __pyx_t_4 = 0;
@@ -12295,7 +12388,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_9)) {
     PyObject *__pyx_temp[3] = {__pyx_t_3, __pyx_kp_s_DataSet_col_names_s, __pyx_t_5};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_9, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 559, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_9, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 563, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
@@ -12304,14 +12397,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_9)) {
     PyObject *__pyx_temp[3] = {__pyx_t_3, __pyx_kp_s_DataSet_col_names_s, __pyx_t_5};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_9, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 559, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_9, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 563, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   } else
   #endif
   {
-    __pyx_t_8 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 559, __pyx_L1_error)
+    __pyx_t_8 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 563, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_8);
     if (__pyx_t_3) {
       __Pyx_GIVEREF(__pyx_t_3); PyTuple_SET_ITEM(__pyx_t_8, 0, __pyx_t_3); __pyx_t_3 = NULL;
@@ -12322,36 +12415,36 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
     __Pyx_GIVEREF(__pyx_t_5);
     PyTuple_SET_ITEM(__pyx_t_8, 1+__pyx_t_4, __pyx_t_5);
     __pyx_t_5 = 0;
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_9, __pyx_t_8, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 559, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_9, __pyx_t_8, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 563, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
   }
   __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":561
+  /* "pyaffy/celparser.pyx":565
  *         logger.debug('DataSet / col names: %s', ', '.join(col_names))
  * 
  *         num_rows = read_uint(fh)             # <<<<<<<<<<<<<<
  *         logger.debug('DataSet / # rows: %d', num_rows)
  *         logger.debug('DataSet / data position: %d', data_pos)
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_uint)) { __Pyx_RaiseClosureNameError("read_uint"); __PYX_ERR(0, 561, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_12read_uint(__pyx_cur_scope->__pyx_v_read_uint, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 561, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_uint)) { __Pyx_RaiseClosureNameError("read_uint"); __PYX_ERR(0, 565, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_12read_uint(__pyx_cur_scope->__pyx_v_read_uint, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 565, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_num_rows = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":562
+  /* "pyaffy/celparser.pyx":566
  * 
  *         num_rows = read_uint(fh)
  *         logger.debug('DataSet / # rows: %d', num_rows)             # <<<<<<<<<<<<<<
  *         logger.debug('DataSet / data position: %d', data_pos)
  *         logger.debug('DataSet / next position: %d', next_pos)
  */
-  __pyx_t_9 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 562, __pyx_L1_error)
+  __pyx_t_9 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 566, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_9);
-  __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_9, __pyx_n_s_debug); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 562, __pyx_L1_error)
+  __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_9, __pyx_n_s_debug); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 566, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_8);
   __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
   __pyx_t_9 = NULL;
@@ -12369,7 +12462,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_8)) {
     PyObject *__pyx_temp[3] = {__pyx_t_9, __pyx_kp_s_DataSet_rows_d, __pyx_v_num_rows};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 562, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 566, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_9); __pyx_t_9 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -12377,13 +12470,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_8)) {
     PyObject *__pyx_temp[3] = {__pyx_t_9, __pyx_kp_s_DataSet_rows_d, __pyx_v_num_rows};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 562, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 566, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_9); __pyx_t_9 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 562, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 566, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     if (__pyx_t_9) {
       __Pyx_GIVEREF(__pyx_t_9); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_9); __pyx_t_9 = NULL;
@@ -12394,23 +12487,23 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
     __Pyx_INCREF(__pyx_v_num_rows);
     __Pyx_GIVEREF(__pyx_v_num_rows);
     PyTuple_SET_ITEM(__pyx_t_5, 1+__pyx_t_4, __pyx_v_num_rows);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_8, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 562, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_8, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 566, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
   __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":563
+  /* "pyaffy/celparser.pyx":567
  *         num_rows = read_uint(fh)
  *         logger.debug('DataSet / # rows: %d', num_rows)
  *         logger.debug('DataSet / data position: %d', data_pos)             # <<<<<<<<<<<<<<
  *         logger.debug('DataSet / next position: %d', next_pos)
  *         logger.debug('DataSet / data size: %d', data_size)
  */
-  __pyx_t_8 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 563, __pyx_L1_error)
+  __pyx_t_8 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 567, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_8);
-  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_debug); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 563, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_debug); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 567, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
   __pyx_t_8 = NULL;
@@ -12428,7 +12521,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_5)) {
     PyObject *__pyx_temp[3] = {__pyx_t_8, __pyx_kp_s_DataSet_data_position_d, __pyx_v_data_pos};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 563, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 567, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -12436,13 +12529,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_5)) {
     PyObject *__pyx_temp[3] = {__pyx_t_8, __pyx_kp_s_DataSet_data_position_d, __pyx_v_data_pos};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 563, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 567, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_9 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 563, __pyx_L1_error)
+    __pyx_t_9 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 567, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_9);
     if (__pyx_t_8) {
       __Pyx_GIVEREF(__pyx_t_8); PyTuple_SET_ITEM(__pyx_t_9, 0, __pyx_t_8); __pyx_t_8 = NULL;
@@ -12453,23 +12546,23 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
     __Pyx_INCREF(__pyx_v_data_pos);
     __Pyx_GIVEREF(__pyx_v_data_pos);
     PyTuple_SET_ITEM(__pyx_t_9, 1+__pyx_t_4, __pyx_v_data_pos);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_9, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 563, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_9, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 567, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
   }
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":564
+  /* "pyaffy/celparser.pyx":568
  *         logger.debug('DataSet / # rows: %d', num_rows)
  *         logger.debug('DataSet / data position: %d', data_pos)
  *         logger.debug('DataSet / next position: %d', next_pos)             # <<<<<<<<<<<<<<
  *         logger.debug('DataSet / data size: %d', data_size)
  *         logger.debug('DataSet / name: %s', name)
  */
-  __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 564, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 568, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
-  __pyx_t_9 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 564, __pyx_L1_error)
+  __pyx_t_9 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 568, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_9);
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __pyx_t_5 = NULL;
@@ -12487,7 +12580,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_9)) {
     PyObject *__pyx_temp[3] = {__pyx_t_5, __pyx_kp_s_DataSet_next_position_d, __pyx_v_next_pos};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_9, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 564, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_9, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 568, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -12495,13 +12588,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_9)) {
     PyObject *__pyx_temp[3] = {__pyx_t_5, __pyx_kp_s_DataSet_next_position_d, __pyx_v_next_pos};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_9, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 564, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_9, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 568, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_8 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 564, __pyx_L1_error)
+    __pyx_t_8 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 568, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_8);
     if (__pyx_t_5) {
       __Pyx_GIVEREF(__pyx_t_5); PyTuple_SET_ITEM(__pyx_t_8, 0, __pyx_t_5); __pyx_t_5 = NULL;
@@ -12512,23 +12605,23 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
     __Pyx_INCREF(__pyx_v_next_pos);
     __Pyx_GIVEREF(__pyx_v_next_pos);
     PyTuple_SET_ITEM(__pyx_t_8, 1+__pyx_t_4, __pyx_v_next_pos);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_9, __pyx_t_8, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 564, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_9, __pyx_t_8, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 568, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
   }
   __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":565
+  /* "pyaffy/celparser.pyx":569
  *         logger.debug('DataSet / data position: %d', data_pos)
  *         logger.debug('DataSet / next position: %d', next_pos)
  *         logger.debug('DataSet / data size: %d', data_size)             # <<<<<<<<<<<<<<
  *         logger.debug('DataSet / name: %s', name)
  *         logger.debug('DataSet / # parameters: %d', num_params)
  */
-  __pyx_t_9 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 565, __pyx_L1_error)
+  __pyx_t_9 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 569, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_9);
-  __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_9, __pyx_n_s_debug); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 565, __pyx_L1_error)
+  __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_9, __pyx_n_s_debug); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 569, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_8);
   __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
   __pyx_t_9 = NULL;
@@ -12546,7 +12639,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_8)) {
     PyObject *__pyx_temp[3] = {__pyx_t_9, __pyx_kp_s_DataSet_data_size_d, __pyx_v_data_size};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 565, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 569, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_9); __pyx_t_9 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -12554,13 +12647,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_8)) {
     PyObject *__pyx_temp[3] = {__pyx_t_9, __pyx_kp_s_DataSet_data_size_d, __pyx_v_data_size};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 565, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 569, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_9); __pyx_t_9 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 565, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 569, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     if (__pyx_t_9) {
       __Pyx_GIVEREF(__pyx_t_9); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_9); __pyx_t_9 = NULL;
@@ -12571,23 +12664,23 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
     __Pyx_INCREF(__pyx_v_data_size);
     __Pyx_GIVEREF(__pyx_v_data_size);
     PyTuple_SET_ITEM(__pyx_t_5, 1+__pyx_t_4, __pyx_v_data_size);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_8, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 565, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_8, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 569, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
   __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":566
+  /* "pyaffy/celparser.pyx":570
  *         logger.debug('DataSet / next position: %d', next_pos)
  *         logger.debug('DataSet / data size: %d', data_size)
  *         logger.debug('DataSet / name: %s', name)             # <<<<<<<<<<<<<<
  *         logger.debug('DataSet / # parameters: %d', num_params)
  *         num_chars = next_pos - read[0]
  */
-  __pyx_t_8 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 566, __pyx_L1_error)
+  __pyx_t_8 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 570, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_8);
-  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_debug); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 566, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_debug); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 570, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
   __pyx_t_8 = NULL;
@@ -12605,7 +12698,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_5)) {
     PyObject *__pyx_temp[3] = {__pyx_t_8, __pyx_kp_s_DataSet_name_s, __pyx_v_name};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 566, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 570, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -12613,13 +12706,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_5)) {
     PyObject *__pyx_temp[3] = {__pyx_t_8, __pyx_kp_s_DataSet_name_s, __pyx_v_name};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 566, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 570, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_9 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 566, __pyx_L1_error)
+    __pyx_t_9 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 570, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_9);
     if (__pyx_t_8) {
       __Pyx_GIVEREF(__pyx_t_8); PyTuple_SET_ITEM(__pyx_t_9, 0, __pyx_t_8); __pyx_t_8 = NULL;
@@ -12630,23 +12723,23 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
     __Pyx_INCREF(__pyx_v_name);
     __Pyx_GIVEREF(__pyx_v_name);
     PyTuple_SET_ITEM(__pyx_t_9, 1+__pyx_t_4, __pyx_v_name);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_9, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 566, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_9, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 570, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
   }
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":567
+  /* "pyaffy/celparser.pyx":571
  *         logger.debug('DataSet / data size: %d', data_size)
  *         logger.debug('DataSet / name: %s', name)
  *         logger.debug('DataSet / # parameters: %d', num_params)             # <<<<<<<<<<<<<<
  *         num_chars = next_pos - read[0]
- *         data = fh.read(num_chars)
+ *         if num_chars > 0:
  */
-  __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 567, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 571, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
-  __pyx_t_9 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 567, __pyx_L1_error)
+  __pyx_t_9 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 571, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_9);
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __pyx_t_5 = NULL;
@@ -12664,7 +12757,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_9)) {
     PyObject *__pyx_temp[3] = {__pyx_t_5, __pyx_kp_s_DataSet_parameters_d, __pyx_v_num_params};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_9, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 567, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_9, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 571, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -12672,13 +12765,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_9)) {
     PyObject *__pyx_temp[3] = {__pyx_t_5, __pyx_kp_s_DataSet_parameters_d, __pyx_v_num_params};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_9, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 567, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_9, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 571, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_8 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 567, __pyx_L1_error)
+    __pyx_t_8 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 571, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_8);
     if (__pyx_t_5) {
       __Pyx_GIVEREF(__pyx_t_5); PyTuple_SET_ITEM(__pyx_t_8, 0, __pyx_t_5); __pyx_t_5 = NULL;
@@ -12689,117 +12782,138 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
     __Pyx_INCREF(__pyx_v_num_params);
     __Pyx_GIVEREF(__pyx_v_num_params);
     PyTuple_SET_ITEM(__pyx_t_8, 1+__pyx_t_4, __pyx_v_num_params);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_9, __pyx_t_8, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 567, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_9, __pyx_t_8, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 571, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
   }
   __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":568
+  /* "pyaffy/celparser.pyx":572
  *         logger.debug('DataSet / name: %s', name)
  *         logger.debug('DataSet / # parameters: %d', num_params)
  *         num_chars = next_pos - read[0]             # <<<<<<<<<<<<<<
- *         data = fh.read(num_chars)
- *         read[0] += num_chars
+ *         if num_chars > 0:
+ *             data = fh.read(num_chars)
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 568, __pyx_L1_error) }
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 572, __pyx_L1_error) }
   if (unlikely(__pyx_cur_scope->__pyx_v_read == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 568, __pyx_L1_error)
+    __PYX_ERR(0, 572, __pyx_L1_error)
   }
-  __pyx_t_1 = PyNumber_Subtract(__pyx_v_next_pos, PyList_GET_ITEM(__pyx_cur_scope->__pyx_v_read, 0)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 568, __pyx_L1_error)
+  __pyx_t_1 = PyNumber_Subtract(__pyx_v_next_pos, PyList_GET_ITEM(__pyx_cur_scope->__pyx_v_read, 0)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 572, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_num_chars = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":569
+  /* "pyaffy/celparser.pyx":573
  *         logger.debug('DataSet / # parameters: %d', num_params)
  *         num_chars = next_pos - read[0]
- *         data = fh.read(num_chars)             # <<<<<<<<<<<<<<
- *         read[0] += num_chars
+ *         if num_chars > 0:             # <<<<<<<<<<<<<<
+ *             data = fh.read(num_chars)
+ *             read[0] += num_chars
+ */
+  __pyx_t_1 = PyObject_RichCompare(__pyx_v_num_chars, __pyx_int_0, Py_GT); __Pyx_XGOTREF(__pyx_t_1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 573, __pyx_L1_error)
+  __pyx_t_11 = __Pyx_PyObject_IsTrue(__pyx_t_1); if (unlikely(__pyx_t_11 < 0)) __PYX_ERR(0, 573, __pyx_L1_error)
+  __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+  if (__pyx_t_11) {
+
+    /* "pyaffy/celparser.pyx":574
+ *         num_chars = next_pos - read[0]
+ *         if num_chars > 0:
+ *             data = fh.read(num_chars)             # <<<<<<<<<<<<<<
+ *             read[0] += num_chars
  *         y = None
  */
-  __pyx_t_9 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 569, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_9);
-  __pyx_t_8 = NULL;
-  if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_9))) {
-    __pyx_t_8 = PyMethod_GET_SELF(__pyx_t_9);
-    if (likely(__pyx_t_8)) {
-      PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_9);
-      __Pyx_INCREF(__pyx_t_8);
-      __Pyx_INCREF(function);
-      __Pyx_DECREF_SET(__pyx_t_9, function);
+    __pyx_t_9 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 574, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_9);
+    __pyx_t_8 = NULL;
+    if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_9))) {
+      __pyx_t_8 = PyMethod_GET_SELF(__pyx_t_9);
+      if (likely(__pyx_t_8)) {
+        PyObject* function = PyMethod_GET_FUNCTION(__pyx_t_9);
+        __Pyx_INCREF(__pyx_t_8);
+        __Pyx_INCREF(function);
+        __Pyx_DECREF_SET(__pyx_t_9, function);
+      }
     }
-  }
-  if (!__pyx_t_8) {
-    __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_9, __pyx_v_num_chars); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 569, __pyx_L1_error)
-    __Pyx_GOTREF(__pyx_t_1);
-  } else {
-    #if CYTHON_FAST_PYCALL
-    if (PyFunction_Check(__pyx_t_9)) {
-      PyObject *__pyx_temp[2] = {__pyx_t_8, __pyx_v_num_chars};
-      __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_9, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 569, __pyx_L1_error)
-      __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
+    if (!__pyx_t_8) {
+      __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_9, __pyx_v_num_chars); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 574, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
-    } else
-    #endif
-    #if CYTHON_FAST_PYCCALL
-    if (__Pyx_PyFastCFunction_Check(__pyx_t_9)) {
-      PyObject *__pyx_temp[2] = {__pyx_t_8, __pyx_v_num_chars};
-      __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_9, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 569, __pyx_L1_error)
-      __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
-      __Pyx_GOTREF(__pyx_t_1);
-    } else
-    #endif
-    {
-      __pyx_t_5 = PyTuple_New(1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 569, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_5);
-      __Pyx_GIVEREF(__pyx_t_8); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_8); __pyx_t_8 = NULL;
-      __Pyx_INCREF(__pyx_v_num_chars);
-      __Pyx_GIVEREF(__pyx_v_num_chars);
-      PyTuple_SET_ITEM(__pyx_t_5, 0+1, __pyx_v_num_chars);
-      __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_9, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 569, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_1);
-      __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
+    } else {
+      #if CYTHON_FAST_PYCALL
+      if (PyFunction_Check(__pyx_t_9)) {
+        PyObject *__pyx_temp[2] = {__pyx_t_8, __pyx_v_num_chars};
+        __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_9, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 574, __pyx_L1_error)
+        __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
+        __Pyx_GOTREF(__pyx_t_1);
+      } else
+      #endif
+      #if CYTHON_FAST_PYCCALL
+      if (__Pyx_PyFastCFunction_Check(__pyx_t_9)) {
+        PyObject *__pyx_temp[2] = {__pyx_t_8, __pyx_v_num_chars};
+        __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_9, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 574, __pyx_L1_error)
+        __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
+        __Pyx_GOTREF(__pyx_t_1);
+      } else
+      #endif
+      {
+        __pyx_t_5 = PyTuple_New(1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 574, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_5);
+        __Pyx_GIVEREF(__pyx_t_8); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_8); __pyx_t_8 = NULL;
+        __Pyx_INCREF(__pyx_v_num_chars);
+        __Pyx_GIVEREF(__pyx_v_num_chars);
+        PyTuple_SET_ITEM(__pyx_t_5, 0+1, __pyx_v_num_chars);
+        __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_9, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 574, __pyx_L1_error)
+        __Pyx_GOTREF(__pyx_t_1);
+        __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
+      }
     }
-  }
-  __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
-  __pyx_v_data = __pyx_t_1;
-  __pyx_t_1 = 0;
+    __Pyx_DECREF(__pyx_t_9); __pyx_t_9 = 0;
+    __pyx_v_data = __pyx_t_1;
+    __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":570
- *         num_chars = next_pos - read[0]
- *         data = fh.read(num_chars)
- *         read[0] += num_chars             # <<<<<<<<<<<<<<
+    /* "pyaffy/celparser.pyx":575
+ *         if num_chars > 0:
+ *             data = fh.read(num_chars)
+ *             read[0] += num_chars             # <<<<<<<<<<<<<<
  *         y = None
  *         # this assumes that the column name etc. is 100% fixed
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 570, __pyx_L1_error) }
-  if (unlikely(__pyx_cur_scope->__pyx_v_read == Py_None)) {
-    PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 570, __pyx_L1_error)
-  }
-  __Pyx_INCREF(__pyx_cur_scope->__pyx_v_read);
-  __pyx_t_11 = __pyx_cur_scope->__pyx_v_read;
-  __pyx_t_6 = 0;
-  if (unlikely(__pyx_t_11 == Py_None)) {
-    PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 570, __pyx_L1_error)
-  }
-  __pyx_t_1 = PyNumber_InPlaceAdd(PyList_GET_ITEM(__pyx_t_11, __pyx_t_6), __pyx_v_num_chars); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 570, __pyx_L1_error)
-  __Pyx_GOTREF(__pyx_t_1);
-  if (unlikely(__pyx_t_11 == Py_None)) {
-    PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 570, __pyx_L1_error)
-  }
-  if (unlikely(__Pyx_SetItemInt(__pyx_t_11, __pyx_t_6, __pyx_t_1, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 570, __pyx_L1_error)
-  __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-  __Pyx_DECREF(__pyx_t_11); __pyx_t_11 = 0;
+    if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 575, __pyx_L1_error) }
+    if (unlikely(__pyx_cur_scope->__pyx_v_read == Py_None)) {
+      PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
+      __PYX_ERR(0, 575, __pyx_L1_error)
+    }
+    __Pyx_INCREF(__pyx_cur_scope->__pyx_v_read);
+    __pyx_t_12 = __pyx_cur_scope->__pyx_v_read;
+    __pyx_t_6 = 0;
+    if (unlikely(__pyx_t_12 == Py_None)) {
+      PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
+      __PYX_ERR(0, 575, __pyx_L1_error)
+    }
+    __pyx_t_1 = PyNumber_InPlaceAdd(PyList_GET_ITEM(__pyx_t_12, __pyx_t_6), __pyx_v_num_chars); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 575, __pyx_L1_error)
+    __Pyx_GOTREF(__pyx_t_1);
+    if (unlikely(__pyx_t_12 == Py_None)) {
+      PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
+      __PYX_ERR(0, 575, __pyx_L1_error)
+    }
+    if (unlikely(__Pyx_SetItemInt(__pyx_t_12, __pyx_t_6, __pyx_t_1, Py_ssize_t, 1, PyInt_FromSsize_t, 1, 0, 0) < 0)) __PYX_ERR(0, 575, __pyx_L1_error)
+    __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
+    __Pyx_DECREF(__pyx_t_12); __pyx_t_12 = 0;
 
-  /* "pyaffy/celparser.pyx":571
- *         data = fh.read(num_chars)
- *         read[0] += num_chars
+    /* "pyaffy/celparser.pyx":573
+ *         logger.debug('DataSet / # parameters: %d', num_params)
+ *         num_chars = next_pos - read[0]
+ *         if num_chars > 0:             # <<<<<<<<<<<<<<
+ *             data = fh.read(num_chars)
+ *             read[0] += num_chars
+ */
+  }
+
+  /* "pyaffy/celparser.pyx":576
+ *             data = fh.read(num_chars)
+ *             read[0] += num_chars
  *         y = None             # <<<<<<<<<<<<<<
  *         # this assumes that the column name etc. is 100% fixed
  *         if name == 'Intensity':
@@ -12807,17 +12921,17 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   __Pyx_INCREF(Py_None);
   __pyx_v_y = Py_None;
 
-  /* "pyaffy/celparser.pyx":573
+  /* "pyaffy/celparser.pyx":578
  *         y = None
  *         # this assumes that the column name etc. is 100% fixed
  *         if name == 'Intensity':             # <<<<<<<<<<<<<<
  *             assert len(cols) == 1
  *             col_name = cols[0][0]
  */
-  __pyx_t_12 = (__Pyx_PyString_Equals(__pyx_v_name, __pyx_n_s_Intensity, Py_EQ)); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 573, __pyx_L1_error)
-  if (__pyx_t_12) {
+  __pyx_t_11 = (__Pyx_PyString_Equals(__pyx_v_name, __pyx_n_s_Intensity, Py_EQ)); if (unlikely(__pyx_t_11 < 0)) __PYX_ERR(0, 578, __pyx_L1_error)
+  if (__pyx_t_11) {
 
-    /* "pyaffy/celparser.pyx":574
+    /* "pyaffy/celparser.pyx":579
  *         # this assumes that the column name etc. is 100% fixed
  *         if name == 'Intensity':
  *             assert len(cols) == 1             # <<<<<<<<<<<<<<
@@ -12826,51 +12940,51 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
  */
     #ifndef CYTHON_WITHOUT_ASSERTIONS
     if (unlikely(!Py_OptimizeFlag)) {
-      __pyx_t_6 = PyList_GET_SIZE(__pyx_v_cols); if (unlikely(__pyx_t_6 == ((Py_ssize_t)-1))) __PYX_ERR(0, 574, __pyx_L1_error)
+      __pyx_t_6 = PyList_GET_SIZE(__pyx_v_cols); if (unlikely(__pyx_t_6 == ((Py_ssize_t)-1))) __PYX_ERR(0, 579, __pyx_L1_error)
       if (unlikely(!((__pyx_t_6 == 1) != 0))) {
         PyErr_SetNone(PyExc_AssertionError);
-        __PYX_ERR(0, 574, __pyx_L1_error)
+        __PYX_ERR(0, 579, __pyx_L1_error)
       }
     }
     #endif
 
-    /* "pyaffy/celparser.pyx":575
+    /* "pyaffy/celparser.pyx":580
  *         if name == 'Intensity':
  *             assert len(cols) == 1
  *             col_name = cols[0][0]             # <<<<<<<<<<<<<<
  *             col_type = cols[0][1]
  *             col_size = cols[0][2]
  */
-    __pyx_t_1 = __Pyx_GetItemInt(PyList_GET_ITEM(__pyx_v_cols, 0), 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 575, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_GetItemInt(PyList_GET_ITEM(__pyx_v_cols, 0), 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 580, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __pyx_v_col_name = __pyx_t_1;
     __pyx_t_1 = 0;
 
-    /* "pyaffy/celparser.pyx":576
+    /* "pyaffy/celparser.pyx":581
  *             assert len(cols) == 1
  *             col_name = cols[0][0]
  *             col_type = cols[0][1]             # <<<<<<<<<<<<<<
  *             col_size = cols[0][2]
  *             assert col_name == 'Intensity'
  */
-    __pyx_t_1 = __Pyx_GetItemInt(PyList_GET_ITEM(__pyx_v_cols, 0), 1, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 576, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_GetItemInt(PyList_GET_ITEM(__pyx_v_cols, 0), 1, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 581, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __pyx_v_col_type = __pyx_t_1;
     __pyx_t_1 = 0;
 
-    /* "pyaffy/celparser.pyx":577
+    /* "pyaffy/celparser.pyx":582
  *             col_name = cols[0][0]
  *             col_type = cols[0][1]
  *             col_size = cols[0][2]             # <<<<<<<<<<<<<<
  *             assert col_name == 'Intensity'
  *             assert col_type == 6
  */
-    __pyx_t_1 = __Pyx_GetItemInt(PyList_GET_ITEM(__pyx_v_cols, 0), 2, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 577, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_GetItemInt(PyList_GET_ITEM(__pyx_v_cols, 0), 2, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 582, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __pyx_v_col_size = __pyx_t_1;
     __pyx_t_1 = 0;
 
-    /* "pyaffy/celparser.pyx":578
+    /* "pyaffy/celparser.pyx":583
  *             col_type = cols[0][1]
  *             col_size = cols[0][2]
  *             assert col_name == 'Intensity'             # <<<<<<<<<<<<<<
@@ -12879,15 +12993,15 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
  */
     #ifndef CYTHON_WITHOUT_ASSERTIONS
     if (unlikely(!Py_OptimizeFlag)) {
-      __pyx_t_12 = (__Pyx_PyString_Equals(__pyx_v_col_name, __pyx_n_s_Intensity, Py_EQ)); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 578, __pyx_L1_error)
-      if (unlikely(!__pyx_t_12)) {
+      __pyx_t_11 = (__Pyx_PyString_Equals(__pyx_v_col_name, __pyx_n_s_Intensity, Py_EQ)); if (unlikely(__pyx_t_11 < 0)) __PYX_ERR(0, 583, __pyx_L1_error)
+      if (unlikely(!__pyx_t_11)) {
         PyErr_SetNone(PyExc_AssertionError);
-        __PYX_ERR(0, 578, __pyx_L1_error)
+        __PYX_ERR(0, 583, __pyx_L1_error)
       }
     }
     #endif
 
-    /* "pyaffy/celparser.pyx":579
+    /* "pyaffy/celparser.pyx":584
  *             col_size = cols[0][2]
  *             assert col_name == 'Intensity'
  *             assert col_type == 6             # <<<<<<<<<<<<<<
@@ -12896,18 +13010,18 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
  */
     #ifndef CYTHON_WITHOUT_ASSERTIONS
     if (unlikely(!Py_OptimizeFlag)) {
-      __pyx_t_1 = __Pyx_PyInt_EqObjC(__pyx_v_col_type, __pyx_int_6, 6, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 579, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyInt_EqObjC(__pyx_v_col_type, __pyx_int_6, 6, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 584, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
-      __pyx_t_12 = __Pyx_PyObject_IsTrue(__pyx_t_1); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 579, __pyx_L1_error)
+      __pyx_t_11 = __Pyx_PyObject_IsTrue(__pyx_t_1); if (unlikely(__pyx_t_11 < 0)) __PYX_ERR(0, 584, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-      if (unlikely(!__pyx_t_12)) {
+      if (unlikely(!__pyx_t_11)) {
         PyErr_SetNone(PyExc_AssertionError);
-        __PYX_ERR(0, 579, __pyx_L1_error)
+        __PYX_ERR(0, 584, __pyx_L1_error)
       }
     }
     #endif
 
-    /* "pyaffy/celparser.pyx":580
+    /* "pyaffy/celparser.pyx":585
  *             assert col_name == 'Intensity'
  *             assert col_type == 6
  *             assert col_size == 4             # <<<<<<<<<<<<<<
@@ -12916,28 +13030,29 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
  */
     #ifndef CYTHON_WITHOUT_ASSERTIONS
     if (unlikely(!Py_OptimizeFlag)) {
-      __pyx_t_1 = __Pyx_PyInt_EqObjC(__pyx_v_col_size, __pyx_int_4, 4, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 580, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyInt_EqObjC(__pyx_v_col_size, __pyx_int_4, 4, 0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 585, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
-      __pyx_t_12 = __Pyx_PyObject_IsTrue(__pyx_t_1); if (unlikely(__pyx_t_12 < 0)) __PYX_ERR(0, 580, __pyx_L1_error)
+      __pyx_t_11 = __Pyx_PyObject_IsTrue(__pyx_t_1); if (unlikely(__pyx_t_11 < 0)) __PYX_ERR(0, 585, __pyx_L1_error)
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-      if (unlikely(!__pyx_t_12)) {
+      if (unlikely(!__pyx_t_11)) {
         PyErr_SetNone(PyExc_AssertionError);
-        __PYX_ERR(0, 580, __pyx_L1_error)
+        __PYX_ERR(0, 585, __pyx_L1_error)
       }
     }
     #endif
 
-    /* "pyaffy/celparser.pyx":581
+    /* "pyaffy/celparser.pyx":586
  *             assert col_type == 6
  *             assert col_size == 4
  *             y = read_cc_intensities(data, num_rows)             # <<<<<<<<<<<<<<
  *         return y
  * 
  */
-    __pyx_t_13 = __Pyx_PyObject_AsWritableString(__pyx_v_data); if (unlikely((!__pyx_t_13) && PyErr_Occurred())) __PYX_ERR(0, 581, __pyx_L1_error)
-    __pyx_t_14 = __Pyx_PyInt_As_unsigned_int(__pyx_v_num_rows); if (unlikely((__pyx_t_14 == (unsigned int)-1) && PyErr_Occurred())) __PYX_ERR(0, 581, __pyx_L1_error)
-    __pyx_t_15 = __pyx_f_6pyaffy_9celparser_read_cc_intensities(__pyx_t_13, __pyx_t_14); if (unlikely(!__pyx_t_15.memview)) __PYX_ERR(0, 581, __pyx_L1_error)
-    __pyx_t_1 = __pyx_memoryview_fromslice(__pyx_t_15, 1, (PyObject *(*)(char *)) __pyx_memview_get_float, (int (*)(char *, PyObject *)) __pyx_memview_set_float, 0);; if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 581, __pyx_L1_error)
+    if (unlikely(!__pyx_v_data)) { __Pyx_RaiseUnboundLocalError("data"); __PYX_ERR(0, 586, __pyx_L1_error) }
+    __pyx_t_13 = __Pyx_PyObject_AsWritableString(__pyx_v_data); if (unlikely((!__pyx_t_13) && PyErr_Occurred())) __PYX_ERR(0, 586, __pyx_L1_error)
+    __pyx_t_14 = __Pyx_PyInt_As_unsigned_int(__pyx_v_num_rows); if (unlikely((__pyx_t_14 == (unsigned int)-1) && PyErr_Occurred())) __PYX_ERR(0, 586, __pyx_L1_error)
+    __pyx_t_15 = __pyx_f_6pyaffy_9celparser_read_cc_intensities(__pyx_t_13, __pyx_t_14); if (unlikely(!__pyx_t_15.memview)) __PYX_ERR(0, 586, __pyx_L1_error)
+    __pyx_t_1 = __pyx_memoryview_fromslice(__pyx_t_15, 1, (PyObject *(*)(char *)) __pyx_memview_get_float, (int (*)(char *, PyObject *)) __pyx_memview_set_float, 0);; if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 586, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __PYX_XDEC_MEMVIEW(&__pyx_t_15, 1);
     __pyx_t_15.memview = NULL;
@@ -12945,7 +13060,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
     __Pyx_DECREF_SET(__pyx_v_y, __pyx_t_1);
     __pyx_t_1 = 0;
 
-    /* "pyaffy/celparser.pyx":573
+    /* "pyaffy/celparser.pyx":578
  *         y = None
  *         # this assumes that the column name etc. is 100% fixed
  *         if name == 'Intensity':             # <<<<<<<<<<<<<<
@@ -12954,7 +13069,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
  */
   }
 
-  /* "pyaffy/celparser.pyx":582
+  /* "pyaffy/celparser.pyx":587
  *             assert col_size == 4
  *             y = read_cc_intensities(data, num_rows)
  *         return y             # <<<<<<<<<<<<<<
@@ -12966,7 +13081,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   __pyx_r = __pyx_v_y;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":540
+  /* "pyaffy/celparser.pyx":544
  *         return (name, valtype, size)
  * 
  *     def read_dataset(fh):             # <<<<<<<<<<<<<<
@@ -12982,7 +13097,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   __Pyx_XDECREF(__pyx_t_5);
   __Pyx_XDECREF(__pyx_t_8);
   __Pyx_XDECREF(__pyx_t_9);
-  __Pyx_XDECREF(__pyx_t_11);
+  __Pyx_XDECREF(__pyx_t_12);
   __PYX_XDEC_MEMVIEW(&__pyx_t_15, 1);
   __Pyx_AddTraceback("pyaffy.celparser.parse_celfile_cc.read_dataset", __pyx_clineno, __pyx_lineno, __pyx_filename);
   __pyx_r = NULL;
@@ -13010,7 +13125,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(P
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":584
+/* "pyaffy/celparser.pyx":589
  *         return y
  * 
  *     def read_data_group(fh):             # <<<<<<<<<<<<<<
@@ -13057,22 +13172,22 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_grou
   __pyx_outer_scope = (struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *) __Pyx_CyFunction_GetClosure(__pyx_self);
   __pyx_cur_scope = __pyx_outer_scope;
 
-  /* "pyaffy/celparser.pyx":585
+  /* "pyaffy/celparser.pyx":590
  * 
  *     def read_data_group(fh):
  *         logger.debug('New data group! Number of bytes read so far: %d', read[0])             # <<<<<<<<<<<<<<
  *         next_pos = read_uint(fh)
  *         dataset_pos = read_uint(fh)
  */
-  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 585, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 590, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_debug); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 585, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_debug); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 590, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 585, __pyx_L1_error) }
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read)) { __Pyx_RaiseClosureNameError("read"); __PYX_ERR(0, 590, __pyx_L1_error) }
   if (unlikely(__pyx_cur_scope->__pyx_v_read == Py_None)) {
     PyErr_SetString(PyExc_TypeError, "'NoneType' object is not subscriptable");
-    __PYX_ERR(0, 585, __pyx_L1_error)
+    __PYX_ERR(0, 590, __pyx_L1_error)
   }
   __pyx_t_2 = NULL;
   __pyx_t_4 = 0;
@@ -13089,7 +13204,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_grou
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_New_data_group_Number_of_bytes_r, PyList_GET_ITEM(__pyx_cur_scope->__pyx_v_read, 0)};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 585, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 590, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -13097,13 +13212,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_grou
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_New_data_group_Number_of_bytes_r, PyList_GET_ITEM(__pyx_cur_scope->__pyx_v_read, 0)};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 585, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 590, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 585, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 590, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     if (__pyx_t_2) {
       __Pyx_GIVEREF(__pyx_t_2); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_2); __pyx_t_2 = NULL;
@@ -13114,75 +13229,75 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_grou
     __Pyx_INCREF(PyList_GET_ITEM(__pyx_cur_scope->__pyx_v_read, 0));
     __Pyx_GIVEREF(PyList_GET_ITEM(__pyx_cur_scope->__pyx_v_read, 0));
     PyTuple_SET_ITEM(__pyx_t_5, 1+__pyx_t_4, PyList_GET_ITEM(__pyx_cur_scope->__pyx_v_read, 0));
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 585, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 590, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":586
+  /* "pyaffy/celparser.pyx":591
  *     def read_data_group(fh):
  *         logger.debug('New data group! Number of bytes read so far: %d', read[0])
  *         next_pos = read_uint(fh)             # <<<<<<<<<<<<<<
  *         dataset_pos = read_uint(fh)
  *         num_datasets = read_int(fh)
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_uint)) { __Pyx_RaiseClosureNameError("read_uint"); __PYX_ERR(0, 586, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_12read_uint(__pyx_cur_scope->__pyx_v_read_uint, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 586, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_uint)) { __Pyx_RaiseClosureNameError("read_uint"); __PYX_ERR(0, 591, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_12read_uint(__pyx_cur_scope->__pyx_v_read_uint, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 591, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_next_pos = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":587
+  /* "pyaffy/celparser.pyx":592
  *         logger.debug('New data group! Number of bytes read so far: %d', read[0])
  *         next_pos = read_uint(fh)
  *         dataset_pos = read_uint(fh)             # <<<<<<<<<<<<<<
  *         num_datasets = read_int(fh)
  *         name = read_wstring(fh)
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_uint)) { __Pyx_RaiseClosureNameError("read_uint"); __PYX_ERR(0, 587, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_12read_uint(__pyx_cur_scope->__pyx_v_read_uint, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 587, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_uint)) { __Pyx_RaiseClosureNameError("read_uint"); __PYX_ERR(0, 592, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_12read_uint(__pyx_cur_scope->__pyx_v_read_uint, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 592, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_dataset_pos = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":588
+  /* "pyaffy/celparser.pyx":593
  *         next_pos = read_uint(fh)
  *         dataset_pos = read_uint(fh)
  *         num_datasets = read_int(fh)             # <<<<<<<<<<<<<<
  *         name = read_wstring(fh)
  *         logger.debug('Data group name: %s', name)
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_int)) { __Pyx_RaiseClosureNameError("read_int"); __PYX_ERR(0, 588, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(__pyx_cur_scope->__pyx_v_read_int, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 588, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_int)) { __Pyx_RaiseClosureNameError("read_int"); __PYX_ERR(0, 593, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_10read_int(__pyx_cur_scope->__pyx_v_read_int, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 593, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_num_datasets = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":589
+  /* "pyaffy/celparser.pyx":594
  *         dataset_pos = read_uint(fh)
  *         num_datasets = read_int(fh)
  *         name = read_wstring(fh)             # <<<<<<<<<<<<<<
  *         logger.debug('Data group name: %s', name)
  *         y = None
  */
-  if (unlikely(!__pyx_cur_scope->__pyx_v_read_wstring)) { __Pyx_RaiseClosureNameError("read_wstring"); __PYX_ERR(0, 589, __pyx_L1_error) }
-  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(__pyx_cur_scope->__pyx_v_read_wstring, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 589, __pyx_L1_error)
+  if (unlikely(!__pyx_cur_scope->__pyx_v_read_wstring)) { __Pyx_RaiseClosureNameError("read_wstring"); __PYX_ERR(0, 594, __pyx_L1_error) }
+  __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_18read_wstring(__pyx_cur_scope->__pyx_v_read_wstring, __pyx_v_fh); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 594, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_name = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":590
+  /* "pyaffy/celparser.pyx":595
  *         num_datasets = read_int(fh)
  *         name = read_wstring(fh)
  *         logger.debug('Data group name: %s', name)             # <<<<<<<<<<<<<<
  *         y = None
  *         for i in range(num_datasets):
  */
-  __pyx_t_3 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 590, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 595, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
-  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_debug); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 590, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_3, __pyx_n_s_debug); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 595, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
   __pyx_t_3 = NULL;
@@ -13200,7 +13315,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_grou
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_5)) {
     PyObject *__pyx_temp[3] = {__pyx_t_3, __pyx_kp_s_Data_group_name_s, __pyx_v_name};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 590, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 595, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -13208,13 +13323,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_grou
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_5)) {
     PyObject *__pyx_temp[3] = {__pyx_t_3, __pyx_kp_s_Data_group_name_s, __pyx_v_name};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 590, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 595, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_2 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 590, __pyx_L1_error)
+    __pyx_t_2 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 595, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_2);
     if (__pyx_t_3) {
       __Pyx_GIVEREF(__pyx_t_3); PyTuple_SET_ITEM(__pyx_t_2, 0, __pyx_t_3); __pyx_t_3 = NULL;
@@ -13225,14 +13340,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_grou
     __Pyx_INCREF(__pyx_v_name);
     __Pyx_GIVEREF(__pyx_v_name);
     PyTuple_SET_ITEM(__pyx_t_2, 1+__pyx_t_4, __pyx_v_name);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_2, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 590, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_2, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 595, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   }
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":591
+  /* "pyaffy/celparser.pyx":596
  *         name = read_wstring(fh)
  *         logger.debug('Data group name: %s', name)
  *         y = None             # <<<<<<<<<<<<<<
@@ -13242,28 +13357,28 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_grou
   __Pyx_INCREF(Py_None);
   __pyx_v_y = Py_None;
 
-  /* "pyaffy/celparser.pyx":592
+  /* "pyaffy/celparser.pyx":597
  *         logger.debug('Data group name: %s', name)
  *         y = None
  *         for i in range(num_datasets):             # <<<<<<<<<<<<<<
  *             d = read_dataset(fh)
  *             if d is not None:
  */
-  __pyx_t_1 = PyTuple_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 592, __pyx_L1_error)
+  __pyx_t_1 = PyTuple_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 597, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_v_num_datasets);
   __Pyx_GIVEREF(__pyx_v_num_datasets);
   PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_v_num_datasets);
-  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_builtin_range, __pyx_t_1, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 592, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_Call(__pyx_builtin_range, __pyx_t_1, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 597, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   if (likely(PyList_CheckExact(__pyx_t_5)) || PyTuple_CheckExact(__pyx_t_5)) {
     __pyx_t_1 = __pyx_t_5; __Pyx_INCREF(__pyx_t_1); __pyx_t_6 = 0;
     __pyx_t_7 = NULL;
   } else {
-    __pyx_t_6 = -1; __pyx_t_1 = PyObject_GetIter(__pyx_t_5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 592, __pyx_L1_error)
+    __pyx_t_6 = -1; __pyx_t_1 = PyObject_GetIter(__pyx_t_5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 597, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_7 = Py_TYPE(__pyx_t_1)->tp_iternext; if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 592, __pyx_L1_error)
+    __pyx_t_7 = Py_TYPE(__pyx_t_1)->tp_iternext; if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 597, __pyx_L1_error)
   }
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   for (;;) {
@@ -13271,17 +13386,17 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_grou
       if (likely(PyList_CheckExact(__pyx_t_1))) {
         if (__pyx_t_6 >= PyList_GET_SIZE(__pyx_t_1)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_5 = PyList_GET_ITEM(__pyx_t_1, __pyx_t_6); __Pyx_INCREF(__pyx_t_5); __pyx_t_6++; if (unlikely(0 < 0)) __PYX_ERR(0, 592, __pyx_L1_error)
+        __pyx_t_5 = PyList_GET_ITEM(__pyx_t_1, __pyx_t_6); __Pyx_INCREF(__pyx_t_5); __pyx_t_6++; if (unlikely(0 < 0)) __PYX_ERR(0, 597, __pyx_L1_error)
         #else
-        __pyx_t_5 = PySequence_ITEM(__pyx_t_1, __pyx_t_6); __pyx_t_6++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 592, __pyx_L1_error)
+        __pyx_t_5 = PySequence_ITEM(__pyx_t_1, __pyx_t_6); __pyx_t_6++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 597, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_5);
         #endif
       } else {
         if (__pyx_t_6 >= PyTuple_GET_SIZE(__pyx_t_1)) break;
         #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
-        __pyx_t_5 = PyTuple_GET_ITEM(__pyx_t_1, __pyx_t_6); __Pyx_INCREF(__pyx_t_5); __pyx_t_6++; if (unlikely(0 < 0)) __PYX_ERR(0, 592, __pyx_L1_error)
+        __pyx_t_5 = PyTuple_GET_ITEM(__pyx_t_1, __pyx_t_6); __Pyx_INCREF(__pyx_t_5); __pyx_t_6++; if (unlikely(0 < 0)) __PYX_ERR(0, 597, __pyx_L1_error)
         #else
-        __pyx_t_5 = PySequence_ITEM(__pyx_t_1, __pyx_t_6); __pyx_t_6++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 592, __pyx_L1_error)
+        __pyx_t_5 = PySequence_ITEM(__pyx_t_1, __pyx_t_6); __pyx_t_6++; if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 597, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_5);
         #endif
       }
@@ -13291,7 +13406,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_grou
         PyObject* exc_type = PyErr_Occurred();
         if (exc_type) {
           if (likely(__Pyx_PyErr_GivenExceptionMatches(exc_type, PyExc_StopIteration))) PyErr_Clear();
-          else __PYX_ERR(0, 592, __pyx_L1_error)
+          else __PYX_ERR(0, 597, __pyx_L1_error)
         }
         break;
       }
@@ -13300,20 +13415,20 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_grou
     __Pyx_XDECREF_SET(__pyx_v_i, __pyx_t_5);
     __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":593
+    /* "pyaffy/celparser.pyx":598
  *         y = None
  *         for i in range(num_datasets):
  *             d = read_dataset(fh)             # <<<<<<<<<<<<<<
  *             if d is not None:
  *                 y = d
  */
-    if (unlikely(!__pyx_cur_scope->__pyx_v_read_dataset)) { __Pyx_RaiseClosureNameError("read_dataset"); __PYX_ERR(0, 593, __pyx_L1_error) }
-    __pyx_t_5 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(__pyx_cur_scope->__pyx_v_read_dataset, __pyx_v_fh); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 593, __pyx_L1_error)
+    if (unlikely(!__pyx_cur_scope->__pyx_v_read_dataset)) { __Pyx_RaiseClosureNameError("read_dataset"); __PYX_ERR(0, 598, __pyx_L1_error) }
+    __pyx_t_5 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_38read_dataset(__pyx_cur_scope->__pyx_v_read_dataset, __pyx_v_fh); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 598, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_XDECREF_SET(__pyx_v_d, __pyx_t_5);
     __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":594
+    /* "pyaffy/celparser.pyx":599
  *         for i in range(num_datasets):
  *             d = read_dataset(fh)
  *             if d is not None:             # <<<<<<<<<<<<<<
@@ -13324,7 +13439,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_grou
     __pyx_t_9 = (__pyx_t_8 != 0);
     if (__pyx_t_9) {
 
-      /* "pyaffy/celparser.pyx":595
+      /* "pyaffy/celparser.pyx":600
  *             d = read_dataset(fh)
  *             if d is not None:
  *                 y = d             # <<<<<<<<<<<<<<
@@ -13334,7 +13449,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_grou
       __Pyx_INCREF(__pyx_v_d);
       __Pyx_DECREF_SET(__pyx_v_y, __pyx_v_d);
 
-      /* "pyaffy/celparser.pyx":594
+      /* "pyaffy/celparser.pyx":599
  *         for i in range(num_datasets):
  *             d = read_dataset(fh)
  *             if d is not None:             # <<<<<<<<<<<<<<
@@ -13343,7 +13458,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_grou
  */
     }
 
-    /* "pyaffy/celparser.pyx":592
+    /* "pyaffy/celparser.pyx":597
  *         logger.debug('Data group name: %s', name)
  *         y = None
  *         for i in range(num_datasets):             # <<<<<<<<<<<<<<
@@ -13353,7 +13468,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_grou
   }
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":596
+  /* "pyaffy/celparser.pyx":601
  *             if d is not None:
  *                 y = d
  *         return y             # <<<<<<<<<<<<<<
@@ -13365,7 +13480,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_grou
   __pyx_r = __pyx_v_y;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":584
+  /* "pyaffy/celparser.pyx":589
  *         return y
  * 
  *     def read_data_group(fh):             # <<<<<<<<<<<<<<
@@ -13394,7 +13509,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_grou
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":390
+/* "pyaffy/celparser.pyx":394
  *     read = [0]
  * 
  *     decode_unicode = lambda s: codecs.decode(s, 'UTF-16-BE')             # <<<<<<<<<<<<<<
@@ -13426,9 +13541,9 @@ static PyObject *__pyx_lambda_funcdef_lambda2(CYTHON_UNUSED PyObject *__pyx_self
   PyObject *__pyx_t_5 = NULL;
   __Pyx_RefNannySetupContext("lambda2", 0);
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_codecs); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 390, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_codecs); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 394, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_decode); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 390, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_decode); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 394, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __pyx_t_2 = NULL;
@@ -13446,7 +13561,7 @@ static PyObject *__pyx_lambda_funcdef_lambda2(CYTHON_UNUSED PyObject *__pyx_self
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_v_s, __pyx_kp_s_UTF_16_BE};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 390, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 394, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -13454,13 +13569,13 @@ static PyObject *__pyx_lambda_funcdef_lambda2(CYTHON_UNUSED PyObject *__pyx_self
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_v_s, __pyx_kp_s_UTF_16_BE};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 390, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 394, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 390, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 394, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     if (__pyx_t_2) {
       __Pyx_GIVEREF(__pyx_t_2); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_2); __pyx_t_2 = NULL;
@@ -13471,7 +13586,7 @@ static PyObject *__pyx_lambda_funcdef_lambda2(CYTHON_UNUSED PyObject *__pyx_self
     __Pyx_INCREF(__pyx_kp_s_UTF_16_BE);
     __Pyx_GIVEREF(__pyx_kp_s_UTF_16_BE);
     PyTuple_SET_ITEM(__pyx_t_5, 1+__pyx_t_4, __pyx_kp_s_UTF_16_BE);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 390, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 394, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
@@ -13494,7 +13609,7 @@ static PyObject *__pyx_lambda_funcdef_lambda2(CYTHON_UNUSED PyObject *__pyx_self
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":392
+/* "pyaffy/celparser.pyx":396
  *     decode_unicode = lambda s: codecs.decode(s, 'UTF-16-BE')
  *     #decode_unicode = lambda s: unicode(s, encoding = 'UTF-16-BE')
  *     decode_ascii = lambda s: codecs.decode(s, 'ascii')             # <<<<<<<<<<<<<<
@@ -13526,9 +13641,9 @@ static PyObject *__pyx_lambda_funcdef_lambda3(CYTHON_UNUSED PyObject *__pyx_self
   PyObject *__pyx_t_5 = NULL;
   __Pyx_RefNannySetupContext("lambda3", 0);
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_codecs); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 392, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_codecs); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 396, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_decode); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 392, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_decode); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 396, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __pyx_t_2 = NULL;
@@ -13546,7 +13661,7 @@ static PyObject *__pyx_lambda_funcdef_lambda3(CYTHON_UNUSED PyObject *__pyx_self
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_v_s, __pyx_n_s_ascii};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 392, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 396, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -13554,13 +13669,13 @@ static PyObject *__pyx_lambda_funcdef_lambda3(CYTHON_UNUSED PyObject *__pyx_self
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_v_s, __pyx_n_s_ascii};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 392, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 396, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 392, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 396, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     if (__pyx_t_2) {
       __Pyx_GIVEREF(__pyx_t_2); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_2); __pyx_t_2 = NULL;
@@ -13571,7 +13686,7 @@ static PyObject *__pyx_lambda_funcdef_lambda3(CYTHON_UNUSED PyObject *__pyx_self
     __Pyx_INCREF(__pyx_n_s_ascii);
     __Pyx_GIVEREF(__pyx_n_s_ascii);
     PyTuple_SET_ITEM(__pyx_t_5, 1+__pyx_t_4, __pyx_n_s_ascii);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 392, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 396, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
@@ -13594,7 +13709,7 @@ static PyObject *__pyx_lambda_funcdef_lambda3(CYTHON_UNUSED PyObject *__pyx_self
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":394
+/* "pyaffy/celparser.pyx":398
  *     decode_ascii = lambda s: codecs.decode(s, 'ascii')
  *     #decode_ascii = lambda s: unicode(s, encoding = 'ascii')
  *     decode_float = lambda s: struct.unpack('>f', s)[0]             # <<<<<<<<<<<<<<
@@ -13626,9 +13741,9 @@ static PyObject *__pyx_lambda_funcdef_lambda4(CYTHON_UNUSED PyObject *__pyx_self
   PyObject *__pyx_t_5 = NULL;
   __Pyx_RefNannySetupContext("lambda4", 0);
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_struct); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 394, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_struct); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 398, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_unpack); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 394, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_unpack); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 398, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __pyx_t_2 = NULL;
@@ -13646,7 +13761,7 @@ static PyObject *__pyx_lambda_funcdef_lambda4(CYTHON_UNUSED PyObject *__pyx_self
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_f, __pyx_v_s};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 394, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 398, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -13654,13 +13769,13 @@ static PyObject *__pyx_lambda_funcdef_lambda4(CYTHON_UNUSED PyObject *__pyx_self
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_f, __pyx_v_s};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 394, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 398, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 394, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 398, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     if (__pyx_t_2) {
       __Pyx_GIVEREF(__pyx_t_2); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_2); __pyx_t_2 = NULL;
@@ -13671,12 +13786,12 @@ static PyObject *__pyx_lambda_funcdef_lambda4(CYTHON_UNUSED PyObject *__pyx_self
     __Pyx_INCREF(__pyx_v_s);
     __Pyx_GIVEREF(__pyx_v_s);
     PyTuple_SET_ITEM(__pyx_t_5, 1+__pyx_t_4, __pyx_v_s);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 394, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 398, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_GetItemInt(__pyx_t_1, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 394, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_GetItemInt(__pyx_t_1, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 398, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_r = __pyx_t_3;
@@ -13697,7 +13812,7 @@ static PyObject *__pyx_lambda_funcdef_lambda4(CYTHON_UNUSED PyObject *__pyx_self
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":395
+/* "pyaffy/celparser.pyx":399
  *     #decode_ascii = lambda s: unicode(s, encoding = 'ascii')
  *     decode_float = lambda s: struct.unpack('>f', s)[0]
  *     decode_int32 = lambda s: struct.unpack('>i', s)[0]             # <<<<<<<<<<<<<<
@@ -13729,9 +13844,9 @@ static PyObject *__pyx_lambda_funcdef_lambda5(CYTHON_UNUSED PyObject *__pyx_self
   PyObject *__pyx_t_5 = NULL;
   __Pyx_RefNannySetupContext("lambda5", 0);
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_struct); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 395, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_struct); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 399, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_unpack); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 395, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_unpack); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 399, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __pyx_t_2 = NULL;
@@ -13749,7 +13864,7 @@ static PyObject *__pyx_lambda_funcdef_lambda5(CYTHON_UNUSED PyObject *__pyx_self
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_i, __pyx_v_s};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 395, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 399, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -13757,13 +13872,13 @@ static PyObject *__pyx_lambda_funcdef_lambda5(CYTHON_UNUSED PyObject *__pyx_self
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_i, __pyx_v_s};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 395, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 399, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 395, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 399, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     if (__pyx_t_2) {
       __Pyx_GIVEREF(__pyx_t_2); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_2); __pyx_t_2 = NULL;
@@ -13774,12 +13889,12 @@ static PyObject *__pyx_lambda_funcdef_lambda5(CYTHON_UNUSED PyObject *__pyx_self
     __Pyx_INCREF(__pyx_v_s);
     __Pyx_GIVEREF(__pyx_v_s);
     PyTuple_SET_ITEM(__pyx_t_5, 1+__pyx_t_4, __pyx_v_s);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 395, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 399, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_GetItemInt(__pyx_t_1, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 395, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_GetItemInt(__pyx_t_1, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 399, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_r = __pyx_t_3;
@@ -13800,7 +13915,7 @@ static PyObject *__pyx_lambda_funcdef_lambda5(CYTHON_UNUSED PyObject *__pyx_self
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":396
+/* "pyaffy/celparser.pyx":400
  *     decode_float = lambda s: struct.unpack('>f', s)[0]
  *     decode_int32 = lambda s: struct.unpack('>i', s)[0]
  *     decode_uint32 = lambda s: struct.unpack('>I', s)[0]             # <<<<<<<<<<<<<<
@@ -13832,9 +13947,9 @@ static PyObject *__pyx_lambda_funcdef_lambda6(CYTHON_UNUSED PyObject *__pyx_self
   PyObject *__pyx_t_5 = NULL;
   __Pyx_RefNannySetupContext("lambda6", 0);
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_struct); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 396, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_struct); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 400, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_unpack); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 396, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_unpack); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 400, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __pyx_t_2 = NULL;
@@ -13852,7 +13967,7 @@ static PyObject *__pyx_lambda_funcdef_lambda6(CYTHON_UNUSED PyObject *__pyx_self
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_I, __pyx_v_s};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 396, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 400, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -13860,13 +13975,13 @@ static PyObject *__pyx_lambda_funcdef_lambda6(CYTHON_UNUSED PyObject *__pyx_self
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_I, __pyx_v_s};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 396, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 400, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 396, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 400, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     if (__pyx_t_2) {
       __Pyx_GIVEREF(__pyx_t_2); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_2); __pyx_t_2 = NULL;
@@ -13877,12 +13992,12 @@ static PyObject *__pyx_lambda_funcdef_lambda6(CYTHON_UNUSED PyObject *__pyx_self
     __Pyx_INCREF(__pyx_v_s);
     __Pyx_GIVEREF(__pyx_v_s);
     PyTuple_SET_ITEM(__pyx_t_5, 1+__pyx_t_4, __pyx_v_s);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 396, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 400, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_GetItemInt(__pyx_t_1, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 396, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_GetItemInt(__pyx_t_1, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 400, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_r = __pyx_t_3;
@@ -13903,7 +14018,7 @@ static PyObject *__pyx_lambda_funcdef_lambda6(CYTHON_UNUSED PyObject *__pyx_self
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":397
+/* "pyaffy/celparser.pyx":401
  *     decode_int32 = lambda s: struct.unpack('>i', s)[0]
  *     decode_uint32 = lambda s: struct.unpack('>I', s)[0]
  *     decode_int8 = lambda s: struct.unpack('>b', s)[0]             # <<<<<<<<<<<<<<
@@ -13935,9 +14050,9 @@ static PyObject *__pyx_lambda_funcdef_lambda7(CYTHON_UNUSED PyObject *__pyx_self
   PyObject *__pyx_t_5 = NULL;
   __Pyx_RefNannySetupContext("lambda7", 0);
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_struct); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 397, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_struct); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 401, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_unpack); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 397, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_unpack); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 401, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __pyx_t_2 = NULL;
@@ -13955,7 +14070,7 @@ static PyObject *__pyx_lambda_funcdef_lambda7(CYTHON_UNUSED PyObject *__pyx_self
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_b, __pyx_v_s};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 397, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 401, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -13963,13 +14078,13 @@ static PyObject *__pyx_lambda_funcdef_lambda7(CYTHON_UNUSED PyObject *__pyx_self
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_b, __pyx_v_s};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 397, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 401, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 397, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 401, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     if (__pyx_t_2) {
       __Pyx_GIVEREF(__pyx_t_2); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_2); __pyx_t_2 = NULL;
@@ -13980,12 +14095,12 @@ static PyObject *__pyx_lambda_funcdef_lambda7(CYTHON_UNUSED PyObject *__pyx_self
     __Pyx_INCREF(__pyx_v_s);
     __Pyx_GIVEREF(__pyx_v_s);
     PyTuple_SET_ITEM(__pyx_t_5, 1+__pyx_t_4, __pyx_v_s);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 397, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 401, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_GetItemInt(__pyx_t_1, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 397, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_GetItemInt(__pyx_t_1, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 401, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_r = __pyx_t_3;
@@ -14006,7 +14121,7 @@ static PyObject *__pyx_lambda_funcdef_lambda7(CYTHON_UNUSED PyObject *__pyx_self
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":398
+/* "pyaffy/celparser.pyx":402
  *     decode_uint32 = lambda s: struct.unpack('>I', s)[0]
  *     decode_int8 = lambda s: struct.unpack('>b', s)[0]
  *     decode_uint8 = lambda s: struct.unpack('>B', s)[0]             # <<<<<<<<<<<<<<
@@ -14038,9 +14153,9 @@ static PyObject *__pyx_lambda_funcdef_lambda8(CYTHON_UNUSED PyObject *__pyx_self
   PyObject *__pyx_t_5 = NULL;
   __Pyx_RefNannySetupContext("lambda8", 0);
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_struct); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 398, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_struct); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 402, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_unpack); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 398, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_unpack); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 402, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __pyx_t_2 = NULL;
@@ -14058,7 +14173,7 @@ static PyObject *__pyx_lambda_funcdef_lambda8(CYTHON_UNUSED PyObject *__pyx_self
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_B, __pyx_v_s};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 398, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 402, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -14066,13 +14181,13 @@ static PyObject *__pyx_lambda_funcdef_lambda8(CYTHON_UNUSED PyObject *__pyx_self
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_B, __pyx_v_s};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 398, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 402, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 398, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 402, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     if (__pyx_t_2) {
       __Pyx_GIVEREF(__pyx_t_2); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_2); __pyx_t_2 = NULL;
@@ -14083,12 +14198,12 @@ static PyObject *__pyx_lambda_funcdef_lambda8(CYTHON_UNUSED PyObject *__pyx_self
     __Pyx_INCREF(__pyx_v_s);
     __Pyx_GIVEREF(__pyx_v_s);
     PyTuple_SET_ITEM(__pyx_t_5, 1+__pyx_t_4, __pyx_v_s);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 398, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 402, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_GetItemInt(__pyx_t_1, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 398, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_GetItemInt(__pyx_t_1, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 402, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_r = __pyx_t_3;
@@ -14109,7 +14224,7 @@ static PyObject *__pyx_lambda_funcdef_lambda8(CYTHON_UNUSED PyObject *__pyx_self
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":399
+/* "pyaffy/celparser.pyx":403
  *     decode_int8 = lambda s: struct.unpack('>b', s)[0]
  *     decode_uint8 = lambda s: struct.unpack('>B', s)[0]
  *     decode_int16 = lambda s: struct.unpack('>h', s)[0]             # <<<<<<<<<<<<<<
@@ -14141,9 +14256,9 @@ static PyObject *__pyx_lambda_funcdef_lambda9(CYTHON_UNUSED PyObject *__pyx_self
   PyObject *__pyx_t_5 = NULL;
   __Pyx_RefNannySetupContext("lambda9", 0);
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_struct); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 399, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_struct); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 403, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_unpack); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 399, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_unpack); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 403, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __pyx_t_2 = NULL;
@@ -14161,7 +14276,7 @@ static PyObject *__pyx_lambda_funcdef_lambda9(CYTHON_UNUSED PyObject *__pyx_self
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_h, __pyx_v_s};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 399, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 403, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -14169,13 +14284,13 @@ static PyObject *__pyx_lambda_funcdef_lambda9(CYTHON_UNUSED PyObject *__pyx_self
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_h, __pyx_v_s};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 399, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 403, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 399, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 403, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     if (__pyx_t_2) {
       __Pyx_GIVEREF(__pyx_t_2); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_2); __pyx_t_2 = NULL;
@@ -14186,12 +14301,12 @@ static PyObject *__pyx_lambda_funcdef_lambda9(CYTHON_UNUSED PyObject *__pyx_self
     __Pyx_INCREF(__pyx_v_s);
     __Pyx_GIVEREF(__pyx_v_s);
     PyTuple_SET_ITEM(__pyx_t_5, 1+__pyx_t_4, __pyx_v_s);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 399, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 403, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_GetItemInt(__pyx_t_1, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 399, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_GetItemInt(__pyx_t_1, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 403, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_r = __pyx_t_3;
@@ -14212,7 +14327,7 @@ static PyObject *__pyx_lambda_funcdef_lambda9(CYTHON_UNUSED PyObject *__pyx_self
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":400
+/* "pyaffy/celparser.pyx":404
  *     decode_uint8 = lambda s: struct.unpack('>B', s)[0]
  *     decode_int16 = lambda s: struct.unpack('>h', s)[0]
  *     decode_uint16 = lambda s: struct.unpack('>H', s)[0]             # <<<<<<<<<<<<<<
@@ -14244,9 +14359,9 @@ static PyObject *__pyx_lambda_funcdef_lambda10(CYTHON_UNUSED PyObject *__pyx_sel
   PyObject *__pyx_t_5 = NULL;
   __Pyx_RefNannySetupContext("lambda10", 0);
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_struct); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 400, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_struct); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 404, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
-  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_unpack); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 400, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_PyObject_GetAttrStr(__pyx_t_2, __pyx_n_s_unpack); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 404, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
   __pyx_t_2 = NULL;
@@ -14264,7 +14379,7 @@ static PyObject *__pyx_lambda_funcdef_lambda10(CYTHON_UNUSED PyObject *__pyx_sel
   #if CYTHON_FAST_PYCALL
   if (PyFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_H, __pyx_v_s};
-    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 400, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 404, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
@@ -14272,13 +14387,13 @@ static PyObject *__pyx_lambda_funcdef_lambda10(CYTHON_UNUSED PyObject *__pyx_sel
   #if CYTHON_FAST_PYCCALL
   if (__Pyx_PyFastCFunction_Check(__pyx_t_3)) {
     PyObject *__pyx_temp[3] = {__pyx_t_2, __pyx_kp_s_H, __pyx_v_s};
-    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 400, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_3, __pyx_temp+1-__pyx_t_4, 2+__pyx_t_4); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 404, __pyx_L1_error)
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_GOTREF(__pyx_t_1);
   } else
   #endif
   {
-    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 400, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(2+__pyx_t_4); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 404, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     if (__pyx_t_2) {
       __Pyx_GIVEREF(__pyx_t_2); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_2); __pyx_t_2 = NULL;
@@ -14289,12 +14404,12 @@ static PyObject *__pyx_lambda_funcdef_lambda10(CYTHON_UNUSED PyObject *__pyx_sel
     __Pyx_INCREF(__pyx_v_s);
     __Pyx_GIVEREF(__pyx_v_s);
     PyTuple_SET_ITEM(__pyx_t_5, 1+__pyx_t_4, __pyx_v_s);
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 400, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_3, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 404, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
   }
   __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-  __pyx_t_3 = __Pyx_GetItemInt(__pyx_t_1, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 400, __pyx_L1_error)
+  __pyx_t_3 = __Pyx_GetItemInt(__pyx_t_1, 0, long, 1, __Pyx_PyInt_From_long, 0, 0, 0); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 404, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_r = __pyx_t_3;
@@ -14315,7 +14430,7 @@ static PyObject *__pyx_lambda_funcdef_lambda10(CYTHON_UNUSED PyObject *__pyx_sel
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":377
+/* "pyaffy/celparser.pyx":381
  *     return y
  * 
  * def parse_celfile_cc(path, compressed=True, ignore_outliers=True, ignore_masked=True):             # <<<<<<<<<<<<<<
@@ -14358,12 +14473,12 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
   if (unlikely(!__pyx_cur_scope)) {
     __pyx_cur_scope = ((struct __pyx_obj_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc *)Py_None);
     __Pyx_INCREF(Py_None);
-    __PYX_ERR(0, 377, __pyx_L1_error)
+    __PYX_ERR(0, 381, __pyx_L1_error)
   } else {
     __Pyx_GOTREF(__pyx_cur_scope);
   }
 
-  /* "pyaffy/celparser.pyx":383
+  /* "pyaffy/celparser.pyx":387
  *     Note: Data byte order is big endian!
  *     """
  *     assert isinstance(path, (text, str))             # <<<<<<<<<<<<<<
@@ -14372,7 +14487,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
  */
   #ifndef CYTHON_WITHOUT_ASSERTIONS
   if (unlikely(!Py_OptimizeFlag)) {
-    __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_text); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 383, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_text); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 387, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __pyx_t_3 = PyObject_IsInstance(__pyx_v_path, __pyx_t_1); 
     __pyx_t_4 = (__pyx_t_3 != 0);
@@ -14388,12 +14503,12 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     if (unlikely(!(__pyx_t_2 != 0))) {
       PyErr_SetNone(PyExc_AssertionError);
-      __PYX_ERR(0, 383, __pyx_L1_error)
+      __PYX_ERR(0, 387, __pyx_L1_error)
     }
   }
   #endif
 
-  /* "pyaffy/celparser.pyx":384
+  /* "pyaffy/celparser.pyx":388
  *     """
  *     assert isinstance(path, (text, str))
  *     assert isinstance(compressed, bool)             # <<<<<<<<<<<<<<
@@ -14404,16 +14519,16 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
   if (unlikely(!Py_OptimizeFlag)) {
     __pyx_t_1 = ((PyObject*)&PyBool_Type);
     __Pyx_INCREF(__pyx_t_1);
-    __pyx_t_2 = PyObject_IsInstance(__pyx_v_compressed, __pyx_t_1); if (unlikely(__pyx_t_2 == ((int)-1))) __PYX_ERR(0, 384, __pyx_L1_error)
+    __pyx_t_2 = PyObject_IsInstance(__pyx_v_compressed, __pyx_t_1); if (unlikely(__pyx_t_2 == ((int)-1))) __PYX_ERR(0, 388, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     if (unlikely(!(__pyx_t_2 != 0))) {
       PyErr_SetNone(PyExc_AssertionError);
-      __PYX_ERR(0, 384, __pyx_L1_error)
+      __PYX_ERR(0, 388, __pyx_L1_error)
     }
   }
   #endif
 
-  /* "pyaffy/celparser.pyx":385
+  /* "pyaffy/celparser.pyx":389
  *     assert isinstance(path, (text, str))
  *     assert isinstance(compressed, bool)
  *     assert isinstance(ignore_outliers, bool)             # <<<<<<<<<<<<<<
@@ -14424,16 +14539,16 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
   if (unlikely(!Py_OptimizeFlag)) {
     __pyx_t_1 = ((PyObject*)&PyBool_Type);
     __Pyx_INCREF(__pyx_t_1);
-    __pyx_t_2 = PyObject_IsInstance(__pyx_v_ignore_outliers, __pyx_t_1); if (unlikely(__pyx_t_2 == ((int)-1))) __PYX_ERR(0, 385, __pyx_L1_error)
+    __pyx_t_2 = PyObject_IsInstance(__pyx_v_ignore_outliers, __pyx_t_1); if (unlikely(__pyx_t_2 == ((int)-1))) __PYX_ERR(0, 389, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     if (unlikely(!(__pyx_t_2 != 0))) {
       PyErr_SetNone(PyExc_AssertionError);
-      __PYX_ERR(0, 385, __pyx_L1_error)
+      __PYX_ERR(0, 389, __pyx_L1_error)
     }
   }
   #endif
 
-  /* "pyaffy/celparser.pyx":386
+  /* "pyaffy/celparser.pyx":390
  *     assert isinstance(compressed, bool)
  *     assert isinstance(ignore_outliers, bool)
  *     assert isinstance(ignore_masked, bool)             # <<<<<<<<<<<<<<
@@ -14444,23 +14559,23 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
   if (unlikely(!Py_OptimizeFlag)) {
     __pyx_t_1 = ((PyObject*)&PyBool_Type);
     __Pyx_INCREF(__pyx_t_1);
-    __pyx_t_2 = PyObject_IsInstance(__pyx_v_ignore_masked, __pyx_t_1); if (unlikely(__pyx_t_2 == ((int)-1))) __PYX_ERR(0, 386, __pyx_L1_error)
+    __pyx_t_2 = PyObject_IsInstance(__pyx_v_ignore_masked, __pyx_t_1); if (unlikely(__pyx_t_2 == ((int)-1))) __PYX_ERR(0, 390, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     if (unlikely(!(__pyx_t_2 != 0))) {
       PyErr_SetNone(PyExc_AssertionError);
-      __PYX_ERR(0, 386, __pyx_L1_error)
+      __PYX_ERR(0, 390, __pyx_L1_error)
     }
   }
   #endif
 
-  /* "pyaffy/celparser.pyx":388
+  /* "pyaffy/celparser.pyx":392
  *     assert isinstance(ignore_masked, bool)
  * 
  *     read = [0]             # <<<<<<<<<<<<<<
  * 
  *     decode_unicode = lambda s: codecs.decode(s, 'UTF-16-BE')
  */
-  __pyx_t_1 = PyList_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 388, __pyx_L1_error)
+  __pyx_t_1 = PyList_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 392, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_INCREF(__pyx_int_0);
   __Pyx_GIVEREF(__pyx_int_0);
@@ -14469,392 +14584,392 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
   __pyx_cur_scope->__pyx_v_read = ((PyObject*)__pyx_t_1);
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":390
+  /* "pyaffy/celparser.pyx":394
  *     read = [0]
  * 
  *     decode_unicode = lambda s: codecs.decode(s, 'UTF-16-BE')             # <<<<<<<<<<<<<<
  *     #decode_unicode = lambda s: unicode(s, encoding = 'UTF-16-BE')
  *     decode_ascii = lambda s: codecs.decode(s, 'ascii')
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_42lambda2, 0, __pyx_n_s_parse_celfile_cc_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 390, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_42lambda2, 0, __pyx_n_s_parse_celfile_cc_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 394, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_decode_unicode = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":392
+  /* "pyaffy/celparser.pyx":396
  *     decode_unicode = lambda s: codecs.decode(s, 'UTF-16-BE')
  *     #decode_unicode = lambda s: unicode(s, encoding = 'UTF-16-BE')
  *     decode_ascii = lambda s: codecs.decode(s, 'ascii')             # <<<<<<<<<<<<<<
  *     #decode_ascii = lambda s: unicode(s, encoding = 'ascii')
  *     decode_float = lambda s: struct.unpack('>f', s)[0]
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_43lambda3, 0, __pyx_n_s_parse_celfile_cc_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 392, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_43lambda3, 0, __pyx_n_s_parse_celfile_cc_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 396, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_decode_ascii = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":394
+  /* "pyaffy/celparser.pyx":398
  *     decode_ascii = lambda s: codecs.decode(s, 'ascii')
  *     #decode_ascii = lambda s: unicode(s, encoding = 'ascii')
  *     decode_float = lambda s: struct.unpack('>f', s)[0]             # <<<<<<<<<<<<<<
  *     decode_int32 = lambda s: struct.unpack('>i', s)[0]
  *     decode_uint32 = lambda s: struct.unpack('>I', s)[0]
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_44lambda4, 0, __pyx_n_s_parse_celfile_cc_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 394, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_44lambda4, 0, __pyx_n_s_parse_celfile_cc_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 398, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_decode_float = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":395
+  /* "pyaffy/celparser.pyx":399
  *     #decode_ascii = lambda s: unicode(s, encoding = 'ascii')
  *     decode_float = lambda s: struct.unpack('>f', s)[0]
  *     decode_int32 = lambda s: struct.unpack('>i', s)[0]             # <<<<<<<<<<<<<<
  *     decode_uint32 = lambda s: struct.unpack('>I', s)[0]
  *     decode_int8 = lambda s: struct.unpack('>b', s)[0]
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_45lambda5, 0, __pyx_n_s_parse_celfile_cc_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 395, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_45lambda5, 0, __pyx_n_s_parse_celfile_cc_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 399, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_decode_int32 = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":396
+  /* "pyaffy/celparser.pyx":400
  *     decode_float = lambda s: struct.unpack('>f', s)[0]
  *     decode_int32 = lambda s: struct.unpack('>i', s)[0]
  *     decode_uint32 = lambda s: struct.unpack('>I', s)[0]             # <<<<<<<<<<<<<<
  *     decode_int8 = lambda s: struct.unpack('>b', s)[0]
  *     decode_uint8 = lambda s: struct.unpack('>B', s)[0]
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_46lambda6, 0, __pyx_n_s_parse_celfile_cc_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 396, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_46lambda6, 0, __pyx_n_s_parse_celfile_cc_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 400, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_decode_uint32 = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":397
+  /* "pyaffy/celparser.pyx":401
  *     decode_int32 = lambda s: struct.unpack('>i', s)[0]
  *     decode_uint32 = lambda s: struct.unpack('>I', s)[0]
  *     decode_int8 = lambda s: struct.unpack('>b', s)[0]             # <<<<<<<<<<<<<<
  *     decode_uint8 = lambda s: struct.unpack('>B', s)[0]
  *     decode_int16 = lambda s: struct.unpack('>h', s)[0]
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_47lambda7, 0, __pyx_n_s_parse_celfile_cc_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 397, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_47lambda7, 0, __pyx_n_s_parse_celfile_cc_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 401, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_decode_int8 = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":398
+  /* "pyaffy/celparser.pyx":402
  *     decode_uint32 = lambda s: struct.unpack('>I', s)[0]
  *     decode_int8 = lambda s: struct.unpack('>b', s)[0]
  *     decode_uint8 = lambda s: struct.unpack('>B', s)[0]             # <<<<<<<<<<<<<<
  *     decode_int16 = lambda s: struct.unpack('>h', s)[0]
  *     decode_uint16 = lambda s: struct.unpack('>H', s)[0]
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_48lambda8, 0, __pyx_n_s_parse_celfile_cc_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 398, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_48lambda8, 0, __pyx_n_s_parse_celfile_cc_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 402, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_decode_uint8 = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":399
+  /* "pyaffy/celparser.pyx":403
  *     decode_int8 = lambda s: struct.unpack('>b', s)[0]
  *     decode_uint8 = lambda s: struct.unpack('>B', s)[0]
  *     decode_int16 = lambda s: struct.unpack('>h', s)[0]             # <<<<<<<<<<<<<<
  *     decode_uint16 = lambda s: struct.unpack('>H', s)[0]
  * 
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_49lambda9, 0, __pyx_n_s_parse_celfile_cc_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 399, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_49lambda9, 0, __pyx_n_s_parse_celfile_cc_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 403, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_decode_int16 = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":400
+  /* "pyaffy/celparser.pyx":404
  *     decode_uint8 = lambda s: struct.unpack('>B', s)[0]
  *     decode_int16 = lambda s: struct.unpack('>h', s)[0]
  *     decode_uint16 = lambda s: struct.unpack('>H', s)[0]             # <<<<<<<<<<<<<<
  * 
  *     def read_float(bytes):
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_50lambda10, 0, __pyx_n_s_parse_celfile_cc_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 400, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_50lambda10, 0, __pyx_n_s_parse_celfile_cc_locals_lambda, NULL, __pyx_n_s_pyaffy_celparser, __pyx_d, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 404, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_decode_uint16 = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":402
+  /* "pyaffy/celparser.pyx":406
  *     decode_uint16 = lambda s: struct.unpack('>H', s)[0]
  * 
  *     def read_float(bytes):             # <<<<<<<<<<<<<<
  *         read[0] += 4
  *         return decode_float(fh.read(4))
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_1read_float, 0, __pyx_n_s_parse_celfile_cc_locals_read_flo, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__44)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 402, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_1read_float, 0, __pyx_n_s_parse_celfile_cc_locals_read_flo, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__44)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 406, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_read_float = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":406
+  /* "pyaffy/celparser.pyx":410
  *         return decode_float(fh.read(4))
  * 
  *     def read_byte(fh):             # <<<<<<<<<<<<<<
  *         read[0] += 1
  *         return decode_int8(fh.read(1))
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_3read_byte, 0, __pyx_n_s_parse_celfile_cc_locals_read_byt, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__46)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 406, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_3read_byte, 0, __pyx_n_s_parse_celfile_cc_locals_read_byt, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__46)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 410, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_read_byte = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":410
+  /* "pyaffy/celparser.pyx":414
  *         return decode_int8(fh.read(1))
  * 
  *     def read_ubyte(fh):             # <<<<<<<<<<<<<<
  *         read[0] += 1
  *         return decode_uint8(fh.read(1))
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_5read_ubyte, 0, __pyx_n_s_parse_celfile_cc_locals_read_uby, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__48)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 410, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_5read_ubyte, 0, __pyx_n_s_parse_celfile_cc_locals_read_uby, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__48)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 414, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_read_ubyte = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":414
+  /* "pyaffy/celparser.pyx":418
  *         return decode_uint8(fh.read(1))
  * 
  *     def read_short(fh):             # <<<<<<<<<<<<<<
  *         read[0] += 2
  *         return decode_int16(fh.read(2))
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_7read_short, 0, __pyx_n_s_parse_celfile_cc_locals_read_sho, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__50)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 414, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_7read_short, 0, __pyx_n_s_parse_celfile_cc_locals_read_sho, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__50)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 418, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_read_short = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":418
+  /* "pyaffy/celparser.pyx":422
  *         return decode_int16(fh.read(2))
  * 
  *     def read_ushort(fh):             # <<<<<<<<<<<<<<
  *         read[0] += 2
  *         return decode_uint16(fh.read(2))
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_9read_ushort, 0, __pyx_n_s_parse_celfile_cc_locals_read_ush, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__52)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 418, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_9read_ushort, 0, __pyx_n_s_parse_celfile_cc_locals_read_ush, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__52)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 422, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_read_ushort = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":422
+  /* "pyaffy/celparser.pyx":426
  *         return decode_uint16(fh.read(2))
  * 
  *     def read_int(fh):             # <<<<<<<<<<<<<<
  *         read[0] += 4
  *         return decode_int32(fh.read(4))
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_11read_int, 0, __pyx_n_s_parse_celfile_cc_locals_read_int, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__54)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 422, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_11read_int, 0, __pyx_n_s_parse_celfile_cc_locals_read_int, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__54)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 426, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_read_int = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":426
+  /* "pyaffy/celparser.pyx":430
  *         return decode_int32(fh.read(4))
  * 
  *     def read_uint(fh):             # <<<<<<<<<<<<<<
  *         read[0] +=4
  *         return decode_uint32(fh.read(4))
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_13read_uint, 0, __pyx_n_s_parse_celfile_cc_locals_read_uin, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__56)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 426, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_13read_uint, 0, __pyx_n_s_parse_celfile_cc_locals_read_uin, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__56)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 430, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_read_uint = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":430
+  /* "pyaffy/celparser.pyx":434
  *         return decode_uint32(fh.read(4))
  * 
  *     def read_raw(fh):             # <<<<<<<<<<<<<<
  *         # reads an int x and then x raw bytes
  *         bytes = read_int(fh)
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_15read_raw, 0, __pyx_n_s_parse_celfile_cc_locals_read_raw, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__58)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 430, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_15read_raw, 0, __pyx_n_s_parse_celfile_cc_locals_read_raw, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__58)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 434, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_read_raw = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":436
+  /* "pyaffy/celparser.pyx":440
  *         return fh.read(bytes)
  * 
  *     def read_string(fh):             # <<<<<<<<<<<<<<
  *         strlen = read_int(fh)
  *         read[0] += strlen
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_17read_string, 0, __pyx_n_s_parse_celfile_cc_locals_read_str, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__60)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 436, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_17read_string, 0, __pyx_n_s_parse_celfile_cc_locals_read_str, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__60)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 440, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_read_string = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":441
+  /* "pyaffy/celparser.pyx":445
  *         return fh.read(strlen)
  * 
  *     def read_wstring(fh):             # <<<<<<<<<<<<<<
  *         strlen = read_int(fh)
  *         s = fh.read(2 * strlen)
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_19read_wstring, 0, __pyx_n_s_parse_celfile_cc_locals_read_wst, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__62)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 441, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_19read_wstring, 0, __pyx_n_s_parse_celfile_cc_locals_read_wst, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__62)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 445, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_read_wstring = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":447
+  /* "pyaffy/celparser.pyx":451
  *         return decode_unicode(s)
  * 
  *     def read_guid(fh):             # <<<<<<<<<<<<<<
  *         return read_string(fh)
  * 
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_21read_guid, 0, __pyx_n_s_parse_celfile_cc_locals_read_gui, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__64)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 447, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_21read_guid, 0, __pyx_n_s_parse_celfile_cc_locals_read_gui, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__64)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 451, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_read_guid = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":450
+  /* "pyaffy/celparser.pyx":454
  *         return read_string(fh)
  * 
  *     def read_datetime(fh):             # <<<<<<<<<<<<<<
  *         s = read_wstring(fh)
  *         logger.debug('DateTime string: %s|||', s)
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_23read_datetime, 0, __pyx_n_s_parse_celfile_cc_locals_read_dat, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__66)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 450, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_23read_datetime, 0, __pyx_n_s_parse_celfile_cc_locals_read_dat, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__66)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 454, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_read_datetime = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":460
+  /* "pyaffy/celparser.pyx":464
  *         return dt
  * 
  *     def read_locale(fh):             # <<<<<<<<<<<<<<
  *         loc = read_wstring(fh)
  *         return loc[:2], loc[3:]
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_25read_locale, 0, __pyx_n_s_parse_celfile_cc_locals_read_loc, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__68)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 460, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_25read_locale, 0, __pyx_n_s_parse_celfile_cc_locals_read_loc, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__68)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 464, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_read_locale = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":464
+  /* "pyaffy/celparser.pyx":468
  *         return loc[:2], loc[3:]
  * 
  *     def read_value(fh):             # <<<<<<<<<<<<<<
  *         raw = read_raw(fh)
  *         return raw
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_27read_value, 0, __pyx_n_s_parse_celfile_cc_locals_read_val, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__70)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 464, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_27read_value, 0, __pyx_n_s_parse_celfile_cc_locals_read_val, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__70)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 468, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_read_value = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":468
+  /* "pyaffy/celparser.pyx":472
  *         return raw
  * 
  *     def read_type(fh):             # <<<<<<<<<<<<<<
  *         return read_wstring(fh)
  * 
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_29read_type, 0, __pyx_n_s_parse_celfile_cc_locals_read_typ, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__72)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 468, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_29read_type, 0, __pyx_n_s_parse_celfile_cc_locals_read_typ, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__72)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 472, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_read_type = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":471
+  /* "pyaffy/celparser.pyx":475
  *         return read_wstring(fh)
  * 
  *     def read_file_header(fh):             # <<<<<<<<<<<<<<
  *         magic_number = read_ubyte(fh)
  *         logger.debug('Magic number: %d', magic_number)
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_31read_file_header, 0, __pyx_n_s_parse_celfile_cc_locals_read_fil, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__74)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 471, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_31read_file_header, 0, __pyx_n_s_parse_celfile_cc_locals_read_fil, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__74)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 475, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_read_file_header = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":484
+  /* "pyaffy/celparser.pyx":488
  *         return num_data_groups, first_data_group_pos
  * 
  *     def read_header_param(fh):             # <<<<<<<<<<<<<<
  *         v1 = read_wstring(fh)
  *         v2 = read_value(fh)
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_33read_header_param, 0, __pyx_n_s_parse_celfile_cc_locals_read_hea, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__76)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 484, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_33read_header_param, 0, __pyx_n_s_parse_celfile_cc_locals_read_hea, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__76)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 488, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_read_header_param = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":510
+  /* "pyaffy/celparser.pyx":514
  *         return (v1, v2)
  * 
  *     def read_data_header(fh):             # <<<<<<<<<<<<<<
  *         data_type_id = read_guid(fh)
  *         logger.debug('Data type identifier: %s', data_type_id)
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_35read_data_header, 0, __pyx_n_s_parse_celfile_cc_locals_read_dat_2, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__78)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 510, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_35read_data_header, 0, __pyx_n_s_parse_celfile_cc_locals_read_dat_2, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__78)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 514, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_read_data_header = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":534
+  /* "pyaffy/celparser.pyx":538
  *             parent_headers.append(read_data_header(fh))
  * 
  *     def read_col(fh):             # <<<<<<<<<<<<<<
  *         name = read_wstring(fh)
  *         valtype = read_byte(fh)
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_37read_col, 0, __pyx_n_s_parse_celfile_cc_locals_read_col, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__80)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 534, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_37read_col, 0, __pyx_n_s_parse_celfile_cc_locals_read_col, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__80)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 538, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_read_col = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":540
+  /* "pyaffy/celparser.pyx":544
  *         return (name, valtype, size)
  * 
  *     def read_dataset(fh):             # <<<<<<<<<<<<<<
  *         logger.debug('New DataSet! Bytes read up until this point: %d', read[0])
  *         data_pos = read_uint(fh)
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_39read_dataset, 0, __pyx_n_s_parse_celfile_cc_locals_read_dat_3, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__82)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 540, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_39read_dataset, 0, __pyx_n_s_parse_celfile_cc_locals_read_dat_3, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__82)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 544, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_GIVEREF(__pyx_t_1);
   __pyx_cur_scope->__pyx_v_read_dataset = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":584
+  /* "pyaffy/celparser.pyx":589
  *         return y
  * 
  *     def read_data_group(fh):             # <<<<<<<<<<<<<<
  *         logger.debug('New data group! Number of bytes read so far: %d', read[0])
  *         next_pos = read_uint(fh)
  */
-  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_41read_data_group, 0, __pyx_n_s_parse_celfile_cc_locals_read_dat_4, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__84)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 584, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_CyFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_16parse_celfile_cc_41read_data_group, 0, __pyx_n_s_parse_celfile_cc_locals_read_dat_4, ((PyObject*)__pyx_cur_scope), __pyx_n_s_pyaffy_celparser, __pyx_d, ((PyObject *)__pyx_codeobj__84)); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 589, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __pyx_v_read_data_group = __pyx_t_1;
   __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":598
+  /* "pyaffy/celparser.pyx":603
  *         return y
  * 
  *     fh = None             # <<<<<<<<<<<<<<
@@ -14865,7 +14980,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
   __Pyx_GIVEREF(Py_None);
   __pyx_cur_scope->__pyx_v_fh = Py_None;
 
-  /* "pyaffy/celparser.pyx":599
+  /* "pyaffy/celparser.pyx":604
  * 
  *     fh = None
  *     y = None             # <<<<<<<<<<<<<<
@@ -14875,7 +14990,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
   __Pyx_INCREF(Py_None);
   __pyx_v_y = Py_None;
 
-  /* "pyaffy/celparser.pyx":600
+  /* "pyaffy/celparser.pyx":605
  *     fh = None
  *     y = None
  *     final_path = path             # <<<<<<<<<<<<<<
@@ -14885,26 +15000,26 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
   __Pyx_INCREF(__pyx_v_path);
   __pyx_v_final_path = __pyx_v_path;
 
-  /* "pyaffy/celparser.pyx":601
+  /* "pyaffy/celparser.pyx":606
  *     y = None
  *     final_path = path
  *     if compressed:             # <<<<<<<<<<<<<<
  *         # file is compressed (we assume gzip)
  *         # create a named pipe
  */
-  __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_compressed); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 601, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_compressed); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 606, __pyx_L1_error)
   if (__pyx_t_2) {
 
-    /* "pyaffy/celparser.pyx":604
+    /* "pyaffy/celparser.pyx":609
  *         # file is compressed (we assume gzip)
  *         # create a named pipe
  *         logger.debug('Parsing file: %s', path)             # <<<<<<<<<<<<<<
  *         final_path = create_gzip_pipe(path)
  * 
  */
-    __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 604, __pyx_L1_error)
+    __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 609, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 604, __pyx_L1_error)
+    __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_debug); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 609, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     __pyx_t_5 = NULL;
@@ -14922,7 +15037,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_6)) {
       PyObject *__pyx_temp[3] = {__pyx_t_5, __pyx_kp_s_Parsing_file_s, __pyx_v_path};
-      __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 604, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 609, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
       __Pyx_GOTREF(__pyx_t_1);
     } else
@@ -14930,13 +15045,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_6)) {
       PyObject *__pyx_temp[3] = {__pyx_t_5, __pyx_kp_s_Parsing_file_s, __pyx_v_path};
-      __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 604, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 609, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
       __Pyx_GOTREF(__pyx_t_1);
     } else
     #endif
     {
-      __pyx_t_8 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 604, __pyx_L1_error)
+      __pyx_t_8 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 609, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_8);
       if (__pyx_t_5) {
         __Pyx_GIVEREF(__pyx_t_5); PyTuple_SET_ITEM(__pyx_t_8, 0, __pyx_t_5); __pyx_t_5 = NULL;
@@ -14947,21 +15062,21 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
       __Pyx_INCREF(__pyx_v_path);
       __Pyx_GIVEREF(__pyx_v_path);
       PyTuple_SET_ITEM(__pyx_t_8, 1+__pyx_t_7, __pyx_v_path);
-      __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_8, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 604, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_8, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 609, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
       __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
     }
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "pyaffy/celparser.pyx":605
+    /* "pyaffy/celparser.pyx":610
  *         # create a named pipe
  *         logger.debug('Parsing file: %s', path)
  *         final_path = create_gzip_pipe(path)             # <<<<<<<<<<<<<<
  * 
  *     fh = open(final_path, mode='rb')
  */
-    __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_create_gzip_pipe); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 605, __pyx_L1_error)
+    __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_create_gzip_pipe); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 610, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
     __pyx_t_8 = NULL;
     if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_6))) {
@@ -14974,13 +15089,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
       }
     }
     if (!__pyx_t_8) {
-      __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_v_path); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 605, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_v_path); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 610, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
     } else {
       #if CYTHON_FAST_PYCALL
       if (PyFunction_Check(__pyx_t_6)) {
         PyObject *__pyx_temp[2] = {__pyx_t_8, __pyx_v_path};
-        __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 605, __pyx_L1_error)
+        __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 610, __pyx_L1_error)
         __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
         __Pyx_GOTREF(__pyx_t_1);
       } else
@@ -14988,19 +15103,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
       #if CYTHON_FAST_PYCCALL
       if (__Pyx_PyFastCFunction_Check(__pyx_t_6)) {
         PyObject *__pyx_temp[2] = {__pyx_t_8, __pyx_v_path};
-        __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 605, __pyx_L1_error)
+        __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 610, __pyx_L1_error)
         __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
         __Pyx_GOTREF(__pyx_t_1);
       } else
       #endif
       {
-        __pyx_t_5 = PyTuple_New(1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 605, __pyx_L1_error)
+        __pyx_t_5 = PyTuple_New(1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 610, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_5);
         __Pyx_GIVEREF(__pyx_t_8); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_8); __pyx_t_8 = NULL;
         __Pyx_INCREF(__pyx_v_path);
         __Pyx_GIVEREF(__pyx_v_path);
         PyTuple_SET_ITEM(__pyx_t_5, 0+1, __pyx_v_path);
-        __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 605, __pyx_L1_error)
+        __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 610, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_1);
         __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
       }
@@ -15009,7 +15124,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
     __Pyx_DECREF_SET(__pyx_v_final_path, __pyx_t_1);
     __pyx_t_1 = 0;
 
-    /* "pyaffy/celparser.pyx":601
+    /* "pyaffy/celparser.pyx":606
  *     y = None
  *     final_path = path
  *     if compressed:             # <<<<<<<<<<<<<<
@@ -15018,24 +15133,24 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
  */
   }
 
-  /* "pyaffy/celparser.pyx":607
+  /* "pyaffy/celparser.pyx":612
  *         final_path = create_gzip_pipe(path)
  * 
  *     fh = open(final_path, mode='rb')             # <<<<<<<<<<<<<<
  *     try:
  *         num_data_groups, data_pos = read_file_header(fh)
  */
-  __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_open); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 607, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_open); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 612, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  __pyx_t_6 = PyTuple_New(1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 607, __pyx_L1_error)
+  __pyx_t_6 = PyTuple_New(1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 612, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   __Pyx_INCREF(__pyx_v_final_path);
   __Pyx_GIVEREF(__pyx_v_final_path);
   PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_v_final_path);
-  __pyx_t_5 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 607, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 612, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
-  if (PyDict_SetItem(__pyx_t_5, __pyx_n_s_mode, __pyx_n_s_rb) < 0) __PYX_ERR(0, 607, __pyx_L1_error)
-  __pyx_t_8 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_6, __pyx_t_5); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 607, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_t_5, __pyx_n_s_mode, __pyx_n_s_rb) < 0) __PYX_ERR(0, 612, __pyx_L1_error)
+  __pyx_t_8 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_6, __pyx_t_5); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 612, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_8);
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
@@ -15045,7 +15160,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
   __Pyx_GIVEREF(__pyx_t_8);
   __pyx_t_8 = 0;
 
-  /* "pyaffy/celparser.pyx":608
+  /* "pyaffy/celparser.pyx":613
  * 
  *     fh = open(final_path, mode='rb')
  *     try:             # <<<<<<<<<<<<<<
@@ -15054,7 +15169,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
  */
   /*try:*/ {
 
-    /* "pyaffy/celparser.pyx":609
+    /* "pyaffy/celparser.pyx":614
  *     fh = open(final_path, mode='rb')
  *     try:
  *         num_data_groups, data_pos = read_file_header(fh)             # <<<<<<<<<<<<<<
@@ -15063,7 +15178,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
  */
     __pyx_t_8 = __pyx_cur_scope->__pyx_v_fh;
     __Pyx_INCREF(__pyx_t_8);
-    __pyx_t_5 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_30read_file_header(__pyx_v_read_file_header, __pyx_t_8); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 609, __pyx_L7_error)
+    __pyx_t_5 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_30read_file_header(__pyx_v_read_file_header, __pyx_t_8); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 614, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
     if ((likely(PyTuple_CheckExact(__pyx_t_5))) || (PyList_CheckExact(__pyx_t_5))) {
@@ -15076,7 +15191,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
       if (unlikely(size != 2)) {
         if (size > 2) __Pyx_RaiseTooManyValuesError(2);
         else if (size >= 0) __Pyx_RaiseNeedMoreValuesError(size);
-        __PYX_ERR(0, 609, __pyx_L7_error)
+        __PYX_ERR(0, 614, __pyx_L7_error)
       }
       #if CYTHON_ASSUME_SAFE_MACROS && !CYTHON_AVOID_BORROWED_REFS
       if (likely(PyTuple_CheckExact(sequence))) {
@@ -15089,15 +15204,15 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
       __Pyx_INCREF(__pyx_t_8);
       __Pyx_INCREF(__pyx_t_6);
       #else
-      __pyx_t_8 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 609, __pyx_L7_error)
+      __pyx_t_8 = PySequence_ITEM(sequence, 0); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 614, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_8);
-      __pyx_t_6 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 609, __pyx_L7_error)
+      __pyx_t_6 = PySequence_ITEM(sequence, 1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 614, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_6);
       #endif
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     } else {
       Py_ssize_t index = -1;
-      __pyx_t_1 = PyObject_GetIter(__pyx_t_5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 609, __pyx_L7_error)
+      __pyx_t_1 = PyObject_GetIter(__pyx_t_5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 614, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_1);
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
       __pyx_t_9 = Py_TYPE(__pyx_t_1)->tp_iternext;
@@ -15105,7 +15220,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
       __Pyx_GOTREF(__pyx_t_8);
       index = 1; __pyx_t_6 = __pyx_t_9(__pyx_t_1); if (unlikely(!__pyx_t_6)) goto __pyx_L9_unpacking_failed;
       __Pyx_GOTREF(__pyx_t_6);
-      if (__Pyx_IternextUnpackEndCheck(__pyx_t_9(__pyx_t_1), 2) < 0) __PYX_ERR(0, 609, __pyx_L7_error)
+      if (__Pyx_IternextUnpackEndCheck(__pyx_t_9(__pyx_t_1), 2) < 0) __PYX_ERR(0, 614, __pyx_L7_error)
       __pyx_t_9 = NULL;
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
       goto __pyx_L10_unpacking_done;
@@ -15113,7 +15228,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
       __pyx_t_9 = NULL;
       if (__Pyx_IterFinish() == 0) __Pyx_RaiseNeedMoreValuesError(index);
-      __PYX_ERR(0, 609, __pyx_L7_error)
+      __PYX_ERR(0, 614, __pyx_L7_error)
       __pyx_L10_unpacking_done:;
     }
     __pyx_v_num_data_groups = __pyx_t_8;
@@ -15121,7 +15236,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
     __pyx_v_data_pos = __pyx_t_6;
     __pyx_t_6 = 0;
 
-    /* "pyaffy/celparser.pyx":610
+    /* "pyaffy/celparser.pyx":615
  *     try:
  *         num_data_groups, data_pos = read_file_header(fh)
  *         assert num_data_groups == 1 # for expression CEL file             # <<<<<<<<<<<<<<
@@ -15130,27 +15245,27 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
  */
     #ifndef CYTHON_WITHOUT_ASSERTIONS
     if (unlikely(!Py_OptimizeFlag)) {
-      __pyx_t_5 = __Pyx_PyInt_EqObjC(__pyx_v_num_data_groups, __pyx_int_1, 1, 0); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 610, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyInt_EqObjC(__pyx_v_num_data_groups, __pyx_int_1, 1, 0); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 615, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_5);
-      __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_t_5); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 610, __pyx_L7_error)
+      __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_t_5); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 615, __pyx_L7_error)
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
       if (unlikely(!__pyx_t_2)) {
         PyErr_SetNone(PyExc_AssertionError);
-        __PYX_ERR(0, 610, __pyx_L7_error)
+        __PYX_ERR(0, 615, __pyx_L7_error)
       }
     }
     #endif
 
-    /* "pyaffy/celparser.pyx":611
+    /* "pyaffy/celparser.pyx":616
  *         num_data_groups, data_pos = read_file_header(fh)
  *         assert num_data_groups == 1 # for expression CEL file
  *         logger.debug('# data groups: %d', num_data_groups)             # <<<<<<<<<<<<<<
  *         logger.debug('pos. of first data group: %d', data_pos)
  *         #header = read_data_header(fh)
  */
-    __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 611, __pyx_L7_error)
+    __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 616, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_6);
-    __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_debug); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 611, __pyx_L7_error)
+    __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_debug); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 616, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_8);
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     __pyx_t_6 = NULL;
@@ -15168,7 +15283,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_8)) {
       PyObject *__pyx_temp[3] = {__pyx_t_6, __pyx_kp_s_data_groups_d, __pyx_v_num_data_groups};
-      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 611, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 616, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_GOTREF(__pyx_t_5);
     } else
@@ -15176,13 +15291,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_8)) {
       PyObject *__pyx_temp[3] = {__pyx_t_6, __pyx_kp_s_data_groups_d, __pyx_v_num_data_groups};
-      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 611, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_8, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 616, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_GOTREF(__pyx_t_5);
     } else
     #endif
     {
-      __pyx_t_1 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 611, __pyx_L7_error)
+      __pyx_t_1 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 616, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_1);
       if (__pyx_t_6) {
         __Pyx_GIVEREF(__pyx_t_6); PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_t_6); __pyx_t_6 = NULL;
@@ -15193,23 +15308,23 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
       __Pyx_INCREF(__pyx_v_num_data_groups);
       __Pyx_GIVEREF(__pyx_v_num_data_groups);
       PyTuple_SET_ITEM(__pyx_t_1, 1+__pyx_t_7, __pyx_v_num_data_groups);
-      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_8, __pyx_t_1, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 611, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_8, __pyx_t_1, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 616, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     }
     __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":612
+    /* "pyaffy/celparser.pyx":617
  *         assert num_data_groups == 1 # for expression CEL file
  *         logger.debug('# data groups: %d', num_data_groups)
  *         logger.debug('pos. of first data group: %d', data_pos)             # <<<<<<<<<<<<<<
  *         #header = read_data_header(fh)
  *         read_data_header(fh)
  */
-    __pyx_t_8 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 612, __pyx_L7_error)
+    __pyx_t_8 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 617, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_8);
-    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_debug); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 612, __pyx_L7_error)
+    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_debug); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 617, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
     __pyx_t_8 = NULL;
@@ -15227,7 +15342,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_1)) {
       PyObject *__pyx_temp[3] = {__pyx_t_8, __pyx_kp_s_pos_of_first_data_group_d, __pyx_v_data_pos};
-      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_1, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 612, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_1, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 617, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
       __Pyx_GOTREF(__pyx_t_5);
     } else
@@ -15235,13 +15350,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_1)) {
       PyObject *__pyx_temp[3] = {__pyx_t_8, __pyx_kp_s_pos_of_first_data_group_d, __pyx_v_data_pos};
-      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_1, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 612, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_1, __pyx_temp+1-__pyx_t_7, 2+__pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 617, __pyx_L7_error)
       __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
       __Pyx_GOTREF(__pyx_t_5);
     } else
     #endif
     {
-      __pyx_t_6 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 612, __pyx_L7_error)
+      __pyx_t_6 = PyTuple_New(2+__pyx_t_7); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 617, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_6);
       if (__pyx_t_8) {
         __Pyx_GIVEREF(__pyx_t_8); PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_t_8); __pyx_t_8 = NULL;
@@ -15252,14 +15367,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
       __Pyx_INCREF(__pyx_v_data_pos);
       __Pyx_GIVEREF(__pyx_v_data_pos);
       PyTuple_SET_ITEM(__pyx_t_6, 1+__pyx_t_7, __pyx_v_data_pos);
-      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_6, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 612, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_6, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 617, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     }
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":614
+    /* "pyaffy/celparser.pyx":619
  *         logger.debug('pos. of first data group: %d', data_pos)
  *         #header = read_data_header(fh)
  *         read_data_header(fh)             # <<<<<<<<<<<<<<
@@ -15268,12 +15383,12 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
  */
     __pyx_t_5 = __pyx_cur_scope->__pyx_v_fh;
     __Pyx_INCREF(__pyx_t_5);
-    __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_header(__pyx_cur_scope->__pyx_v_read_data_header, __pyx_t_5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 614, __pyx_L7_error)
+    __pyx_t_1 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_34read_data_header(__pyx_cur_scope->__pyx_v_read_data_header, __pyx_t_5); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 619, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-    /* "pyaffy/celparser.pyx":615
+    /* "pyaffy/celparser.pyx":620
  *         #header = read_data_header(fh)
  *         read_data_header(fh)
  *         assert data_pos == read[0] # position of the first data group             # <<<<<<<<<<<<<<
@@ -15282,17 +15397,17 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
  */
     #ifndef CYTHON_WITHOUT_ASSERTIONS
     if (unlikely(!Py_OptimizeFlag)) {
-      __pyx_t_1 = PyObject_RichCompare(__pyx_v_data_pos, PyList_GET_ITEM(__pyx_cur_scope->__pyx_v_read, 0), Py_EQ); __Pyx_XGOTREF(__pyx_t_1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 615, __pyx_L7_error)
-      __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_t_1); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 615, __pyx_L7_error)
+      __pyx_t_1 = PyObject_RichCompare(__pyx_v_data_pos, PyList_GET_ITEM(__pyx_cur_scope->__pyx_v_read, 0), Py_EQ); __Pyx_XGOTREF(__pyx_t_1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 620, __pyx_L7_error)
+      __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_t_1); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 620, __pyx_L7_error)
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
       if (unlikely(!__pyx_t_2)) {
         PyErr_SetNone(PyExc_AssertionError);
-        __PYX_ERR(0, 615, __pyx_L7_error)
+        __PYX_ERR(0, 620, __pyx_L7_error)
       }
     }
     #endif
 
-    /* "pyaffy/celparser.pyx":616
+    /* "pyaffy/celparser.pyx":621
  *         read_data_header(fh)
  *         assert data_pos == read[0] # position of the first data group
  *         y = read_data_group(fh)             # <<<<<<<<<<<<<<
@@ -15301,14 +15416,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
  */
     __pyx_t_1 = __pyx_cur_scope->__pyx_v_fh;
     __Pyx_INCREF(__pyx_t_1);
-    __pyx_t_5 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_group(__pyx_v_read_data_group, __pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 616, __pyx_L7_error)
+    __pyx_t_5 = __pyx_pf_6pyaffy_9celparser_16parse_celfile_cc_40read_data_group(__pyx_v_read_data_group, __pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 621, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __Pyx_DECREF_SET(__pyx_v_y, __pyx_t_5);
     __pyx_t_5 = 0;
   }
 
-  /* "pyaffy/celparser.pyx":622
+  /* "pyaffy/celparser.pyx":627
  * 
  *     finally:
  *         fh.close()             # <<<<<<<<<<<<<<
@@ -15317,7 +15432,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
  */
   /*finally:*/ {
     /*normal exit:*/{
-      __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_cur_scope->__pyx_v_fh, __pyx_n_s_close); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 622, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_cur_scope->__pyx_v_fh, __pyx_n_s_close); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 627, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
       __pyx_t_6 = NULL;
       if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_1))) {
@@ -15330,35 +15445,35 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
         }
       }
       if (__pyx_t_6) {
-        __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_t_6); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 622, __pyx_L1_error)
+        __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_t_6); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 627, __pyx_L1_error)
         __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
       } else {
-        __pyx_t_5 = __Pyx_PyObject_CallNoArg(__pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 622, __pyx_L1_error)
+        __pyx_t_5 = __Pyx_PyObject_CallNoArg(__pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 627, __pyx_L1_error)
       }
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-      /* "pyaffy/celparser.pyx":623
+      /* "pyaffy/celparser.pyx":628
  *     finally:
  *         fh.close()
  *         if compressed:             # <<<<<<<<<<<<<<
  *             os.remove(final_path)
  * 
  */
-      __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_compressed); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 623, __pyx_L1_error)
+      __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_compressed); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 628, __pyx_L1_error)
       if (__pyx_t_2) {
 
-        /* "pyaffy/celparser.pyx":624
+        /* "pyaffy/celparser.pyx":629
  *         fh.close()
  *         if compressed:
  *             os.remove(final_path)             # <<<<<<<<<<<<<<
  * 
  *     return np.float32(y)
  */
-        __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_os); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 624, __pyx_L1_error)
+        __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_os); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 629, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_1);
-        __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_remove); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 624, __pyx_L1_error)
+        __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_1, __pyx_n_s_remove); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 629, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_6);
         __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
         __pyx_t_1 = NULL;
@@ -15372,13 +15487,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
           }
         }
         if (!__pyx_t_1) {
-          __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_v_final_path); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 624, __pyx_L1_error)
+          __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_v_final_path); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 629, __pyx_L1_error)
           __Pyx_GOTREF(__pyx_t_5);
         } else {
           #if CYTHON_FAST_PYCALL
           if (PyFunction_Check(__pyx_t_6)) {
             PyObject *__pyx_temp[2] = {__pyx_t_1, __pyx_v_final_path};
-            __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 624, __pyx_L1_error)
+            __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 629, __pyx_L1_error)
             __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
             __Pyx_GOTREF(__pyx_t_5);
           } else
@@ -15386,19 +15501,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
           #if CYTHON_FAST_PYCCALL
           if (__Pyx_PyFastCFunction_Check(__pyx_t_6)) {
             PyObject *__pyx_temp[2] = {__pyx_t_1, __pyx_v_final_path};
-            __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 624, __pyx_L1_error)
+            __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 629, __pyx_L1_error)
             __Pyx_XDECREF(__pyx_t_1); __pyx_t_1 = 0;
             __Pyx_GOTREF(__pyx_t_5);
           } else
           #endif
           {
-            __pyx_t_8 = PyTuple_New(1+1); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 624, __pyx_L1_error)
+            __pyx_t_8 = PyTuple_New(1+1); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 629, __pyx_L1_error)
             __Pyx_GOTREF(__pyx_t_8);
             __Pyx_GIVEREF(__pyx_t_1); PyTuple_SET_ITEM(__pyx_t_8, 0, __pyx_t_1); __pyx_t_1 = NULL;
             __Pyx_INCREF(__pyx_v_final_path);
             __Pyx_GIVEREF(__pyx_v_final_path);
             PyTuple_SET_ITEM(__pyx_t_8, 0+1, __pyx_v_final_path);
-            __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_8, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 624, __pyx_L1_error)
+            __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_8, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 629, __pyx_L1_error)
             __Pyx_GOTREF(__pyx_t_5);
             __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
           }
@@ -15406,7 +15521,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
         __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
         __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-        /* "pyaffy/celparser.pyx":623
+        /* "pyaffy/celparser.pyx":628
  *     finally:
  *         fh.close()
  *         if compressed:             # <<<<<<<<<<<<<<
@@ -15436,14 +15551,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
       __pyx_t_7 = __pyx_lineno; __pyx_t_10 = __pyx_clineno; __pyx_t_11 = __pyx_filename;
       {
 
-        /* "pyaffy/celparser.pyx":622
+        /* "pyaffy/celparser.pyx":627
  * 
  *     finally:
  *         fh.close()             # <<<<<<<<<<<<<<
  *         if compressed:
  *             os.remove(final_path)
  */
-        __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_cur_scope->__pyx_v_fh, __pyx_n_s_close); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 622, __pyx_L13_error)
+        __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_cur_scope->__pyx_v_fh, __pyx_n_s_close); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 627, __pyx_L13_error)
         __Pyx_GOTREF(__pyx_t_6);
         __pyx_t_8 = NULL;
         if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_6))) {
@@ -15456,35 +15571,35 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
           }
         }
         if (__pyx_t_8) {
-          __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_t_8); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 622, __pyx_L13_error)
+          __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_t_8); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 627, __pyx_L13_error)
           __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
         } else {
-          __pyx_t_5 = __Pyx_PyObject_CallNoArg(__pyx_t_6); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 622, __pyx_L13_error)
+          __pyx_t_5 = __Pyx_PyObject_CallNoArg(__pyx_t_6); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 627, __pyx_L13_error)
         }
         __Pyx_GOTREF(__pyx_t_5);
         __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
         __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-        /* "pyaffy/celparser.pyx":623
+        /* "pyaffy/celparser.pyx":628
  *     finally:
  *         fh.close()
  *         if compressed:             # <<<<<<<<<<<<<<
  *             os.remove(final_path)
  * 
  */
-        __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_compressed); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 623, __pyx_L13_error)
+        __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_v_compressed); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 628, __pyx_L13_error)
         if (__pyx_t_2) {
 
-          /* "pyaffy/celparser.pyx":624
+          /* "pyaffy/celparser.pyx":629
  *         fh.close()
  *         if compressed:
  *             os.remove(final_path)             # <<<<<<<<<<<<<<
  * 
  *     return np.float32(y)
  */
-          __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_os); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 624, __pyx_L13_error)
+          __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_os); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 629, __pyx_L13_error)
           __Pyx_GOTREF(__pyx_t_6);
-          __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_remove); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 624, __pyx_L13_error)
+          __pyx_t_8 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_remove); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 629, __pyx_L13_error)
           __Pyx_GOTREF(__pyx_t_8);
           __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
           __pyx_t_6 = NULL;
@@ -15498,13 +15613,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
             }
           }
           if (!__pyx_t_6) {
-            __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_8, __pyx_v_final_path); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 624, __pyx_L13_error)
+            __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_8, __pyx_v_final_path); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 629, __pyx_L13_error)
             __Pyx_GOTREF(__pyx_t_5);
           } else {
             #if CYTHON_FAST_PYCALL
             if (PyFunction_Check(__pyx_t_8)) {
               PyObject *__pyx_temp[2] = {__pyx_t_6, __pyx_v_final_path};
-              __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_8, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 624, __pyx_L13_error)
+              __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_8, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 629, __pyx_L13_error)
               __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
               __Pyx_GOTREF(__pyx_t_5);
             } else
@@ -15512,19 +15627,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
             #if CYTHON_FAST_PYCCALL
             if (__Pyx_PyFastCFunction_Check(__pyx_t_8)) {
               PyObject *__pyx_temp[2] = {__pyx_t_6, __pyx_v_final_path};
-              __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_8, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 624, __pyx_L13_error)
+              __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_8, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 629, __pyx_L13_error)
               __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
               __Pyx_GOTREF(__pyx_t_5);
             } else
             #endif
             {
-              __pyx_t_1 = PyTuple_New(1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 624, __pyx_L13_error)
+              __pyx_t_1 = PyTuple_New(1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 629, __pyx_L13_error)
               __Pyx_GOTREF(__pyx_t_1);
               __Pyx_GIVEREF(__pyx_t_6); PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_t_6); __pyx_t_6 = NULL;
               __Pyx_INCREF(__pyx_v_final_path);
               __Pyx_GIVEREF(__pyx_v_final_path);
               PyTuple_SET_ITEM(__pyx_t_1, 0+1, __pyx_v_final_path);
-              __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_8, __pyx_t_1, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 624, __pyx_L13_error)
+              __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_8, __pyx_t_1, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 629, __pyx_L13_error)
               __Pyx_GOTREF(__pyx_t_5);
               __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
             }
@@ -15532,7 +15647,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
           __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
           __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-          /* "pyaffy/celparser.pyx":623
+          /* "pyaffy/celparser.pyx":628
  *     finally:
  *         fh.close()
  *         if compressed:             # <<<<<<<<<<<<<<
@@ -15570,7 +15685,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
     __pyx_L8:;
   }
 
-  /* "pyaffy/celparser.pyx":626
+  /* "pyaffy/celparser.pyx":631
  *             os.remove(final_path)
  * 
  *     return np.float32(y)             # <<<<<<<<<<<<<<
@@ -15578,9 +15693,9 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
  * 
  */
   __Pyx_XDECREF(__pyx_r);
-  __pyx_t_8 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 626, __pyx_L1_error)
+  __pyx_t_8 = __Pyx_GetModuleGlobalName(__pyx_n_s_np); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 631, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_8);
-  __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_float32); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 626, __pyx_L1_error)
+  __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_t_8, __pyx_n_s_float32); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 631, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
   __Pyx_DECREF(__pyx_t_8); __pyx_t_8 = 0;
   __pyx_t_8 = NULL;
@@ -15594,13 +15709,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
     }
   }
   if (!__pyx_t_8) {
-    __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_v_y); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 626, __pyx_L1_error)
+    __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_v_y); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 631, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
   } else {
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_1)) {
       PyObject *__pyx_temp[2] = {__pyx_t_8, __pyx_v_y};
-      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 626, __pyx_L1_error)
+      __pyx_t_5 = __Pyx_PyFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 631, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
       __Pyx_GOTREF(__pyx_t_5);
     } else
@@ -15608,19 +15723,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_1)) {
       PyObject *__pyx_temp[2] = {__pyx_t_8, __pyx_v_y};
-      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 626, __pyx_L1_error)
+      __pyx_t_5 = __Pyx_PyCFunction_FastCall(__pyx_t_1, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 631, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_8); __pyx_t_8 = 0;
       __Pyx_GOTREF(__pyx_t_5);
     } else
     #endif
     {
-      __pyx_t_6 = PyTuple_New(1+1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 626, __pyx_L1_error)
+      __pyx_t_6 = PyTuple_New(1+1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 631, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_6);
       __Pyx_GIVEREF(__pyx_t_8); PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_t_8); __pyx_t_8 = NULL;
       __Pyx_INCREF(__pyx_v_y);
       __Pyx_GIVEREF(__pyx_v_y);
       PyTuple_SET_ITEM(__pyx_t_6, 0+1, __pyx_v_y);
-      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_6, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 626, __pyx_L1_error)
+      __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_t_6, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 631, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_5);
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     }
@@ -15630,7 +15745,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
   __pyx_t_5 = 0;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":377
+  /* "pyaffy/celparser.pyx":381
  *     return y
  * 
  * def parse_celfile_cc(path, compressed=True, ignore_outliers=True, ignore_masked=True):             # <<<<<<<<<<<<<<
@@ -15662,7 +15777,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_6parse_celfile_cc(CYTHON_UNUSED PyO
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":629
+/* "pyaffy/celparser.pyx":634
  * 
  * 
  * def try_open_gzip(path):             # <<<<<<<<<<<<<<
@@ -15698,7 +15813,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_8try_open_gzip(CYTHON_UNUSED PyObje
   int __pyx_t_8;
   __Pyx_RefNannySetupContext("try_open_gzip", 0);
 
-  /* "pyaffy/celparser.pyx":631
+  /* "pyaffy/celparser.pyx":636
  * def try_open_gzip(path):
  * 
  *     fh = None             # <<<<<<<<<<<<<<
@@ -15708,7 +15823,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_8try_open_gzip(CYTHON_UNUSED PyObje
   __Pyx_INCREF(Py_None);
   __pyx_v_fh = Py_None;
 
-  /* "pyaffy/celparser.pyx":632
+  /* "pyaffy/celparser.pyx":637
  * 
  *     fh = None
  *     try:             # <<<<<<<<<<<<<<
@@ -15724,16 +15839,16 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_8try_open_gzip(CYTHON_UNUSED PyObje
     __Pyx_XGOTREF(__pyx_t_3);
     /*try:*/ {
 
-      /* "pyaffy/celparser.pyx":633
+      /* "pyaffy/celparser.pyx":638
  *     fh = None
  *     try:
  *         fh = gzip.open(path)             # <<<<<<<<<<<<<<
  *         fh.read(1)
  *     except IOError:
  */
-      __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_gzip); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 633, __pyx_L3_error)
+      __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_gzip); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 638, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_5);
-      __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_open); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 633, __pyx_L3_error)
+      __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_open); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 638, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_6);
       __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
       __pyx_t_5 = NULL;
@@ -15747,13 +15862,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_8try_open_gzip(CYTHON_UNUSED PyObje
         }
       }
       if (!__pyx_t_5) {
-        __pyx_t_4 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_v_path); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 633, __pyx_L3_error)
+        __pyx_t_4 = __Pyx_PyObject_CallOneArg(__pyx_t_6, __pyx_v_path); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 638, __pyx_L3_error)
         __Pyx_GOTREF(__pyx_t_4);
       } else {
         #if CYTHON_FAST_PYCALL
         if (PyFunction_Check(__pyx_t_6)) {
           PyObject *__pyx_temp[2] = {__pyx_t_5, __pyx_v_path};
-          __pyx_t_4 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 633, __pyx_L3_error)
+          __pyx_t_4 = __Pyx_PyFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 638, __pyx_L3_error)
           __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
           __Pyx_GOTREF(__pyx_t_4);
         } else
@@ -15761,19 +15876,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_8try_open_gzip(CYTHON_UNUSED PyObje
         #if CYTHON_FAST_PYCCALL
         if (__Pyx_PyFastCFunction_Check(__pyx_t_6)) {
           PyObject *__pyx_temp[2] = {__pyx_t_5, __pyx_v_path};
-          __pyx_t_4 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 633, __pyx_L3_error)
+          __pyx_t_4 = __Pyx_PyCFunction_FastCall(__pyx_t_6, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 638, __pyx_L3_error)
           __Pyx_XDECREF(__pyx_t_5); __pyx_t_5 = 0;
           __Pyx_GOTREF(__pyx_t_4);
         } else
         #endif
         {
-          __pyx_t_7 = PyTuple_New(1+1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 633, __pyx_L3_error)
+          __pyx_t_7 = PyTuple_New(1+1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 638, __pyx_L3_error)
           __Pyx_GOTREF(__pyx_t_7);
           __Pyx_GIVEREF(__pyx_t_5); PyTuple_SET_ITEM(__pyx_t_7, 0, __pyx_t_5); __pyx_t_5 = NULL;
           __Pyx_INCREF(__pyx_v_path);
           __Pyx_GIVEREF(__pyx_v_path);
           PyTuple_SET_ITEM(__pyx_t_7, 0+1, __pyx_v_path);
-          __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_7, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 633, __pyx_L3_error)
+          __pyx_t_4 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_7, NULL); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 638, __pyx_L3_error)
           __Pyx_GOTREF(__pyx_t_4);
           __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
         }
@@ -15782,21 +15897,21 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_8try_open_gzip(CYTHON_UNUSED PyObje
       __Pyx_DECREF_SET(__pyx_v_fh, __pyx_t_4);
       __pyx_t_4 = 0;
 
-      /* "pyaffy/celparser.pyx":634
+      /* "pyaffy/celparser.pyx":639
  *     try:
  *         fh = gzip.open(path)
  *         fh.read(1)             # <<<<<<<<<<<<<<
  *     except IOError:
  *         pass
  */
-      __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 634, __pyx_L3_error)
+      __pyx_t_4 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 639, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_4);
-      __pyx_t_6 = __Pyx_PyObject_Call(__pyx_t_4, __pyx_tuple__85, NULL); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 634, __pyx_L3_error)
+      __pyx_t_6 = __Pyx_PyObject_Call(__pyx_t_4, __pyx_tuple__85, NULL); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 639, __pyx_L3_error)
       __Pyx_GOTREF(__pyx_t_6);
       __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
       __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-      /* "pyaffy/celparser.pyx":632
+      /* "pyaffy/celparser.pyx":637
  * 
  *     fh = None
  *     try:             # <<<<<<<<<<<<<<
@@ -15805,7 +15920,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_8try_open_gzip(CYTHON_UNUSED PyObje
  */
     }
 
-    /* "pyaffy/celparser.pyx":638
+    /* "pyaffy/celparser.pyx":643
  *         pass
  *     else:
  *         fh = gzip.open(path)             # <<<<<<<<<<<<<<
@@ -15813,9 +15928,9 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_8try_open_gzip(CYTHON_UNUSED PyObje
  *     return fh
  */
     /*else:*/ {
-      __pyx_t_4 = __Pyx_GetModuleGlobalName(__pyx_n_s_gzip); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 638, __pyx_L5_except_error)
+      __pyx_t_4 = __Pyx_GetModuleGlobalName(__pyx_n_s_gzip); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 643, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_4);
-      __pyx_t_7 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_open); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 638, __pyx_L5_except_error)
+      __pyx_t_7 = __Pyx_PyObject_GetAttrStr(__pyx_t_4, __pyx_n_s_open); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 643, __pyx_L5_except_error)
       __Pyx_GOTREF(__pyx_t_7);
       __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
       __pyx_t_4 = NULL;
@@ -15829,13 +15944,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_8try_open_gzip(CYTHON_UNUSED PyObje
         }
       }
       if (!__pyx_t_4) {
-        __pyx_t_6 = __Pyx_PyObject_CallOneArg(__pyx_t_7, __pyx_v_path); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 638, __pyx_L5_except_error)
+        __pyx_t_6 = __Pyx_PyObject_CallOneArg(__pyx_t_7, __pyx_v_path); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 643, __pyx_L5_except_error)
         __Pyx_GOTREF(__pyx_t_6);
       } else {
         #if CYTHON_FAST_PYCALL
         if (PyFunction_Check(__pyx_t_7)) {
           PyObject *__pyx_temp[2] = {__pyx_t_4, __pyx_v_path};
-          __pyx_t_6 = __Pyx_PyFunction_FastCall(__pyx_t_7, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 638, __pyx_L5_except_error)
+          __pyx_t_6 = __Pyx_PyFunction_FastCall(__pyx_t_7, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 643, __pyx_L5_except_error)
           __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
           __Pyx_GOTREF(__pyx_t_6);
         } else
@@ -15843,19 +15958,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_8try_open_gzip(CYTHON_UNUSED PyObje
         #if CYTHON_FAST_PYCCALL
         if (__Pyx_PyFastCFunction_Check(__pyx_t_7)) {
           PyObject *__pyx_temp[2] = {__pyx_t_4, __pyx_v_path};
-          __pyx_t_6 = __Pyx_PyCFunction_FastCall(__pyx_t_7, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 638, __pyx_L5_except_error)
+          __pyx_t_6 = __Pyx_PyCFunction_FastCall(__pyx_t_7, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 643, __pyx_L5_except_error)
           __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
           __Pyx_GOTREF(__pyx_t_6);
         } else
         #endif
         {
-          __pyx_t_5 = PyTuple_New(1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 638, __pyx_L5_except_error)
+          __pyx_t_5 = PyTuple_New(1+1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 643, __pyx_L5_except_error)
           __Pyx_GOTREF(__pyx_t_5);
           __Pyx_GIVEREF(__pyx_t_4); PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_4); __pyx_t_4 = NULL;
           __Pyx_INCREF(__pyx_v_path);
           __Pyx_GIVEREF(__pyx_v_path);
           PyTuple_SET_ITEM(__pyx_t_5, 0+1, __pyx_v_path);
-          __pyx_t_6 = __Pyx_PyObject_Call(__pyx_t_7, __pyx_t_5, NULL); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 638, __pyx_L5_except_error)
+          __pyx_t_6 = __Pyx_PyObject_Call(__pyx_t_7, __pyx_t_5, NULL); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 643, __pyx_L5_except_error)
           __Pyx_GOTREF(__pyx_t_6);
           __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
         }
@@ -15874,7 +15989,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_8try_open_gzip(CYTHON_UNUSED PyObje
     __Pyx_XDECREF(__pyx_t_4); __pyx_t_4 = 0;
     __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
 
-    /* "pyaffy/celparser.pyx":635
+    /* "pyaffy/celparser.pyx":640
  *         fh = gzip.open(path)
  *         fh.read(1)
  *     except IOError:             # <<<<<<<<<<<<<<
@@ -15889,7 +16004,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_8try_open_gzip(CYTHON_UNUSED PyObje
     goto __pyx_L5_except_error;
     __pyx_L5_except_error:;
 
-    /* "pyaffy/celparser.pyx":632
+    /* "pyaffy/celparser.pyx":637
  * 
  *     fh = None
  *     try:             # <<<<<<<<<<<<<<
@@ -15909,7 +16024,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_8try_open_gzip(CYTHON_UNUSED PyObje
     __pyx_L8_try_end:;
   }
 
-  /* "pyaffy/celparser.pyx":640
+  /* "pyaffy/celparser.pyx":645
  *         fh = gzip.open(path)
  * 
  *     return fh             # <<<<<<<<<<<<<<
@@ -15921,7 +16036,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_8try_open_gzip(CYTHON_UNUSED PyObje
   __pyx_r = __pyx_v_fh;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":629
+  /* "pyaffy/celparser.pyx":634
  * 
  * 
  * def try_open_gzip(path):             # <<<<<<<<<<<<<<
@@ -15944,7 +16059,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_8try_open_gzip(CYTHON_UNUSED PyObje
   return __pyx_r;
 }
 
-/* "pyaffy/celparser.pyx":643
+/* "pyaffy/celparser.pyx":648
  * 
  * 
  * def parse_cel(path):             # <<<<<<<<<<<<<<
@@ -15994,7 +16109,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
   PyObject *__pyx_t_17 = NULL;
   __Pyx_RefNannySetupContext("parse_cel", 0);
 
-  /* "pyaffy/celparser.pyx":670
+  /* "pyaffy/celparser.pyx":675
  *     """
  * 
  *     assert isinstance(path, (text, str))             # <<<<<<<<<<<<<<
@@ -16003,7 +16118,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
  */
   #ifndef CYTHON_WITHOUT_ASSERTIONS
   if (unlikely(!Py_OptimizeFlag)) {
-    __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_text); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 670, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_GetModuleGlobalName(__pyx_n_s_text); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 675, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __pyx_t_3 = PyObject_IsInstance(__pyx_v_path, __pyx_t_1); 
     __pyx_t_4 = (__pyx_t_3 != 0);
@@ -16019,24 +16134,24 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     if (unlikely(!(__pyx_t_2 != 0))) {
       PyErr_SetNone(PyExc_AssertionError);
-      __PYX_ERR(0, 670, __pyx_L1_error)
+      __PYX_ERR(0, 675, __pyx_L1_error)
     }
   }
   #endif
 
-  /* "pyaffy/celparser.pyx":672
+  /* "pyaffy/celparser.pyx":677
  *     assert isinstance(path, (text, str))
  * 
  *     if not os.path.isfile(path):             # <<<<<<<<<<<<<<
  *         raise IOError('File "%s" not found.' %(path))
  * 
  */
-  __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_os); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 672, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_os); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 677, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
-  __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_path); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 672, __pyx_L1_error)
+  __pyx_t_6 = __Pyx_PyObject_GetAttrStr(__pyx_t_5, __pyx_n_s_path); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 677, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_6);
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_isfile); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 672, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyObject_GetAttrStr(__pyx_t_6, __pyx_n_s_isfile); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 677, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_5);
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
   __pyx_t_6 = NULL;
@@ -16050,13 +16165,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
     }
   }
   if (!__pyx_t_6) {
-    __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_5, __pyx_v_path); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 672, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_5, __pyx_v_path); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 677, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
   } else {
     #if CYTHON_FAST_PYCALL
     if (PyFunction_Check(__pyx_t_5)) {
       PyObject *__pyx_temp[2] = {__pyx_t_6, __pyx_v_path};
-      __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 672, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 677, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_GOTREF(__pyx_t_1);
     } else
@@ -16064,51 +16179,51 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
     #if CYTHON_FAST_PYCCALL
     if (__Pyx_PyFastCFunction_Check(__pyx_t_5)) {
       PyObject *__pyx_temp[2] = {__pyx_t_6, __pyx_v_path};
-      __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 672, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 677, __pyx_L1_error)
       __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
       __Pyx_GOTREF(__pyx_t_1);
     } else
     #endif
     {
-      __pyx_t_7 = PyTuple_New(1+1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 672, __pyx_L1_error)
+      __pyx_t_7 = PyTuple_New(1+1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 677, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_7);
       __Pyx_GIVEREF(__pyx_t_6); PyTuple_SET_ITEM(__pyx_t_7, 0, __pyx_t_6); __pyx_t_6 = NULL;
       __Pyx_INCREF(__pyx_v_path);
       __Pyx_GIVEREF(__pyx_v_path);
       PyTuple_SET_ITEM(__pyx_t_7, 0+1, __pyx_v_path);
-      __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_7, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 672, __pyx_L1_error)
+      __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_7, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 677, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
       __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
     }
   }
   __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-  __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_t_1); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 672, __pyx_L1_error)
+  __pyx_t_2 = __Pyx_PyObject_IsTrue(__pyx_t_1); if (unlikely(__pyx_t_2 < 0)) __PYX_ERR(0, 677, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_t_3 = ((!__pyx_t_2) != 0);
   if (__pyx_t_3) {
 
-    /* "pyaffy/celparser.pyx":673
+    /* "pyaffy/celparser.pyx":678
  * 
  *     if not os.path.isfile(path):
  *         raise IOError('File "%s" not found.' %(path))             # <<<<<<<<<<<<<<
  * 
  *     version = 0
  */
-    __pyx_t_1 = __Pyx_PyString_Format(__pyx_kp_s_File_s_not_found, __pyx_v_path); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 673, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyString_Format(__pyx_kp_s_File_s_not_found, __pyx_v_path); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 678, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_5 = PyTuple_New(1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 673, __pyx_L1_error)
+    __pyx_t_5 = PyTuple_New(1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 678, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_GIVEREF(__pyx_t_1);
     PyTuple_SET_ITEM(__pyx_t_5, 0, __pyx_t_1);
     __pyx_t_1 = 0;
-    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_IOError, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 673, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyObject_Call(__pyx_builtin_IOError, __pyx_t_5, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 678, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     __Pyx_Raise(__pyx_t_1, 0, 0, 0);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-    __PYX_ERR(0, 673, __pyx_L1_error)
+    __PYX_ERR(0, 678, __pyx_L1_error)
 
-    /* "pyaffy/celparser.pyx":672
+    /* "pyaffy/celparser.pyx":677
  *     assert isinstance(path, (text, str))
  * 
  *     if not os.path.isfile(path):             # <<<<<<<<<<<<<<
@@ -16117,7 +16232,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
  */
   }
 
-  /* "pyaffy/celparser.pyx":675
+  /* "pyaffy/celparser.pyx":680
  *         raise IOError('File "%s" not found.' %(path))
  * 
  *     version = 0             # <<<<<<<<<<<<<<
@@ -16126,7 +16241,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
  */
   __pyx_v_version = 0;
 
-  /* "pyaffy/celparser.pyx":678
+  /* "pyaffy/celparser.pyx":683
  * 
  *     # test if file is gzipped
  *     compressed = False             # <<<<<<<<<<<<<<
@@ -16135,7 +16250,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
  */
   __pyx_v_compressed = 0;
 
-  /* "pyaffy/celparser.pyx":679
+  /* "pyaffy/celparser.pyx":684
  *     # test if file is gzipped
  *     compressed = False
  *     fh = None             # <<<<<<<<<<<<<<
@@ -16145,7 +16260,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
   __Pyx_INCREF(Py_None);
   __pyx_v_fh = Py_None;
 
-  /* "pyaffy/celparser.pyx":680
+  /* "pyaffy/celparser.pyx":685
  *     compressed = False
  *     fh = None
  *     try:             # <<<<<<<<<<<<<<
@@ -16154,14 +16269,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
  */
   /*try:*/ {
 
-    /* "pyaffy/celparser.pyx":681
+    /* "pyaffy/celparser.pyx":686
  *     fh = None
  *     try:
  *         fh = try_open_gzip(path)             # <<<<<<<<<<<<<<
  *         if fh is not None:
  *             compressed = True
  */
-    __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_try_open_gzip); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 681, __pyx_L7_error)
+    __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_try_open_gzip); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 686, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_5);
     __pyx_t_7 = NULL;
     if (CYTHON_UNPACK_METHODS && unlikely(PyMethod_Check(__pyx_t_5))) {
@@ -16174,13 +16289,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
       }
     }
     if (!__pyx_t_7) {
-      __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_5, __pyx_v_path); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 681, __pyx_L7_error)
+      __pyx_t_1 = __Pyx_PyObject_CallOneArg(__pyx_t_5, __pyx_v_path); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 686, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_1);
     } else {
       #if CYTHON_FAST_PYCALL
       if (PyFunction_Check(__pyx_t_5)) {
         PyObject *__pyx_temp[2] = {__pyx_t_7, __pyx_v_path};
-        __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 681, __pyx_L7_error)
+        __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 686, __pyx_L7_error)
         __Pyx_XDECREF(__pyx_t_7); __pyx_t_7 = 0;
         __Pyx_GOTREF(__pyx_t_1);
       } else
@@ -16188,19 +16303,19 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
       #if CYTHON_FAST_PYCCALL
       if (__Pyx_PyFastCFunction_Check(__pyx_t_5)) {
         PyObject *__pyx_temp[2] = {__pyx_t_7, __pyx_v_path};
-        __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 681, __pyx_L7_error)
+        __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-1, 1+1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 686, __pyx_L7_error)
         __Pyx_XDECREF(__pyx_t_7); __pyx_t_7 = 0;
         __Pyx_GOTREF(__pyx_t_1);
       } else
       #endif
       {
-        __pyx_t_6 = PyTuple_New(1+1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 681, __pyx_L7_error)
+        __pyx_t_6 = PyTuple_New(1+1); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 686, __pyx_L7_error)
         __Pyx_GOTREF(__pyx_t_6);
         __Pyx_GIVEREF(__pyx_t_7); PyTuple_SET_ITEM(__pyx_t_6, 0, __pyx_t_7); __pyx_t_7 = NULL;
         __Pyx_INCREF(__pyx_v_path);
         __Pyx_GIVEREF(__pyx_v_path);
         PyTuple_SET_ITEM(__pyx_t_6, 0+1, __pyx_v_path);
-        __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_6, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 681, __pyx_L7_error)
+        __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_6, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 686, __pyx_L7_error)
         __Pyx_GOTREF(__pyx_t_1);
         __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
       }
@@ -16209,7 +16324,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
     __Pyx_DECREF_SET(__pyx_v_fh, __pyx_t_1);
     __pyx_t_1 = 0;
 
-    /* "pyaffy/celparser.pyx":682
+    /* "pyaffy/celparser.pyx":687
  *     try:
  *         fh = try_open_gzip(path)
  *         if fh is not None:             # <<<<<<<<<<<<<<
@@ -16220,7 +16335,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
     __pyx_t_2 = (__pyx_t_3 != 0);
     if (__pyx_t_2) {
 
-      /* "pyaffy/celparser.pyx":683
+      /* "pyaffy/celparser.pyx":688
  *         fh = try_open_gzip(path)
  *         if fh is not None:
  *             compressed = True             # <<<<<<<<<<<<<<
@@ -16229,7 +16344,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
  */
       __pyx_v_compressed = 1;
 
-      /* "pyaffy/celparser.pyx":682
+      /* "pyaffy/celparser.pyx":687
  *     try:
  *         fh = try_open_gzip(path)
  *         if fh is not None:             # <<<<<<<<<<<<<<
@@ -16239,7 +16354,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
       goto __pyx_L9;
     }
 
-    /* "pyaffy/celparser.pyx":685
+    /* "pyaffy/celparser.pyx":690
  *             compressed = True
  *         else:
  *             fh = open(path, 'rb')             # <<<<<<<<<<<<<<
@@ -16247,7 +16362,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
  *         x=fh.read(1)
  */
     /*else*/ {
-      __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_open); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 685, __pyx_L7_error)
+      __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_open); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 690, __pyx_L7_error)
       __Pyx_GOTREF(__pyx_t_5);
       __pyx_t_6 = NULL;
       __pyx_t_8 = 0;
@@ -16264,7 +16379,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
       #if CYTHON_FAST_PYCALL
       if (PyFunction_Check(__pyx_t_5)) {
         PyObject *__pyx_temp[3] = {__pyx_t_6, __pyx_v_path, __pyx_n_s_rb};
-        __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_8, 2+__pyx_t_8); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 685, __pyx_L7_error)
+        __pyx_t_1 = __Pyx_PyFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_8, 2+__pyx_t_8); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 690, __pyx_L7_error)
         __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
         __Pyx_GOTREF(__pyx_t_1);
       } else
@@ -16272,13 +16387,13 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
       #if CYTHON_FAST_PYCCALL
       if (__Pyx_PyFastCFunction_Check(__pyx_t_5)) {
         PyObject *__pyx_temp[3] = {__pyx_t_6, __pyx_v_path, __pyx_n_s_rb};
-        __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_8, 2+__pyx_t_8); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 685, __pyx_L7_error)
+        __pyx_t_1 = __Pyx_PyCFunction_FastCall(__pyx_t_5, __pyx_temp+1-__pyx_t_8, 2+__pyx_t_8); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 690, __pyx_L7_error)
         __Pyx_XDECREF(__pyx_t_6); __pyx_t_6 = 0;
         __Pyx_GOTREF(__pyx_t_1);
       } else
       #endif
       {
-        __pyx_t_7 = PyTuple_New(2+__pyx_t_8); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 685, __pyx_L7_error)
+        __pyx_t_7 = PyTuple_New(2+__pyx_t_8); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 690, __pyx_L7_error)
         __Pyx_GOTREF(__pyx_t_7);
         if (__pyx_t_6) {
           __Pyx_GIVEREF(__pyx_t_6); PyTuple_SET_ITEM(__pyx_t_7, 0, __pyx_t_6); __pyx_t_6 = NULL;
@@ -16289,7 +16404,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
         __Pyx_INCREF(__pyx_n_s_rb);
         __Pyx_GIVEREF(__pyx_n_s_rb);
         PyTuple_SET_ITEM(__pyx_t_7, 1+__pyx_t_8, __pyx_n_s_rb);
-        __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_7, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 685, __pyx_L7_error)
+        __pyx_t_1 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_7, NULL); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 690, __pyx_L7_error)
         __Pyx_GOTREF(__pyx_t_1);
         __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
       }
@@ -16299,33 +16414,33 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
     }
     __pyx_L9:;
 
-    /* "pyaffy/celparser.pyx":687
+    /* "pyaffy/celparser.pyx":692
  *             fh = open(path, 'rb')
  * 
  *         x=fh.read(1)             # <<<<<<<<<<<<<<
  *         version = ord(x) # read the first byte
  * 
  */
-    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 687, __pyx_L7_error)
+    __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_read); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 692, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_tuple__86, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 687, __pyx_L7_error)
+    __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_1, __pyx_tuple__86, NULL); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 692, __pyx_L7_error)
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
     __pyx_v_x = __pyx_t_5;
     __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":688
+    /* "pyaffy/celparser.pyx":693
  * 
  *         x=fh.read(1)
  *         version = ord(x) # read the first byte             # <<<<<<<<<<<<<<
  * 
  *     finally:
  */
-    __pyx_t_9 = __Pyx_PyObject_Ord(__pyx_v_x); if (unlikely(__pyx_t_9 == ((long)(long)(Py_UCS4)-1))) __PYX_ERR(0, 688, __pyx_L7_error)
+    __pyx_t_9 = __Pyx_PyObject_Ord(__pyx_v_x); if (unlikely(__pyx_t_9 == ((long)(long)(Py_UCS4)-1))) __PYX_ERR(0, 693, __pyx_L7_error)
     __pyx_v_version = __pyx_t_9;
   }
 
-  /* "pyaffy/celparser.pyx":691
+  /* "pyaffy/celparser.pyx":696
  * 
  *     finally:
  *         if fh is not None:             # <<<<<<<<<<<<<<
@@ -16338,14 +16453,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
       __pyx_t_3 = (__pyx_t_2 != 0);
       if (__pyx_t_3) {
 
-        /* "pyaffy/celparser.pyx":692
+        /* "pyaffy/celparser.pyx":697
  *     finally:
  *         if fh is not None:
  *             fh.close()             # <<<<<<<<<<<<<<
  * 
  * 
  */
-        __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_close); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 692, __pyx_L1_error)
+        __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_close); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 697, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_1);
         __pyx_t_7 = NULL;
         if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_1))) {
@@ -16358,16 +16473,16 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
           }
         }
         if (__pyx_t_7) {
-          __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 692, __pyx_L1_error)
+          __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 697, __pyx_L1_error)
           __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
         } else {
-          __pyx_t_5 = __Pyx_PyObject_CallNoArg(__pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 692, __pyx_L1_error)
+          __pyx_t_5 = __Pyx_PyObject_CallNoArg(__pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 697, __pyx_L1_error)
         }
         __Pyx_GOTREF(__pyx_t_5);
         __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
         __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-        /* "pyaffy/celparser.pyx":691
+        /* "pyaffy/celparser.pyx":696
  * 
  *     finally:
  *         if fh is not None:             # <<<<<<<<<<<<<<
@@ -16400,14 +16515,14 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
         __pyx_t_2 = (__pyx_t_3 != 0);
         if (__pyx_t_2) {
 
-          /* "pyaffy/celparser.pyx":692
+          /* "pyaffy/celparser.pyx":697
  *     finally:
  *         if fh is not None:
  *             fh.close()             # <<<<<<<<<<<<<<
  * 
  * 
  */
-          __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_close); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 692, __pyx_L12_error)
+          __pyx_t_1 = __Pyx_PyObject_GetAttrStr(__pyx_v_fh, __pyx_n_s_close); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 697, __pyx_L12_error)
           __Pyx_GOTREF(__pyx_t_1);
           __pyx_t_7 = NULL;
           if (CYTHON_UNPACK_METHODS && likely(PyMethod_Check(__pyx_t_1))) {
@@ -16420,16 +16535,16 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
             }
           }
           if (__pyx_t_7) {
-            __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 692, __pyx_L12_error)
+            __pyx_t_5 = __Pyx_PyObject_CallOneArg(__pyx_t_1, __pyx_t_7); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 697, __pyx_L12_error)
             __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
           } else {
-            __pyx_t_5 = __Pyx_PyObject_CallNoArg(__pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 692, __pyx_L12_error)
+            __pyx_t_5 = __Pyx_PyObject_CallNoArg(__pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 697, __pyx_L12_error)
           }
           __Pyx_GOTREF(__pyx_t_5);
           __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
           __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
 
-          /* "pyaffy/celparser.pyx":691
+          /* "pyaffy/celparser.pyx":696
  * 
  *     finally:
  *         if fh is not None:             # <<<<<<<<<<<<<<
@@ -16467,7 +16582,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
     __pyx_L8:;
   }
 
-  /* "pyaffy/celparser.pyx":695
+  /* "pyaffy/celparser.pyx":700
  * 
  * 
  *     y = None             # <<<<<<<<<<<<<<
@@ -16477,7 +16592,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
   __Pyx_INCREF(Py_None);
   __pyx_v_y = Py_None;
 
-  /* "pyaffy/celparser.pyx":696
+  /* "pyaffy/celparser.pyx":701
  * 
  *     y = None
  *     if version == 59:             # <<<<<<<<<<<<<<
@@ -16487,27 +16602,27 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
   switch (__pyx_v_version) {
     case 59:
 
-    /* "pyaffy/celparser.pyx":698
+    /* "pyaffy/celparser.pyx":703
  *     if version == 59:
  *         # command console generic data file format (binary, big-endian)
  *         y = parse_celfile_cc(path, compressed = compressed)             # <<<<<<<<<<<<<<
  *     elif version == 64:
  *         # version 4 format (binary, little-endian)
  */
-    __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_parse_celfile_cc); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 698, __pyx_L1_error)
+    __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_parse_celfile_cc); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 703, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_1 = PyTuple_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 698, __pyx_L1_error)
+    __pyx_t_1 = PyTuple_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 703, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_INCREF(__pyx_v_path);
     __Pyx_GIVEREF(__pyx_v_path);
     PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_v_path);
-    __pyx_t_7 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 698, __pyx_L1_error)
+    __pyx_t_7 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 703, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_7);
-    __pyx_t_6 = __Pyx_PyBool_FromLong(__pyx_v_compressed); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 698, __pyx_L1_error)
+    __pyx_t_6 = __Pyx_PyBool_FromLong(__pyx_v_compressed); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 703, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
-    if (PyDict_SetItem(__pyx_t_7, __pyx_n_s_compressed, __pyx_t_6) < 0) __PYX_ERR(0, 698, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_7, __pyx_n_s_compressed, __pyx_t_6) < 0) __PYX_ERR(0, 703, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-    __pyx_t_6 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_1, __pyx_t_7); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 698, __pyx_L1_error)
+    __pyx_t_6 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_1, __pyx_t_7); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 703, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
@@ -16515,7 +16630,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
     __Pyx_DECREF_SET(__pyx_v_y, __pyx_t_6);
     __pyx_t_6 = 0;
 
-    /* "pyaffy/celparser.pyx":696
+    /* "pyaffy/celparser.pyx":701
  * 
  *     y = None
  *     if version == 59:             # <<<<<<<<<<<<<<
@@ -16524,7 +16639,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
  */
     break;
 
-    /* "pyaffy/celparser.pyx":699
+    /* "pyaffy/celparser.pyx":704
  *         # command console generic data file format (binary, big-endian)
  *         y = parse_celfile_cc(path, compressed = compressed)
  *     elif version == 64:             # <<<<<<<<<<<<<<
@@ -16533,27 +16648,27 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
  */
     case 64:
 
-    /* "pyaffy/celparser.pyx":701
+    /* "pyaffy/celparser.pyx":706
  *     elif version == 64:
  *         # version 4 format (binary, little-endian)
  *         y = parse_celfile_v4(path, compressed = compressed)             # <<<<<<<<<<<<<<
  *     else:
  *         # version 3 format (plain-text)
  */
-    __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_parse_celfile_v4); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 701, __pyx_L1_error)
+    __pyx_t_6 = __Pyx_GetModuleGlobalName(__pyx_n_s_parse_celfile_v4); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 706, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
-    __pyx_t_7 = PyTuple_New(1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 701, __pyx_L1_error)
+    __pyx_t_7 = PyTuple_New(1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 706, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_7);
     __Pyx_INCREF(__pyx_v_path);
     __Pyx_GIVEREF(__pyx_v_path);
     PyTuple_SET_ITEM(__pyx_t_7, 0, __pyx_v_path);
-    __pyx_t_1 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 701, __pyx_L1_error)
+    __pyx_t_1 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 706, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
-    __pyx_t_5 = __Pyx_PyBool_FromLong(__pyx_v_compressed); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 701, __pyx_L1_error)
+    __pyx_t_5 = __Pyx_PyBool_FromLong(__pyx_v_compressed); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 706, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
-    if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_compressed, __pyx_t_5) < 0) __PYX_ERR(0, 701, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_compressed, __pyx_t_5) < 0) __PYX_ERR(0, 706, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
-    __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_7, __pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 701, __pyx_L1_error)
+    __pyx_t_5 = __Pyx_PyObject_Call(__pyx_t_6, __pyx_t_7, __pyx_t_1); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 706, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
     __Pyx_DECREF(__pyx_t_7); __pyx_t_7 = 0;
@@ -16561,7 +16676,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
     __Pyx_DECREF_SET(__pyx_v_y, __pyx_t_5);
     __pyx_t_5 = 0;
 
-    /* "pyaffy/celparser.pyx":699
+    /* "pyaffy/celparser.pyx":704
  *         # command console generic data file format (binary, big-endian)
  *         y = parse_celfile_cc(path, compressed = compressed)
  *     elif version == 64:             # <<<<<<<<<<<<<<
@@ -16571,27 +16686,27 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
     break;
     default:
 
-    /* "pyaffy/celparser.pyx":704
+    /* "pyaffy/celparser.pyx":709
  *     else:
  *         # version 3 format (plain-text)
  *         y = parse_celfile_v3(path, compressed = compressed)             # <<<<<<<<<<<<<<
  * 
  *     return y
  */
-    __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_parse_celfile_v3); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 704, __pyx_L1_error)
+    __pyx_t_5 = __Pyx_GetModuleGlobalName(__pyx_n_s_parse_celfile_v3); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 709, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_5);
-    __pyx_t_1 = PyTuple_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 704, __pyx_L1_error)
+    __pyx_t_1 = PyTuple_New(1); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 709, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
     __Pyx_INCREF(__pyx_v_path);
     __Pyx_GIVEREF(__pyx_v_path);
     PyTuple_SET_ITEM(__pyx_t_1, 0, __pyx_v_path);
-    __pyx_t_7 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 704, __pyx_L1_error)
+    __pyx_t_7 = __Pyx_PyDict_NewPresized(1); if (unlikely(!__pyx_t_7)) __PYX_ERR(0, 709, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_7);
-    __pyx_t_6 = __Pyx_PyBool_FromLong(__pyx_v_compressed); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 704, __pyx_L1_error)
+    __pyx_t_6 = __Pyx_PyBool_FromLong(__pyx_v_compressed); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 709, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
-    if (PyDict_SetItem(__pyx_t_7, __pyx_n_s_compressed, __pyx_t_6) < 0) __PYX_ERR(0, 704, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_7, __pyx_n_s_compressed, __pyx_t_6) < 0) __PYX_ERR(0, 709, __pyx_L1_error)
     __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
-    __pyx_t_6 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_1, __pyx_t_7); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 704, __pyx_L1_error)
+    __pyx_t_6 = __Pyx_PyObject_Call(__pyx_t_5, __pyx_t_1, __pyx_t_7); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 709, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_6);
     __Pyx_DECREF(__pyx_t_5); __pyx_t_5 = 0;
     __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
@@ -16601,7 +16716,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
     break;
   }
 
-  /* "pyaffy/celparser.pyx":706
+  /* "pyaffy/celparser.pyx":711
  *         y = parse_celfile_v3(path, compressed = compressed)
  * 
  *     return y             # <<<<<<<<<<<<<<
@@ -16611,7 +16726,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
   __pyx_r = __pyx_v_y;
   goto __pyx_L0;
 
-  /* "pyaffy/celparser.pyx":643
+  /* "pyaffy/celparser.pyx":648
  * 
  * 
  * def parse_cel(path):             # <<<<<<<<<<<<<<
@@ -16636,7 +16751,7 @@ static PyObject *__pyx_pf_6pyaffy_9celparser_10parse_cel(CYTHON_UNUSED PyObject 
   return __pyx_r;
 }
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":214
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":214
  *         # experimental exception made for __getbuffer__ and __releasebuffer__
  *         # -- the details of this may change.
  *         def __getbuffer__(ndarray self, Py_buffer* info, int flags):             # <<<<<<<<<<<<<<
@@ -16683,7 +16798,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
     __Pyx_GIVEREF(__pyx_v_info->obj);
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":220
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":220
  *             # of flags
  * 
  *             if info == NULL: return             # <<<<<<<<<<<<<<
@@ -16696,7 +16811,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
     goto __pyx_L0;
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":223
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":223
  * 
  *             cdef int copy_shape, i, ndim
  *             cdef int endian_detector = 1             # <<<<<<<<<<<<<<
@@ -16705,7 +16820,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
   __pyx_v_endian_detector = 1;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":224
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":224
  *             cdef int copy_shape, i, ndim
  *             cdef int endian_detector = 1
  *             cdef bint little_endian = ((<char*>&endian_detector)[0] != 0)             # <<<<<<<<<<<<<<
@@ -16714,7 +16829,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
   __pyx_v_little_endian = ((((char *)(&__pyx_v_endian_detector))[0]) != 0);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":226
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":226
  *             cdef bint little_endian = ((<char*>&endian_detector)[0] != 0)
  * 
  *             ndim = PyArray_NDIM(self)             # <<<<<<<<<<<<<<
@@ -16723,7 +16838,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
   __pyx_v_ndim = PyArray_NDIM(__pyx_v_self);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":228
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":228
  *             ndim = PyArray_NDIM(self)
  * 
  *             if sizeof(npy_intp) != sizeof(Py_ssize_t):             # <<<<<<<<<<<<<<
@@ -16733,7 +16848,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   __pyx_t_1 = (((sizeof(npy_intp)) != (sizeof(Py_ssize_t))) != 0);
   if (__pyx_t_1) {
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":229
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":229
  * 
  *             if sizeof(npy_intp) != sizeof(Py_ssize_t):
  *                 copy_shape = 1             # <<<<<<<<<<<<<<
@@ -16742,7 +16857,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
     __pyx_v_copy_shape = 1;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":228
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":228
  *             ndim = PyArray_NDIM(self)
  * 
  *             if sizeof(npy_intp) != sizeof(Py_ssize_t):             # <<<<<<<<<<<<<<
@@ -16752,7 +16867,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
     goto __pyx_L4;
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":231
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":231
  *                 copy_shape = 1
  *             else:
  *                 copy_shape = 0             # <<<<<<<<<<<<<<
@@ -16764,7 +16879,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   }
   __pyx_L4:;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":233
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":233
  *                 copy_shape = 0
  * 
  *             if ((flags & pybuf.PyBUF_C_CONTIGUOUS == pybuf.PyBUF_C_CONTIGUOUS)             # <<<<<<<<<<<<<<
@@ -16778,7 +16893,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
     goto __pyx_L6_bool_binop_done;
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":234
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":234
  * 
  *             if ((flags & pybuf.PyBUF_C_CONTIGUOUS == pybuf.PyBUF_C_CONTIGUOUS)
  *                 and not PyArray_CHKFLAGS(self, NPY_C_CONTIGUOUS)):             # <<<<<<<<<<<<<<
@@ -16789,7 +16904,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   __pyx_t_1 = __pyx_t_2;
   __pyx_L6_bool_binop_done:;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":233
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":233
  *                 copy_shape = 0
  * 
  *             if ((flags & pybuf.PyBUF_C_CONTIGUOUS == pybuf.PyBUF_C_CONTIGUOUS)             # <<<<<<<<<<<<<<
@@ -16798,7 +16913,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
   if (__pyx_t_1) {
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":235
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":235
  *             if ((flags & pybuf.PyBUF_C_CONTIGUOUS == pybuf.PyBUF_C_CONTIGUOUS)
  *                 and not PyArray_CHKFLAGS(self, NPY_C_CONTIGUOUS)):
  *                 raise ValueError(u"ndarray is not C contiguous")             # <<<<<<<<<<<<<<
@@ -16811,7 +16926,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __PYX_ERR(1, 235, __pyx_L1_error)
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":233
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":233
  *                 copy_shape = 0
  * 
  *             if ((flags & pybuf.PyBUF_C_CONTIGUOUS == pybuf.PyBUF_C_CONTIGUOUS)             # <<<<<<<<<<<<<<
@@ -16820,7 +16935,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":237
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":237
  *                 raise ValueError(u"ndarray is not C contiguous")
  * 
  *             if ((flags & pybuf.PyBUF_F_CONTIGUOUS == pybuf.PyBUF_F_CONTIGUOUS)             # <<<<<<<<<<<<<<
@@ -16834,7 +16949,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
     goto __pyx_L9_bool_binop_done;
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":238
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":238
  * 
  *             if ((flags & pybuf.PyBUF_F_CONTIGUOUS == pybuf.PyBUF_F_CONTIGUOUS)
  *                 and not PyArray_CHKFLAGS(self, NPY_F_CONTIGUOUS)):             # <<<<<<<<<<<<<<
@@ -16845,7 +16960,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   __pyx_t_1 = __pyx_t_2;
   __pyx_L9_bool_binop_done:;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":237
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":237
  *                 raise ValueError(u"ndarray is not C contiguous")
  * 
  *             if ((flags & pybuf.PyBUF_F_CONTIGUOUS == pybuf.PyBUF_F_CONTIGUOUS)             # <<<<<<<<<<<<<<
@@ -16854,7 +16969,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
   if (__pyx_t_1) {
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":239
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":239
  *             if ((flags & pybuf.PyBUF_F_CONTIGUOUS == pybuf.PyBUF_F_CONTIGUOUS)
  *                 and not PyArray_CHKFLAGS(self, NPY_F_CONTIGUOUS)):
  *                 raise ValueError(u"ndarray is not Fortran contiguous")             # <<<<<<<<<<<<<<
@@ -16867,7 +16982,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
     __PYX_ERR(1, 239, __pyx_L1_error)
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":237
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":237
  *                 raise ValueError(u"ndarray is not C contiguous")
  * 
  *             if ((flags & pybuf.PyBUF_F_CONTIGUOUS == pybuf.PyBUF_F_CONTIGUOUS)             # <<<<<<<<<<<<<<
@@ -16876,7 +16991,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":241
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":241
  *                 raise ValueError(u"ndarray is not Fortran contiguous")
  * 
  *             info.buf = PyArray_DATA(self)             # <<<<<<<<<<<<<<
@@ -16885,7 +17000,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
   __pyx_v_info->buf = PyArray_DATA(__pyx_v_self);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":242
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":242
  * 
  *             info.buf = PyArray_DATA(self)
  *             info.ndim = ndim             # <<<<<<<<<<<<<<
@@ -16894,7 +17009,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
   __pyx_v_info->ndim = __pyx_v_ndim;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":243
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":243
  *             info.buf = PyArray_DATA(self)
  *             info.ndim = ndim
  *             if copy_shape:             # <<<<<<<<<<<<<<
@@ -16904,7 +17019,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   __pyx_t_1 = (__pyx_v_copy_shape != 0);
   if (__pyx_t_1) {
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":246
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":246
  *                 # Allocate new buffer for strides and shape info.
  *                 # This is allocated as one block, strides first.
  *                 info.strides = <Py_ssize_t*>PyObject_Malloc(sizeof(Py_ssize_t) * 2 * <size_t>ndim)             # <<<<<<<<<<<<<<
@@ -16913,7 +17028,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
     __pyx_v_info->strides = ((Py_ssize_t *)PyObject_Malloc((((sizeof(Py_ssize_t)) * 2) * ((size_t)__pyx_v_ndim))));
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":247
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":247
  *                 # This is allocated as one block, strides first.
  *                 info.strides = <Py_ssize_t*>PyObject_Malloc(sizeof(Py_ssize_t) * 2 * <size_t>ndim)
  *                 info.shape = info.strides + ndim             # <<<<<<<<<<<<<<
@@ -16922,7 +17037,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
     __pyx_v_info->shape = (__pyx_v_info->strides + __pyx_v_ndim);
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":248
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":248
  *                 info.strides = <Py_ssize_t*>PyObject_Malloc(sizeof(Py_ssize_t) * 2 * <size_t>ndim)
  *                 info.shape = info.strides + ndim
  *                 for i in range(ndim):             # <<<<<<<<<<<<<<
@@ -16933,7 +17048,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
     for (__pyx_t_5 = 0; __pyx_t_5 < __pyx_t_4; __pyx_t_5+=1) {
       __pyx_v_i = __pyx_t_5;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":249
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":249
  *                 info.shape = info.strides + ndim
  *                 for i in range(ndim):
  *                     info.strides[i] = PyArray_STRIDES(self)[i]             # <<<<<<<<<<<<<<
@@ -16942,7 +17057,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
       (__pyx_v_info->strides[__pyx_v_i]) = (PyArray_STRIDES(__pyx_v_self)[__pyx_v_i]);
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":250
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":250
  *                 for i in range(ndim):
  *                     info.strides[i] = PyArray_STRIDES(self)[i]
  *                     info.shape[i] = PyArray_DIMS(self)[i]             # <<<<<<<<<<<<<<
@@ -16952,7 +17067,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       (__pyx_v_info->shape[__pyx_v_i]) = (PyArray_DIMS(__pyx_v_self)[__pyx_v_i]);
     }
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":243
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":243
  *             info.buf = PyArray_DATA(self)
  *             info.ndim = ndim
  *             if copy_shape:             # <<<<<<<<<<<<<<
@@ -16962,7 +17077,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
     goto __pyx_L11;
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":252
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":252
  *                     info.shape[i] = PyArray_DIMS(self)[i]
  *             else:
  *                 info.strides = <Py_ssize_t*>PyArray_STRIDES(self)             # <<<<<<<<<<<<<<
@@ -16972,7 +17087,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   /*else*/ {
     __pyx_v_info->strides = ((Py_ssize_t *)PyArray_STRIDES(__pyx_v_self));
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":253
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":253
  *             else:
  *                 info.strides = <Py_ssize_t*>PyArray_STRIDES(self)
  *                 info.shape = <Py_ssize_t*>PyArray_DIMS(self)             # <<<<<<<<<<<<<<
@@ -16983,7 +17098,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   }
   __pyx_L11:;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":254
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":254
  *                 info.strides = <Py_ssize_t*>PyArray_STRIDES(self)
  *                 info.shape = <Py_ssize_t*>PyArray_DIMS(self)
  *             info.suboffsets = NULL             # <<<<<<<<<<<<<<
@@ -16992,7 +17107,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
   __pyx_v_info->suboffsets = NULL;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":255
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":255
  *                 info.shape = <Py_ssize_t*>PyArray_DIMS(self)
  *             info.suboffsets = NULL
  *             info.itemsize = PyArray_ITEMSIZE(self)             # <<<<<<<<<<<<<<
@@ -17001,7 +17116,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
   __pyx_v_info->itemsize = PyArray_ITEMSIZE(__pyx_v_self);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":256
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":256
  *             info.suboffsets = NULL
  *             info.itemsize = PyArray_ITEMSIZE(self)
  *             info.readonly = not PyArray_ISWRITEABLE(self)             # <<<<<<<<<<<<<<
@@ -17010,7 +17125,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
   __pyx_v_info->readonly = (!(PyArray_ISWRITEABLE(__pyx_v_self) != 0));
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":259
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":259
  * 
  *             cdef int t
  *             cdef char* f = NULL             # <<<<<<<<<<<<<<
@@ -17019,7 +17134,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
   __pyx_v_f = NULL;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":260
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":260
  *             cdef int t
  *             cdef char* f = NULL
  *             cdef dtype descr = self.descr             # <<<<<<<<<<<<<<
@@ -17031,7 +17146,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   __pyx_v_descr = ((PyArray_Descr *)__pyx_t_3);
   __pyx_t_3 = 0;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":263
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":263
  *             cdef int offset
  * 
  *             cdef bint hasfields = PyDataType_HASFIELDS(descr)             # <<<<<<<<<<<<<<
@@ -17040,7 +17155,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
   __pyx_v_hasfields = PyDataType_HASFIELDS(__pyx_v_descr);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":265
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":265
  *             cdef bint hasfields = PyDataType_HASFIELDS(descr)
  * 
  *             if not hasfields and not copy_shape:             # <<<<<<<<<<<<<<
@@ -17058,7 +17173,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   __pyx_L15_bool_binop_done:;
   if (__pyx_t_1) {
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":267
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":267
  *             if not hasfields and not copy_shape:
  *                 # do not call releasebuffer
  *                 info.obj = None             # <<<<<<<<<<<<<<
@@ -17071,7 +17186,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
     __Pyx_DECREF(__pyx_v_info->obj);
     __pyx_v_info->obj = Py_None;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":265
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":265
  *             cdef bint hasfields = PyDataType_HASFIELDS(descr)
  * 
  *             if not hasfields and not copy_shape:             # <<<<<<<<<<<<<<
@@ -17081,7 +17196,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
     goto __pyx_L14;
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":270
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":270
  *             else:
  *                 # need to call releasebuffer
  *                 info.obj = self             # <<<<<<<<<<<<<<
@@ -17097,7 +17212,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   }
   __pyx_L14:;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":272
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":272
  *                 info.obj = self
  * 
  *             if not hasfields:             # <<<<<<<<<<<<<<
@@ -17107,7 +17222,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   __pyx_t_1 = ((!(__pyx_v_hasfields != 0)) != 0);
   if (__pyx_t_1) {
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":273
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":273
  * 
  *             if not hasfields:
  *                 t = descr.type_num             # <<<<<<<<<<<<<<
@@ -17117,7 +17232,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
     __pyx_t_4 = __pyx_v_descr->type_num;
     __pyx_v_t = __pyx_t_4;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":274
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":274
  *             if not hasfields:
  *                 t = descr.type_num
  *                 if ((descr.byteorder == c'>' and little_endian) or             # <<<<<<<<<<<<<<
@@ -17137,7 +17252,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
     }
     __pyx_L20_next_or:;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":275
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":275
  *                 t = descr.type_num
  *                 if ((descr.byteorder == c'>' and little_endian) or
  *                     (descr.byteorder == c'<' and not little_endian)):             # <<<<<<<<<<<<<<
@@ -17154,7 +17269,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
     __pyx_t_1 = __pyx_t_2;
     __pyx_L19_bool_binop_done:;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":274
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":274
  *             if not hasfields:
  *                 t = descr.type_num
  *                 if ((descr.byteorder == c'>' and little_endian) or             # <<<<<<<<<<<<<<
@@ -17163,7 +17278,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
     if (__pyx_t_1) {
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":276
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":276
  *                 if ((descr.byteorder == c'>' and little_endian) or
  *                     (descr.byteorder == c'<' and not little_endian)):
  *                     raise ValueError(u"Non-native byte order not supported")             # <<<<<<<<<<<<<<
@@ -17176,7 +17291,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
       __PYX_ERR(1, 276, __pyx_L1_error)
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":274
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":274
  *             if not hasfields:
  *                 t = descr.type_num
  *                 if ((descr.byteorder == c'>' and little_endian) or             # <<<<<<<<<<<<<<
@@ -17185,7 +17300,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
     }
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":277
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":277
  *                     (descr.byteorder == c'<' and not little_endian)):
  *                     raise ValueError(u"Non-native byte order not supported")
  *                 if   t == NPY_BYTE:        f = "b"             # <<<<<<<<<<<<<<
@@ -17197,7 +17312,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       __pyx_v_f = ((char *)"b");
       break;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":278
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":278
  *                     raise ValueError(u"Non-native byte order not supported")
  *                 if   t == NPY_BYTE:        f = "b"
  *                 elif t == NPY_UBYTE:       f = "B"             # <<<<<<<<<<<<<<
@@ -17208,7 +17323,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       __pyx_v_f = ((char *)"B");
       break;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":279
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":279
  *                 if   t == NPY_BYTE:        f = "b"
  *                 elif t == NPY_UBYTE:       f = "B"
  *                 elif t == NPY_SHORT:       f = "h"             # <<<<<<<<<<<<<<
@@ -17219,7 +17334,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       __pyx_v_f = ((char *)"h");
       break;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":280
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":280
  *                 elif t == NPY_UBYTE:       f = "B"
  *                 elif t == NPY_SHORT:       f = "h"
  *                 elif t == NPY_USHORT:      f = "H"             # <<<<<<<<<<<<<<
@@ -17230,7 +17345,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       __pyx_v_f = ((char *)"H");
       break;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":281
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":281
  *                 elif t == NPY_SHORT:       f = "h"
  *                 elif t == NPY_USHORT:      f = "H"
  *                 elif t == NPY_INT:         f = "i"             # <<<<<<<<<<<<<<
@@ -17241,7 +17356,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       __pyx_v_f = ((char *)"i");
       break;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":282
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":282
  *                 elif t == NPY_USHORT:      f = "H"
  *                 elif t == NPY_INT:         f = "i"
  *                 elif t == NPY_UINT:        f = "I"             # <<<<<<<<<<<<<<
@@ -17252,7 +17367,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       __pyx_v_f = ((char *)"I");
       break;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":283
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":283
  *                 elif t == NPY_INT:         f = "i"
  *                 elif t == NPY_UINT:        f = "I"
  *                 elif t == NPY_LONG:        f = "l"             # <<<<<<<<<<<<<<
@@ -17263,7 +17378,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       __pyx_v_f = ((char *)"l");
       break;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":284
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":284
  *                 elif t == NPY_UINT:        f = "I"
  *                 elif t == NPY_LONG:        f = "l"
  *                 elif t == NPY_ULONG:       f = "L"             # <<<<<<<<<<<<<<
@@ -17274,7 +17389,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       __pyx_v_f = ((char *)"L");
       break;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":285
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":285
  *                 elif t == NPY_LONG:        f = "l"
  *                 elif t == NPY_ULONG:       f = "L"
  *                 elif t == NPY_LONGLONG:    f = "q"             # <<<<<<<<<<<<<<
@@ -17285,7 +17400,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       __pyx_v_f = ((char *)"q");
       break;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":286
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":286
  *                 elif t == NPY_ULONG:       f = "L"
  *                 elif t == NPY_LONGLONG:    f = "q"
  *                 elif t == NPY_ULONGLONG:   f = "Q"             # <<<<<<<<<<<<<<
@@ -17296,7 +17411,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       __pyx_v_f = ((char *)"Q");
       break;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":287
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":287
  *                 elif t == NPY_LONGLONG:    f = "q"
  *                 elif t == NPY_ULONGLONG:   f = "Q"
  *                 elif t == NPY_FLOAT:       f = "f"             # <<<<<<<<<<<<<<
@@ -17307,7 +17422,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       __pyx_v_f = ((char *)"f");
       break;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":288
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":288
  *                 elif t == NPY_ULONGLONG:   f = "Q"
  *                 elif t == NPY_FLOAT:       f = "f"
  *                 elif t == NPY_DOUBLE:      f = "d"             # <<<<<<<<<<<<<<
@@ -17318,7 +17433,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       __pyx_v_f = ((char *)"d");
       break;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":289
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":289
  *                 elif t == NPY_FLOAT:       f = "f"
  *                 elif t == NPY_DOUBLE:      f = "d"
  *                 elif t == NPY_LONGDOUBLE:  f = "g"             # <<<<<<<<<<<<<<
@@ -17329,7 +17444,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       __pyx_v_f = ((char *)"g");
       break;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":290
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":290
  *                 elif t == NPY_DOUBLE:      f = "d"
  *                 elif t == NPY_LONGDOUBLE:  f = "g"
  *                 elif t == NPY_CFLOAT:      f = "Zf"             # <<<<<<<<<<<<<<
@@ -17340,7 +17455,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       __pyx_v_f = ((char *)"Zf");
       break;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":291
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":291
  *                 elif t == NPY_LONGDOUBLE:  f = "g"
  *                 elif t == NPY_CFLOAT:      f = "Zf"
  *                 elif t == NPY_CDOUBLE:     f = "Zd"             # <<<<<<<<<<<<<<
@@ -17351,7 +17466,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       __pyx_v_f = ((char *)"Zd");
       break;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":292
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":292
  *                 elif t == NPY_CFLOAT:      f = "Zf"
  *                 elif t == NPY_CDOUBLE:     f = "Zd"
  *                 elif t == NPY_CLONGDOUBLE: f = "Zg"             # <<<<<<<<<<<<<<
@@ -17362,7 +17477,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       __pyx_v_f = ((char *)"Zg");
       break;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":293
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":293
  *                 elif t == NPY_CDOUBLE:     f = "Zd"
  *                 elif t == NPY_CLONGDOUBLE: f = "Zg"
  *                 elif t == NPY_OBJECT:      f = "O"             # <<<<<<<<<<<<<<
@@ -17374,7 +17489,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       break;
       default:
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":295
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":295
  *                 elif t == NPY_OBJECT:      f = "O"
  *                 else:
  *                     raise ValueError(u"unknown dtype code in numpy.pxd (%d)" % t)             # <<<<<<<<<<<<<<
@@ -17400,7 +17515,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
       break;
     }
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":296
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":296
  *                 else:
  *                     raise ValueError(u"unknown dtype code in numpy.pxd (%d)" % t)
  *                 info.format = f             # <<<<<<<<<<<<<<
@@ -17409,7 +17524,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
     __pyx_v_info->format = __pyx_v_f;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":297
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":297
  *                     raise ValueError(u"unknown dtype code in numpy.pxd (%d)" % t)
  *                 info.format = f
  *                 return             # <<<<<<<<<<<<<<
@@ -17419,7 +17534,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
     __pyx_r = 0;
     goto __pyx_L0;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":272
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":272
  *                 info.obj = self
  * 
  *             if not hasfields:             # <<<<<<<<<<<<<<
@@ -17428,7 +17543,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":299
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":299
  *                 return
  *             else:
  *                 info.format = <char*>PyObject_Malloc(_buffer_format_string_len)             # <<<<<<<<<<<<<<
@@ -17438,7 +17553,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   /*else*/ {
     __pyx_v_info->format = ((char *)PyObject_Malloc(0xFF));
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":300
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":300
  *             else:
  *                 info.format = <char*>PyObject_Malloc(_buffer_format_string_len)
  *                 info.format[0] = c'^' # Native data types, manual alignment             # <<<<<<<<<<<<<<
@@ -17447,7 +17562,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
     (__pyx_v_info->format[0]) = '^';
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":301
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":301
  *                 info.format = <char*>PyObject_Malloc(_buffer_format_string_len)
  *                 info.format[0] = c'^' # Native data types, manual alignment
  *                 offset = 0             # <<<<<<<<<<<<<<
@@ -17456,7 +17571,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
  */
     __pyx_v_offset = 0;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":302
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":302
  *                 info.format[0] = c'^' # Native data types, manual alignment
  *                 offset = 0
  *                 f = _util_dtypestring(descr, info.format + 1,             # <<<<<<<<<<<<<<
@@ -17466,7 +17581,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
     __pyx_t_7 = __pyx_f_5numpy__util_dtypestring(__pyx_v_descr, (__pyx_v_info->format + 1), (__pyx_v_info->format + 0xFF), (&__pyx_v_offset)); if (unlikely(__pyx_t_7 == ((char *)NULL))) __PYX_ERR(1, 302, __pyx_L1_error)
     __pyx_v_f = __pyx_t_7;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":305
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":305
  *                                       info.format + _buffer_format_string_len,
  *                                       &offset)
  *                 f[0] = c'\0' # Terminate format string             # <<<<<<<<<<<<<<
@@ -17476,7 +17591,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
     (__pyx_v_f[0]) = '\x00';
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":214
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":214
  *         # experimental exception made for __getbuffer__ and __releasebuffer__
  *         # -- the details of this may change.
  *         def __getbuffer__(ndarray self, Py_buffer* info, int flags):             # <<<<<<<<<<<<<<
@@ -17508,7 +17623,7 @@ static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, P
   return __pyx_r;
 }
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":307
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":307
  *                 f[0] = c'\0' # Terminate format string
  * 
  *         def __releasebuffer__(ndarray self, Py_buffer* info):             # <<<<<<<<<<<<<<
@@ -17532,7 +17647,7 @@ static void __pyx_pf_5numpy_7ndarray_2__releasebuffer__(PyArrayObject *__pyx_v_s
   int __pyx_t_1;
   __Pyx_RefNannySetupContext("__releasebuffer__", 0);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":308
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":308
  * 
  *         def __releasebuffer__(ndarray self, Py_buffer* info):
  *             if PyArray_HASFIELDS(self):             # <<<<<<<<<<<<<<
@@ -17542,7 +17657,7 @@ static void __pyx_pf_5numpy_7ndarray_2__releasebuffer__(PyArrayObject *__pyx_v_s
   __pyx_t_1 = (PyArray_HASFIELDS(__pyx_v_self) != 0);
   if (__pyx_t_1) {
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":309
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":309
  *         def __releasebuffer__(ndarray self, Py_buffer* info):
  *             if PyArray_HASFIELDS(self):
  *                 PyObject_Free(info.format)             # <<<<<<<<<<<<<<
@@ -17551,7 +17666,7 @@ static void __pyx_pf_5numpy_7ndarray_2__releasebuffer__(PyArrayObject *__pyx_v_s
  */
     PyObject_Free(__pyx_v_info->format);
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":308
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":308
  * 
  *         def __releasebuffer__(ndarray self, Py_buffer* info):
  *             if PyArray_HASFIELDS(self):             # <<<<<<<<<<<<<<
@@ -17560,7 +17675,7 @@ static void __pyx_pf_5numpy_7ndarray_2__releasebuffer__(PyArrayObject *__pyx_v_s
  */
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":310
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":310
  *             if PyArray_HASFIELDS(self):
  *                 PyObject_Free(info.format)
  *             if sizeof(npy_intp) != sizeof(Py_ssize_t):             # <<<<<<<<<<<<<<
@@ -17570,7 +17685,7 @@ static void __pyx_pf_5numpy_7ndarray_2__releasebuffer__(PyArrayObject *__pyx_v_s
   __pyx_t_1 = (((sizeof(npy_intp)) != (sizeof(Py_ssize_t))) != 0);
   if (__pyx_t_1) {
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":311
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":311
  *                 PyObject_Free(info.format)
  *             if sizeof(npy_intp) != sizeof(Py_ssize_t):
  *                 PyObject_Free(info.strides)             # <<<<<<<<<<<<<<
@@ -17579,7 +17694,7 @@ static void __pyx_pf_5numpy_7ndarray_2__releasebuffer__(PyArrayObject *__pyx_v_s
  */
     PyObject_Free(__pyx_v_info->strides);
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":310
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":310
  *             if PyArray_HASFIELDS(self):
  *                 PyObject_Free(info.format)
  *             if sizeof(npy_intp) != sizeof(Py_ssize_t):             # <<<<<<<<<<<<<<
@@ -17588,7 +17703,7 @@ static void __pyx_pf_5numpy_7ndarray_2__releasebuffer__(PyArrayObject *__pyx_v_s
  */
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":307
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":307
  *                 f[0] = c'\0' # Terminate format string
  * 
  *         def __releasebuffer__(ndarray self, Py_buffer* info):             # <<<<<<<<<<<<<<
@@ -17600,7 +17715,7 @@ static void __pyx_pf_5numpy_7ndarray_2__releasebuffer__(PyArrayObject *__pyx_v_s
   __Pyx_RefNannyFinishContext();
 }
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":788
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":788
  * ctypedef npy_cdouble     complex_t
  * 
  * cdef inline object PyArray_MultiIterNew1(a):             # <<<<<<<<<<<<<<
@@ -17614,7 +17729,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew1(PyObject *__
   PyObject *__pyx_t_1 = NULL;
   __Pyx_RefNannySetupContext("PyArray_MultiIterNew1", 0);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":789
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":789
  * 
  * cdef inline object PyArray_MultiIterNew1(a):
  *     return PyArray_MultiIterNew(1, <void*>a)             # <<<<<<<<<<<<<<
@@ -17628,7 +17743,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew1(PyObject *__
   __pyx_t_1 = 0;
   goto __pyx_L0;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":788
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":788
  * ctypedef npy_cdouble     complex_t
  * 
  * cdef inline object PyArray_MultiIterNew1(a):             # <<<<<<<<<<<<<<
@@ -17647,7 +17762,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew1(PyObject *__
   return __pyx_r;
 }
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":791
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":791
  *     return PyArray_MultiIterNew(1, <void*>a)
  * 
  * cdef inline object PyArray_MultiIterNew2(a, b):             # <<<<<<<<<<<<<<
@@ -17661,7 +17776,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew2(PyObject *__
   PyObject *__pyx_t_1 = NULL;
   __Pyx_RefNannySetupContext("PyArray_MultiIterNew2", 0);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":792
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":792
  * 
  * cdef inline object PyArray_MultiIterNew2(a, b):
  *     return PyArray_MultiIterNew(2, <void*>a, <void*>b)             # <<<<<<<<<<<<<<
@@ -17675,7 +17790,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew2(PyObject *__
   __pyx_t_1 = 0;
   goto __pyx_L0;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":791
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":791
  *     return PyArray_MultiIterNew(1, <void*>a)
  * 
  * cdef inline object PyArray_MultiIterNew2(a, b):             # <<<<<<<<<<<<<<
@@ -17694,7 +17809,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew2(PyObject *__
   return __pyx_r;
 }
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":794
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":794
  *     return PyArray_MultiIterNew(2, <void*>a, <void*>b)
  * 
  * cdef inline object PyArray_MultiIterNew3(a, b, c):             # <<<<<<<<<<<<<<
@@ -17708,7 +17823,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew3(PyObject *__
   PyObject *__pyx_t_1 = NULL;
   __Pyx_RefNannySetupContext("PyArray_MultiIterNew3", 0);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":795
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":795
  * 
  * cdef inline object PyArray_MultiIterNew3(a, b, c):
  *     return PyArray_MultiIterNew(3, <void*>a, <void*>b, <void*> c)             # <<<<<<<<<<<<<<
@@ -17722,7 +17837,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew3(PyObject *__
   __pyx_t_1 = 0;
   goto __pyx_L0;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":794
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":794
  *     return PyArray_MultiIterNew(2, <void*>a, <void*>b)
  * 
  * cdef inline object PyArray_MultiIterNew3(a, b, c):             # <<<<<<<<<<<<<<
@@ -17741,7 +17856,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew3(PyObject *__
   return __pyx_r;
 }
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":797
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":797
  *     return PyArray_MultiIterNew(3, <void*>a, <void*>b, <void*> c)
  * 
  * cdef inline object PyArray_MultiIterNew4(a, b, c, d):             # <<<<<<<<<<<<<<
@@ -17755,7 +17870,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew4(PyObject *__
   PyObject *__pyx_t_1 = NULL;
   __Pyx_RefNannySetupContext("PyArray_MultiIterNew4", 0);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":798
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":798
  * 
  * cdef inline object PyArray_MultiIterNew4(a, b, c, d):
  *     return PyArray_MultiIterNew(4, <void*>a, <void*>b, <void*>c, <void*> d)             # <<<<<<<<<<<<<<
@@ -17769,7 +17884,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew4(PyObject *__
   __pyx_t_1 = 0;
   goto __pyx_L0;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":797
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":797
  *     return PyArray_MultiIterNew(3, <void*>a, <void*>b, <void*> c)
  * 
  * cdef inline object PyArray_MultiIterNew4(a, b, c, d):             # <<<<<<<<<<<<<<
@@ -17788,7 +17903,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew4(PyObject *__
   return __pyx_r;
 }
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":800
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":800
  *     return PyArray_MultiIterNew(4, <void*>a, <void*>b, <void*>c, <void*> d)
  * 
  * cdef inline object PyArray_MultiIterNew5(a, b, c, d, e):             # <<<<<<<<<<<<<<
@@ -17802,7 +17917,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew5(PyObject *__
   PyObject *__pyx_t_1 = NULL;
   __Pyx_RefNannySetupContext("PyArray_MultiIterNew5", 0);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":801
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":801
  * 
  * cdef inline object PyArray_MultiIterNew5(a, b, c, d, e):
  *     return PyArray_MultiIterNew(5, <void*>a, <void*>b, <void*>c, <void*> d, <void*> e)             # <<<<<<<<<<<<<<
@@ -17816,7 +17931,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew5(PyObject *__
   __pyx_t_1 = 0;
   goto __pyx_L0;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":800
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":800
  *     return PyArray_MultiIterNew(4, <void*>a, <void*>b, <void*>c, <void*> d)
  * 
  * cdef inline object PyArray_MultiIterNew5(a, b, c, d, e):             # <<<<<<<<<<<<<<
@@ -17835,7 +17950,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew5(PyObject *__
   return __pyx_r;
 }
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":803
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":803
  *     return PyArray_MultiIterNew(5, <void*>a, <void*>b, <void*>c, <void*> d, <void*> e)
  * 
  * cdef inline tuple PyDataType_SHAPE(dtype d):             # <<<<<<<<<<<<<<
@@ -17849,7 +17964,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyDataType_SHAPE(PyArray_Descr *__
   int __pyx_t_1;
   __Pyx_RefNannySetupContext("PyDataType_SHAPE", 0);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":804
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":804
  * 
  * cdef inline tuple PyDataType_SHAPE(dtype d):
  *     if PyDataType_HASSUBARRAY(d):             # <<<<<<<<<<<<<<
@@ -17859,7 +17974,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyDataType_SHAPE(PyArray_Descr *__
   __pyx_t_1 = (PyDataType_HASSUBARRAY(__pyx_v_d) != 0);
   if (__pyx_t_1) {
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":805
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":805
  * cdef inline tuple PyDataType_SHAPE(dtype d):
  *     if PyDataType_HASSUBARRAY(d):
  *         return <tuple>d.subarray.shape             # <<<<<<<<<<<<<<
@@ -17871,7 +17986,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyDataType_SHAPE(PyArray_Descr *__
     __pyx_r = ((PyObject*)__pyx_v_d->subarray->shape);
     goto __pyx_L0;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":804
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":804
  * 
  * cdef inline tuple PyDataType_SHAPE(dtype d):
  *     if PyDataType_HASSUBARRAY(d):             # <<<<<<<<<<<<<<
@@ -17880,7 +17995,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyDataType_SHAPE(PyArray_Descr *__
  */
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":807
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":807
  *         return <tuple>d.subarray.shape
  *     else:
  *         return ()             # <<<<<<<<<<<<<<
@@ -17894,7 +18009,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyDataType_SHAPE(PyArray_Descr *__
     goto __pyx_L0;
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":803
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":803
  *     return PyArray_MultiIterNew(5, <void*>a, <void*>b, <void*>c, <void*> d, <void*> e)
  * 
  * cdef inline tuple PyDataType_SHAPE(dtype d):             # <<<<<<<<<<<<<<
@@ -17909,7 +18024,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyDataType_SHAPE(PyArray_Descr *__
   return __pyx_r;
 }
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":809
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":809
  *         return ()
  * 
  * cdef inline char* _util_dtypestring(dtype descr, char* f, char* end, int* offset) except NULL:             # <<<<<<<<<<<<<<
@@ -17938,7 +18053,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
   char *__pyx_t_9;
   __Pyx_RefNannySetupContext("_util_dtypestring", 0);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":814
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":814
  * 
  *     cdef dtype child
  *     cdef int endian_detector = 1             # <<<<<<<<<<<<<<
@@ -17947,7 +18062,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
  */
   __pyx_v_endian_detector = 1;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":815
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":815
  *     cdef dtype child
  *     cdef int endian_detector = 1
  *     cdef bint little_endian = ((<char*>&endian_detector)[0] != 0)             # <<<<<<<<<<<<<<
@@ -17956,7 +18071,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
  */
   __pyx_v_little_endian = ((((char *)(&__pyx_v_endian_detector))[0]) != 0);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":818
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":818
  *     cdef tuple fields
  * 
  *     for childname in descr.names:             # <<<<<<<<<<<<<<
@@ -17979,7 +18094,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
     __Pyx_XDECREF_SET(__pyx_v_childname, __pyx_t_3);
     __pyx_t_3 = 0;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":819
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":819
  * 
  *     for childname in descr.names:
  *         fields = descr.fields[childname]             # <<<<<<<<<<<<<<
@@ -17996,7 +18111,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
     __Pyx_XDECREF_SET(__pyx_v_fields, ((PyObject*)__pyx_t_3));
     __pyx_t_3 = 0;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":820
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":820
  *     for childname in descr.names:
  *         fields = descr.fields[childname]
  *         child, new_offset = fields             # <<<<<<<<<<<<<<
@@ -18035,7 +18150,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
     __Pyx_XDECREF_SET(__pyx_v_new_offset, __pyx_t_4);
     __pyx_t_4 = 0;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":822
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":822
  *         child, new_offset = fields
  * 
  *         if (end - f) - <int>(new_offset - offset[0]) < 15:             # <<<<<<<<<<<<<<
@@ -18052,7 +18167,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
     __pyx_t_6 = ((((__pyx_v_end - __pyx_v_f) - ((int)__pyx_t_5)) < 15) != 0);
     if (__pyx_t_6) {
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":823
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":823
  * 
  *         if (end - f) - <int>(new_offset - offset[0]) < 15:
  *             raise RuntimeError(u"Format string allocated too short, see comment in numpy.pxd")             # <<<<<<<<<<<<<<
@@ -18065,7 +18180,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
       __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
       __PYX_ERR(1, 823, __pyx_L1_error)
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":822
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":822
  *         child, new_offset = fields
  * 
  *         if (end - f) - <int>(new_offset - offset[0]) < 15:             # <<<<<<<<<<<<<<
@@ -18074,7 +18189,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
  */
     }
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":825
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":825
  *             raise RuntimeError(u"Format string allocated too short, see comment in numpy.pxd")
  * 
  *         if ((child.byteorder == c'>' and little_endian) or             # <<<<<<<<<<<<<<
@@ -18094,7 +18209,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
     }
     __pyx_L8_next_or:;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":826
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":826
  * 
  *         if ((child.byteorder == c'>' and little_endian) or
  *             (child.byteorder == c'<' and not little_endian)):             # <<<<<<<<<<<<<<
@@ -18111,7 +18226,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
     __pyx_t_6 = __pyx_t_7;
     __pyx_L7_bool_binop_done:;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":825
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":825
  *             raise RuntimeError(u"Format string allocated too short, see comment in numpy.pxd")
  * 
  *         if ((child.byteorder == c'>' and little_endian) or             # <<<<<<<<<<<<<<
@@ -18120,7 +18235,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
  */
     if (__pyx_t_6) {
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":827
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":827
  *         if ((child.byteorder == c'>' and little_endian) or
  *             (child.byteorder == c'<' and not little_endian)):
  *             raise ValueError(u"Non-native byte order not supported")             # <<<<<<<<<<<<<<
@@ -18133,7 +18248,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
       __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
       __PYX_ERR(1, 827, __pyx_L1_error)
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":825
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":825
  *             raise RuntimeError(u"Format string allocated too short, see comment in numpy.pxd")
  * 
  *         if ((child.byteorder == c'>' and little_endian) or             # <<<<<<<<<<<<<<
@@ -18142,7 +18257,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
  */
     }
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":837
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":837
  * 
  *         # Output padding bytes
  *         while offset[0] < new_offset:             # <<<<<<<<<<<<<<
@@ -18158,7 +18273,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
       __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
       if (!__pyx_t_6) break;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":838
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":838
  *         # Output padding bytes
  *         while offset[0] < new_offset:
  *             f[0] = 120 # "x"; pad byte             # <<<<<<<<<<<<<<
@@ -18167,7 +18282,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
  */
       (__pyx_v_f[0]) = 0x78;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":839
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":839
  *         while offset[0] < new_offset:
  *             f[0] = 120 # "x"; pad byte
  *             f += 1             # <<<<<<<<<<<<<<
@@ -18176,7 +18291,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
  */
       __pyx_v_f = (__pyx_v_f + 1);
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":840
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":840
  *             f[0] = 120 # "x"; pad byte
  *             f += 1
  *             offset[0] += 1             # <<<<<<<<<<<<<<
@@ -18187,7 +18302,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
       (__pyx_v_offset[__pyx_t_8]) = ((__pyx_v_offset[__pyx_t_8]) + 1);
     }
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":842
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":842
  *             offset[0] += 1
  * 
  *         offset[0] += child.itemsize             # <<<<<<<<<<<<<<
@@ -18197,7 +18312,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
     __pyx_t_8 = 0;
     (__pyx_v_offset[__pyx_t_8]) = ((__pyx_v_offset[__pyx_t_8]) + __pyx_v_child->elsize);
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":844
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":844
  *         offset[0] += child.itemsize
  * 
  *         if not PyDataType_HASFIELDS(child):             # <<<<<<<<<<<<<<
@@ -18207,7 +18322,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
     __pyx_t_6 = ((!(PyDataType_HASFIELDS(__pyx_v_child) != 0)) != 0);
     if (__pyx_t_6) {
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":845
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":845
  * 
  *         if not PyDataType_HASFIELDS(child):
  *             t = child.type_num             # <<<<<<<<<<<<<<
@@ -18219,7 +18334,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
       __Pyx_XDECREF_SET(__pyx_v_t, __pyx_t_4);
       __pyx_t_4 = 0;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":846
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":846
  *         if not PyDataType_HASFIELDS(child):
  *             t = child.type_num
  *             if end - f < 5:             # <<<<<<<<<<<<<<
@@ -18229,7 +18344,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
       __pyx_t_6 = (((__pyx_v_end - __pyx_v_f) < 5) != 0);
       if (__pyx_t_6) {
 
-        /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":847
+        /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":847
  *             t = child.type_num
  *             if end - f < 5:
  *                 raise RuntimeError(u"Format string allocated too short.")             # <<<<<<<<<<<<<<
@@ -18242,7 +18357,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         __Pyx_DECREF(__pyx_t_4); __pyx_t_4 = 0;
         __PYX_ERR(1, 847, __pyx_L1_error)
 
-        /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":846
+        /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":846
  *         if not PyDataType_HASFIELDS(child):
  *             t = child.type_num
  *             if end - f < 5:             # <<<<<<<<<<<<<<
@@ -18251,7 +18366,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
  */
       }
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":850
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":850
  * 
  *             # Until ticket #99 is fixed, use integers to avoid warnings
  *             if   t == NPY_BYTE:        f[0] =  98 #"b"             # <<<<<<<<<<<<<<
@@ -18269,7 +18384,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         goto __pyx_L15;
       }
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":851
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":851
  *             # Until ticket #99 is fixed, use integers to avoid warnings
  *             if   t == NPY_BYTE:        f[0] =  98 #"b"
  *             elif t == NPY_UBYTE:       f[0] =  66 #"B"             # <<<<<<<<<<<<<<
@@ -18287,7 +18402,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         goto __pyx_L15;
       }
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":852
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":852
  *             if   t == NPY_BYTE:        f[0] =  98 #"b"
  *             elif t == NPY_UBYTE:       f[0] =  66 #"B"
  *             elif t == NPY_SHORT:       f[0] = 104 #"h"             # <<<<<<<<<<<<<<
@@ -18305,7 +18420,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         goto __pyx_L15;
       }
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":853
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":853
  *             elif t == NPY_UBYTE:       f[0] =  66 #"B"
  *             elif t == NPY_SHORT:       f[0] = 104 #"h"
  *             elif t == NPY_USHORT:      f[0] =  72 #"H"             # <<<<<<<<<<<<<<
@@ -18323,7 +18438,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         goto __pyx_L15;
       }
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":854
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":854
  *             elif t == NPY_SHORT:       f[0] = 104 #"h"
  *             elif t == NPY_USHORT:      f[0] =  72 #"H"
  *             elif t == NPY_INT:         f[0] = 105 #"i"             # <<<<<<<<<<<<<<
@@ -18341,7 +18456,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         goto __pyx_L15;
       }
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":855
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":855
  *             elif t == NPY_USHORT:      f[0] =  72 #"H"
  *             elif t == NPY_INT:         f[0] = 105 #"i"
  *             elif t == NPY_UINT:        f[0] =  73 #"I"             # <<<<<<<<<<<<<<
@@ -18359,7 +18474,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         goto __pyx_L15;
       }
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":856
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":856
  *             elif t == NPY_INT:         f[0] = 105 #"i"
  *             elif t == NPY_UINT:        f[0] =  73 #"I"
  *             elif t == NPY_LONG:        f[0] = 108 #"l"             # <<<<<<<<<<<<<<
@@ -18377,7 +18492,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         goto __pyx_L15;
       }
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":857
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":857
  *             elif t == NPY_UINT:        f[0] =  73 #"I"
  *             elif t == NPY_LONG:        f[0] = 108 #"l"
  *             elif t == NPY_ULONG:       f[0] = 76  #"L"             # <<<<<<<<<<<<<<
@@ -18395,7 +18510,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         goto __pyx_L15;
       }
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":858
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":858
  *             elif t == NPY_LONG:        f[0] = 108 #"l"
  *             elif t == NPY_ULONG:       f[0] = 76  #"L"
  *             elif t == NPY_LONGLONG:    f[0] = 113 #"q"             # <<<<<<<<<<<<<<
@@ -18413,7 +18528,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         goto __pyx_L15;
       }
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":859
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":859
  *             elif t == NPY_ULONG:       f[0] = 76  #"L"
  *             elif t == NPY_LONGLONG:    f[0] = 113 #"q"
  *             elif t == NPY_ULONGLONG:   f[0] = 81  #"Q"             # <<<<<<<<<<<<<<
@@ -18431,7 +18546,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         goto __pyx_L15;
       }
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":860
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":860
  *             elif t == NPY_LONGLONG:    f[0] = 113 #"q"
  *             elif t == NPY_ULONGLONG:   f[0] = 81  #"Q"
  *             elif t == NPY_FLOAT:       f[0] = 102 #"f"             # <<<<<<<<<<<<<<
@@ -18449,7 +18564,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         goto __pyx_L15;
       }
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":861
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":861
  *             elif t == NPY_ULONGLONG:   f[0] = 81  #"Q"
  *             elif t == NPY_FLOAT:       f[0] = 102 #"f"
  *             elif t == NPY_DOUBLE:      f[0] = 100 #"d"             # <<<<<<<<<<<<<<
@@ -18467,7 +18582,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         goto __pyx_L15;
       }
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":862
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":862
  *             elif t == NPY_FLOAT:       f[0] = 102 #"f"
  *             elif t == NPY_DOUBLE:      f[0] = 100 #"d"
  *             elif t == NPY_LONGDOUBLE:  f[0] = 103 #"g"             # <<<<<<<<<<<<<<
@@ -18485,7 +18600,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         goto __pyx_L15;
       }
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":863
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":863
  *             elif t == NPY_DOUBLE:      f[0] = 100 #"d"
  *             elif t == NPY_LONGDOUBLE:  f[0] = 103 #"g"
  *             elif t == NPY_CFLOAT:      f[0] = 90; f[1] = 102; f += 1 # Zf             # <<<<<<<<<<<<<<
@@ -18505,7 +18620,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         goto __pyx_L15;
       }
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":864
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":864
  *             elif t == NPY_LONGDOUBLE:  f[0] = 103 #"g"
  *             elif t == NPY_CFLOAT:      f[0] = 90; f[1] = 102; f += 1 # Zf
  *             elif t == NPY_CDOUBLE:     f[0] = 90; f[1] = 100; f += 1 # Zd             # <<<<<<<<<<<<<<
@@ -18525,7 +18640,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         goto __pyx_L15;
       }
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":865
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":865
  *             elif t == NPY_CFLOAT:      f[0] = 90; f[1] = 102; f += 1 # Zf
  *             elif t == NPY_CDOUBLE:     f[0] = 90; f[1] = 100; f += 1 # Zd
  *             elif t == NPY_CLONGDOUBLE: f[0] = 90; f[1] = 103; f += 1 # Zg             # <<<<<<<<<<<<<<
@@ -18545,7 +18660,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         goto __pyx_L15;
       }
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":866
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":866
  *             elif t == NPY_CDOUBLE:     f[0] = 90; f[1] = 100; f += 1 # Zd
  *             elif t == NPY_CLONGDOUBLE: f[0] = 90; f[1] = 103; f += 1 # Zg
  *             elif t == NPY_OBJECT:      f[0] = 79 #"O"             # <<<<<<<<<<<<<<
@@ -18563,7 +18678,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
         goto __pyx_L15;
       }
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":868
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":868
  *             elif t == NPY_OBJECT:      f[0] = 79 #"O"
  *             else:
  *                 raise ValueError(u"unknown dtype code in numpy.pxd (%d)" % t)             # <<<<<<<<<<<<<<
@@ -18587,7 +18702,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
       }
       __pyx_L15:;
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":869
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":869
  *             else:
  *                 raise ValueError(u"unknown dtype code in numpy.pxd (%d)" % t)
  *             f += 1             # <<<<<<<<<<<<<<
@@ -18596,7 +18711,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
  */
       __pyx_v_f = (__pyx_v_f + 1);
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":844
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":844
  *         offset[0] += child.itemsize
  * 
  *         if not PyDataType_HASFIELDS(child):             # <<<<<<<<<<<<<<
@@ -18606,7 +18721,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
       goto __pyx_L13;
     }
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":873
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":873
  *             # Cython ignores struct boundary information ("T{...}"),
  *             # so don't output it
  *             f = _util_dtypestring(child, f, end, offset)             # <<<<<<<<<<<<<<
@@ -18619,7 +18734,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
     }
     __pyx_L13:;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":818
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":818
  *     cdef tuple fields
  * 
  *     for childname in descr.names:             # <<<<<<<<<<<<<<
@@ -18629,7 +18744,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
   }
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":874
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":874
  *             # so don't output it
  *             f = _util_dtypestring(child, f, end, offset)
  *     return f             # <<<<<<<<<<<<<<
@@ -18639,7 +18754,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
   __pyx_r = __pyx_v_f;
   goto __pyx_L0;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":809
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":809
  *         return ()
  * 
  * cdef inline char* _util_dtypestring(dtype descr, char* f, char* end, int* offset) except NULL:             # <<<<<<<<<<<<<<
@@ -18664,7 +18779,7 @@ static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx
   return __pyx_r;
 }
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":990
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":990
  * 
  * 
  * cdef inline void set_array_base(ndarray arr, object base):             # <<<<<<<<<<<<<<
@@ -18679,7 +18794,7 @@ static CYTHON_INLINE void __pyx_f_5numpy_set_array_base(PyArrayObject *__pyx_v_a
   int __pyx_t_2;
   __Pyx_RefNannySetupContext("set_array_base", 0);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":992
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":992
  * cdef inline void set_array_base(ndarray arr, object base):
  *      cdef PyObject* baseptr
  *      if base is None:             # <<<<<<<<<<<<<<
@@ -18690,7 +18805,7 @@ static CYTHON_INLINE void __pyx_f_5numpy_set_array_base(PyArrayObject *__pyx_v_a
   __pyx_t_2 = (__pyx_t_1 != 0);
   if (__pyx_t_2) {
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":993
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":993
  *      cdef PyObject* baseptr
  *      if base is None:
  *          baseptr = NULL             # <<<<<<<<<<<<<<
@@ -18699,7 +18814,7 @@ static CYTHON_INLINE void __pyx_f_5numpy_set_array_base(PyArrayObject *__pyx_v_a
  */
     __pyx_v_baseptr = NULL;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":992
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":992
  * cdef inline void set_array_base(ndarray arr, object base):
  *      cdef PyObject* baseptr
  *      if base is None:             # <<<<<<<<<<<<<<
@@ -18709,7 +18824,7 @@ static CYTHON_INLINE void __pyx_f_5numpy_set_array_base(PyArrayObject *__pyx_v_a
     goto __pyx_L3;
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":995
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":995
  *          baseptr = NULL
  *      else:
  *          Py_INCREF(base) # important to do this before decref below!             # <<<<<<<<<<<<<<
@@ -18719,7 +18834,7 @@ static CYTHON_INLINE void __pyx_f_5numpy_set_array_base(PyArrayObject *__pyx_v_a
   /*else*/ {
     Py_INCREF(__pyx_v_base);
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":996
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":996
  *      else:
  *          Py_INCREF(base) # important to do this before decref below!
  *          baseptr = <PyObject*>base             # <<<<<<<<<<<<<<
@@ -18730,7 +18845,7 @@ static CYTHON_INLINE void __pyx_f_5numpy_set_array_base(PyArrayObject *__pyx_v_a
   }
   __pyx_L3:;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":997
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":997
  *          Py_INCREF(base) # important to do this before decref below!
  *          baseptr = <PyObject*>base
  *      Py_XDECREF(arr.base)             # <<<<<<<<<<<<<<
@@ -18739,7 +18854,7 @@ static CYTHON_INLINE void __pyx_f_5numpy_set_array_base(PyArrayObject *__pyx_v_a
  */
   Py_XDECREF(__pyx_v_arr->base);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":998
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":998
  *          baseptr = <PyObject*>base
  *      Py_XDECREF(arr.base)
  *      arr.base = baseptr             # <<<<<<<<<<<<<<
@@ -18748,7 +18863,7 @@ static CYTHON_INLINE void __pyx_f_5numpy_set_array_base(PyArrayObject *__pyx_v_a
  */
   __pyx_v_arr->base = __pyx_v_baseptr;
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":990
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":990
  * 
  * 
  * cdef inline void set_array_base(ndarray arr, object base):             # <<<<<<<<<<<<<<
@@ -18760,7 +18875,7 @@ static CYTHON_INLINE void __pyx_f_5numpy_set_array_base(PyArrayObject *__pyx_v_a
   __Pyx_RefNannyFinishContext();
 }
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1000
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1000
  *      arr.base = baseptr
  * 
  * cdef inline object get_array_base(ndarray arr):             # <<<<<<<<<<<<<<
@@ -18774,7 +18889,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__py
   int __pyx_t_1;
   __Pyx_RefNannySetupContext("get_array_base", 0);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1001
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1001
  * 
  * cdef inline object get_array_base(ndarray arr):
  *     if arr.base is NULL:             # <<<<<<<<<<<<<<
@@ -18784,7 +18899,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__py
   __pyx_t_1 = ((__pyx_v_arr->base == NULL) != 0);
   if (__pyx_t_1) {
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1002
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1002
  * cdef inline object get_array_base(ndarray arr):
  *     if arr.base is NULL:
  *         return None             # <<<<<<<<<<<<<<
@@ -18796,7 +18911,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__py
     __pyx_r = Py_None;
     goto __pyx_L0;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1001
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1001
  * 
  * cdef inline object get_array_base(ndarray arr):
  *     if arr.base is NULL:             # <<<<<<<<<<<<<<
@@ -18805,7 +18920,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__py
  */
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1004
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1004
  *         return None
  *     else:
  *         return <object>arr.base             # <<<<<<<<<<<<<<
@@ -18819,7 +18934,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__py
     goto __pyx_L0;
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1000
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1000
  *      arr.base = baseptr
  * 
  * cdef inline object get_array_base(ndarray arr):             # <<<<<<<<<<<<<<
@@ -18834,7 +18949,7 @@ static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__py
   return __pyx_r;
 }
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1009
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1009
  * # Versions of the import_* functions which are more suitable for
  * # Cython code.
  * cdef inline int import_array() except -1:             # <<<<<<<<<<<<<<
@@ -18855,7 +18970,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_array(void) {
   PyObject *__pyx_t_8 = NULL;
   __Pyx_RefNannySetupContext("import_array", 0);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1010
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1010
  * # Cython code.
  * cdef inline int import_array() except -1:
  *     try:             # <<<<<<<<<<<<<<
@@ -18871,7 +18986,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_array(void) {
     __Pyx_XGOTREF(__pyx_t_3);
     /*try:*/ {
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1011
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1011
  * cdef inline int import_array() except -1:
  *     try:
  *         _import_array()             # <<<<<<<<<<<<<<
@@ -18880,7 +18995,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_array(void) {
  */
       __pyx_t_4 = _import_array(); if (unlikely(__pyx_t_4 == ((int)-1))) __PYX_ERR(1, 1011, __pyx_L3_error)
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1010
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1010
  * # Cython code.
  * cdef inline int import_array() except -1:
  *     try:             # <<<<<<<<<<<<<<
@@ -18894,7 +19009,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_array(void) {
     goto __pyx_L8_try_end;
     __pyx_L3_error:;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1012
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1012
  *     try:
  *         _import_array()
  *     except Exception:             # <<<<<<<<<<<<<<
@@ -18909,7 +19024,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_array(void) {
       __Pyx_GOTREF(__pyx_t_6);
       __Pyx_GOTREF(__pyx_t_7);
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1013
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1013
  *         _import_array()
  *     except Exception:
  *         raise ImportError("numpy.core.multiarray failed to import")             # <<<<<<<<<<<<<<
@@ -18925,7 +19040,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_array(void) {
     goto __pyx_L5_except_error;
     __pyx_L5_except_error:;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1010
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1010
  * # Cython code.
  * cdef inline int import_array() except -1:
  *     try:             # <<<<<<<<<<<<<<
@@ -18940,7 +19055,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_array(void) {
     __pyx_L8_try_end:;
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1009
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1009
  * # Versions of the import_* functions which are more suitable for
  * # Cython code.
  * cdef inline int import_array() except -1:             # <<<<<<<<<<<<<<
@@ -18963,7 +19078,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_array(void) {
   return __pyx_r;
 }
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1015
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1015
  *         raise ImportError("numpy.core.multiarray failed to import")
  * 
  * cdef inline int import_umath() except -1:             # <<<<<<<<<<<<<<
@@ -18984,7 +19099,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_umath(void) {
   PyObject *__pyx_t_8 = NULL;
   __Pyx_RefNannySetupContext("import_umath", 0);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1016
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1016
  * 
  * cdef inline int import_umath() except -1:
  *     try:             # <<<<<<<<<<<<<<
@@ -19000,7 +19115,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_umath(void) {
     __Pyx_XGOTREF(__pyx_t_3);
     /*try:*/ {
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1017
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1017
  * cdef inline int import_umath() except -1:
  *     try:
  *         _import_umath()             # <<<<<<<<<<<<<<
@@ -19009,7 +19124,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_umath(void) {
  */
       __pyx_t_4 = _import_umath(); if (unlikely(__pyx_t_4 == ((int)-1))) __PYX_ERR(1, 1017, __pyx_L3_error)
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1016
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1016
  * 
  * cdef inline int import_umath() except -1:
  *     try:             # <<<<<<<<<<<<<<
@@ -19023,7 +19138,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_umath(void) {
     goto __pyx_L8_try_end;
     __pyx_L3_error:;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1018
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1018
  *     try:
  *         _import_umath()
  *     except Exception:             # <<<<<<<<<<<<<<
@@ -19038,7 +19153,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_umath(void) {
       __Pyx_GOTREF(__pyx_t_6);
       __Pyx_GOTREF(__pyx_t_7);
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1019
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1019
  *         _import_umath()
  *     except Exception:
  *         raise ImportError("numpy.core.umath failed to import")             # <<<<<<<<<<<<<<
@@ -19054,7 +19169,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_umath(void) {
     goto __pyx_L5_except_error;
     __pyx_L5_except_error:;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1016
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1016
  * 
  * cdef inline int import_umath() except -1:
  *     try:             # <<<<<<<<<<<<<<
@@ -19069,7 +19184,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_umath(void) {
     __pyx_L8_try_end:;
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1015
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1015
  *         raise ImportError("numpy.core.multiarray failed to import")
  * 
  * cdef inline int import_umath() except -1:             # <<<<<<<<<<<<<<
@@ -19092,7 +19207,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_umath(void) {
   return __pyx_r;
 }
 
-/* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1021
+/* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1021
  *         raise ImportError("numpy.core.umath failed to import")
  * 
  * cdef inline int import_ufunc() except -1:             # <<<<<<<<<<<<<<
@@ -19113,7 +19228,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_ufunc(void) {
   PyObject *__pyx_t_8 = NULL;
   __Pyx_RefNannySetupContext("import_ufunc", 0);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1022
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1022
  * 
  * cdef inline int import_ufunc() except -1:
  *     try:             # <<<<<<<<<<<<<<
@@ -19129,7 +19244,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_ufunc(void) {
     __Pyx_XGOTREF(__pyx_t_3);
     /*try:*/ {
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1023
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1023
  * cdef inline int import_ufunc() except -1:
  *     try:
  *         _import_umath()             # <<<<<<<<<<<<<<
@@ -19138,7 +19253,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_ufunc(void) {
  */
       __pyx_t_4 = _import_umath(); if (unlikely(__pyx_t_4 == ((int)-1))) __PYX_ERR(1, 1023, __pyx_L3_error)
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1022
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1022
  * 
  * cdef inline int import_ufunc() except -1:
  *     try:             # <<<<<<<<<<<<<<
@@ -19152,7 +19267,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_ufunc(void) {
     goto __pyx_L8_try_end;
     __pyx_L3_error:;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1024
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1024
  *     try:
  *         _import_umath()
  *     except Exception:             # <<<<<<<<<<<<<<
@@ -19166,7 +19281,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_ufunc(void) {
       __Pyx_GOTREF(__pyx_t_6);
       __Pyx_GOTREF(__pyx_t_7);
 
-      /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1025
+      /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1025
  *         _import_umath()
  *     except Exception:
  *         raise ImportError("numpy.core.umath failed to import")             # <<<<<<<<<<<<<<
@@ -19180,7 +19295,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_ufunc(void) {
     goto __pyx_L5_except_error;
     __pyx_L5_except_error:;
 
-    /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1022
+    /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1022
  * 
  * cdef inline int import_ufunc() except -1:
  *     try:             # <<<<<<<<<<<<<<
@@ -19195,7 +19310,7 @@ static CYTHON_INLINE int __pyx_f_5numpy_import_ufunc(void) {
     __pyx_L8_try_end:;
   }
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1021
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1021
  *         raise ImportError("numpy.core.umath failed to import")
  * 
  * cdef inline int import_ufunc() except -1:             # <<<<<<<<<<<<<<
@@ -33376,8 +33491,8 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {0, 0, 0, 0, 0, 0, 0}
 };
 static int __Pyx_InitCachedBuiltins(void) {
-  __pyx_builtin_range = __Pyx_GetBuiltinName(__pyx_n_s_range); if (!__pyx_builtin_range) __PYX_ERR(0, 106, __pyx_L1_error)
-  __pyx_builtin_IOError = __Pyx_GetBuiltinName(__pyx_n_s_IOError); if (!__pyx_builtin_IOError) __PYX_ERR(0, 635, __pyx_L1_error)
+  __pyx_builtin_range = __Pyx_GetBuiltinName(__pyx_n_s_range); if (!__pyx_builtin_range) __PYX_ERR(0, 107, __pyx_L1_error)
+  __pyx_builtin_IOError = __Pyx_GetBuiltinName(__pyx_n_s_IOError); if (!__pyx_builtin_IOError) __PYX_ERR(0, 640, __pyx_L1_error)
   __pyx_builtin_ValueError = __Pyx_GetBuiltinName(__pyx_n_s_ValueError); if (!__pyx_builtin_ValueError) __PYX_ERR(1, 235, __pyx_L1_error)
   __pyx_builtin_RuntimeError = __Pyx_GetBuiltinName(__pyx_n_s_RuntimeError); if (!__pyx_builtin_RuntimeError) __PYX_ERR(1, 823, __pyx_L1_error)
   __pyx_builtin_ImportError = __Pyx_GetBuiltinName(__pyx_n_s_ImportError); if (!__pyx_builtin_ImportError) __PYX_ERR(1, 1013, __pyx_L1_error)
@@ -33396,606 +33511,606 @@ static int __Pyx_InitCachedConstants(void) {
   __Pyx_RefNannyDeclarations
   __Pyx_RefNannySetupContext("__Pyx_InitCachedConstants", 0);
 
-  /* "pyaffy/celparser.pyx":128
+  /* "pyaffy/celparser.pyx":129
  *     # s = codecs.decode(read_string(buf, fp), encoding='iso-8859-1')
  *     try:
  *         C = ConfigParser(interpolation = None, delimiters = ('=',), empty_lines_in_values = False)             # <<<<<<<<<<<<<<
  *         C.optionxform = lambda x: x
  *         C.read_string(str('[Section]\n') + s)
  */
-  __pyx_tuple__2 = PyTuple_Pack(1, __pyx_kp_s_); if (unlikely(!__pyx_tuple__2)) __PYX_ERR(0, 128, __pyx_L1_error)
+  __pyx_tuple__2 = PyTuple_Pack(1, __pyx_kp_s_); if (unlikely(!__pyx_tuple__2)) __PYX_ERR(0, 129, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__2);
   __Pyx_GIVEREF(__pyx_tuple__2);
 
-  /* "pyaffy/celparser.pyx":130
+  /* "pyaffy/celparser.pyx":131
  *         C = ConfigParser(interpolation = None, delimiters = ('=',), empty_lines_in_values = False)
  *         C.optionxform = lambda x: x
  *         C.read_string(str('[Section]\n') + s)             # <<<<<<<<<<<<<<
  *     except ParsingError:
  *         C = ConfigParser(interpolation = None, delimiters = (':',), empty_lines_in_values = False)
  */
-  __pyx_tuple__3 = PyTuple_Pack(1, __pyx_kp_s_Section); if (unlikely(!__pyx_tuple__3)) __PYX_ERR(0, 130, __pyx_L1_error)
+  __pyx_tuple__3 = PyTuple_Pack(1, __pyx_kp_s_Section); if (unlikely(!__pyx_tuple__3)) __PYX_ERR(0, 131, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__3);
   __Pyx_GIVEREF(__pyx_tuple__3);
 
-  /* "pyaffy/celparser.pyx":132
+  /* "pyaffy/celparser.pyx":133
  *         C.read_string(str('[Section]\n') + s)
  *     except ParsingError:
  *         C = ConfigParser(interpolation = None, delimiters = (':',), empty_lines_in_values = False)             # <<<<<<<<<<<<<<
  *         C.optionxform = lambda x: x
  *         C.read_string(str('[Section]\n') + '\n'.join(s.split(';')))
  */
-  __pyx_tuple__5 = PyTuple_Pack(1, __pyx_kp_s__4); if (unlikely(!__pyx_tuple__5)) __PYX_ERR(0, 132, __pyx_L1_error)
+  __pyx_tuple__5 = PyTuple_Pack(1, __pyx_kp_s__4); if (unlikely(!__pyx_tuple__5)) __PYX_ERR(0, 133, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__5);
   __Pyx_GIVEREF(__pyx_tuple__5);
 
-  /* "pyaffy/celparser.pyx":134
+  /* "pyaffy/celparser.pyx":135
  *         C = ConfigParser(interpolation = None, delimiters = (':',), empty_lines_in_values = False)
  *         C.optionxform = lambda x: x
  *         C.read_string(str('[Section]\n') + '\n'.join(s.split(';')))             # <<<<<<<<<<<<<<
  * 
  *     return C['Section']
  */
-  __pyx_tuple__6 = PyTuple_Pack(1, __pyx_kp_s_Section); if (unlikely(!__pyx_tuple__6)) __PYX_ERR(0, 134, __pyx_L1_error)
+  __pyx_tuple__6 = PyTuple_Pack(1, __pyx_kp_s_Section); if (unlikely(!__pyx_tuple__6)) __PYX_ERR(0, 135, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__6);
   __Pyx_GIVEREF(__pyx_tuple__6);
-  __pyx_tuple__9 = PyTuple_Pack(1, __pyx_kp_s__8); if (unlikely(!__pyx_tuple__9)) __PYX_ERR(0, 134, __pyx_L1_error)
+  __pyx_tuple__9 = PyTuple_Pack(1, __pyx_kp_s__8); if (unlikely(!__pyx_tuple__9)) __PYX_ERR(0, 135, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__9);
   __Pyx_GIVEREF(__pyx_tuple__9);
 
-  /* "pyaffy/celparser.pyx":190
+  /* "pyaffy/celparser.pyx":191
  *         final_path = create_gzip_pipe(path)
  * 
  *     path_bytes = final_path.encode('UTF-8')             # <<<<<<<<<<<<<<
  *     cdef char* c_path_bytes = path_bytes
  *     fp = fopen(c_path_bytes, 'r')
  */
-  __pyx_tuple__10 = PyTuple_Pack(1, __pyx_kp_s_UTF_8); if (unlikely(!__pyx_tuple__10)) __PYX_ERR(0, 190, __pyx_L1_error)
+  __pyx_tuple__10 = PyTuple_Pack(1, __pyx_kp_s_UTF_8); if (unlikely(!__pyx_tuple__10)) __PYX_ERR(0, 191, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__10);
   __Pyx_GIVEREF(__pyx_tuple__10);
 
-  /* "pyaffy/celparser.pyx":272
+  /* "pyaffy/celparser.pyx":276
  *         final_path = create_gzip_pipe(path)
  * 
  *     path_bytes = final_path.encode('UTF-8')             # <<<<<<<<<<<<<<
  *     cdef char* c_path_bytes = path_bytes
  *     fp = fopen(c_path_bytes, 'r')
  */
-  __pyx_tuple__11 = PyTuple_Pack(1, __pyx_kp_s_UTF_8); if (unlikely(!__pyx_tuple__11)) __PYX_ERR(0, 272, __pyx_L1_error)
+  __pyx_tuple__11 = PyTuple_Pack(1, __pyx_kp_s_UTF_8); if (unlikely(!__pyx_tuple__11)) __PYX_ERR(0, 276, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__11);
   __Pyx_GIVEREF(__pyx_tuple__11);
 
-  /* "pyaffy/celparser.pyx":292
+  /* "pyaffy/celparser.pyx":296
  *         logger.debug('Number of cells: %d', num_cells)
  *         header = read_tag_val(buf, fp)
  *         logger.debug('Header information:')             # <<<<<<<<<<<<<<
  *         logger.debug('  ' + '; '.join(['%s = %s' %(k,v)
  *                 for k,v in header.items()]))
  */
-  __pyx_tuple__12 = PyTuple_Pack(1, __pyx_kp_s_Header_information); if (unlikely(!__pyx_tuple__12)) __PYX_ERR(0, 292, __pyx_L1_error)
+  __pyx_tuple__12 = PyTuple_Pack(1, __pyx_kp_s_Header_information); if (unlikely(!__pyx_tuple__12)) __PYX_ERR(0, 296, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__12);
   __Pyx_GIVEREF(__pyx_tuple__12);
 
-  /* "pyaffy/celparser.pyx":297
+  /* "pyaffy/celparser.pyx":301
  *         algo_name = str(read_string(buf, fp))
  *         logger.debug('Algorithm name: %s', algo_name)
  *         logger.debug('Algorithm parameters:')             # <<<<<<<<<<<<<<
  *         algo_params = read_tag_val(buf, fp)
  *         logger.debug('  ' + '; '.join(['%s = %s' %(k,v)
  */
-  __pyx_tuple__15 = PyTuple_Pack(1, __pyx_kp_s_Algorithm_parameters); if (unlikely(!__pyx_tuple__15)) __PYX_ERR(0, 297, __pyx_L1_error)
+  __pyx_tuple__15 = PyTuple_Pack(1, __pyx_kp_s_Algorithm_parameters); if (unlikely(!__pyx_tuple__15)) __PYX_ERR(0, 301, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__15);
   __Pyx_GIVEREF(__pyx_tuple__15);
 
-  /* "pyaffy/celparser.pyx":321
+  /* "pyaffy/celparser.pyx":325
  *             apply_mask(y, num_rows, num_cols, masked_coords, num_masked_cells)
  *         else:
  *             logger.debug('Ignoring any masked cells')             # <<<<<<<<<<<<<<
  * 
  *         outlier_coords = read_coords(buf, fp, num_outlier_cells)
  */
-  __pyx_tuple__16 = PyTuple_Pack(1, __pyx_kp_s_Ignoring_any_masked_cells); if (unlikely(!__pyx_tuple__16)) __PYX_ERR(0, 321, __pyx_L1_error)
+  __pyx_tuple__16 = PyTuple_Pack(1, __pyx_kp_s_Ignoring_any_masked_cells); if (unlikely(!__pyx_tuple__16)) __PYX_ERR(0, 325, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__16);
   __Pyx_GIVEREF(__pyx_tuple__16);
 
-  /* "pyaffy/celparser.pyx":327
+  /* "pyaffy/celparser.pyx":331
  *             apply_mask(y, num_rows, num_cols, outlier_coords, num_outlier_cells)
  *         else:
  *             logger.debug('Ignoring any outlier cells')             # <<<<<<<<<<<<<<
  * 
  *         #subgrids = []
  */
-  __pyx_tuple__17 = PyTuple_Pack(1, __pyx_kp_s_Ignoring_any_outlier_cells); if (unlikely(!__pyx_tuple__17)) __PYX_ERR(0, 327, __pyx_L1_error)
+  __pyx_tuple__17 = PyTuple_Pack(1, __pyx_kp_s_Ignoring_any_outlier_cells); if (unlikely(!__pyx_tuple__17)) __PYX_ERR(0, 331, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__17);
   __Pyx_GIVEREF(__pyx_tuple__17);
 
-  /* "pyaffy/celparser.pyx":404
+  /* "pyaffy/celparser.pyx":408
  *     def read_float(bytes):
  *         read[0] += 4
  *         return decode_float(fh.read(4))             # <<<<<<<<<<<<<<
  * 
  *     def read_byte(fh):
  */
-  __pyx_tuple__18 = PyTuple_Pack(1, __pyx_int_4); if (unlikely(!__pyx_tuple__18)) __PYX_ERR(0, 404, __pyx_L1_error)
+  __pyx_tuple__18 = PyTuple_Pack(1, __pyx_int_4); if (unlikely(!__pyx_tuple__18)) __PYX_ERR(0, 408, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__18);
   __Pyx_GIVEREF(__pyx_tuple__18);
 
-  /* "pyaffy/celparser.pyx":408
+  /* "pyaffy/celparser.pyx":412
  *     def read_byte(fh):
  *         read[0] += 1
  *         return decode_int8(fh.read(1))             # <<<<<<<<<<<<<<
  * 
  *     def read_ubyte(fh):
  */
-  __pyx_tuple__19 = PyTuple_Pack(1, __pyx_int_1); if (unlikely(!__pyx_tuple__19)) __PYX_ERR(0, 408, __pyx_L1_error)
+  __pyx_tuple__19 = PyTuple_Pack(1, __pyx_int_1); if (unlikely(!__pyx_tuple__19)) __PYX_ERR(0, 412, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__19);
   __Pyx_GIVEREF(__pyx_tuple__19);
 
-  /* "pyaffy/celparser.pyx":412
+  /* "pyaffy/celparser.pyx":416
  *     def read_ubyte(fh):
  *         read[0] += 1
  *         return decode_uint8(fh.read(1))             # <<<<<<<<<<<<<<
  * 
  *     def read_short(fh):
  */
-  __pyx_tuple__20 = PyTuple_Pack(1, __pyx_int_1); if (unlikely(!__pyx_tuple__20)) __PYX_ERR(0, 412, __pyx_L1_error)
+  __pyx_tuple__20 = PyTuple_Pack(1, __pyx_int_1); if (unlikely(!__pyx_tuple__20)) __PYX_ERR(0, 416, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__20);
   __Pyx_GIVEREF(__pyx_tuple__20);
 
-  /* "pyaffy/celparser.pyx":416
+  /* "pyaffy/celparser.pyx":420
  *     def read_short(fh):
  *         read[0] += 2
  *         return decode_int16(fh.read(2))             # <<<<<<<<<<<<<<
  * 
  *     def read_ushort(fh):
  */
-  __pyx_tuple__21 = PyTuple_Pack(1, __pyx_int_2); if (unlikely(!__pyx_tuple__21)) __PYX_ERR(0, 416, __pyx_L1_error)
+  __pyx_tuple__21 = PyTuple_Pack(1, __pyx_int_2); if (unlikely(!__pyx_tuple__21)) __PYX_ERR(0, 420, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__21);
   __Pyx_GIVEREF(__pyx_tuple__21);
 
-  /* "pyaffy/celparser.pyx":420
+  /* "pyaffy/celparser.pyx":424
  *     def read_ushort(fh):
  *         read[0] += 2
  *         return decode_uint16(fh.read(2))             # <<<<<<<<<<<<<<
  * 
  *     def read_int(fh):
  */
-  __pyx_tuple__22 = PyTuple_Pack(1, __pyx_int_2); if (unlikely(!__pyx_tuple__22)) __PYX_ERR(0, 420, __pyx_L1_error)
+  __pyx_tuple__22 = PyTuple_Pack(1, __pyx_int_2); if (unlikely(!__pyx_tuple__22)) __PYX_ERR(0, 424, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__22);
   __Pyx_GIVEREF(__pyx_tuple__22);
 
-  /* "pyaffy/celparser.pyx":424
+  /* "pyaffy/celparser.pyx":428
  *     def read_int(fh):
  *         read[0] += 4
  *         return decode_int32(fh.read(4))             # <<<<<<<<<<<<<<
  * 
  *     def read_uint(fh):
  */
-  __pyx_tuple__23 = PyTuple_Pack(1, __pyx_int_4); if (unlikely(!__pyx_tuple__23)) __PYX_ERR(0, 424, __pyx_L1_error)
+  __pyx_tuple__23 = PyTuple_Pack(1, __pyx_int_4); if (unlikely(!__pyx_tuple__23)) __PYX_ERR(0, 428, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__23);
   __Pyx_GIVEREF(__pyx_tuple__23);
 
-  /* "pyaffy/celparser.pyx":428
+  /* "pyaffy/celparser.pyx":432
  *     def read_uint(fh):
  *         read[0] +=4
  *         return decode_uint32(fh.read(4))             # <<<<<<<<<<<<<<
  * 
  *     def read_raw(fh):
  */
-  __pyx_tuple__24 = PyTuple_Pack(1, __pyx_int_4); if (unlikely(!__pyx_tuple__24)) __PYX_ERR(0, 428, __pyx_L1_error)
+  __pyx_tuple__24 = PyTuple_Pack(1, __pyx_int_4); if (unlikely(!__pyx_tuple__24)) __PYX_ERR(0, 432, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__24);
   __Pyx_GIVEREF(__pyx_tuple__24);
 
-  /* "pyaffy/celparser.pyx":462
+  /* "pyaffy/celparser.pyx":466
  *     def read_locale(fh):
  *         loc = read_wstring(fh)
  *         return loc[:2], loc[3:]             # <<<<<<<<<<<<<<
  * 
  *     def read_value(fh):
  */
-  __pyx_slice__25 = PySlice_New(Py_None, __pyx_int_2, Py_None); if (unlikely(!__pyx_slice__25)) __PYX_ERR(0, 462, __pyx_L1_error)
+  __pyx_slice__25 = PySlice_New(Py_None, __pyx_int_2, Py_None); if (unlikely(!__pyx_slice__25)) __PYX_ERR(0, 466, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_slice__25);
   __Pyx_GIVEREF(__pyx_slice__25);
-  __pyx_slice__26 = PySlice_New(__pyx_int_3, Py_None, Py_None); if (unlikely(!__pyx_slice__26)) __PYX_ERR(0, 462, __pyx_L1_error)
+  __pyx_slice__26 = PySlice_New(__pyx_int_3, Py_None, Py_None); if (unlikely(!__pyx_slice__26)) __PYX_ERR(0, 466, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_slice__26);
   __Pyx_GIVEREF(__pyx_slice__26);
 
-  /* "pyaffy/celparser.pyx":490
+  /* "pyaffy/celparser.pyx":494
  * 
  *         if v3 == 'text/plain':
  *             v2 = decode_unicode(v2.rstrip('\x00'))             # <<<<<<<<<<<<<<
  *         elif v3 == 'text/ascii':
  *             v2 = decode_ascii(v2.rstrip('\x00'))
  */
-  __pyx_tuple__28 = PyTuple_Pack(1, __pyx_kp_s__27); if (unlikely(!__pyx_tuple__28)) __PYX_ERR(0, 490, __pyx_L1_error)
+  __pyx_tuple__28 = PyTuple_Pack(1, __pyx_kp_s__27); if (unlikely(!__pyx_tuple__28)) __PYX_ERR(0, 494, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__28);
   __Pyx_GIVEREF(__pyx_tuple__28);
 
-  /* "pyaffy/celparser.pyx":492
+  /* "pyaffy/celparser.pyx":496
  *             v2 = decode_unicode(v2.rstrip('\x00'))
  *         elif v3 == 'text/ascii':
  *             v2 = decode_ascii(v2.rstrip('\x00'))             # <<<<<<<<<<<<<<
  *         elif v3 == 'text/x-calvin-float':
  *             v2 = decode_float(v2[:4])
  */
-  __pyx_tuple__29 = PyTuple_Pack(1, __pyx_kp_s__27); if (unlikely(!__pyx_tuple__29)) __PYX_ERR(0, 492, __pyx_L1_error)
+  __pyx_tuple__29 = PyTuple_Pack(1, __pyx_kp_s__27); if (unlikely(!__pyx_tuple__29)) __PYX_ERR(0, 496, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__29);
   __Pyx_GIVEREF(__pyx_tuple__29);
 
-  /* "pyaffy/celparser.pyx":494
+  /* "pyaffy/celparser.pyx":498
  *             v2 = decode_ascii(v2.rstrip('\x00'))
  *         elif v3 == 'text/x-calvin-float':
  *             v2 = decode_float(v2[:4])             # <<<<<<<<<<<<<<
  *         elif v3 == 'text/x-calvin-integer-32':
  *             v2 = decode_int32(v2[:4])
  */
-  __pyx_slice__30 = PySlice_New(Py_None, __pyx_int_4, Py_None); if (unlikely(!__pyx_slice__30)) __PYX_ERR(0, 494, __pyx_L1_error)
+  __pyx_slice__30 = PySlice_New(Py_None, __pyx_int_4, Py_None); if (unlikely(!__pyx_slice__30)) __PYX_ERR(0, 498, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_slice__30);
   __Pyx_GIVEREF(__pyx_slice__30);
 
-  /* "pyaffy/celparser.pyx":496
+  /* "pyaffy/celparser.pyx":500
  *             v2 = decode_float(v2[:4])
  *         elif v3 == 'text/x-calvin-integer-32':
  *             v2 = decode_int32(v2[:4])             # <<<<<<<<<<<<<<
  *         elif v3 == 'text/x-calvin-unsigned-integer-32':
  *             v2 = decode_uint32(v2[:4])
  */
-  __pyx_slice__31 = PySlice_New(Py_None, __pyx_int_4, Py_None); if (unlikely(!__pyx_slice__31)) __PYX_ERR(0, 496, __pyx_L1_error)
+  __pyx_slice__31 = PySlice_New(Py_None, __pyx_int_4, Py_None); if (unlikely(!__pyx_slice__31)) __PYX_ERR(0, 500, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_slice__31);
   __Pyx_GIVEREF(__pyx_slice__31);
 
-  /* "pyaffy/celparser.pyx":498
+  /* "pyaffy/celparser.pyx":502
  *             v2 = decode_int32(v2[:4])
  *         elif v3 == 'text/x-calvin-unsigned-integer-32':
  *             v2 = decode_uint32(v2[:4])             # <<<<<<<<<<<<<<
  *         elif v3 == 'text/x-calvin-unsigned-integer-8':
  *             v2 = decode_uint8(v2[:1])
  */
-  __pyx_slice__32 = PySlice_New(Py_None, __pyx_int_4, Py_None); if (unlikely(!__pyx_slice__32)) __PYX_ERR(0, 498, __pyx_L1_error)
+  __pyx_slice__32 = PySlice_New(Py_None, __pyx_int_4, Py_None); if (unlikely(!__pyx_slice__32)) __PYX_ERR(0, 502, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_slice__32);
   __Pyx_GIVEREF(__pyx_slice__32);
 
-  /* "pyaffy/celparser.pyx":500
+  /* "pyaffy/celparser.pyx":504
  *             v2 = decode_uint32(v2[:4])
  *         elif v3 == 'text/x-calvin-unsigned-integer-8':
  *             v2 = decode_uint8(v2[:1])             # <<<<<<<<<<<<<<
  *         elif v3 == 'text/x-calvin-unsigned-integer-16':
  *             v2 = decode_uint16(v2[:2])
  */
-  __pyx_slice__33 = PySlice_New(Py_None, __pyx_int_1, Py_None); if (unlikely(!__pyx_slice__33)) __PYX_ERR(0, 500, __pyx_L1_error)
+  __pyx_slice__33 = PySlice_New(Py_None, __pyx_int_1, Py_None); if (unlikely(!__pyx_slice__33)) __PYX_ERR(0, 504, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_slice__33);
   __Pyx_GIVEREF(__pyx_slice__33);
 
-  /* "pyaffy/celparser.pyx":502
+  /* "pyaffy/celparser.pyx":506
  *             v2 = decode_uint8(v2[:1])
  *         elif v3 == 'text/x-calvin-unsigned-integer-16':
  *             v2 = decode_uint16(v2[:2])             # <<<<<<<<<<<<<<
  *         elif v3 == 'text/x-calvin-integer-8':
  *             v2 = decode_int8(v2[:1])
  */
-  __pyx_slice__34 = PySlice_New(Py_None, __pyx_int_2, Py_None); if (unlikely(!__pyx_slice__34)) __PYX_ERR(0, 502, __pyx_L1_error)
+  __pyx_slice__34 = PySlice_New(Py_None, __pyx_int_2, Py_None); if (unlikely(!__pyx_slice__34)) __PYX_ERR(0, 506, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_slice__34);
   __Pyx_GIVEREF(__pyx_slice__34);
 
-  /* "pyaffy/celparser.pyx":504
+  /* "pyaffy/celparser.pyx":508
  *             v2 = decode_uint16(v2[:2])
  *         elif v3 == 'text/x-calvin-integer-8':
  *             v2 = decode_int8(v2[:1])             # <<<<<<<<<<<<<<
  *         elif v3 == 'text/x-calvin-integer-16':
  *             v2 = decode_int16(v2[:2])
  */
-  __pyx_slice__35 = PySlice_New(Py_None, __pyx_int_1, Py_None); if (unlikely(!__pyx_slice__35)) __PYX_ERR(0, 504, __pyx_L1_error)
+  __pyx_slice__35 = PySlice_New(Py_None, __pyx_int_1, Py_None); if (unlikely(!__pyx_slice__35)) __PYX_ERR(0, 508, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_slice__35);
   __Pyx_GIVEREF(__pyx_slice__35);
 
-  /* "pyaffy/celparser.pyx":506
+  /* "pyaffy/celparser.pyx":510
  *             v2 = decode_int8(v2[:1])
  *         elif v3 == 'text/x-calvin-integer-16':
  *             v2 = decode_int16(v2[:2])             # <<<<<<<<<<<<<<
  * 
  *         return (v1, v2)
  */
-  __pyx_slice__36 = PySlice_New(Py_None, __pyx_int_2, Py_None); if (unlikely(!__pyx_slice__36)) __PYX_ERR(0, 506, __pyx_L1_error)
+  __pyx_slice__36 = PySlice_New(Py_None, __pyx_int_2, Py_None); if (unlikely(!__pyx_slice__36)) __PYX_ERR(0, 510, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_slice__36);
   __Pyx_GIVEREF(__pyx_slice__36);
 
-  /* "pyaffy/celparser.pyx":530
+  /* "pyaffy/celparser.pyx":534
  *         parent_headers = []
  *         for i in range(num_parents):
  *             logger.debug('')             # <<<<<<<<<<<<<<
  *             logger.debug('-------------------------------------------')
  *             parent_headers.append(read_data_header(fh))
  */
-  __pyx_tuple__39 = PyTuple_Pack(1, __pyx_kp_s__38); if (unlikely(!__pyx_tuple__39)) __PYX_ERR(0, 530, __pyx_L1_error)
+  __pyx_tuple__39 = PyTuple_Pack(1, __pyx_kp_s__38); if (unlikely(!__pyx_tuple__39)) __PYX_ERR(0, 534, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__39);
   __Pyx_GIVEREF(__pyx_tuple__39);
 
-  /* "pyaffy/celparser.pyx":531
+  /* "pyaffy/celparser.pyx":535
  *         for i in range(num_parents):
  *             logger.debug('')
  *             logger.debug('-------------------------------------------')             # <<<<<<<<<<<<<<
  *             parent_headers.append(read_data_header(fh))
  * 
  */
-  __pyx_tuple__41 = PyTuple_Pack(1, __pyx_kp_s__40); if (unlikely(!__pyx_tuple__41)) __PYX_ERR(0, 531, __pyx_L1_error)
+  __pyx_tuple__41 = PyTuple_Pack(1, __pyx_kp_s__40); if (unlikely(!__pyx_tuple__41)) __PYX_ERR(0, 535, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__41);
   __Pyx_GIVEREF(__pyx_tuple__41);
 
-  /* "pyaffy/celparser.pyx":402
+  /* "pyaffy/celparser.pyx":406
  *     decode_uint16 = lambda s: struct.unpack('>H', s)[0]
  * 
  *     def read_float(bytes):             # <<<<<<<<<<<<<<
  *         read[0] += 4
  *         return decode_float(fh.read(4))
  */
-  __pyx_tuple__43 = PyTuple_Pack(1, __pyx_n_s_bytes); if (unlikely(!__pyx_tuple__43)) __PYX_ERR(0, 402, __pyx_L1_error)
+  __pyx_tuple__43 = PyTuple_Pack(1, __pyx_n_s_bytes); if (unlikely(!__pyx_tuple__43)) __PYX_ERR(0, 406, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__43);
   __Pyx_GIVEREF(__pyx_tuple__43);
-  __pyx_codeobj__44 = (PyObject*)__Pyx_PyCode_New(1, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__43, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_float, 402, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__44)) __PYX_ERR(0, 402, __pyx_L1_error)
+  __pyx_codeobj__44 = (PyObject*)__Pyx_PyCode_New(1, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__43, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_float, 406, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__44)) __PYX_ERR(0, 406, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":406
+  /* "pyaffy/celparser.pyx":410
  *         return decode_float(fh.read(4))
  * 
  *     def read_byte(fh):             # <<<<<<<<<<<<<<
  *         read[0] += 1
  *         return decode_int8(fh.read(1))
  */
-  __pyx_tuple__45 = PyTuple_Pack(1, __pyx_n_s_fh); if (unlikely(!__pyx_tuple__45)) __PYX_ERR(0, 406, __pyx_L1_error)
+  __pyx_tuple__45 = PyTuple_Pack(1, __pyx_n_s_fh); if (unlikely(!__pyx_tuple__45)) __PYX_ERR(0, 410, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__45);
   __Pyx_GIVEREF(__pyx_tuple__45);
-  __pyx_codeobj__46 = (PyObject*)__Pyx_PyCode_New(1, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__45, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_byte, 406, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__46)) __PYX_ERR(0, 406, __pyx_L1_error)
+  __pyx_codeobj__46 = (PyObject*)__Pyx_PyCode_New(1, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__45, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_byte, 410, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__46)) __PYX_ERR(0, 410, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":410
+  /* "pyaffy/celparser.pyx":414
  *         return decode_int8(fh.read(1))
  * 
  *     def read_ubyte(fh):             # <<<<<<<<<<<<<<
  *         read[0] += 1
  *         return decode_uint8(fh.read(1))
  */
-  __pyx_tuple__47 = PyTuple_Pack(1, __pyx_n_s_fh); if (unlikely(!__pyx_tuple__47)) __PYX_ERR(0, 410, __pyx_L1_error)
+  __pyx_tuple__47 = PyTuple_Pack(1, __pyx_n_s_fh); if (unlikely(!__pyx_tuple__47)) __PYX_ERR(0, 414, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__47);
   __Pyx_GIVEREF(__pyx_tuple__47);
-  __pyx_codeobj__48 = (PyObject*)__Pyx_PyCode_New(1, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__47, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_ubyte, 410, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__48)) __PYX_ERR(0, 410, __pyx_L1_error)
+  __pyx_codeobj__48 = (PyObject*)__Pyx_PyCode_New(1, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__47, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_ubyte, 414, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__48)) __PYX_ERR(0, 414, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":414
+  /* "pyaffy/celparser.pyx":418
  *         return decode_uint8(fh.read(1))
  * 
  *     def read_short(fh):             # <<<<<<<<<<<<<<
  *         read[0] += 2
  *         return decode_int16(fh.read(2))
  */
-  __pyx_tuple__49 = PyTuple_Pack(1, __pyx_n_s_fh); if (unlikely(!__pyx_tuple__49)) __PYX_ERR(0, 414, __pyx_L1_error)
+  __pyx_tuple__49 = PyTuple_Pack(1, __pyx_n_s_fh); if (unlikely(!__pyx_tuple__49)) __PYX_ERR(0, 418, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__49);
   __Pyx_GIVEREF(__pyx_tuple__49);
-  __pyx_codeobj__50 = (PyObject*)__Pyx_PyCode_New(1, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__49, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_short, 414, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__50)) __PYX_ERR(0, 414, __pyx_L1_error)
+  __pyx_codeobj__50 = (PyObject*)__Pyx_PyCode_New(1, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__49, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_short, 418, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__50)) __PYX_ERR(0, 418, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":418
+  /* "pyaffy/celparser.pyx":422
  *         return decode_int16(fh.read(2))
  * 
  *     def read_ushort(fh):             # <<<<<<<<<<<<<<
  *         read[0] += 2
  *         return decode_uint16(fh.read(2))
  */
-  __pyx_tuple__51 = PyTuple_Pack(1, __pyx_n_s_fh); if (unlikely(!__pyx_tuple__51)) __PYX_ERR(0, 418, __pyx_L1_error)
+  __pyx_tuple__51 = PyTuple_Pack(1, __pyx_n_s_fh); if (unlikely(!__pyx_tuple__51)) __PYX_ERR(0, 422, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__51);
   __Pyx_GIVEREF(__pyx_tuple__51);
-  __pyx_codeobj__52 = (PyObject*)__Pyx_PyCode_New(1, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__51, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_ushort, 418, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__52)) __PYX_ERR(0, 418, __pyx_L1_error)
+  __pyx_codeobj__52 = (PyObject*)__Pyx_PyCode_New(1, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__51, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_ushort, 422, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__52)) __PYX_ERR(0, 422, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":422
+  /* "pyaffy/celparser.pyx":426
  *         return decode_uint16(fh.read(2))
  * 
  *     def read_int(fh):             # <<<<<<<<<<<<<<
  *         read[0] += 4
  *         return decode_int32(fh.read(4))
  */
-  __pyx_tuple__53 = PyTuple_Pack(1, __pyx_n_s_fh); if (unlikely(!__pyx_tuple__53)) __PYX_ERR(0, 422, __pyx_L1_error)
+  __pyx_tuple__53 = PyTuple_Pack(1, __pyx_n_s_fh); if (unlikely(!__pyx_tuple__53)) __PYX_ERR(0, 426, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__53);
   __Pyx_GIVEREF(__pyx_tuple__53);
-  __pyx_codeobj__54 = (PyObject*)__Pyx_PyCode_New(1, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__53, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_int, 422, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__54)) __PYX_ERR(0, 422, __pyx_L1_error)
+  __pyx_codeobj__54 = (PyObject*)__Pyx_PyCode_New(1, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__53, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_int, 426, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__54)) __PYX_ERR(0, 426, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":426
+  /* "pyaffy/celparser.pyx":430
  *         return decode_int32(fh.read(4))
  * 
  *     def read_uint(fh):             # <<<<<<<<<<<<<<
  *         read[0] +=4
  *         return decode_uint32(fh.read(4))
  */
-  __pyx_tuple__55 = PyTuple_Pack(1, __pyx_n_s_fh); if (unlikely(!__pyx_tuple__55)) __PYX_ERR(0, 426, __pyx_L1_error)
+  __pyx_tuple__55 = PyTuple_Pack(1, __pyx_n_s_fh); if (unlikely(!__pyx_tuple__55)) __PYX_ERR(0, 430, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__55);
   __Pyx_GIVEREF(__pyx_tuple__55);
-  __pyx_codeobj__56 = (PyObject*)__Pyx_PyCode_New(1, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__55, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_uint, 426, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__56)) __PYX_ERR(0, 426, __pyx_L1_error)
+  __pyx_codeobj__56 = (PyObject*)__Pyx_PyCode_New(1, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__55, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_uint, 430, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__56)) __PYX_ERR(0, 430, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":430
+  /* "pyaffy/celparser.pyx":434
  *         return decode_uint32(fh.read(4))
  * 
  *     def read_raw(fh):             # <<<<<<<<<<<<<<
  *         # reads an int x and then x raw bytes
  *         bytes = read_int(fh)
  */
-  __pyx_tuple__57 = PyTuple_Pack(2, __pyx_n_s_fh, __pyx_n_s_bytes); if (unlikely(!__pyx_tuple__57)) __PYX_ERR(0, 430, __pyx_L1_error)
+  __pyx_tuple__57 = PyTuple_Pack(2, __pyx_n_s_fh, __pyx_n_s_bytes); if (unlikely(!__pyx_tuple__57)) __PYX_ERR(0, 434, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__57);
   __Pyx_GIVEREF(__pyx_tuple__57);
-  __pyx_codeobj__58 = (PyObject*)__Pyx_PyCode_New(1, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__57, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_raw, 430, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__58)) __PYX_ERR(0, 430, __pyx_L1_error)
+  __pyx_codeobj__58 = (PyObject*)__Pyx_PyCode_New(1, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__57, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_raw, 434, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__58)) __PYX_ERR(0, 434, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":436
+  /* "pyaffy/celparser.pyx":440
  *         return fh.read(bytes)
  * 
  *     def read_string(fh):             # <<<<<<<<<<<<<<
  *         strlen = read_int(fh)
  *         read[0] += strlen
  */
-  __pyx_tuple__59 = PyTuple_Pack(2, __pyx_n_s_fh, __pyx_n_s_strlen); if (unlikely(!__pyx_tuple__59)) __PYX_ERR(0, 436, __pyx_L1_error)
+  __pyx_tuple__59 = PyTuple_Pack(2, __pyx_n_s_fh, __pyx_n_s_strlen); if (unlikely(!__pyx_tuple__59)) __PYX_ERR(0, 440, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__59);
   __Pyx_GIVEREF(__pyx_tuple__59);
-  __pyx_codeobj__60 = (PyObject*)__Pyx_PyCode_New(1, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__59, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_string, 436, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__60)) __PYX_ERR(0, 436, __pyx_L1_error)
+  __pyx_codeobj__60 = (PyObject*)__Pyx_PyCode_New(1, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__59, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_string, 440, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__60)) __PYX_ERR(0, 440, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":441
+  /* "pyaffy/celparser.pyx":445
  *         return fh.read(strlen)
  * 
  *     def read_wstring(fh):             # <<<<<<<<<<<<<<
  *         strlen = read_int(fh)
  *         s = fh.read(2 * strlen)
  */
-  __pyx_tuple__61 = PyTuple_Pack(3, __pyx_n_s_fh, __pyx_n_s_strlen, __pyx_n_s_s); if (unlikely(!__pyx_tuple__61)) __PYX_ERR(0, 441, __pyx_L1_error)
+  __pyx_tuple__61 = PyTuple_Pack(3, __pyx_n_s_fh, __pyx_n_s_strlen, __pyx_n_s_s); if (unlikely(!__pyx_tuple__61)) __PYX_ERR(0, 445, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__61);
   __Pyx_GIVEREF(__pyx_tuple__61);
-  __pyx_codeobj__62 = (PyObject*)__Pyx_PyCode_New(1, 0, 3, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__61, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_wstring, 441, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__62)) __PYX_ERR(0, 441, __pyx_L1_error)
+  __pyx_codeobj__62 = (PyObject*)__Pyx_PyCode_New(1, 0, 3, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__61, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_wstring, 445, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__62)) __PYX_ERR(0, 445, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":447
+  /* "pyaffy/celparser.pyx":451
  *         return decode_unicode(s)
  * 
  *     def read_guid(fh):             # <<<<<<<<<<<<<<
  *         return read_string(fh)
  * 
  */
-  __pyx_tuple__63 = PyTuple_Pack(1, __pyx_n_s_fh); if (unlikely(!__pyx_tuple__63)) __PYX_ERR(0, 447, __pyx_L1_error)
+  __pyx_tuple__63 = PyTuple_Pack(1, __pyx_n_s_fh); if (unlikely(!__pyx_tuple__63)) __PYX_ERR(0, 451, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__63);
   __Pyx_GIVEREF(__pyx_tuple__63);
-  __pyx_codeobj__64 = (PyObject*)__Pyx_PyCode_New(1, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__63, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_guid, 447, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__64)) __PYX_ERR(0, 447, __pyx_L1_error)
+  __pyx_codeobj__64 = (PyObject*)__Pyx_PyCode_New(1, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__63, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_guid, 451, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__64)) __PYX_ERR(0, 451, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":450
+  /* "pyaffy/celparser.pyx":454
  *         return read_string(fh)
  * 
  *     def read_datetime(fh):             # <<<<<<<<<<<<<<
  *         s = read_wstring(fh)
  *         logger.debug('DateTime string: %s|||', s)
  */
-  __pyx_tuple__65 = PyTuple_Pack(3, __pyx_n_s_fh, __pyx_n_s_s, __pyx_n_s_dt); if (unlikely(!__pyx_tuple__65)) __PYX_ERR(0, 450, __pyx_L1_error)
+  __pyx_tuple__65 = PyTuple_Pack(3, __pyx_n_s_fh, __pyx_n_s_s, __pyx_n_s_dt); if (unlikely(!__pyx_tuple__65)) __PYX_ERR(0, 454, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__65);
   __Pyx_GIVEREF(__pyx_tuple__65);
-  __pyx_codeobj__66 = (PyObject*)__Pyx_PyCode_New(1, 0, 3, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_datetime, 450, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__66)) __PYX_ERR(0, 450, __pyx_L1_error)
+  __pyx_codeobj__66 = (PyObject*)__Pyx_PyCode_New(1, 0, 3, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__65, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_datetime, 454, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__66)) __PYX_ERR(0, 454, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":460
+  /* "pyaffy/celparser.pyx":464
  *         return dt
  * 
  *     def read_locale(fh):             # <<<<<<<<<<<<<<
  *         loc = read_wstring(fh)
  *         return loc[:2], loc[3:]
  */
-  __pyx_tuple__67 = PyTuple_Pack(2, __pyx_n_s_fh, __pyx_n_s_loc); if (unlikely(!__pyx_tuple__67)) __PYX_ERR(0, 460, __pyx_L1_error)
+  __pyx_tuple__67 = PyTuple_Pack(2, __pyx_n_s_fh, __pyx_n_s_loc); if (unlikely(!__pyx_tuple__67)) __PYX_ERR(0, 464, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__67);
   __Pyx_GIVEREF(__pyx_tuple__67);
-  __pyx_codeobj__68 = (PyObject*)__Pyx_PyCode_New(1, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__67, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_locale, 460, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__68)) __PYX_ERR(0, 460, __pyx_L1_error)
+  __pyx_codeobj__68 = (PyObject*)__Pyx_PyCode_New(1, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__67, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_locale, 464, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__68)) __PYX_ERR(0, 464, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":464
+  /* "pyaffy/celparser.pyx":468
  *         return loc[:2], loc[3:]
  * 
  *     def read_value(fh):             # <<<<<<<<<<<<<<
  *         raw = read_raw(fh)
  *         return raw
  */
-  __pyx_tuple__69 = PyTuple_Pack(2, __pyx_n_s_fh, __pyx_n_s_raw); if (unlikely(!__pyx_tuple__69)) __PYX_ERR(0, 464, __pyx_L1_error)
+  __pyx_tuple__69 = PyTuple_Pack(2, __pyx_n_s_fh, __pyx_n_s_raw); if (unlikely(!__pyx_tuple__69)) __PYX_ERR(0, 468, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__69);
   __Pyx_GIVEREF(__pyx_tuple__69);
-  __pyx_codeobj__70 = (PyObject*)__Pyx_PyCode_New(1, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__69, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_value, 464, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__70)) __PYX_ERR(0, 464, __pyx_L1_error)
+  __pyx_codeobj__70 = (PyObject*)__Pyx_PyCode_New(1, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__69, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_value, 468, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__70)) __PYX_ERR(0, 468, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":468
+  /* "pyaffy/celparser.pyx":472
  *         return raw
  * 
  *     def read_type(fh):             # <<<<<<<<<<<<<<
  *         return read_wstring(fh)
  * 
  */
-  __pyx_tuple__71 = PyTuple_Pack(1, __pyx_n_s_fh); if (unlikely(!__pyx_tuple__71)) __PYX_ERR(0, 468, __pyx_L1_error)
+  __pyx_tuple__71 = PyTuple_Pack(1, __pyx_n_s_fh); if (unlikely(!__pyx_tuple__71)) __PYX_ERR(0, 472, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__71);
   __Pyx_GIVEREF(__pyx_tuple__71);
-  __pyx_codeobj__72 = (PyObject*)__Pyx_PyCode_New(1, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__71, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_type, 468, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__72)) __PYX_ERR(0, 468, __pyx_L1_error)
+  __pyx_codeobj__72 = (PyObject*)__Pyx_PyCode_New(1, 0, 1, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__71, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_type, 472, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__72)) __PYX_ERR(0, 472, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":471
+  /* "pyaffy/celparser.pyx":475
  *         return read_wstring(fh)
  * 
  *     def read_file_header(fh):             # <<<<<<<<<<<<<<
  *         magic_number = read_ubyte(fh)
  *         logger.debug('Magic number: %d', magic_number)
  */
-  __pyx_tuple__73 = PyTuple_Pack(5, __pyx_n_s_fh, __pyx_n_s_magic_number, __pyx_n_s_version_number, __pyx_n_s_num_data_groups, __pyx_n_s_first_data_group_pos); if (unlikely(!__pyx_tuple__73)) __PYX_ERR(0, 471, __pyx_L1_error)
+  __pyx_tuple__73 = PyTuple_Pack(5, __pyx_n_s_fh, __pyx_n_s_magic_number, __pyx_n_s_version_number, __pyx_n_s_num_data_groups, __pyx_n_s_first_data_group_pos); if (unlikely(!__pyx_tuple__73)) __PYX_ERR(0, 475, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__73);
   __Pyx_GIVEREF(__pyx_tuple__73);
-  __pyx_codeobj__74 = (PyObject*)__Pyx_PyCode_New(1, 0, 5, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__73, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_file_header, 471, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__74)) __PYX_ERR(0, 471, __pyx_L1_error)
+  __pyx_codeobj__74 = (PyObject*)__Pyx_PyCode_New(1, 0, 5, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__73, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_file_header, 475, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__74)) __PYX_ERR(0, 475, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":484
+  /* "pyaffy/celparser.pyx":488
  *         return num_data_groups, first_data_group_pos
  * 
  *     def read_header_param(fh):             # <<<<<<<<<<<<<<
  *         v1 = read_wstring(fh)
  *         v2 = read_value(fh)
  */
-  __pyx_tuple__75 = PyTuple_Pack(4, __pyx_n_s_fh, __pyx_n_s_v1, __pyx_n_s_v2, __pyx_n_s_v3); if (unlikely(!__pyx_tuple__75)) __PYX_ERR(0, 484, __pyx_L1_error)
+  __pyx_tuple__75 = PyTuple_Pack(4, __pyx_n_s_fh, __pyx_n_s_v1, __pyx_n_s_v2, __pyx_n_s_v3); if (unlikely(!__pyx_tuple__75)) __PYX_ERR(0, 488, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__75);
   __Pyx_GIVEREF(__pyx_tuple__75);
-  __pyx_codeobj__76 = (PyObject*)__Pyx_PyCode_New(1, 0, 4, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__75, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_header_param, 484, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__76)) __PYX_ERR(0, 484, __pyx_L1_error)
+  __pyx_codeobj__76 = (PyObject*)__Pyx_PyCode_New(1, 0, 4, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__75, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_header_param, 488, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__76)) __PYX_ERR(0, 488, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":510
+  /* "pyaffy/celparser.pyx":514
  *         return (v1, v2)
  * 
  *     def read_data_header(fh):             # <<<<<<<<<<<<<<
  *         data_type_id = read_guid(fh)
  *         logger.debug('Data type identifier: %s', data_type_id)
  */
-  __pyx_tuple__77 = PyTuple_Pack(12, __pyx_n_s_fh, __pyx_n_s_data_type_id, __pyx_n_s_file_id, __pyx_n_s_creation_time, __pyx_n_s_iso639, __pyx_n_s_iso3166, __pyx_n_s_locale, __pyx_n_s_n_params, __pyx_n_s_params, __pyx_n_s_i_2, __pyx_n_s_num_parents, __pyx_n_s_parent_headers); if (unlikely(!__pyx_tuple__77)) __PYX_ERR(0, 510, __pyx_L1_error)
+  __pyx_tuple__77 = PyTuple_Pack(12, __pyx_n_s_fh, __pyx_n_s_data_type_id, __pyx_n_s_file_id, __pyx_n_s_creation_time, __pyx_n_s_iso639, __pyx_n_s_iso3166, __pyx_n_s_locale, __pyx_n_s_n_params, __pyx_n_s_params, __pyx_n_s_i_2, __pyx_n_s_num_parents, __pyx_n_s_parent_headers); if (unlikely(!__pyx_tuple__77)) __PYX_ERR(0, 514, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__77);
   __Pyx_GIVEREF(__pyx_tuple__77);
-  __pyx_codeobj__78 = (PyObject*)__Pyx_PyCode_New(1, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__77, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_data_header, 510, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__78)) __PYX_ERR(0, 510, __pyx_L1_error)
+  __pyx_codeobj__78 = (PyObject*)__Pyx_PyCode_New(1, 0, 12, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__77, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_data_header, 514, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__78)) __PYX_ERR(0, 514, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":534
+  /* "pyaffy/celparser.pyx":538
  *             parent_headers.append(read_data_header(fh))
  * 
  *     def read_col(fh):             # <<<<<<<<<<<<<<
  *         name = read_wstring(fh)
  *         valtype = read_byte(fh)
  */
-  __pyx_tuple__79 = PyTuple_Pack(4, __pyx_n_s_fh, __pyx_n_s_name, __pyx_n_s_valtype, __pyx_n_s_size); if (unlikely(!__pyx_tuple__79)) __PYX_ERR(0, 534, __pyx_L1_error)
+  __pyx_tuple__79 = PyTuple_Pack(4, __pyx_n_s_fh, __pyx_n_s_name, __pyx_n_s_valtype, __pyx_n_s_size); if (unlikely(!__pyx_tuple__79)) __PYX_ERR(0, 538, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__79);
   __Pyx_GIVEREF(__pyx_tuple__79);
-  __pyx_codeobj__80 = (PyObject*)__Pyx_PyCode_New(1, 0, 4, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__79, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_col, 534, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__80)) __PYX_ERR(0, 534, __pyx_L1_error)
+  __pyx_codeobj__80 = (PyObject*)__Pyx_PyCode_New(1, 0, 4, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__79, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_col, 538, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__80)) __PYX_ERR(0, 538, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":540
+  /* "pyaffy/celparser.pyx":544
  *         return (name, valtype, size)
  * 
  *     def read_dataset(fh):             # <<<<<<<<<<<<<<
  *         logger.debug('New DataSet! Bytes read up until this point: %d', read[0])
  *         data_pos = read_uint(fh)
  */
-  __pyx_tuple__81 = PyTuple_Pack(19, __pyx_n_s_fh, __pyx_n_s_data_pos, __pyx_n_s_next_pos, __pyx_n_s_data_size, __pyx_n_s_name, __pyx_n_s_num_params, __pyx_n_s_params, __pyx_n_s_i_2, __pyx_n_s_num_cols, __pyx_n_s_cols, __pyx_n_s_col_names, __pyx_n_s_num_rows, __pyx_n_s_num_chars, __pyx_n_s_data, __pyx_n_s_y, __pyx_n_s_col_name, __pyx_n_s_col_type, __pyx_n_s_col_size, __pyx_n_s_c); if (unlikely(!__pyx_tuple__81)) __PYX_ERR(0, 540, __pyx_L1_error)
+  __pyx_tuple__81 = PyTuple_Pack(19, __pyx_n_s_fh, __pyx_n_s_data_pos, __pyx_n_s_next_pos, __pyx_n_s_data_size, __pyx_n_s_name, __pyx_n_s_num_params, __pyx_n_s_params, __pyx_n_s_i_2, __pyx_n_s_num_cols, __pyx_n_s_cols, __pyx_n_s_col_names, __pyx_n_s_num_rows, __pyx_n_s_num_chars, __pyx_n_s_data, __pyx_n_s_y, __pyx_n_s_col_name, __pyx_n_s_col_type, __pyx_n_s_col_size, __pyx_n_s_c); if (unlikely(!__pyx_tuple__81)) __PYX_ERR(0, 544, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__81);
   __Pyx_GIVEREF(__pyx_tuple__81);
-  __pyx_codeobj__82 = (PyObject*)__Pyx_PyCode_New(1, 0, 19, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__81, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_dataset, 540, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__82)) __PYX_ERR(0, 540, __pyx_L1_error)
+  __pyx_codeobj__82 = (PyObject*)__Pyx_PyCode_New(1, 0, 19, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__81, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_dataset, 544, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__82)) __PYX_ERR(0, 544, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":584
+  /* "pyaffy/celparser.pyx":589
  *         return y
  * 
  *     def read_data_group(fh):             # <<<<<<<<<<<<<<
  *         logger.debug('New data group! Number of bytes read so far: %d', read[0])
  *         next_pos = read_uint(fh)
  */
-  __pyx_tuple__83 = PyTuple_Pack(8, __pyx_n_s_fh, __pyx_n_s_next_pos, __pyx_n_s_dataset_pos, __pyx_n_s_num_datasets, __pyx_n_s_name, __pyx_n_s_y, __pyx_n_s_i_2, __pyx_n_s_d); if (unlikely(!__pyx_tuple__83)) __PYX_ERR(0, 584, __pyx_L1_error)
+  __pyx_tuple__83 = PyTuple_Pack(8, __pyx_n_s_fh, __pyx_n_s_next_pos, __pyx_n_s_dataset_pos, __pyx_n_s_num_datasets, __pyx_n_s_name, __pyx_n_s_y, __pyx_n_s_i_2, __pyx_n_s_d); if (unlikely(!__pyx_tuple__83)) __PYX_ERR(0, 589, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__83);
   __Pyx_GIVEREF(__pyx_tuple__83);
-  __pyx_codeobj__84 = (PyObject*)__Pyx_PyCode_New(1, 0, 8, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__83, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_data_group, 584, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__84)) __PYX_ERR(0, 584, __pyx_L1_error)
+  __pyx_codeobj__84 = (PyObject*)__Pyx_PyCode_New(1, 0, 8, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__83, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_read_data_group, 589, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__84)) __PYX_ERR(0, 589, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":634
+  /* "pyaffy/celparser.pyx":639
  *     try:
  *         fh = gzip.open(path)
  *         fh.read(1)             # <<<<<<<<<<<<<<
  *     except IOError:
  *         pass
  */
-  __pyx_tuple__85 = PyTuple_Pack(1, __pyx_int_1); if (unlikely(!__pyx_tuple__85)) __PYX_ERR(0, 634, __pyx_L1_error)
+  __pyx_tuple__85 = PyTuple_Pack(1, __pyx_int_1); if (unlikely(!__pyx_tuple__85)) __PYX_ERR(0, 639, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__85);
   __Pyx_GIVEREF(__pyx_tuple__85);
 
-  /* "pyaffy/celparser.pyx":687
+  /* "pyaffy/celparser.pyx":692
  *             fh = open(path, 'rb')
  * 
  *         x=fh.read(1)             # <<<<<<<<<<<<<<
  *         version = ord(x) # read the first byte
  * 
  */
-  __pyx_tuple__86 = PyTuple_Pack(1, __pyx_int_1); if (unlikely(!__pyx_tuple__86)) __PYX_ERR(0, 687, __pyx_L1_error)
+  __pyx_tuple__86 = PyTuple_Pack(1, __pyx_int_1); if (unlikely(!__pyx_tuple__86)) __PYX_ERR(0, 692, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__86);
   __Pyx_GIVEREF(__pyx_tuple__86);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":235
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":235
  *             if ((flags & pybuf.PyBUF_C_CONTIGUOUS == pybuf.PyBUF_C_CONTIGUOUS)
  *                 and not PyArray_CHKFLAGS(self, NPY_C_CONTIGUOUS)):
  *                 raise ValueError(u"ndarray is not C contiguous")             # <<<<<<<<<<<<<<
@@ -34006,7 +34121,7 @@ static int __Pyx_InitCachedConstants(void) {
   __Pyx_GOTREF(__pyx_tuple__87);
   __Pyx_GIVEREF(__pyx_tuple__87);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":239
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":239
  *             if ((flags & pybuf.PyBUF_F_CONTIGUOUS == pybuf.PyBUF_F_CONTIGUOUS)
  *                 and not PyArray_CHKFLAGS(self, NPY_F_CONTIGUOUS)):
  *                 raise ValueError(u"ndarray is not Fortran contiguous")             # <<<<<<<<<<<<<<
@@ -34017,7 +34132,7 @@ static int __Pyx_InitCachedConstants(void) {
   __Pyx_GOTREF(__pyx_tuple__88);
   __Pyx_GIVEREF(__pyx_tuple__88);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":276
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":276
  *                 if ((descr.byteorder == c'>' and little_endian) or
  *                     (descr.byteorder == c'<' and not little_endian)):
  *                     raise ValueError(u"Non-native byte order not supported")             # <<<<<<<<<<<<<<
@@ -34028,7 +34143,7 @@ static int __Pyx_InitCachedConstants(void) {
   __Pyx_GOTREF(__pyx_tuple__89);
   __Pyx_GIVEREF(__pyx_tuple__89);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":823
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":823
  * 
  *         if (end - f) - <int>(new_offset - offset[0]) < 15:
  *             raise RuntimeError(u"Format string allocated too short, see comment in numpy.pxd")             # <<<<<<<<<<<<<<
@@ -34039,7 +34154,7 @@ static int __Pyx_InitCachedConstants(void) {
   __Pyx_GOTREF(__pyx_tuple__90);
   __Pyx_GIVEREF(__pyx_tuple__90);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":827
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":827
  *         if ((child.byteorder == c'>' and little_endian) or
  *             (child.byteorder == c'<' and not little_endian)):
  *             raise ValueError(u"Non-native byte order not supported")             # <<<<<<<<<<<<<<
@@ -34050,7 +34165,7 @@ static int __Pyx_InitCachedConstants(void) {
   __Pyx_GOTREF(__pyx_tuple__91);
   __Pyx_GIVEREF(__pyx_tuple__91);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":847
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":847
  *             t = child.type_num
  *             if end - f < 5:
  *                 raise RuntimeError(u"Format string allocated too short.")             # <<<<<<<<<<<<<<
@@ -34061,7 +34176,7 @@ static int __Pyx_InitCachedConstants(void) {
   __Pyx_GOTREF(__pyx_tuple__92);
   __Pyx_GIVEREF(__pyx_tuple__92);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1013
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1013
  *         _import_array()
  *     except Exception:
  *         raise ImportError("numpy.core.multiarray failed to import")             # <<<<<<<<<<<<<<
@@ -34072,7 +34187,7 @@ static int __Pyx_InitCachedConstants(void) {
   __Pyx_GOTREF(__pyx_tuple__93);
   __Pyx_GIVEREF(__pyx_tuple__93);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1019
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1019
  *         _import_umath()
  *     except Exception:
  *         raise ImportError("numpy.core.umath failed to import")             # <<<<<<<<<<<<<<
@@ -34083,7 +34198,7 @@ static int __Pyx_InitCachedConstants(void) {
   __Pyx_GOTREF(__pyx_tuple__94);
   __Pyx_GIVEREF(__pyx_tuple__94);
 
-  /* "../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1025
+  /* "../../lib/python2.7/site-packages/Cython/Includes/numpy/__init__.pxd":1025
  *         _import_umath()
  *     except Exception:
  *         raise ImportError("numpy.core.umath failed to import")             # <<<<<<<<<<<<<<
@@ -34295,77 +34410,77 @@ static int __Pyx_InitCachedConstants(void) {
   __Pyx_GOTREF(__pyx_tuple__114);
   __Pyx_GIVEREF(__pyx_tuple__114);
 
-  /* "pyaffy/celparser.pyx":153
+  /* "pyaffy/celparser.pyx":154
  *         y[idx] = float('nan')
  * 
  * def create_gzip_pipe(path):             # <<<<<<<<<<<<<<
  * 
  *     tfh = tempfile.NamedTemporaryFile(mode = 'wb', prefix = 'celparser_',
  */
-  __pyx_tuple__115 = PyTuple_Pack(4, __pyx_n_s_path, __pyx_n_s_tfh, __pyx_n_s_temp, __pyx_n_s_subproc); if (unlikely(!__pyx_tuple__115)) __PYX_ERR(0, 153, __pyx_L1_error)
+  __pyx_tuple__115 = PyTuple_Pack(4, __pyx_n_s_path, __pyx_n_s_tfh, __pyx_n_s_temp, __pyx_n_s_subproc); if (unlikely(!__pyx_tuple__115)) __PYX_ERR(0, 154, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__115);
   __Pyx_GIVEREF(__pyx_tuple__115);
-  __pyx_codeobj__116 = (PyObject*)__Pyx_PyCode_New(1, 0, 4, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__115, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_create_gzip_pipe, 153, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__116)) __PYX_ERR(0, 153, __pyx_L1_error)
+  __pyx_codeobj__116 = (PyObject*)__Pyx_PyCode_New(1, 0, 4, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__115, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_create_gzip_pipe, 154, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__116)) __PYX_ERR(0, 154, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":165
+  /* "pyaffy/celparser.pyx":166
  *     return temp
  * 
  * def parse_celfile_v3(path, compressed = True, newline_chars = 2):             # <<<<<<<<<<<<<<
  *     """Parser for CEL file data in Version 3 format (plain-text).
  * 
  */
-  __pyx_tuple__117 = PyTuple_Pack(13, __pyx_n_s_path, __pyx_n_s_compressed, __pyx_n_s_newline_chars, __pyx_n_s_buf_size, __pyx_n_s_nl, __pyx_n_s_buf, __pyx_n_s_fp, __pyx_n_s_num_cells, __pyx_n_s_i_2, __pyx_n_s_y, __pyx_n_s_final_path, __pyx_n_s_path_bytes, __pyx_n_s_c_path_bytes); if (unlikely(!__pyx_tuple__117)) __PYX_ERR(0, 165, __pyx_L1_error)
+  __pyx_tuple__117 = PyTuple_Pack(13, __pyx_n_s_path, __pyx_n_s_compressed, __pyx_n_s_newline_chars, __pyx_n_s_buf_size, __pyx_n_s_nl, __pyx_n_s_buf, __pyx_n_s_fp, __pyx_n_s_num_cells, __pyx_n_s_i_2, __pyx_n_s_y, __pyx_n_s_final_path, __pyx_n_s_path_bytes, __pyx_n_s_c_path_bytes); if (unlikely(!__pyx_tuple__117)) __PYX_ERR(0, 166, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__117);
   __Pyx_GIVEREF(__pyx_tuple__117);
-  __pyx_codeobj__118 = (PyObject*)__Pyx_PyCode_New(3, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__117, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_parse_celfile_v3, 165, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__118)) __PYX_ERR(0, 165, __pyx_L1_error)
+  __pyx_codeobj__118 = (PyObject*)__Pyx_PyCode_New(3, 0, 13, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__117, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_parse_celfile_v3, 166, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__118)) __PYX_ERR(0, 166, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":228
+  /* "pyaffy/celparser.pyx":232
  * 
  * 
  * def parse_celfile_v4(path, compressed=True, ignore_outliers=True, ignore_masked=True):             # <<<<<<<<<<<<<<
  *     """Parser for CEL file data in Version 4 format.
  * 
  */
-  __pyx_tuple__119 = PyTuple_Pack(26, __pyx_n_s_path, __pyx_n_s_compressed, __pyx_n_s_ignore_outliers, __pyx_n_s_ignore_masked, __pyx_n_s_fp, __pyx_n_s_buf, __pyx_n_s_final_path, __pyx_n_s_path_bytes, __pyx_n_s_c_path_bytes, __pyx_n_s_y, __pyx_n_s_magic_number, __pyx_n_s_version_number, __pyx_n_s_num_cols, __pyx_n_s_num_rows, __pyx_n_s_num_cells, __pyx_n_s_header, __pyx_n_s_algo_name, __pyx_n_s_algo_params, __pyx_n_s_cell_margin, __pyx_n_s_num_outlier_cells, __pyx_n_s_num_masked_cells, __pyx_n_s_num_subgrids, __pyx_n_s_masked_coords, __pyx_n_s_outlier_coords, __pyx_n_s_k, __pyx_n_s_v); if (unlikely(!__pyx_tuple__119)) __PYX_ERR(0, 228, __pyx_L1_error)
+  __pyx_tuple__119 = PyTuple_Pack(26, __pyx_n_s_path, __pyx_n_s_compressed, __pyx_n_s_ignore_outliers, __pyx_n_s_ignore_masked, __pyx_n_s_fp, __pyx_n_s_buf, __pyx_n_s_final_path, __pyx_n_s_path_bytes, __pyx_n_s_c_path_bytes, __pyx_n_s_y, __pyx_n_s_magic_number, __pyx_n_s_version_number, __pyx_n_s_num_cols, __pyx_n_s_num_rows, __pyx_n_s_num_cells, __pyx_n_s_header, __pyx_n_s_algo_name, __pyx_n_s_algo_params, __pyx_n_s_cell_margin, __pyx_n_s_num_outlier_cells, __pyx_n_s_num_masked_cells, __pyx_n_s_num_subgrids, __pyx_n_s_masked_coords, __pyx_n_s_outlier_coords, __pyx_n_s_k, __pyx_n_s_v); if (unlikely(!__pyx_tuple__119)) __PYX_ERR(0, 232, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__119);
   __Pyx_GIVEREF(__pyx_tuple__119);
-  __pyx_codeobj__120 = (PyObject*)__Pyx_PyCode_New(4, 0, 26, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__119, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_parse_celfile_v4, 228, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__120)) __PYX_ERR(0, 228, __pyx_L1_error)
+  __pyx_codeobj__120 = (PyObject*)__Pyx_PyCode_New(4, 0, 26, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__119, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_parse_celfile_v4, 232, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__120)) __PYX_ERR(0, 232, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":377
+  /* "pyaffy/celparser.pyx":381
  *     return y
  * 
  * def parse_celfile_cc(path, compressed=True, ignore_outliers=True, ignore_masked=True):             # <<<<<<<<<<<<<<
  *     """Parser for CEL file data in Command Console version 1 format.
  * 
  */
-  __pyx_tuple__121 = PyTuple_Pack(61, __pyx_n_s_path, __pyx_n_s_compressed, __pyx_n_s_ignore_outliers, __pyx_n_s_ignore_masked, __pyx_n_s_read, __pyx_n_s_decode_unicode, __pyx_n_s_decode_ascii, __pyx_n_s_decode_float, __pyx_n_s_decode_int32, __pyx_n_s_decode_uint32, __pyx_n_s_decode_int8, __pyx_n_s_decode_uint8, __pyx_n_s_decode_int16, __pyx_n_s_decode_uint16, __pyx_n_s_read_float, __pyx_n_s_read_float, __pyx_n_s_read_byte, __pyx_n_s_read_byte, __pyx_n_s_read_ubyte, __pyx_n_s_read_ubyte, __pyx_n_s_read_short, __pyx_n_s_read_short, __pyx_n_s_read_ushort, __pyx_n_s_read_ushort, __pyx_n_s_read_int, __pyx_n_s_read_int, __pyx_n_s_read_uint, __pyx_n_s_read_uint, __pyx_n_s_read_raw, __pyx_n_s_read_raw, __pyx_n_s_read_string, __pyx_n_s_read_string, __pyx_n_s_read_wstring, __pyx_n_s_read_wstring, __pyx_n_s_read_guid, __pyx_n_s_read_guid, __pyx_n_s_read_datetime, __pyx_n_s_read_datetime, __pyx_n_s_read_locale, __pyx_n_s_read_locale, __pyx_n_s_read_value, __pyx_n_s_read_value, __pyx_n_s_read_type, __pyx_n_s_read_type, __pyx_n_s_read_file_header, __pyx_n_s_read_file_header, __pyx_n_s_read_header_param, __pyx_n_s_read_header_param, __pyx_n_s_read_data_header, __pyx_n_s_read_data_header, __pyx_n_s_read_col, __pyx_n_s_read_col, __pyx_n_s_read_dataset, __pyx_n_s_read_dataset, __pyx_n_s_read_data_group, __pyx_n_s_read_data_group, __pyx_n_s_fh, __pyx_n_s_y, __pyx_n_s_final_path, __pyx_n_s_num_data_groups, __pyx_n_s_data_pos); if (unlikely(!__pyx_tuple__121)) __PYX_ERR(0, 377, __pyx_L1_error)
+  __pyx_tuple__121 = PyTuple_Pack(61, __pyx_n_s_path, __pyx_n_s_compressed, __pyx_n_s_ignore_outliers, __pyx_n_s_ignore_masked, __pyx_n_s_read, __pyx_n_s_decode_unicode, __pyx_n_s_decode_ascii, __pyx_n_s_decode_float, __pyx_n_s_decode_int32, __pyx_n_s_decode_uint32, __pyx_n_s_decode_int8, __pyx_n_s_decode_uint8, __pyx_n_s_decode_int16, __pyx_n_s_decode_uint16, __pyx_n_s_read_float, __pyx_n_s_read_float, __pyx_n_s_read_byte, __pyx_n_s_read_byte, __pyx_n_s_read_ubyte, __pyx_n_s_read_ubyte, __pyx_n_s_read_short, __pyx_n_s_read_short, __pyx_n_s_read_ushort, __pyx_n_s_read_ushort, __pyx_n_s_read_int, __pyx_n_s_read_int, __pyx_n_s_read_uint, __pyx_n_s_read_uint, __pyx_n_s_read_raw, __pyx_n_s_read_raw, __pyx_n_s_read_string, __pyx_n_s_read_string, __pyx_n_s_read_wstring, __pyx_n_s_read_wstring, __pyx_n_s_read_guid, __pyx_n_s_read_guid, __pyx_n_s_read_datetime, __pyx_n_s_read_datetime, __pyx_n_s_read_locale, __pyx_n_s_read_locale, __pyx_n_s_read_value, __pyx_n_s_read_value, __pyx_n_s_read_type, __pyx_n_s_read_type, __pyx_n_s_read_file_header, __pyx_n_s_read_file_header, __pyx_n_s_read_header_param, __pyx_n_s_read_header_param, __pyx_n_s_read_data_header, __pyx_n_s_read_data_header, __pyx_n_s_read_col, __pyx_n_s_read_col, __pyx_n_s_read_dataset, __pyx_n_s_read_dataset, __pyx_n_s_read_data_group, __pyx_n_s_read_data_group, __pyx_n_s_fh, __pyx_n_s_y, __pyx_n_s_final_path, __pyx_n_s_num_data_groups, __pyx_n_s_data_pos); if (unlikely(!__pyx_tuple__121)) __PYX_ERR(0, 381, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__121);
   __Pyx_GIVEREF(__pyx_tuple__121);
-  __pyx_codeobj__122 = (PyObject*)__Pyx_PyCode_New(4, 0, 61, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__121, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_parse_celfile_cc, 377, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__122)) __PYX_ERR(0, 377, __pyx_L1_error)
+  __pyx_codeobj__122 = (PyObject*)__Pyx_PyCode_New(4, 0, 61, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__121, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_parse_celfile_cc, 381, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__122)) __PYX_ERR(0, 381, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":629
+  /* "pyaffy/celparser.pyx":634
  * 
  * 
  * def try_open_gzip(path):             # <<<<<<<<<<<<<<
  * 
  *     fh = None
  */
-  __pyx_tuple__123 = PyTuple_Pack(2, __pyx_n_s_path, __pyx_n_s_fh); if (unlikely(!__pyx_tuple__123)) __PYX_ERR(0, 629, __pyx_L1_error)
+  __pyx_tuple__123 = PyTuple_Pack(2, __pyx_n_s_path, __pyx_n_s_fh); if (unlikely(!__pyx_tuple__123)) __PYX_ERR(0, 634, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__123);
   __Pyx_GIVEREF(__pyx_tuple__123);
-  __pyx_codeobj__124 = (PyObject*)__Pyx_PyCode_New(1, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__123, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_try_open_gzip, 629, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__124)) __PYX_ERR(0, 629, __pyx_L1_error)
+  __pyx_codeobj__124 = (PyObject*)__Pyx_PyCode_New(1, 0, 2, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__123, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_try_open_gzip, 634, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__124)) __PYX_ERR(0, 634, __pyx_L1_error)
 
-  /* "pyaffy/celparser.pyx":643
+  /* "pyaffy/celparser.pyx":648
  * 
  * 
  * def parse_cel(path):             # <<<<<<<<<<<<<<
  *     """Front-end for parsing a CEL file containing expression data.
  * 
  */
-  __pyx_tuple__125 = PyTuple_Pack(6, __pyx_n_s_path, __pyx_n_s_version, __pyx_n_s_compressed, __pyx_n_s_fh, __pyx_n_s_x, __pyx_n_s_y); if (unlikely(!__pyx_tuple__125)) __PYX_ERR(0, 643, __pyx_L1_error)
+  __pyx_tuple__125 = PyTuple_Pack(6, __pyx_n_s_path, __pyx_n_s_version, __pyx_n_s_compressed, __pyx_n_s_fh, __pyx_n_s_x, __pyx_n_s_y); if (unlikely(!__pyx_tuple__125)) __PYX_ERR(0, 648, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_tuple__125);
   __Pyx_GIVEREF(__pyx_tuple__125);
-  __pyx_codeobj__126 = (PyObject*)__Pyx_PyCode_New(1, 0, 6, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__125, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_parse_cel, 643, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__126)) __PYX_ERR(0, 643, __pyx_L1_error)
+  __pyx_codeobj__126 = (PyObject*)__Pyx_PyCode_New(1, 0, 6, 0, CO_OPTIMIZED|CO_NEWLOCALS, __pyx_empty_bytes, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_tuple__125, __pyx_empty_tuple, __pyx_empty_tuple, __pyx_kp_s_pyaffy_celparser_pyx, __pyx_n_s_parse_cel, 648, __pyx_empty_bytes); if (unlikely(!__pyx_codeobj__126)) __PYX_ERR(0, 648, __pyx_L1_error)
 
   /* "View.MemoryView":284
  *         return self.name
@@ -34602,7 +34717,7 @@ static int __pyx_pymod_exec_celparser(PyObject *__pyx_pyinit_module)
   /*--- Variable export code ---*/
   /*--- Function export code ---*/
   /*--- Type init code ---*/
-  if (PyType_Ready(&__pyx_type_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc) < 0) __PYX_ERR(0, 377, __pyx_L1_error)
+  if (PyType_Ready(&__pyx_type_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc) < 0) __PYX_ERR(0, 381, __pyx_L1_error)
   __pyx_type_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc.tp_print = 0;
   __pyx_ptype_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc = &__pyx_type_6pyaffy_9celparser___pyx_scope_struct__parse_celfile_cc;
   __pyx_vtabptr_array = &__pyx_vtable_array;
@@ -34908,7 +35023,7 @@ static int __pyx_pymod_exec_celparser(PyObject *__pyx_pyinit_module)
  * 
  * logger = logging.getLogger(__name__)             # <<<<<<<<<<<<<<
  * logger.debug('__name__: %s', __name__)
- * 
+ * #logger.setLevel(logging.DEBUG)
  */
   __pyx_t_2 = __Pyx_GetModuleGlobalName(__pyx_n_s_logging); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 65, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_2);
@@ -34970,8 +35085,8 @@ static int __pyx_pymod_exec_celparser(PyObject *__pyx_pyinit_module)
  * 
  * logger = logging.getLogger(__name__)
  * logger.debug('__name__: %s', __name__)             # <<<<<<<<<<<<<<
+ * #logger.setLevel(logging.DEBUG)
  * 
- * cdef inline float decode_float(void* buf):
  */
   __pyx_t_4 = __Pyx_GetModuleGlobalName(__pyx_n_s_logger); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 66, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_4);
@@ -35029,76 +35144,76 @@ static int __pyx_pymod_exec_celparser(PyObject *__pyx_pyinit_module)
   __Pyx_DECREF(__pyx_t_6); __pyx_t_6 = 0;
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":153
+  /* "pyaffy/celparser.pyx":154
  *         y[idx] = float('nan')
  * 
  * def create_gzip_pipe(path):             # <<<<<<<<<<<<<<
  * 
  *     tfh = tempfile.NamedTemporaryFile(mode = 'wb', prefix = 'celparser_',
  */
-  __pyx_t_1 = PyCFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_1create_gzip_pipe, NULL, __pyx_n_s_pyaffy_celparser); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 153, __pyx_L1_error)
+  __pyx_t_1 = PyCFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_1create_gzip_pipe, NULL, __pyx_n_s_pyaffy_celparser); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 154, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  if (PyDict_SetItem(__pyx_d, __pyx_n_s_create_gzip_pipe, __pyx_t_1) < 0) __PYX_ERR(0, 153, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_create_gzip_pipe, __pyx_t_1) < 0) __PYX_ERR(0, 154, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":165
+  /* "pyaffy/celparser.pyx":166
  *     return temp
  * 
  * def parse_celfile_v3(path, compressed = True, newline_chars = 2):             # <<<<<<<<<<<<<<
  *     """Parser for CEL file data in Version 3 format (plain-text).
  * 
  */
-  __pyx_t_1 = PyCFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_3parse_celfile_v3, NULL, __pyx_n_s_pyaffy_celparser); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 165, __pyx_L1_error)
+  __pyx_t_1 = PyCFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_3parse_celfile_v3, NULL, __pyx_n_s_pyaffy_celparser); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 166, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  if (PyDict_SetItem(__pyx_d, __pyx_n_s_parse_celfile_v3, __pyx_t_1) < 0) __PYX_ERR(0, 165, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_parse_celfile_v3, __pyx_t_1) < 0) __PYX_ERR(0, 166, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":228
+  /* "pyaffy/celparser.pyx":232
  * 
  * 
  * def parse_celfile_v4(path, compressed=True, ignore_outliers=True, ignore_masked=True):             # <<<<<<<<<<<<<<
  *     """Parser for CEL file data in Version 4 format.
  * 
  */
-  __pyx_t_1 = PyCFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_5parse_celfile_v4, NULL, __pyx_n_s_pyaffy_celparser); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 228, __pyx_L1_error)
+  __pyx_t_1 = PyCFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_5parse_celfile_v4, NULL, __pyx_n_s_pyaffy_celparser); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 232, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  if (PyDict_SetItem(__pyx_d, __pyx_n_s_parse_celfile_v4, __pyx_t_1) < 0) __PYX_ERR(0, 228, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_parse_celfile_v4, __pyx_t_1) < 0) __PYX_ERR(0, 232, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":377
+  /* "pyaffy/celparser.pyx":381
  *     return y
  * 
  * def parse_celfile_cc(path, compressed=True, ignore_outliers=True, ignore_masked=True):             # <<<<<<<<<<<<<<
  *     """Parser for CEL file data in Command Console version 1 format.
  * 
  */
-  __pyx_t_1 = PyCFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_7parse_celfile_cc, NULL, __pyx_n_s_pyaffy_celparser); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 377, __pyx_L1_error)
+  __pyx_t_1 = PyCFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_7parse_celfile_cc, NULL, __pyx_n_s_pyaffy_celparser); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 381, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  if (PyDict_SetItem(__pyx_d, __pyx_n_s_parse_celfile_cc, __pyx_t_1) < 0) __PYX_ERR(0, 377, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_parse_celfile_cc, __pyx_t_1) < 0) __PYX_ERR(0, 381, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":629
+  /* "pyaffy/celparser.pyx":634
  * 
  * 
  * def try_open_gzip(path):             # <<<<<<<<<<<<<<
  * 
  *     fh = None
  */
-  __pyx_t_1 = PyCFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_9try_open_gzip, NULL, __pyx_n_s_pyaffy_celparser); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 629, __pyx_L1_error)
+  __pyx_t_1 = PyCFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_9try_open_gzip, NULL, __pyx_n_s_pyaffy_celparser); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 634, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  if (PyDict_SetItem(__pyx_d, __pyx_n_s_try_open_gzip, __pyx_t_1) < 0) __PYX_ERR(0, 629, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_try_open_gzip, __pyx_t_1) < 0) __PYX_ERR(0, 634, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-  /* "pyaffy/celparser.pyx":643
+  /* "pyaffy/celparser.pyx":648
  * 
  * 
  * def parse_cel(path):             # <<<<<<<<<<<<<<
  *     """Front-end for parsing a CEL file containing expression data.
  * 
  */
-  __pyx_t_1 = PyCFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_11parse_cel, NULL, __pyx_n_s_pyaffy_celparser); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 643, __pyx_L1_error)
+  __pyx_t_1 = PyCFunction_NewEx(&__pyx_mdef_6pyaffy_9celparser_11parse_cel, NULL, __pyx_n_s_pyaffy_celparser); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 648, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
-  if (PyDict_SetItem(__pyx_d, __pyx_n_s_parse_cel, __pyx_t_1) < 0) __PYX_ERR(0, 643, __pyx_L1_error)
+  if (PyDict_SetItem(__pyx_d, __pyx_n_s_parse_cel, __pyx_t_1) < 0) __PYX_ERR(0, 648, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
   /* "pyaffy/celparser.pyx":1
@@ -37456,6 +37571,11 @@ static CYTHON_INLINE PyObject *__Pyx_GetItemInt_Fast(PyObject *o, Py_ssize_t i, 
     return __Pyx_GetItemInt_Generic(o, PyInt_FromSsize_t(i));
 }
 
+/* None */
+            static CYTHON_INLINE void __Pyx_RaiseUnboundLocalError(const char *varname) {
+    PyErr_Format(PyExc_UnboundLocalError, "local variable '%s' referenced before assignment", varname);
+}
+
 /* RaiseException */
             #if PY_MAJOR_VERSION < 3
 static void __Pyx_Raise(PyObject *type, PyObject *value, PyObject *tb,
@@ -37805,11 +37925,6 @@ bad:
     Py_XDECREF(empty_list);
     Py_XDECREF(empty_dict);
     return module;
-}
-
-/* None */
-            static CYTHON_INLINE void __Pyx_RaiseUnboundLocalError(const char *varname) {
-    PyErr_Format(PyExc_UnboundLocalError, "local variable '%s' referenced before assignment", varname);
 }
 
 /* ImportFrom */
